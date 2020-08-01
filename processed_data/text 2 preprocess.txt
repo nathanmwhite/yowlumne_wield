@@ -1,0 +1,389 @@
+qo qo in	xo:	'live, exist, be'	100.0%
+jet'	yet'	'one'	100.0%
+nono'	no:n'o'	'man'	100.0%
+,	,	[punc]	100.0%
+waʃta	wasto	'be very much'	100.0%
+ka'its'a	ga:'ita	'girl'	0.0%
+'amin	'amin	'3SG.GEN'	100.0%
+mok`ji'	mokiy'	'wife'	100.0%
+,	,	[punc]	100.0%
+qo'nijas	xo'	'live, exist, be'	100.0%
+wu'jeqo'	wo:'uy	'sleep'	100.0%
+jow	yow	'and, also, again'	100.0%
+tap	dab	'next, on the other hand, then'	100.0%
+tr`uja'n	truy'u	'weave'	100.0%
+'amin	'amin	'3SG.GEN'	100.0%
+mok`ji'j	mokiy'	'wife'	100.0%
+'ama'	'ama'	'and'	100.0%
+tuk	tuk'	'ear'	50.0%
+'amin	'amin	'3SG.GEN'	100.0%
+k'asa'n	k'asa	'stick'	100.0%
+'amin	'amin	'3SG.GEN'	100.0%
+p'a'wkhono	p'a:w'uk	'awl'	100.0%
+,	,	[punc]	100.0%
+'ama'	'ama'	'3SG.NOM'	100.0%
+tr`an	tran	'that.SG.PRIM'	100.0%
+no'no'	no:n'o'	'man'	100.0%
+tr`a	tra	'that.SG.NOM'	100.0%
+tr`okhin	tro:k'o	'strike, hit'	100.0%
+k`ew	kew	'this.SG.LOC'	100.0%
+k'ujtr'aw	k'uyutr'	'knee'	100.0%
+'amin	'amin	'3SG.GEN'	100.0%
+'ama'	'ama'	'and'	100.0%
+tr`aw	traw	'that.LOC'	100.0%
+t`āwitrhin	ta:witr	'die'	100.0%
+,	,	[punc]	100.0%
+k'asin	k'asa	'stick'	75.0%
+'amin	'amin	'3SG.GEN'	100.0%
+t`úka	tuk'	'ear'	100.0%
+,	,	[punc]	100.0%
+'ama	'ama'	'and'	100.0%
+ʃōpin	shro:pin	'three'	100.0%
+t`o'jnow	toyon	'be night'	100.0%
+'amin	'amin	'3SG.GEN'	100.0%
+tē'jilhan	de:yil	'guard, watch (wait for)'	100.0%
+tr`aw	traw	'that.LOC'	100.0%
+luk'lot	luk'ul	'bury'	100.0%
+ʃōphēnaw	shro:pin	'three'	100.0%
+hajaliw	hay'al	'day'	100.0%
+tr`aw	traw	'that.LOC'	100.0%
+luk'lot	luk'ul	'bury'	100.0%
+.	.	[punc]	100%
+'ama'	'ama'	'3SG.NOM'	100.0%
+waʃta	wasto	'be very much'	100.0%
+tr`a	tra	'that.SG.NOM'	100.0%
+no'no	no:n'o'	'man'	100.0%
+t'iqētaqo	tr'e:xi	'blacken s.o. with firesmoke'	50.0%
+'amin	'amin	'3SG.GEN'	100.0%
+tr`an	tran	'that.SG.PRIM'	100.0%
+mokji	mokiy'	'wife'	100.0%
+waqjalan	wa:xal	'weep'	100.0%
+qṓnow	xo:now	'always'	100.0%
+,	,	[punc]	100.0%
+'ama'	'ama'	'3SG.NOM'	100.0%
+tr`aw	traw	'if'	100.0%
+thanahin	ta:na	'go'	100.0%
+'antr'awho	'antruw	'shaman'	50.0%
+t`áwetr'iw	ta:watr	'die'	100.0%
+mi'nam	mizhna'	'indeed, surely'	0.0%
+an	an	[foreign]	0.0%
+tr`an	tran	'that.SG.PRIM'	100.0%
+ʃípʃa'	shripshra:/	'to perform with magical powers'	100.0%
+,	,	[punc]	100.0%
+mi'n	mi'in	'soon'	100.0%
+'ópt`ólnitʃr	'opo:t	'get up (from sleep), arise from bed'	100.0%
+,	,	[punc]	100.0%
+'opothin	'opo:t	'get up (from sleep), arise from bed'	100.0%
+'ama'	'ama'	'and'	100.0%
+phutr wīhin	putr'wiyi	'fly about, whirl about'	100.0%
+k`i	ki	'this'	100.0%
+qótr'oj	xotr'oy	'ground, soil'	100.0%
+,	,	[punc]	100.0%
+'ama'	'ama'	'and'	100.0%
+tsanum	canum	'immediately'	100.0%
+t`anhin	ta:na	'go'	100.0%
+mi'n	mi'in	'soon'	100.0%
+qósména'	xo:sim	'north'	90.0%
+,	,	[punc]	100%
+'ama'	'ama'	'and'	100.0%
+tao	dab	'next, on the other hand, then'	50.0%
+ts`anum	canum	'immediately'	100.0%
+'apij	'abiy	'with.ACCOMP'	100.0%
+'amin	'amin	'3SG.GEN'	100.0%
+p`ōlum	polum	'husband'	100.0%
+,	,	[punc]	100.0%
+'ohom	'ohom	'NEG'	100.0%
+tr`an	tran	'that.SG.PRIM'	100.0%
+kotr'ó'on	go:tr'o	'overtake'	100.0%
+,	,	[punc]	100.0%
+kuti'am	gude'	'small'	75.0%
+tr`ānan	[unknown]	'[unknown]'	0.0%
+'as	'ashr	'actually, really'	100.0%
+lolo'	lo:l'o:	'leave behind, let go of, quit'	40.0%
+,	,	[punc]	100%
+wilsin	wilshrin	'but, in spite of that'	100.0%
+tr`an	tran	'that.SG.PRIM'	100.0%
+siḻēqo'	shril'i	'see'	100.0%
+,	,	[punc]	100.0%
+'ama'	'ama'	'3SG.NOM'	100.0%
+t`awint`aw	tawin	'to become morning'	100.0%
+tr`aw	traw	'that.LOC'	100.0%
+hētam	he:dam	'nearby'	100.0%
+sóqón'an	so:xo	'make vanish'	100.0%
+,	,	[punc]	100.0%
+jow	yow	'go home'	100.0%
+tap	dab	'next, on the other hand, then'	100.0%
+hētam	he:dam	'nearby'	100.0%
+tap	dab	'next, on the other hand, then'	100.0%
+tr`aw	traw	'that.LOC'	100.0%
+wō'jan	wo:'uy	'sleep'	100.0%
+tr`a	tra	'that.SG.NOM'	100.0%
+nō'no'	no:n'o'	'man'	100.0%
+,	,	[punc]	100.0%
+min	mi'in	'soon'	100.0%
+tēlan	de:yil	'guard, watch (wait for)'	100.0%
+'amin	'amin	'3SG.GEN'	100.0%
+t`ojon	toyon	'be night'	100.0%
+,	,	[punc]	100.0%
+t`awtr`an	ta:witr	'die'	70.0%
+jow	yow	'and, also, again'	100.0%
+sila'ăn	shril'i	'see'	100.0%
+,	,	[punc]	100.0%
+mi'n	mi'in	'soon'	100.0%
+patr%	batr	'as usual'	100.0%
+jow	yow	'and, also, again'	100.0%
+t`ojnēn	toyon	'be night'	100.0%
+tr`an	tran	'that.SG.PRIM'	100.0%
+jáwā́len	yawa:l	'follow, pursue'	100.0%
+,	,	[punc]	100.0%
+t`awint`aw	tawin	'to become morning'	100.0%
+'amak	'amak'	'3DU.NOM'	100.0%
+phanāhin	pana:	'arrive'	100.0%
+ts`ophi'nkīn	Copnig	[name]	100.0%
+tr`ew	traw	'house'	100.0%
+,	,	[punc]	100.0%
+hijuk	hiyuk	'where.NOM'	100.0%
+wija'n	wiyi	'say, do'	100.0%
+k`i%	ki	'this.NOM'	100.0%
+tr`an	tra	'that.NOM'	100.0%
+,	,	[punc]	100.0%
+tsopnik	Copnig	[name]	100.0%
+,	,	[punc]	100.0%
+hā́nuk	ha:nuk	'what.PRIM'	100.0%
+ma%	ma'	'2SG.NOM'	100.0%
+kew	kew	'this.LOC'	100.0%
+hawá'n	hawa:'	'do what'	100.0%
+,	,	[punc]	100.0%
+mokji	mokiy'	'wife'	100.0%
+na'	na'	'1SG.NOM'	100.0%
+nim	nim	'1SG.GEN'	100.0%
+jawála'	yawa:l	'follow, pursue'	100.0%
+wija'n	wiyi	'say, do'	100.0%
+tr`an	tran	'that.SG.PRIM'	100.0%
+,	,	[punc]	100.0%
+'ohóm̄%&	'ohom	'NEG'	100.0%
+a%	ma'	'2SG.NOM'	80.0%
+tran	tran	'that.SG.PRIM'	100.0%
+tap	dab	'next, on the other hand, then'	100.0%
+hi	hi'	'FUT'	100.0%
+hētʃ`i'	he:zhi'	'today'	100.0%
+silel	shrilel	'stone'	100.0%
+,	,	[punc]	100.0%
+thojnen	toyon	'be night'	100.0%
+tap	dab	'next, on the other hand, then'	100.0%
+wija'n	wiyi	'say, do'	100.0%
+,	,	[punc]	100.0%
+t`ojneni	toyon	'be night'	100.0%
+phana'	pana:	'arrive'	100.0%
+wija'n	wiyi	'say, do'	100.0%
+ñ`an	nan	'1SG.PRIM'	50.0%
+ts&
+i&
+meqt`aw	chrimex	'twilight'	80.0%
+,	,	[punc]	100.0%
+t`aw	taw	'that.SG.LOC'	100.0%
+mī	[unknown]	'[unknown]'	0.0%
+tr`an	tran	'that.SG.PRIM'	100.0%
+si'len	shril'i	'see'	100.0%
+mi'n	min	'2SG.GEN'	100.0%
+mokjij	mokiy'	'wife'	100.0%
+wijá'n	wiyi	'see, do'	100.0%
+tr`an	tran	'that.SG.PRIM'	100.0%
+,	,	[punc]	100.0%
+'ama'	'ama'	'and'	100.0%
+mits	[unknown]	'[unknown]'	0.0%
+na%	na'	'1SG.NOM'	100.0%
+tr`an	tran	'that.SG.PRIM'	100.0%
+sílhin	shril'i	'see'	100.0%
+,	,	[punc]	100.0%
+t`am	[unknown]	'[unknown]'	0.0%
+itran	[unknown]	'[unknown]'	0.0%
+nónwisen	non'wos'	'sleep'	100.0%
+'ohóm	'ohom	'NEG'	100.0%
+ma'	ma'	'2SG.NOM'	100.0%
+wó'jon	wo:'uy	'sleep'	100.0%
+,	,	[punc]	100.0%
+wija'n	wiyi	'say, do'	100.0%
+tr`an	tran	'that.SG.PRIM'	100.0%
+,	,	[punc]	100.0%
+t`áaw	[unknown]	'[unknown]'	0.0%
+mi	[unknown]	'[unknown]'	0.0%
+wo'jon	wo:'uy	'sleep'	100.0%
+'omi	[unknown]	'[unknown]'	0.0%
+hānuk	ha:nuk	'what.PRIM'	100.0%
+t`ana'	ta:na	'go'	100.0%
+wijān%	wiyi	'say, do'	100.0%
+tr`an	tran	'that.SG.PRIM'	100.0%
+t`ojnow	toyon	'be night'	100.0%
+'om	'ohom	'NEG'	50.0%
+wō'jon	wo:'uy	'sleep'	100.0%
+'ama'	'ama'	'and'	100.0%
+hakhākwit`aw	[unknown]	'[unknown]'	100.0%
+tr`aw	traw	'if'	100.0%
+wójhun	wo:'uy	'sleep'	100.0%
+,	,	[punc]	100%
+kitaq	gidax	'uncertain'	100.0%
+pi'm&
+tr`an&
+na'in&	bim'tran'a'	'stump (of tree)'	100.0%
+hak'lḗqo	[unknown]	'[unknown]'	100.0%
+,	,	[punc]	100%
+hijuk	hiyuk	'where.NOM'	100.0%
+wija'n	wiyi	'say, do'	100.0%
+khi	ki	'when'	100.0%
+tr`an	tran	'that.SG.PRIM'	100.0%
+ts`opnik	Copnig	[name]	100.0%
+hawat`amuk	hawa'tamuk	'having done what? (interrogative)'100.0%
+ma'	ma'	'2SG.NOM'	100.0%
+t`awinhin	tawin	'to become morning'	100.0%
+,	,	[punc]	100.0%
+wōjhun	wo:'uy	'sleep'	100.0%
+ki%	ki	'this.SG.NOM'	100.0%
+ma'	ma'	'2SG.NOM'	100.0%
+wija'n	wiyi	'say, do'	100.0%
+ti%	di'	'with a little doubt'	100.0%
+tr`an	tran	'that.SG.PRIM'	100.0%
+,	,	[punc]	100.0%
+hų&hų	hǫ:hǫ'	'yes'	100.0%
+wija'n	wiyi	'say, do'	100.0%
+wōjhun	wo:'uy	'sleep'	100.0%
+na'	na'	'1SG.NOM'	100.0%
+,	,	[punc]	100.0%
+hijā́mi	hiya:m'i'	'a long time ago'	80.0%
+na'	na'	'1SG.NOM'	100.0%
+'ohóm	'ohom	'NEG'	100.0%
+wōj'áhin	wo:'uy	'sleep'	100.0%
+,	,	[punc]	100.0%
+wo'ní'wo	wo:no	'hide (tr)'	0.0%
+patr	batr	'as usual'	100.0%
+míhi'	mihi'	'2SG.NOM FUT'	100.0%
+tr`an	tran	'that.SG.PRIM'	100.0%
+jow	yo:w	'go home'	100.0%
+silhin	shril'i	'see'	100.0%
+mokjimin	mokiy'	'wife'	100.0%
+wijá'n	wiyi	'say, do'	100.0%
+tr`an	tran	'that.SG.PRIM'	100.0%
+ts'opnik	Copnig	'[name]'	100.0%
+,	,	[punc]	100.0%
+'ama'	'ama'	'and'	100.0%
+mits	[unknown]	'[unknown]'	100.0%
+na'	na'	'1SG.NOM'	100.0%
+patr	batr	'as usual'	100.0%
+tsimeqt`aw	chrimex	'twilight'	80.0%
+p`ana'	pana:	'arrive'	100.0%
+'amin	'amin	'3SG.GEN'	100.0%
+mokhij	mokiy'	'wife'	100.0%
+,	,	[punc]	100.0%
+mi'n	mi'in	'soon'	100.0%
+patr	batr	'as usual'	100.0%
+thojnow	toyon	'be night'	100.0%
+'amin	'amin	'3SG.GEN'	100.0%
+mokju	mokye:/	'fornicate, take a wife'	25.0%
+héts`awsen	he'ca:	'tease'	25.0%
+,	,	[punc]	100.0%
+t`awanwitaw	tawa:nwiyi	'be near morning'	100.0%
+patr	batr	'as usual'	100.0%
+wó'jon	wo:'uy	'sleep'	100.0%
+t`aw	taw	'that.SG.LOC'	100.0%
+patr	batr	'as usual'	100.0%
+pimtran&
+a&
+hin	bim'tran'a'	'stump (of tree)'	100.0%
+'aklēqo'	[unknown]	'[unknown]'	0.0%
+,	,	[punc]	100.0%
+hija'm	hiyam	'already, now'	100.0%
+paṯṟ%&	batr	'as usual'	100.0%
+an	tran	'that.SG.PRIM'	50.0%
+tsop&
+nip	copnig	'[name]'	50.0%
+p`ána'	pana:	'arrive'	100.0%
+,	,	[punc]	100%
+hijuk	hiyuk	'where.NOM'	100.0%
+wojhun	wo:'uy	'sleep'	100.0%
+kí%	gi'	'Q.FOCUS'	50.0%
+ma'	ma'	'2SG.NOM'	100.0%
+hų́hų	hǫ:hǫ'	'yes'	100.0%
+wija'n	wiyi	'say, do'	100.0%
+,	,	[punc]	100.0%
+jet'	yet'	'one'	100.0%
+k`iwilsin	giwil	'meet s.o.'	50.0%
+thojnow	toyon	'be night'	100.0%
+wija'n	wiyi	'say, do'	100.0%
+tr`an	tran	'that.SG.PRIM'	100.0%
+,	,	[punc]	100.0%
+tr`ámijo	[unknown]	'[unknown]'	0.0%
+hetʃi	he:zhi'	'today'	100.0%
+wó'jon	wo:'uy	'sleep'	100.0%
+wá%	wa'	'far'	100.0%
+'ohom	'ohom	'NEG'	100.0%
+mihi'	mihi'	'2SG.NOM FUT'	100.0%
+hānuk	ha:nuk	'what.PRIM'	100.0%
+t`ā́na'	ta:na	'go'	100.0%
+,	,	[punc]	100.0%
+'ama'	'ama'	'3SG.NOM'	100.0%
+mits	[unknown]	'[unknown]'	0.0%
+na	na'	'1SG.NOM'	100.0%
+patr	batr	'as usual'	100.0%
+tsimeqthaw	chrimex	'twilight'	80.0%
+silen	shril'i	'see'	100.0%
+'amin	'amin	'3SG.GEN'	100.0%
+mokhjij	mokiy'	'wife'	100.0%
+,	,	[punc]	100.0%
+hets`i'	he:zhi'	'today'	100.0%
+na'	na'	'1SG.NOM'	100.0%
+'ohom	'ohom	'NEG'	100.0%
+wó'jon	wo:'uy	'sleep'	100.0%
+wiján%	wiyi	'say, do'	100.0%
+ti'	di'	'with a little doubt'	100.0%
+,	,	[punc]	100.0%
+'ama'	'ama'	'and'	100.0%
+patr	batr	'as usual'	100.0%
+t`awānwithaw	tawa:nwiyi	'be near morning'	100.0%
+t`aw	dab	'next, on the other hand, then'	100.0%
+patr	batr	'as usual'	100.0%
+wojo	wo:'uy	'sleep'	100.0%
+,	,	[punc]	100.0%
+t`aw	taw	'that.SG.LOC'	100.0%
+patr	batr	'as usual'	100.0%
+pimtr`anahin	bim'tran'a'	'stump (of tree)'	100.0%
+háklḗqo'	[unknown]	'[unknown]'	100.0%
+,	,	[punc]	100.0%
+'ama	'ama'	'and'	100.0%
+patr	batr	'as usual'	100.0%
+tsopnik	copnig	'[name]'	100.0%
+tr`am	[unknown]	'[unknown]'	0.0%
+p`ána'	pana:	'arrive'	100.0%
+,	,	[punc]	100.0%
+hijuk	hiyuk	'where.NOM'	100.0%
+wija'n	wiyi	'say, do'	100.0%
+tr`an	tran	'that.SG.PRIM'	100.0%
+,	,	[punc]	100.0%
+wōj&
+hun	wo:'uy	'sleep'	100.0%
+ki%	gi'	'Q.FOCUS'	100.0%
+patr`%	batr	'as usual'	100.0%
+ma'	ma'	'2SG.NOM'	100.0%
+,	,	[punc]	100.0%
+wáski	wa'ashrgi	'therefore'	100.0%
+wija'n	wiyi	'say, do'	100.0%
+ti	di'	'with a little doubt'	100.0%
+tr`an	tran	'that.SG.PRIM'	100.0%
+tsopnik	copnig	'[name]'	100.0%
+táʃ'ins	[unknown]	'[unknown]'	0.0%
+'amā́%	'ama'	'and'	100.0%
+ma'	ma'	'2SG.NOM'	100.0%
+jókhi'	yo'ke:	'return'	100.0%
+,	,	[punc]	100.0%
+'ama'	'ama'	'3SG.NOM'	100.0%
+tr`ānit	tra:nit	'that.SG.ABL'	100.0%
+jókhēhin	yo'ke:	'return'	100.0%
+waʃta%	wa'ashrta:/	'be more, be very much'	100.0%
+ʃ	'ashr	'actually, really'	100.0%
+p`anahin	pana:	'arrive'	100.0%
+'amin	'amin	'3SG.GEN'	100.0%
+tr`ew	trew	'house'	100.0%
+jow	yow	'and, also, again'	100.0%
+tap	dab	'next, on the other hand, then'	100.0%
+t`aw	taw	'that.SG.LOC'	100.0%
+tr`an	tran	'that.SG.PRIM'	100.0%
+.	.	[punc]	100.0%
