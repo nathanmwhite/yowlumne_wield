@@ -1,0 +1,57 @@
+def get_symbols():
+	'''instantiate dictionarty of symbol_series'''
+	filename = "symbol_series.txt"
+	symbol_dict = {}
+	with open(filename, 'r') as f:
+		for line in f.readlines():
+			data = line.split(' ')
+			for item in data[1:]:
+				symbol_dict[item] = data[0]
+	return symbol_dict
+
+def get_word_series(word, symbol_dict):
+	'''determines the series of each sound in word''''
+	word_series = []
+	current_state = ''
+	for letter in word:
+		if current_state = '':
+			current_state = letter
+			continue
+		if current_state + letter in symbol_dict.keys():
+			continue
+		else:
+			word_series.append(symbol_dict[current_state])
+	return word_series
+		
+# check if the current_state + letter is in the dict, then if so, keep going, if not, add the former current_state	
+# at the end, then add whatever the final current_state matches
+
+
+mani
+
+select m
+
+check a : a is next stage
+
+match m
+
+select a
+
+check n : n is next stage
+
+match a
+
+select n
+
+check i : i is next stage
+
+match n
+
+select i
+
+check end
+
+match i
+
+waḵi
+

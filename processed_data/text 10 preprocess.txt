@@ -1,0 +1,187 @@
+p`anahin	pana:	'arrive'	100.0%
+'aminōkun	'amino:gun	'3PL.GEN'	100.0%
+trew	tri'	'house'	100.0%
+k`a'jiw	kay'iw	'coyote'	100.0%
+,	,	[punc]	100.0%
+'eljiwu'n	'e:liw	'bloom'	25.0%
+'antr`i'	[unknown]	'[unknown]'	0.0%
+,	,	[punc]	100.0%
+mi'n	mi'in	'soon'	100.0%
+pinēthen	bine:t	'ask'	100.0%
+jokhōts'i	yokoc'	'person, people'	100.0%
+wo	wa	'however'	25.0%
+'oho'm	'ohom	'NEG'	100.0%
+watuk	watuk	'who.NOM'	100.0%
+tr`ēqalqo'	tre:xal	'speak'	100.0%
+'amāmun	'amam	'3SG.PRIM'	50.0%
+t`o'jne'in	toyon	'be night'	100.0%
+phanāhin	pana:	'arrive'	100.0%
+tr`an	tran	'that.SG.PRIM'	100.0%
+tr`kt'inmi	[unknown]	'[unknown]'	0.0%
+.	.	[punc]	100.0%
+'ama'	'ama'	'and'	100.0%
+tha'n	tran	'that.SG.PRIM'	50.0%
+patr	batr	'as usual'	100.0%
+'amāminwa	'ama:minwa	'3PL.PRIM'	100.0%
+linits'hin	linic'	'talk to, speak (see letsa)'	100.0%
+,	,	[punc]	100.0%
+'ama	'ama'	'and'	100.0%
+tāma%	[unknown]	'[unknown]'	0.0%
+tr`an	tran	'that.SG.PRIM'	100.0%
+wīn	[unknown]	'[unknown]'	0.0%
+mi'ĭn	mi'in	'soon'	100.0%
+maj	may	'1PL.INCL.NOM'	100.0%
+qāthen	xata	'eat'	100.0%
+,	,	[punc]	100.0%
+silijuw	[unknown]	'[unknown]'	0.0%
+mits'na	mizhna'	'indeed, surely'	100.0%
+hawā'tamuk	hawa'tamuk	'having done what? (interrogative)'	100.0%
+man	man	'2SG.PRIM'	100.0%
+qathá'n	xata	'eat'	100.0%
+wija'n%	wiyi	'say, do'	100.0%
+ti'	di'	'with a little doubt'	100.0%
+k`a'jiw	kay'iw	'coyote'	100.0%
+.	.	[punc]	100.0%
+'ama'	'ama'	'and'	100.0%
+ti'	di'	'with a little doubt'	100.0%
+ts`anum	canum	'immediately'	100.0%
+jet'	yet'	'one'	100.0%
+wōwulhun	wo:wul	'stand'	100.0%
+'ama'	'ama'	'and'	100.0%
+k'o'sitit	k'o'o	'throw at, throw'	100.0%
+loptr`ōni	lopitr	'fish'	100.0%
+'ama'	'ama'	'and'	100.0%
+tr`an	tran	'that.SG.PRIM'	100.0%
+mekhin	mek'i	'swallow'	100.0%
+'ama'	'ama'	'and'	100.0%
+tap	dab	'next, on the other hand, then'	100.0%
+kha'jiw	kay'iw	'coyote'	100.0%
+'oho'm	'ohom	'NEG'	70.0%
+tap	dab	'next, on the other hand, then'	100.0%
+wi'jēqo'	wiyi	'say, do'	100.0%
+nim	nim	'1SG.GEN'	100.0%
+t`an	tran	'that.SG.LOC'	50.0%
+qat	xat	'food'	100.0%
+,	,	[punc]	100.0%
+wijā'n%	wiyi	'say, do'	100.0%
+ti'	di'	'with a little doubt'	100.0%
+,	,	[punc]	100.0%
+na'%	na'	'1SG.NOM'	100.0%
+tap	dab	'next, on the other hand, then'	100.0%
+tr`an	tran	'that.SG.PRIM'	100.0%
+ts'eqloqo'	c'ixil	'roast (on embers)'	100.0%
+'ama'	'ama'	'and'	100.0%
+na'	na'	'1SG.NOM'	100.0%
+tr`an	tran	'that.SG.PRIM'	100.0%
+wī	wi:	'ANNOYANCE'	80.0%
+meqa'n	[unknown]	'[unknown]'	0.0%
+há'n	[unknown]	'[unknown]'	0.0%
+,	,	[punc]	100.0%
+'ama'	'ama'	'and'	100.0%
+t`an	ta:na	'go'	50.0%
+patr	batr	'as usual'	100.0%
+'aʃ	'ashr	'actually, really'	100.0%
+wōwulhun	wo:wul	'stand'	100.0%
+k`a'jiw	kay'iw	'coyote'	100.0%
+mi'n	mi'in	'soon'	100.0%
+tr`āni	tra:ni	'that.SG.SEC'	100.0%
+wán̄it	wa:na	'give'	100.0%
+jet'ni	yet'	'one'	100.0%
+loptr`ōni	lopitr	'fish'	100.0%
+,	,	[punc]	100.0%
+'ama'	'ama'	'and'	100.0%
+tr`āni	tra:ni	'that.SG.SEC'	100.0%
+k'o'sitit	k'o'o	'throw at, throw'	100.0%
+'ama	'ama'	'and'	100.0%
+tap	dab	'next, on the other hand, then'	100.0%
+tr`ip`in	tripin	'on top of'	100.0%
+thanhin	ta:na	'go'	100.0%
+,	,	[punc]	100.0%
+'ama'	'ama'	'and'	100.0%
+kṓninhin	go:nin	'go down'	100.0%
+.	.	[punc]	100.0%
+'ama'	'ama'	'and'	100.0%
+ti	di'	'with a little doubt'	100.0%
+wija'n	wiyi	'say, do'	100.0%
+kha'jiw	kay'iw	'coyote'	100.0%
+hijam%	hiyam	'already, now'	100.0%
+na'	na'	'1SG.NOM'	100.0%
+minōkun	mino:gun	'2PL.GEN'	100.0%
+qata	xat	'food'	100.0%
+qathin	xata	'eat'	100.0%
+.	.	[punc]	100.0%
+thān	ta:na	'go'	80.0%
+ma'n	ma'an	'2PL.NOM'	80.0%
+hi'	hi'	'FUT'	100.0%
+qathenim	xata	'eat'	100.0%
+qat`a	xat	'foot'	100.0%
+wija'n	wiyi	'say, do'	100.0%
+kha'jiw	kay'iw	'coyote'	100.0%
+,	,	[punc]	100.0%
+'ama'	'ama'	'and'	100.0%
+'aq	'ax	'unintentionally, unwittingly'	100.0%
+tap	dab	'next, on the other hand, then'	100.0%
+ts'ow&
+wi&
+qōhin	c'owo	'grasp'	100.0%
+sōk'on	so:gon	'Indian tobacco weed'	100.0%
+kha'jiw	kay'iw	'coyote'	100.0%
+,	,	[punc]	100.0%
+mi'n	mi'in	'soon'	100.0%
+'amānwa	'ama:minwa	'3PL.PRIM'	50.0%
+sōk'onni	so:gon	'Indian tobacco weed'	100.0%
+wā́nin	wa:na	'give'	100.0%
+,	,	[punc]	100.0%
+'ama'	'ama'	'and'	100.0%
+'amānwa	'ama:minwa	'3PL.PRIM'	50.0%
+jetr`aw	ye:tr'aw	'all'	100.0%
+sokonni	so:gon	'Indian tobacco weed'	100.0%
+wanwanhin	wa:na	'give'	100.0%
+,	,	[punc]	100.0%
+patrinhin	batr'in	'fall down'	100.0%
+'aman	'aman	'3PL.NOM'	100.0%
+.	.	[punc]	100.0%
+'ama'	'ama'	'and'	100.0%
+'aminōkun	'amino:gun	'3PL.GEN'	100.0%
+patr'in&
+taw	batr'in	'fall down'	80.0%
+mi'n	mi'in	'soon'	100.0%
+'otr'on	'otr'ow	'hair on head'	25.0%
+t`an	ta:na	'go'	50.0%
+sānats'	sa'nac'	'rattle'	100.0%
+,	,	[punc]	100.0%
+'ama'	'ama'	'and'	100.0%
+maqin	ma:xa	'procure, get'	100.0%
+jet'	yet'	'one'	100.0%
+min%	min	'2SG.GEN'	50.0%
+than	tran	'that.SG.PRIM'	50.0%
+kha'jiw	kay'iw	'coyote'	100.0%
+,	,	[punc]	100.0%
+'ama'	'ama'	'and'	100.0%
+ti'	di'	'with a little doubt'	100.0%
+'oho'm	'ohom	'NEG'	100.0%
+minits'	mihnichr	'still, yet'	80.0%
+'akajinqo	'aga:y	'get sth out (of fire, waterhole, a deep place, by pulling)'	100.0%
+khin	kin	'this.SG.PRIM'	100.0%
+'ilk'a	'ilik'	'water'	100.0%
+,	,	[punc]	100.0%
+'ama	'ama'	'and'	70.0%
+trānit	tra:nit	'that.SG.ABL'	100.0%
+sanits'hin	shre:nitr'	'smell'	80.0%
+jow	yow	'and, also, again'	100.0%
+'aman	'aman	'3PL.NOM'	100.0%
+tap	dab	'next, on the other hand, then'	100.0%
+t`aqnen	taxa:	'bring'	100.0%
+'eljewu'n	'e:liw	'bloom'	50.0%
+,	,	[punc]	100.0%
+'ama'	'ama'	'and'	100.0%
+tr`āni	tra:ni	'that.SG.SEC'	100.0%
+qíplit	xibil	'take away'	100.0%
+kha'jiw	kay'iw	'coyote'	100.0%
+,	,	[punc]	100.0%
+'ama'	'ama'	'and'	100.0%
+tr`ānit	tra:nit	'that.SG.ABL'	100.0%
+tp	dab	'next, on the other hand, then'	80.0%
+jow	yow	'and, also, again'	100.0%
+qosen	xoshro	'rub'	80.0%
+.	.	[punc]	100.0%

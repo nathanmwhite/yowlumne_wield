@@ -1,0 +1,244 @@
+lownisa	lowo:niws'	'hold a feast?'	50.0%
+tr`ēn	tri'	'house'	80.0%
+'amin	'amin	'3SG.GEN'	100.0%
+'aminōkun	'amino:gun	'3PL.GEN'	100.0%
+qaja'n	xaya:	'put, place'	100.0%
+lakil	lagil	'scatter in different places'	100.0%
+wa'%	wa'	'far away'	100.0%
+kew	kew	'this.SG.LOC'	100.0%	
+,	,	[punc]	100.0%
+'ama'	'ama'	'3SG.NOM'	100.0%
+'aman	'aman	'3PL.NOM'	100.0%
+wiqán	[unknown]	'[unknown]'	0.0%
+ʃojowālŏqo	[unknown]	'[unknown]'	0.0%
+tr`en	tri'	'house'	80.0%
+'aminōkun	'amino:gun	'3PL.GEN'	100.0%
+,	,	[punc]	100.0%
+'ama'	'ama'	'and'	100.0%
+hin	[unknown]	'[unknown]'	0.0%
+'ama	'ama'	'and'	100.0%
+traw	traw	'that.SG.LOC'	100.0%
+walqo'	walxo:	'pass'	100.0%
+k`in	kin	'this.SG.PRIM'	100.0%
+weq	[unknown]	'[unknown]'	0.0%
+'aminōkun	'amino:gun	'3PL.GEN'	100.0%
+'ama'	'ama'	'and'	100.0%
+ma'	ma'	'2SG.NOM'	100.0%
+tr'iknitr	tr'ik'i	'tie, imprison'	50.0%
+,	,	[punc]	100.0%
+'ama'	'ama'	'and'	100.0%
+tap	dab	'next, on the other hand, then'	100.0%
+ti'j'a%	diy'a'	'leader, captain'	50.0%
+min	min	'2SG.GEN'	50.0%
+taqnen	taxa:	'bring'	100.0%
+'ama'	'ama'	'and'	100.0%
+'amam	'amam	'3SG.PRIM'	100.0%
+tisāla'	tisi	'come out'	100.0%
+,	,	[punc]	100.0%
+'ama'	'ama'	'and'	100.0%
+mi'n	mi'in	'soon'	100.0%
+'aman	'aman	'3PL.NOM'	100.0%
+'etlen	'e:dil	'get hungry'	100.0%
+'ama'	'ama'	'3SG.NOM'	100.0%
+'aman%	'aman	'3PL.NOM'	100.0%
+tr`an	tran	'that.SG.PRIM'	100.0%
+trijāqalen	triy'xala'	'talker'	50.0%
+tr`an	tran	'that.SG.PRIM'	100.0%
+wōwōwijá'n	[unknown]	'[unknown]'	0.0%
+,	,	[punc]	100.0%
+'ama'	'ama'	'and'	100.0%
+ts`anum	canum	'immediately'	100.0%
+tap	dab	'next, on the other hand, then'	100.0%
+qat	xat	'food'	100.0%
+t`aqanan	taxa:	'bring'	100.0%
+,	,	[punc]	100.0%
+mi'n	mi'in	'soon'	100.0%
+'aman	'aman	'3PL.NOM'	100.0%
+t`aqāsitnit	taxa:	'bring'	100.0%
+qathāni	xata	'eat'	100.0%
+.	.	[punc]	100.0%
+tr`a'ʃ	tra'ashr	'continuously'	100.0%
+'aman	'aman	'3PL.NOM'	100.0%
+wija'n	wiyi	'say, do'	100.0%
+majni	mayni	'AR.EMPH'	100.0%
+'aʃ	'ashr	'actually, really'	100.0%
+ts'omnom	c'o:mu	'destroy, devour'	100.0%
+lōniwis	lo:niwis	'feast'	100.0%
+,	,	[punc]	100.0%
+'ama'	'ama'	'and'	100.0%
+qatmen	xata	'eat'	100.0%
+'aman	'aman	'3PL.NOM'	100.0%
+qáile'en	[unknown]	'[unknown]'	0.0%
+tr`am	[unknown]	'[unknown]'	0.0%
+'aminokun	'amino:gun	'3PL.GEN'	100.0%
+ts'umun'oj	c'umun	'end'	80.0%
+.	.	[punc]	100.0%
+hijam	hiyam	'already, now'	100.0%
+ts'ojomunhun	c'o:mu	'destroy, devour'	80.0%
+'anētapi	[unknown]	'[unknown]'	0.0%
+.	.	[punc]	100.0%
+ts'unolsuw	[unknown]	'[unknown]'	0.0%
+'aman	'aman	'3PL.NOM'	100.0%
+'ilk'a	'ilik	'water'	100.0%
+qajá'n	xaya:	'put, place'	100.0%
+,	,	[punc]	100.0%
+wewe'j	[unknown]	'[unknown]'	0.0%
+tr`aw	traw	'that.SG.LOC'	100.0%
+qo'qo'	xo:	'live, exist, be'	100.0%
+ts'unnotsuw	[unknown]	'[unknown]'	0.0%
+'aman%	'aman	'3PL.NOM'	100.0%
+tran	tran	'that.SG.PRIM'	100.0%
+qaján	xaya:	'place, put'	100.0%
+'amāman	'amama	'same'	100.0%
+tr`aw	traw	'that.SG.LOC'	100.0%
+wími	wiyi	'say, do'	100.0%
+'ilk'a	'ilik'	'water'	100.0%
+qajá'n	xaya:	'put, place'	100.0%
+,	,	[punc]	100.0%
+'ama'	'ama'	'3SG.NOM'	100.0%
+'aman	'aman	'3PL.NOM'	100.0%
+tr`an	tran	'that.SG.PRIM'	100.0%
+wī́mi	wiyi	'say, do'	100.0%
+ts'ítwen	[unknown]	'[unknown]'	0.0%
+,	,	[punc]	100.0%
+jow	yow	'and, also, again'	100.0%
+'aman	'aman	'3PL.NOM'	100.0%
+pholwoj	polwoy	'corn pestle'	100.0%
+k`in	kin	'this.SG.PRIM'	100.0%
+t'uja'n	t'uyu	'shoot at, shoot'	100.0%
+ts'akasni	c'agas	'wiregrass'	100.0%
+,	,	[punc]	100.0%
+tikwa'n	[unknown]	'[unknown]'	0.0%
+'aman%	'aman	'3PL.NOM'	100.0%
+tr`an	tran	'that.SG.PRIM'	100.0%
+tr`aw	traw	'that.SG.LOC'	100.0%
+mam	mam	'2SG.PRIM'	100.0%
+'aman	'aman	'3PL.NOM'	100.0%
+t`aqinsiten	taxa:	'bring'	100.0%
+'amamak'o'sitnit	[unknown]	'[unknown]'	0.0%
+tr`ani	tra:ni	'that.SG.SEC'	100.0%
+'aminōkun	'amino:gun	'3PL.GEN'	100.0%
+ʃunāni	shrunu	'plug, stuff up'	50.0%
+,	,	[punc]	100.0%
+'ama'	'ama'	'and'	100.0%
+hin	[unknown]	'[unknown]'	0.0%
+'ama%	'ama'	'and'	100.0%
+tr`an	tran	'that.SG.PRIM'	100.0%
+ko'in	[unknown]	'[unknown]'	0.0%
+'iptr`en	'ipitr	'throw off/out, pick off'	100.0%
+,	,	[punc]	100.0%
+'ama'	'ama'	'3SG.NOM'	100.0%
+ts`anum	canum	'immediately'	100.0%
+lihmen	lihim	'run'	100.0%
+mi'n	mi'in	'soon'	100.0%
+maqen	ma:xa	'procure, get'	100.0%
+t`áwtr`al	tawtra:	'kill tr'	100.0%
+'ama'	'ama'	'and'	100.0%
+t`aqnen	taxa:	'bring'	100.0%
+hijam	hiyam	'already, now'	100.0%
+ma'	ma'	'2SG.NOM'	100.0%
+tr'ikit	tr'ik'i	'tie, imprison'	100.0%
+,	,	[punc]	100.0%
+nahni	nanni	'1SG.SEC'	50.0%
+ma'	ma'	'2SG.NOM'	100.0%
+hōkunaw	hogon	'float downstream'	50.0%
+tr'ik'a't	tr'ik'i	'tie, imprison'	100.0%
+tsikōtēni	c'okot	'be wild, be suspicious'	50.0%
+.	.	[punc]	100.0%
+'ama	'ama'	'and'	100.0%
+mi'n	mi'in	'soon'	100.0%
+tap	dab	'next, on the other hand, then'	100.0%
+ti'ja'	de'ya:	'haul away'	80.0%
+t`ahan	ta:na	'go'	100.0%
+'ama'	'ama'	'3SG.NOM'	100.0%
+'amam	'amam	'3SG.PRIM'	100.0%
+mi'n	mi'in	'soon'	100.0%
+tr'awāla	[unknown]	'[unknown]'	0.0%
+'ama'	'ama'	'and'	100.0%
+ma'	ma'	'2SG.NOM'	100.0%
+tisālānit	tisi	'come out'	100.0%
+.	.	[punc]	100.0%
+'ama	'ama'	'and'	100.0%
+hāthemi	ha:tam	'dance'	50.0%
+'aman	'aman	'3PL.NOM'	100.0%
+t`aqa'n	taxa:	'bring'	100.0%
+jētr'aw	ye:tr'aw	'all'	100.0%
+'aminōkun	'amino:gun	'3PL.GEN'	100.0%
+k`in	kin	'this.SG.PRIM'	100.0%
+ʃrúna	shrunu	'plug, stuff up'	80.0%
+,	,	[punc]	100.0%
+hunaj%	[unknown]	'[unknown]'	0.0%
+'aʃ	'ashr	'actually, really'	100.0%
+'amin&
+ókun	'amino:gun	'3PL.GEN'	100.0%
+hikij	hik'iy	'play'	100.0%
+,	,	[punc]	100.0%
+tr`iphenalis	tripe:n	'move sth away from'	100.0%
+'aminōkun	'amino:gun	'3PL.GEN'	100.0%
+,	,	[punc]	100.0%
+'a'wts'a'in	[unknown]	'[unknown]'	0.0%
+,	,	[punc]	100.0%
+jow	yow	'and, also, again'	100.0%
+tóp̱ol	dobol	'large rabbit'	100.0%
+,	,	[punc]	100.0%
+wulēwon	wule:wu'	'sheep'	100.0%
+'otr'o	'o:tr'u	'steal'	80.0%
+,	,	[punc]	100.0%
+jow	yow	'and, also, again'	100.0%
+'aʃ	'ashr	'actually, really'	100.0%
+qōjin	xoy	'deer'	100.0%
+'otr'ow	'otr'ow	'hair on head'	100.0%
+,	,	[punc]	100.0%
+mani	mani'	'many'	100.0%
+ʃunhana'	shrunu	'plug, stuff up'	100.0%
+tr`asin	trasin	'that.PL.NOM'	100.0%
+jok`ots'	yokoc'	'person, people'	100.0%
+tokija	[unknown]	'[unknown]'	0.0%
+jow	yow	'and, also, again'	100.0%
+'į'į	[unknown]	'[unknown]'	0.0%
+wi'ja'	wiyi	'say, do'	100.0%
+wakij'	wakkiy	'very much, be very much'	100.0%
+'amāminwa	'ama:minwa	'3PL.PRIM'	100.0%
+'anētap	[unknown]	'[unknown]'	0.0%
+ts`uponāhun	[unknown]	'[unknown]'	0.0%
+.	.	[punc]	100.0%
+hā́t`im	ha:tam	'dance'	80.0%
+'aman	'aman	'3PL.NOM'	100.0%
+jetr'aw	ye:tr'aw	'all'	100.0%
+'aman	'aman	'3PL.NOM'	100.0%
+ts'owīqo'	c'owo	'grasp'	100.0%
+'aminōkun	'amino:gun	'3PL.GEN'	100.0%
+ʃuna	shrunu	'plug, stuff up'	80.0%
+,	,	[punc]	100.0%
+jetjetna'	[unknown]	'[unknown]'	0.0%
+,	,	[punc]	100.0%
+'ama'	'ama'	'and'	100.0%
+'aman	'aman	'3PL.NOM'	100.0%
+ʃojowija'n	[unknown]	'[unknown]'	0.0%
+khin	kin	'this.SG.PRIM'	100.0%
+lōnisa	lo:niwis	'feast'	100.0%
+,	,	[punc]	100.0%
+'ama'	'ama'	'3SG.NOM'	100.0%
+tr`a	tra	'that.SG.NOM'	100.0%
+'aminōkun	'amino:gun	'3PL.GEN'	100.0%
+tr`an	tran	'that.SG.PRIM'	100.0%
+.	.	[punc]	100.0%
+'ama%	'ama'	'and'	100.0%
+'aman	'aman	'3PL.NOM'	100.0%
+'ētilmi	'e:dil	'get hungry'	100.0%
+wowowāloqo'	wo:wul	'stand'	80.0%
+,	,	[punc]	100.0%
+'ama'	'ama'	'and'	100.0%
+lujam	[unknown]	'[unknown]'	0.0%
+t`aqinhin	taxa:	'bring'	100.0%
+qat	xat	'food'	100.0%
+.	.	[punc]	100.0%
+mi'n	mi'in	'soon'	100.0%
+'aman	'aman	'3PL.NOM'	100.0%
+qat`en	xata	'eat'	100.0%
+,	,	[punc]	100.0%
+'ama'	'ama'	'and'	100.0%
+palik'mi	balik'	'belly'	100.0%
+mi'n	mi'in	'soon'	100.0%
+'aman	'aman	'3PL.NOM'	100.0%
+'utron	[unknown]	'[unknown]'	0.0%

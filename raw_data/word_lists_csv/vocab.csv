@@ -1,0 +1,1574 @@
+	word	meaning	source	pos
+0	na'	'1SG.NOM'	(Newman 1944: 230)	PN
+1	nim	'1SG.GEN'	(Newman 1944: 230)	PN
+2	nan	'1SG.PRIM'	(Newman 1944: 230)	PN
+3	nanni	'1SG.SEC'	(Newman 1944: 230)	PN
+4	nannit	'1SG.ABL'	(Newman 1944: 230)	PN
+5	na:naw	'1SG.LOC'	(Newman 1944: 230)	PN
+6	na'ak'	'1DU.EXCL.NOM'	(Newman 1944: 230)	PN
+7	nimgin	'1DU.EXCL.GEN'	(Newman 1944: 230)	PN
+8	na:nikwa	'1DU.EXCL.PRIM'	(Newman 1944: 230)	PN
+9	na:nikwa:ni	'1DU.EXCL.SEC'	(Newman 1944: 230)	PN
+10	na:nikwa:nit	'1DU.EXCL.ABL'	(Newman 1944: 230)	PN
+11	na:nikwaw	'1DU.EXCL.LOC'	(Newman 1944: 230)	PN
+12	na'an	'1PL.EXCL.NOM'	(Newman 1944: 230)	PN
+13	nimo:gun	'1PL.EXCL.GEN'	(Newman 1944: 230)	PN
+14	na:ninwa	'1PL.EXCL.PRIM'	(Newman 1944: 230)	PN
+15	na:ninwa:ni	'1PL.EXCL.SEC'	(Newman 1944: 230)	PN
+16	na:ninwa:nit	'1PL.EXCL.ABL'	(Newman 1944: 230)	PN
+17	na:ninwaw	'1PL.EXCL.LOC'	(Newman 1944: 230)	PN
+18	mak'	'1DU.INCL.NOM'	(Newman 1944: 232)	PN
+19	ma:gin	'1DU.INCL.GEN'	(Newman 1944: 232)	PN
+20	makwa	'1DU.INCL.PRIM'	(Newman 1944: 232)	PN
+21	may	'1PL.INCL.NOM'	(Newman 1944: 232)	PN
+22	ma:yin	'1PL.INCL.GEN'	(Newman 1944: 232)	PN
+23	maywa	'1PL.INCL.PRIM'	(Newman 1944: 232)	PN
+24	ma'	'2SG.NOM'	(Newman 1944: 231)	PN
+25	min	'2SG.GEN'	(Newman 1944: 231)	PN
+26	mam	'2SG.PRIM'	(Newman 1944: 232)	PN
+27	ma'ak'	'2DU.NOM'	(Newman 1944: 232)	PN
+28	mingin	'2DU.GEN'	(Newman 1944: 232)	PN
+29	ma:mikwa	'2DU.PRIM'	(Newman 1944: 232)	PN
+30	ma'an	'2PL.NOM'	(Newman 1944: 232)	PN
+31	mino:gun	'2PL.GEN'	(Newman 1944: 232)	PN
+32	ma:minwa	'2PL.PRIM'	(Newman 1944: 232)	PN
+33	'ama'	'3SG.NOM'	(Newman 1944: 231)	PN
+34	'amin	'3SG.GEN'	(Newman 1944: 231)	PN
+35	'amam	'3SG.PRIM'	(Newman 1944: 232)	PN
+36	'amak'	'3DU.NOM'	(Newman 1944: 232)	PN
+37	'amingin	'3DU.GEN'	(Newman 1944: 232)	PN
+38	'ama:mikwa	'3DU.PRIM'	(Newman 1944: 232)	PN
+39	'aman	'3PL.NOM'	(Newman 1944: 232)	PN
+40	'amino:gun	'3PL.GEN'	(Newman 1944: 232)	PN
+41	'ama:minwa	'3PL.PRIM'	(Newman 1944: 232)	PN
+42	wik'	'2DU.VOC.IMPER'	(Newman 1944: 232)	PN
+43	wil	'2PL.VOC.IMPER'	(Newman 1944: 232)	PN
+44	watuk	'who.NOM'	(Newman 1944: 233)	PN
+45	wa:tinuk	'who.GEN'	(Newman 1944: 233)	PN
+46	wa:to'uk	'who.PRIM.SEC'	(Newman 1944: 233)	PN
+47	ha'uk	'what.NOM'	(Newman 1944: 233)	PN
+48	ha:nuk	'what.PRIM'	(Newman 1944: 233)	PN
+49	ha:no'uk	'what.SEC'	(Newman 1944: 233)	PN
+50	ha'uxdi'	'what.probable.NOM'	(Newman 1944: 233)	PN
+51	ha:nuxdi'	'what.probable.PRIM'	(Newman 1944: 233)	PN
+52	ha:no'uxdi'	'what.probable.SEC'	(Newman 1944: 233)	PN
+53	ha'traw	'what.supposed.NOM'	(Newman 1944: 233)	PN
+54	hawiyuk	'what.kind.NOM'	(Newman 1944: 234)	PN
+55	hawyuk	'what.kind.NOM'	(Newman 1944: 234)	PN
+56	hawiyo'uk	'what.kind.PRIM'	(Newman 1944: 234)	PN
+57	hawyo'uk	'what.kind.PRIM'	(Newman 1944: 234)	PN
+58	hawiynuk	'what.kind.SEC'	(Newman 1944: 234)	PN
+59	hawye:no'uk	'what.kind.SEC'	(Newman 1944: 234)	PN
+60	hiyuk	'where.NOM'	(Newman 1944: 235)	PN
+61	hiyo'uk	'where.LOC'	(Newman 1944: 235)	PN
+62	hiye:tuk	'where.ABL'	(Newman 1944: 235)	PN
+63	hiyentuk	'where.ABL'	(Newman 1944: 235)	PN
+64	hawshre:no'uk	'how.many.LOC'	(Newman 1944: 235)	PN
+65	ha:'intraw	'what.supposed.PRIM.SEC'	(Newman 1944: 233)	PN
+66	'a:dran	'be exited [sic]'	()	VB
+67	'a:dray'	'boast'	()	VB
+68	'a:lat	'lick'	()	VB
+69	'a:lat'	'lick'	()	VB
+70	'a:mal	'help'	()	VB
+71	'a:p'a	'ride'	()	VB
+72	'a:pa:/	'carry s.o. on ones back'	()	VB
+73	'a:xa	'stay overnight itr'	()	VB
+74	'aba	'pile on'	()	VB
+75	'ada:l	'make sth lower'	()	VB
+76	'adra	'chop'	()	VB
+77	'aga:y	'get sth out (of fire, waterhole, a deep place, by pulling)'	()	VB
+78	'agay	'pull across'	()	VB
+79	'ahatr	'ask for, beg'	()	VB
+80	'ak'al	'put ones arms around s.o.s head'	()	VB
+81	'alashr	'take the wrong course, get lost'	()	VB
+82	'alashr	'get lost, to take the wrong course'	()	VB
+83	'alay	'rape'	()	VB
+84	'alum'wiyi	'grab with ones mouth, put into ones mouth'	()	VB
+85	'amac	'approach, go near'	()	VB
+86	'an'wiyi	'lean against'	()	VB
+87	'anatrwal/	'dream (about)'	()	VB
+88	'asas	'bite'	()	VB
+89	'asas'	'bite'	()	VB
+90	'at'	'cut'	()	VB
+91	'atra'le:	'cause to open'	()	VB
+92	'atral	'open'	()	VB
+93	'atral'	'uncover'	()	VB
+94	'awa:tr	'dislike'	()	VB
+95	'awatr	'dislike'	()	VB
+96	'ay'ak'	'throw the lance'	()	VB
+97	'ay'ay'wiyi	'be bent back'	()	VB
+98	'ayay	'pole a boat, steer a boat with a pole'	()	VB
+99	'e:dil	'get hungry'	()	VB
+100	'e:k'a	'see, look at'	()	VB
+101	'e:k'a:/	'look back at'	()	VB
+102	'e:liw	'bloom'	()	VB
+103	'e:pi	'swim'	()	VB
+104	'e:pshril	'gather lake-trout'	()	VB
+105	'e:ti	'scrape together'	()	VB
+106	'i:lwiyi	'blow on (as wind)'	()	VB
+107	'ile:	'fan'	()	VB
+108	'ile:ma:/	'act mean toward, be feared'	()	VB
+109	'ile:ma:/	'be feared'	()	VB
+110	'ilik	'sing'	()	VB
+111	'imik'wiyi	'drop, sink out of sight'	()	VB
+112	'ine:sa:	'be good'	()	VB
+113	'inmitrk'a:	'become jealous of (N-->V)'	()	VB
+114	'inmitrk'a:/	'be jealous of'	()	VB
+115	'insinxo	'like'	()	VB
+116	'insis'	'do well'	()	VB
+117	'ipitr	'throw off/out, pick off'	()	VB
+118	'itri	'take in payment for a debt'	()	VB
+119	'o'chra:	'watch (as spectator)'	()	VB
+120	'o'tsa	'watch (?ochra in Gamble 1994)'	()	VB
+121	'o:'o:wiyi	'crow'	()	VB
+122	'o:kuc'	'depend upon, desire'	()	VB
+123	'o:sa:/	'feel the opposite sex in the dark'	()	VB
+124	'o:tr'u	'steal'	()	VB
+125	'o:wiyi	'crow'	()	VB
+126	'o:yo	'move place of residence'	()	VB
+127	'obtol'	'raise up tr'	()	VB
+128	'oglin	'emerge (non-mp is apparently ?ogol)'	()	VB
+129	'ogol	'come to the surface'	()	VB
+130	'ohe:m	'be not'	()	VB
+131	'ohe:mta:	'make nothing'	()	VB
+132	'ohom+ta:	'become not'	()	VB
+133	'ohyo:	'want, look for (YT has root ?oyoxo)'	()	VB
+134	'ohyo:/	'look for'	()	VB
+135	'ol'olwo:/	'be bashful toward'	()	VB
+136	'opo:no:	'menstruate'	()	VB
+137	'opo:t	'get up (from sleep), arise from bed'	()	VB
+138	'oshrot	'to handle fire'	()	VB
+139	'owokwiyi	'raise ones head'	()	VB
+140	'oyew'ex''	'be miserable'	()	VB
+141	'oyo:wix	'pity, have sympathy with'	()	VB
+142	'oyo:wix/	'pity, have mercy on'	()	VB
+143	'oywis	'try, make an attempt'	()	VB
+144	'ozhiye:	'write, draw (YT has root ?utsiyo)'	()	VB
+145	'ozhriy'e:	'write, take a picture'	()	VB
+146	'u:le	'be parked'	()	VB
+147	'ugo:n	'drink'	()	VB
+148	'ugun	'drink'	()	VB
+149	'uhwiyi	'cough'	()	VB
+150	'unununwiyi	'shiver'	()	VB
+151	'up'up'wiyi	'become round'	()	VB
+152	'ushr'ushrwiyi	'quiet a baby to sleep repeatedly'	()	VB
+153	'ushrk'un	'be worried, take sth to heart'	()	VB
+154	'ut'ut'wiyi	'perch on a summit, on top of sth'	()	VB
+155	'utru	'play music'	()	VB
+156	'utuy	'fall'	()	VB
+157	ayanayawiyi'	'sway'	()	VB
+158	ba'mo:	'smoke (tobacco)'	()	VB
+159	ba:lo:	'feel in the dark'	()	VB
+160	ba:lo:/	'feel in the dark'	()	VB
+161	ba:nwiyi	'run the hand over'	()	VB
+162	bala:s	'creep on hands and knees'	()	VB
+163	balak'	'be sated (with food)'	()	VB
+164	balaywiyi	'slide on sth slippery'	()	VB
+165	bana:na:/	'lie down'	()	VB
+166	bananwiyi	'lie down'	()	VB
+167	bat'an	'face (toward)'	()	VB
+168	batr'in	'fall down'	()	VB
+169	baw'a	'be enough'	()	VB
+170	bay'e:na:/	'know how, learn'	()	VB
+171	be:dik'	'excrete, defecate'	()	VB
+172	be:li	'swim'	()	VB
+173	be:ni	'cook by burying in ashes'	()	VB
+174	be:win	'sew'	()	VB
+175	bidi:nwiyi	'walk over a high place'	()	VB
+176	bidinwiyi	'tumble from a high place'	()	VB
+177	bilen'	'make a bundle'	()	VB
+178	bilishr	'finish'	()	VB
+179	bin'in'wiyi	'look down at the feet, bend over frontward'	()	VB
+180	bine:t	'ask'	()	VB
+181	bishrix	'gut, take out guts'	()	VB
+182	biwbiwwiyi	'be ringing itr'	()	VB
+183	biyatr'wiyi	'be spiral'	()	VB
+184	biye:tr'	'twist'	()	VB
+185	bo:do	'circumcise'	()	VB
+186	bo:hutr'	'grow up'	()	VB
+187	bo:won	'set a trap'	()	VB
+188	bok'o	'find'	()	VB
+189	boko	'nudge'	()	VB
+190	bol'o	'wind sth around'	()	VB
+191	bonoy	'have two, make two'	()	VB
+192	boy'e:tr'a:/	'become miserable'	()	VB
+193	boy'o:me:	'become pretty'	()	VB
+194	bududwiyi	'turn the anus'	()	VB
+195	buk'uk'wiyi	'bulge out'	()	VB
+196	buk'wiyi	'thump (as a result of having been dropped)'	()	VB
+197	c'abbo:	'suck at sth'	()	VB
+198	c'adab	'turn over, tip over, around'	()	VB
+199	c'ala	'hatch'	()	VB
+200	c'alwis'	'hatch oneself'	()	VB
+201	c'am'a	'hold tightly in the hand'	()	VB
+202	c'apa:	'recede (as swellings)'	()	VB
+203	c'e:da:	'gather greens, eat greens (N-->V) itr/tr?'	()	VB
+204	c'e:da:/	'eat greens'	()	VB
+205	c'e:la:lno:	'go on the bridge (N-->V)'	()	VB
+206	c'ec'wis	'try, make efforts'	()	VB
+207	c'ige:y	'twist'	()	VB
+208	c'igiy	'string (unstring?) the bow'	()	VB
+209	c'iliw	'get dizzy'	()	VB
+210	c'iliw	'get drunk'	()	VB
+211	c'imik'wiyi	'close the eyes'	()	VB
+212	c'imikwiyi	'close ones eyes itr'	()	VB
+213	c'in'iw	'be in the shade'	()	VB
+214	c'ip'i	'surround'	()	VB
+215	c'ixil	'roast (on embers)'	()	VB
+216	c'o:du	'pull the hair, to skin'	()	VB
+217	c'o:mu	'destroy, devour'	()	VB
+218	c'o:po:/	'kiss'	()	VB
+219	c'o:w'o:	'work, grasp, touch (110 has cowo)'	()	VB
+220	c'okot	'be wild, be suspicious'	()	VB
+221	c'okot	'be suspicious, be wild'	()	VB
+222	c'ololwiyi	'turn white'	()	VB
+223	c'owo	'grasp'	()	VB
+224	c'owo	'work'	()	VB
+225	c'udo:l	'hatch tr'	()	VB
+226	c'uduc'wiyi	'tear out the hair, tear off the skin'	()	VB
+227	c'ugwiyi	'be silent'	()	VB
+228	c'uk'wiyi	'be silent'	()	VB
+229	c'uyo:	'urinate'	()	VB
+230	cawa	'shout'	()	VB
+231	chri'in	'waylay'	()	VB
+232	chrima:xwiyi	'slowly become twilight'	()	VB
+233	chriti:k'wiyi	'slide'	()	VB
+234	co:pun	'consent'	()	VB
+235	coyo:pwiyi	'make a short turn'	()	VB
+236	da'a'le:	'bring to life'	()	VB
+237	da'ak'	'shine (of sun)'	()	VB
+238	da'al	'come to life, escape'	()	VB
+239	da:ba:	'try again (after you or others have failed before)'	()	VB
+240	dabak'wiyi	'be bending (as stick)'	()	VB
+241	daban	'lose what one has'	()	VB
+242	dagakwiyi	'open ones palm'	()	VB
+243	dak'wiyi	'plug up'	()	VB
+244	dala	'flatten (grass or brush on ground)'	()	VB
+245	dalay'wiyi	'slip'	()	VB
+246	dama	'make suffocate'	()	VB
+247	damna:	'try'	()	VB
+248	danaywiyi	'saunter about'	()	VB
+249	datr'at	'track'	()	VB
+250	dawak'	'extinguish, put out'	()	VB
+251	de'ya:	'haul away'	()	VB
+252	de:mide:mi	'think about'	()	VB
+253	de:y'a:/	'haul, carry about'	()	VB
+254	de:yi	'take the lead, get in front'	()	VB
+255	de:yil	'guard, watch (wait for)'	()	VB
+256	di'ichr	'sane (up), hoard'	()	VB
+257	di'ishr	'repair, make'	()	VB
+258	dibi	'pull the hair, feathers'	()	VB
+259	dik'e:n	'stay behind'	()	VB
+260	dil'il'wiyi	'become sloping, lie down on the side'	()	VB
+261	dile:n	'go along the edge'	()	VB
+262	dimna:/	'imitate, copy, take after'	()	VB
+263	dini	'shield'	()	VB
+264	diwe:tr'a:	'become hard (A-->V)'	()	VB
+265	diwtr''in	'consider to be tough'	()	VB
+266	do'o	'touch with the penis'	()	VB
+267	do:lu	'climb'	()	VB
+268	do:lul	'climb'	()	VB
+269	do:so	'report, tell about'	()	VB
+270	dom'	'cover'	()	VB
+271	dotr''in	'consider to be bad'	()	VB
+272	dotr'e:'a:	'become bad (A-->V)'	()	VB
+273	dotr'e:(')	'break?'	()	VB
+274	dotr'e:ya:	'spoil, cause to become bad'	()	VB
+275	draxa	'step over, take a step'	()	VB
+276	dubu	'lead/take by the hand'	()	VB
+277	dugogla:	'straighten'	()	VB
+278	dugugwiyi	'become straight'	()	VB
+279	dule	'climb'	()	VB
+280	dumu	'pile'	()	VB
+281	dutr'u	'dip ones bread in the soup'	()	VB
+282	duyu	'sting'	()	VB
+283	ga:gwiyi	'cackle'	()	VB
+284	ga:yal	'await?'	()	VB
+285	gaba:tiy/	'fail'	()	VB
+286	gaba:tiy/	'be lazy, fail'	()	VB
+287	gabab	'reach out for'	()	VB
+288	gababgababwiyi	'wave the hand several times'	()	VB
+289	gababwiyi	'wave the hand once'	()	VB
+290	gada:y	'be unable to reach sth, give out'	()	VB
+291	galan	'have a miscarriage, die in childbirth'	()	VB
+292	ganaw	'tangle, wrap around s.o.'	()	VB
+293	ganawwiyi	'ride a horse bareback, twist around once'	()	VB
+294	gapa	'uphold, help'	()	VB
+295	gapa	'help, uphold'	()	VB
+296	gaswiyi	'spread through'	()	VB
+297	gatr'atr'	'wrap ones legs around sth, hold sth between ones legs'	()	VB
+298	gatr'la:	'fish with a hook and line'	()	VB
+299	gatr'la:/	'catch fish (with hook and line)'	()	VB
+300	ge:wi	'meet'	()	VB
+301	gi'iy	'oppose'	()	VB
+302	gidiw	'surround'	()	VB
+303	gitr'e:n	'hold under the arm'	()	VB
+304	gitr'i	'hold between two objects'	()	VB
+305	giw'iw'wiyi	'turn the side parallel'	()	VB
+306	giwe:na:/	'pack on the back'	()	VB
+307	giwil	'meet s.o.'	()	VB
+308	giwiw'wiyi	'turn ones side to s.o.'	()	VB
+309	giy'i	'touch'	()	VB
+310	go:bin	'enter'	()	VB
+311	go:bo	'put in, take in'	()	VB
+312	go:bo	'take in, put in'	()	VB
+313	go:bo:	'put in, take in'	()	VB
+314	go:gwiyi	'cluck'	()	VB
+315	go:nin	'go down'	()	VB
+316	go:non	'alight'	()	VB
+317	go:tr'o	'overtake'	()	VB
+318	gobo:ne:	'take in, cause to go in'	()	VB
+319	gochro:h'	'be tiny'	()	VB
+320	gomdi:xo:	'embrace'	()	VB
+321	gomod	'embrace'	()	VB
+322	gomot	'embrace'	()	VB
+323	gomwiyi	'make a loud noise, rumble, thunder'	()	VB
+324	gomwiyi	'rumble, make a loud noise, thunder'	()	VB
+325	gomwiyi	'thunder, rumble'	()	VB
+326	gonlo:	'cause to descend'	()	VB
+327	gonlo:/	'cause s.o. to come down'	()	VB
+328	gopo	'care for infant'	()	VB
+329	goyow	'win back what one has lost'	()	VB
+330	gugu	'tear out'	()	VB
+331	gumo:y	'serve as midwife'	()	VB
+332	gumumwiyi	'bend over slightly'	()	VB
+333	ha'zha:/	'keep on doing sth'	()	VB
+334	ha:tam	'dance'	()	VB
+335	ha:y'a:/	'laugh'	()	VB
+336	ha:ywiyi	'answer'	()	VB
+337	hac'me:xo:	'become new'	()	VB
+338	hadal	'go under'	()	VB
+339	hadray	'make s.o. a glutton'	()	VB
+340	hak'a:win	'persecute, ridicule'	()	VB
+341	hala:l	'raise, lift up'	()	VB
+342	ham'wiyi	'cave in'	()	VB
+343	hashra:k'in	'be thirsty'	()	VB
+344	hashrak	'make s.o. thirsty'	()	VB
+345	hatam	'dance'	()	VB
+346	hawa	'do what?'	()	VB
+347	hawa'ta:nuk	'was doing what? (interrogative)'	()	VB
+348	hawa'tamuk	'having done what? (interrogative)'	()	VB
+349	hawa'to'uk	'will be/is doing what? (interrogative)'	()	VB
+350	hawa:'	'do what'	()	VB
+351	haway	'do what'	()	VB
+352	hawiynuk	'do what? (interrogative)'	()	VB
+353	hawyatxo'uk	'was faring how? (interrogative)'	()	VB
+354	haway	'be able to do'	(Newman 1944: 233)	VB
+355	hawiynuk	'do.what.AOR'	(Newman 1944: 234)	VB
+356	hawiyto'uk	'do.when.AOR'	(Newman 1944: 234)	VB
+357	hawyatxo'uk	'fare.how.DURAOR'	(Newman 1944: 234)	VB
+358	hawyinuk	'do.what.FUT'	(Newman 1944: 234)	VB
+359	hawa'ta:nuk	'do.what.DURAOR'	(Newman 1944: 234)	VB
+360	hawa'ta:hinuk	'do.what.AOR'	(Newman 1944: 234)	VB
+361	hawa'tamuk	'do.what.CONSGER'	(Newman 1944: 234)	VB
+362	hawa'taluk	'do.what.DUBIT'	(Newman 1944: 234)	VB
+363	hawa'to'uk	'do.what.DURFUTPRES'	(Newman 1944: 234)	VB
+364	hiye'naxo:nuk	'be.where.CONSAOR'	(Newman 1944: 235)	VB
+365	hiye'na:nuk	'go.where.DURAOR'	(Newman 1944: 235)	VB
+366	hiye'no'uk	'go.where.FUT'	(Newman 1944: 235)	VB
+367	hiye'nalo'uk	'go.where.CAUS.FUT'	(Newman 1944: 235)	VB
+368	haywis	'laugh'	()	VB
+369	he'ca:	'tease (Newman 1944:104 has hec.c.aa, cf. Gamble 1994:78 note 2)'	()	VB
+370	he:xi	'fatten'	()	VB
+371	he:xin	'get fat'	()	VB
+372	hechrchra:	'tease'	()	VB
+373	hew'ta:	'walk about, roam'	()	VB
+374	hi:k'wiyi	'make a panting sound'	()	VB
+375	hi:t'wiyi	'inhale smoke'	()	VB
+376	hibe:y	'bring water'	()	VB
+377	hic'e:y	'tighten'	()	VB
+378	hidba:/	'be/become naked'	()	VB
+379	hide:s	'gather wood'	()	VB
+380	hik'iy	'play'	()	VB
+381	hik'wiyi	'hiccup'	()	VB
+382	hilal	'be visible, appear'	()	VB
+383	hilim	'slander the dead or helpless'	()	VB
+384	hilit	'announce'	()	VB
+385	hin'i	'prop up'	()	VB
+386	hishri	'get ripe, become cooked'	()	VB
+387	hishri:ne:	'hide, cause to become hidden'	()	VB
+388	hishrin	'hide'	()	VB
+389	hiwe:t	'walk, travel'	()	VB
+390	hiy'aw'tra:/	'become belligerent'	()	VB
+391	hiye'naxo:nuk	'was where? (interrogative)'	()	VB
+392	hiye'no'uk	'will go where? (interrogative)'	()	VB
+393	hiyt'iwla:'	'become happy'	()	VB
+394	hiyt'iwla:/	'be glad'	()	VB
+395	ho:le:	'tell a story'	()	VB
+396	ho:mon	'welcome, greet'	()	VB
+397	ho:se:/	'drive sth away'	()	VB
+398	ho:tron	'take the scent'	()	VB
+399	ho:ye:	'send'	()	VB
+400	ho:ye:/	'give orders to s.o., send'	()	VB
+401	hodob	'make four'	()	VB
+402	hogo:ge:	'run water in a hole to drown squirrels'	()	VB
+403	hogon	'float downstream'	()	VB
+404	hohshre:	'breathe'	()	VB
+405	hohshre:/	'breathe'	()	VB
+406	hono	'lay an egg'	()	VB
+407	hosiw'	'be cold'	()	VB
+408	hosow	'be cold'	()	VB
+409	hot'o	'to set fire to sth'	()	VB
+410	hot'o:ne:	'build a fire'	()	VB
+411	hoy'le:	'hunt'	()	VB
+412	hoy'le:/	'hunt'	()	VB
+413	hoyin	'fly (mpass of send?)'	()	VB
+414	hoynil	'rally'	()	VB
+415	hoyo:	'name (read in YT)'	()	VB
+416	hoyon	'fly'	()	VB
+417	hubushr	'choose'	()	VB
+418	hucu	'frighten s.o. by being a ghost'	()	VB
+419	hudo:k'	'straighten'	()	VB
+420	hudu	'recognize, know'	()	VB
+421	huguy	'mix'	()	VB
+422	hulo:shr	'sit down'	()	VB
+423	hunoc'mo:/	'be brave'	()	VB
+424	hunu	'block'	()	VB
+425	hususwiyi	'stiffen (out)'	()	VB
+426	hut'awne:	'welcome, give somebody attention'	()	VB
+427	hutr'awne	'pay attention'	()	VB
+428	hutr'u	'cook bread in ashes'	()	VB
+429	huxus	'vomit'	()	VB
+430	huy'wus	'hurt accidentally'	()	VB
+431	k'abad	'brand'	()	VB
+432	k'abe:tr'a:	'become warm (A-->V)'	()	VB
+433	k'abe:tr'a:/	'become warm'	()	VB
+434	k'an'a	'touch the goal in the lance game'	()	VB
+435	k'asa	'stick'	()	VB
+436	k'atal'	'strike the ball with the katal'	()	VB
+437	k'ataw	'break apart?'	()	VB
+438	k'atr'wiyi	'snap the teeth'	()	VB
+439	k'ay'a	'urinate (animals)'	()	VB
+440	k'ay'e:wis	'ask for mercy'	()	VB
+441	k'aye:wis/	'ask for mercy'	()	VB
+442	k'e:li	'smear, dab'	()	VB
+443	k'ehey'a:	'feel sad'	()	VB
+444	k'i:k'wiyi	'squeak'	()	VB
+445	k'ihe:y	'feel sorry'	()	VB
+446	k'il'wiyi	'click'	()	VB
+447	k'itiy	'chop off'	()	VB
+448	k'itr'i	'cut off'	()	VB
+449	k'iwil	'meet tr'	()	VB
+450	k'o'o	'throw at, throw'	()	VB
+451	k'oy'oy'wiyi	'bend sideways'	()	VB
+452	k'ubu	'strike the ground'	()	VB
+453	k'ubwiyi	'strike a flat object on the ground'	()	VB
+454	k'ulululwiyi	'roll (as a result of being kicked or pushed)'	()	VB
+455	ka:kwiyi	'cackle'	()	VB
+456	katay	'be unable to reach'	()	VB
+457	ke:la:/	'measure'	()	VB
+458	ke:tr'i	'tear'	()	VB
+459	ke:w'i	'stir'	()	VB
+460	ke:w'ike:w'i	'stir'	()	VB
+461	kinip	'put on a dress'	()	VB
+462	kiyi	'touch'	()	VB
+463	koshron	'be unable to find, miss'	()	VB
+464	koyo	'butt, hook with the horns'	()	VB
+465	kunu'	'strike (with the hand)'	()	VB
+466	kusine:lo	'cook'	()	VB
+467	la'as	'fletch'	()	VB
+468	la:n'a:	'listen'	()	VB
+469	la:na	'hear'	()	VB
+470	laba:y	'gather greens'	()	VB
+471	labay	'gather (food) tr/itr?'	()	VB
+472	laga:	'spend the night'	()	VB
+473	lagan	'set a day for a feast'	()	VB
+474	lage:l+ta:	'become different'	()	VB
+475	lagil	'scatter in different places'	()	VB
+476	lal'wiyi	'take a long hopping stride'	()	VB
+477	lalag	'hang sth'	()	VB
+478	lalk'e:	'hang'	()	VB
+479	lanat'	'take a piece from sths side'	()	VB
+480	lap'	'whip'	()	VB
+481	lap'a	'whip'	()	VB
+482	latra:wo:/	'carry s.o. down'	()	VB
+483	law'law'wiyi	'flap up and down (of resilient material)'	()	VB
+484	lay'	'kick'	()	VB
+485	lay'a	'kick'	()	VB
+486	layak'	'wade'	()	VB
+487	laywiyi	'take one long stride, start on a trot'	()	VB
+488	lets'a	'talk to'	()	VB
+489	li'e:	'sink itr'	()	VB
+490	lihim	'run'	()	VB
+491	lilin	'get dewy'	()	VB
+492	lim'i	'have spasms (YT has faint)'	()	VB
+493	lim'wiyi	'cloud up'	()	VB
+494	lima:k'wiyi	'be dusk'	()	VB
+495	limi	'file'	()	VB
+496	linic'	'talk to, speak (see letsa)'	()	VB
+497	liwe:c'a:	'get cold'	()	VB
+498	lo:l'o:	'leave behind, let go of, quit'	()	VB
+499	lodrog	'hurry'	()	VB
+500	logow	'pound into powder, pulverize'	()	VB
+501	lol'o	'allow, let go, quit'	()	VB
+502	loptril	'gather fish'	()	VB
+503	lowo:niws'	'hold a feast?'	()	VB
+504	lowon	'attend a feast'	()	VB
+505	lowoy	'take advantage of s.o.'	()	VB
+506	loxo	'pour, spill'	()	VB
+507	lozho:x	'scare s.o.'	()	VB
+508	luk'ul	'bury'	()	VB
+509	lupay	'gather greens tr'	()	VB
+510	ma'a	'look down'	()	VB
+511	ma:wo:	'play the musical bow'	()	VB
+512	ma:wo:/	'play the musical bow'	()	VB
+513	ma:xa	'procure, get (116 has maxa)'	()	VB
+514	mala:pin/	'make a mistake'	()	VB
+515	malad	'speak bitanisa rapidly(?)'	()	VB
+516	malapwiyi	'make a mistake'	()	VB
+517	mane:'a'	'increase'	()	VB
+518	maxa	'take'	()	VB
+519	me:k'i	'swallow'	()	VB
+520	me:ki	'swallow'	()	VB
+521	me:li	'harrow, erase'	()	VB
+522	me:nitr'	'nurse itr'	()	VB
+523	me:yi	'cut with shears'	()	VB
+524	me:zhrin	'be in earnest'	()	VB
+525	me:zhrin	'be certain'	()	VB
+526	mic'wiyi	'suckle'	()	VB
+527	midi	'sprinkle'	()	VB
+528	mik'wiyi	'gulp, swallow'	()	VB
+529	miti	'throw on'	()	VB
+530	miwwiyi	'whistle through the air'	()	VB
+531	mo:lu	'cheat'	()	VB
+532	mo:no	'put in ones mouth'	()	VB
+533	mo:xol	'become old'	()	VB
+534	mo:yon	'become tired'	()	VB
+535	modrok'	'make sth become black'	()	VB
+536	modrok'wiyi	'be black'	()	VB
+537	mokoyno:	'acquire a stepmother'	()	VB
+538	mokye:'	'take a wife'	()	VB
+539	mokye:/	'fornicate, take a wife'	()	VB
+540	molol	'cheat'	()	VB
+541	molotr	'gather seeds'	()	VB
+542	monon	'forget'	()	VB
+543	mononhol	'tease'	()	VB
+544	muhu	'dive'	()	VB
+545	muluk	'singe the hair off'	()	VB
+546	mun'u	'turn around, turn the back'	()	VB
+547	munu	'turn ones back'	()	VB
+548	mutru	'smear'	()	VB
+549	nadadwiyi	'become flat, become smooth'	()	VB
+550	naxme:sna:	'acquire a father-in-law'	()	VB
+551	naya	'shoot at a moving object'	()	VB
+552	ne'a:wwiyi	'be evening'	()	VB
+553	ne'ca:	'be sleepy'	()	VB
+554	ne:k'i	'draw the bow'	()	VB
+555	ne:wi	'bend the branch of a tree'	()	VB
+556	ne:yo:	'shake (tr)'	()	VB
+557	nek'i'	'draw (bow) tr'	()	VB
+558	ni'e:w	'come late'	()	VB
+559	nine:	'keep still, become quiet'	()	VB
+560	nitr'i	'press'	()	VB
+561	no:bo	'gather'	()	VB
+562	no:mno:mwiyi	'pucker in and out'	()	VB
+563	non'o	'fornicate with a woman'	()	VB
+564	non'wos'	'sleep'	()	VB
+565	nowochr	'befriend'	()	VB
+566	nuko:m'	'bend, double over'	()	VB
+567	num'u	'hold with the anus'	()	VB
+568	p'a:xan	'be afraid'	()	VB
+569	p'alatr'wiyi	'stick out the tongue'	()	VB
+570	p'axa:t'	'mourn'	()	VB
+571	p'im'im'wiyi	'be filled with water'	()	VB
+572	p'ishrishrwiyi	'turn the anus to'	()	VB
+573	p'isi	'burn'	()	VB
+574	p'oy'otr	'make s.o.s mouth crooked'	()	VB
+575	p'uchr'wiyi	'spurt on, ejaculate'	()	VB
+576	p'umu	'fill'	()	VB
+577	p'utr'wiyi	'ejaculate sexually'	()	VB
+578	pa'atr	'fight'	()	VB
+579	pac'alwiyi	'turn red'	()	VB
+580	pak'a:tin	'remember'	()	VB
+581	pak'at	'remind, make remember'	()	VB
+582	palamwiyi	'flame'	()	VB
+583	palwiyi	'spread out quickly (as water on the ground)'	()	VB
+584	pana:	'arrive'	()	VB
+585	panwix	'bring'	()	VB
+586	panwix/	'deliver'	()	VB
+587	patr'wiyi	'guess in handgame, strike'	()	VB
+588	paw'a	'fit oneself in, be enough'	()	VB
+589	paxyo:	'scatter itr'	()	VB
+590	pe:shri	'perform shamanistic services'	()	VB
+591	pic'i	'count'	()	VB
+592	pichriw	'catch, grasp'	()	VB
+593	pichriw'	'pull out, catch tr'	()	VB
+594	pitelis'	'advise'	()	VB
+595	pitelse:	'act of advising, teach, advise'	()	VB
+596	piwe:shr'	'pound acorns'	()	VB
+597	piwishr	'pulverize seeds'	()	VB
+598	po:huk'	'survive itr'	()	VB
+599	po:su	'blow on'	()	VB
+600	pok'wiyi	'pierce through'	()	VB
+601	poshr'	'blow on'	()	VB
+602	potoxwiyi	'smash'	()	VB
+603	puhuk'	'survive'	()	VB
+604	pulo:mna:	'acquire a husband'	()	VB
+605	pulwiyi	'pop out'	()	VB
+606	pun'u	'fold'	()	VB
+607	pusuc'	'whistle'	()	VB
+608	putr'putr'wiyi	'whirl about in the air repeatedly'	()	VB
+609	putr'wiyi	'fly about, whirl about'	()	VB
+610	s(hr)alap'	'shave, whittle'	()	VB
+611	sa:mwiyi	'diminish in size'	()	VB
+612	san'an'an'wiyi	'shake, quake itr'	()	VB
+613	sana:xwiyi	'be hazy, indistinguishable'	()	VB
+614	sananwiyi	'quake'	()	VB
+615	saxal	'apply wax'	()	VB
+616	sha:lak'	'wake up (itr)'	()	VB
+617	she'el	'rain'	(cf. Harrington,Reel 89,Slide 256)	VB
+618	shra:lak'	'wake up'	()	VB
+619	shra:pa	'burn'	()	VB
+620	shralk'e:	'be awake'	()	VB
+621	shrapapwiyi	'cock the ears'	()	VB
+622	shre:nitr'	'smell'	()	VB
+623	shri'e:l	'rain'	()	VB
+624	shridig	'pile up (similar objects in a stack)'	()	VB
+625	shril'i	'see'	()	VB
+626	shrilit'	'jump'	()	VB
+627	shripshra:/	'to perform with magical powers'	()	VB
+628	shriy'iywiyi	'tip over itr'	()	VB
+629	shro:gu	'pull out an unfastened object'	()	VB
+630	shro:gu	'pull out (eyes)'	()	VB
+631	shro:lo	'constipate'	()	VB
+632	shro:mo:/	'cover with the palm of the hand'	()	VB
+633	shrododwiyi	'become circular'	()	VB
+634	shrodritr'	'drag, pull out?'	()	VB
+635	shroglin	'get perforated'	()	VB
+636	shrogol	'perforate'	()	VB
+637	shrokow	'be windy'	()	VB
+638	shrolololwiyi	'be rattling'	()	VB
+639	shroposhr	'gather the wild crops'	()	VB
+640	shropoy	'make three'	()	VB
+641	shrotrotr	'pull, drag'	()	VB
+642	shroxo	'exterminate, massacre'	()	VB
+643	shrudo:k'	'remove'	()	VB
+644	shrunu	'plug, stuff up'	()	VB
+645	shrup'u	'put in a sack'	()	VB
+646	shrutu	'fit sth onto sth'	()	VB
+647	shruyna:/	'buy'	()	VB
+648	shruyun	'go shopping'	()	VB
+649	si'e:y	'give a confession feast'	()	VB
+650	si:nwiyi	'blow ones nose'	()	VB
+651	sidi	'get ready'	()	VB
+652	sik'i	'stick sth into the ground'	()	VB
+653	simwiyi	'drizzle'	()	VB
+654	sina:la:	'cause s.o. to receive sth'	()	VB
+655	siy'iy'wiyi	'lean over'	()	VB
+656	so:nol	'pack on the back'	()	VB
+657	so:xo	'make vanish?'	()	VB
+658	so:xun	'vanish, --> die'	()	VB
+659	sodox	'throw'	()	VB
+660	su:tata:y'wiyi	'swing'	()	VB
+661	suhwa:	'practice magic'	()	VB
+662	suhwa:/	'perform a miracle'	()	VB
+663	sut'u	'boil'	()	VB
+664	t'abababwiyi	'to make fluttering sound as birds, or spun coins'	()	VB
+665	t'apapwiyi	'flatten out'	()	VB
+666	t'apt'apwiyi	'clap the hands'	()	VB
+667	t'apwiyi	'slap'	()	VB
+668	t'aw'a	'strike an animate object to the ground'	()	VB
+669	t'aw'wis	'throw oneself to the ground'	()	VB
+670	t'e:ni	'block'	()	VB
+671	t'e:pna:	'make acorn mush (N-->V)'	()	VB
+672	t'e:shri	'drown'	()	VB
+673	t'inik'	'hide, screen from sight'	()	VB
+674	t'oy'ox	'get rusty'	()	VB
+675	t'oyox	'doctor, give medicine'	()	VB
+676	t'uguy	'spear fish'	()	VB
+677	t'ulu	'burn tr'	()	VB
+678	t'uyu	'shoot at, shoot'	()	VB
+679	ta:na	'go'	()	VB
+680	ta:watr	'die'	()	VB
+681	ta:witr	'die'	()	VB
+682	tail	'recover, be well'	()	VB
+683	tana:	'take along'	()	VB
+684	tawa:nwiyi	'be near morning'	()	VB
+685	tawan	'be dawn'	()	VB
+686	tawanwiyi	'stay until daylight'	()	VB
+687	tawin	'to become morning'	()	VB
+688	tawtra:	'kill tr'	()	VB
+689	taxa:	'bring'	()	VB
+690	text-in/	'become ill, sore'	()	VB
+691	textin	'get sick (mpass)'	()	VB
+692	ti:pwiyi	'stretch'	()	VB
+693	tisi	'come out'	()	VB
+694	tiw'e:sa:	'become strong (A-->V)'	()	VB
+695	tiw'se:xo:	'become strong'	()	VB
+696	tiwwiyi	'bounce up itr'	()	VB
+697	to'o	'place, put, leave behind'	()	VB
+698	toy'o:n	'come late'	()	VB
+699	toyon	'be night'	()	VB
+700	tr'ababwiyi	'lie down on ones belly'	()	VB
+701	tr'adad	'lie on ones back'	()	VB
+702	tr'ala	'shatter'	()	VB
+703	tr'at'at'wiyi	'lie on ones back'	()	VB
+704	tr'atatwiyi	'flutter'	()	VB
+705	tr'aw'a	'win from'	()	VB
+706	tr'ay'ak'	'be dirty'	()	VB
+707	tr'e'et'in	'conjure, perform miracles'	()	VB
+708	tr'e:'a:	'seek a husband'	()	VB
+709	tr'e:xi	'blacken s.o. with firesmoke'	()	VB
+710	tr'e:xi	'become sunburned, blacken sth with firesmoke'	()	VB
+711	tr'iag	'lie on the top of sth'	()	VB
+712	tr'idik	'split, crack'	()	VB
+713	tr'idiw	'shell (nuts)'	()	VB
+714	tr'ihe:	'become lean'	()	VB
+715	tr'ik'i	'tie, imprison'	()	VB
+716	tr'it'iw	'pinch'	()	VB
+717	tr'iw'e:x	'break'	()	VB
+718	tr'iwi	'wet (sic)'	()	VB
+719	tr'iwil	'sicken a child by committing adultery with one of its parents'	()	VB
+720	tr'o:lo	'peel'	()	VB
+721	tr'o:lwiyi	'get peeled off slowly'	()	VB
+722	tr'o:t'wiyi	'fart'	()	VB
+723	tr'o:yo:	'become pregnant'	()	VB
+724	tr'ok'wiyi	'pop (like a cork)'	()	VB
+725	tr'olow	'dig'	()	VB
+726	tr'olwiyi	'be peeled off easily'	()	VB
+727	tr'ubu	'get a handful (of pulverized material)'	()	VB
+728	tr'uktr'ukwiyi	'bang, pop'	()	VB
+729	tr'ulo:k'	'point at'	()	VB
+730	tr'uno:y	'scorch'	()	VB
+731	tr'upu'	'get a handful'	()	VB
+732	tr'uy'wiyi	'drip'	()	VB
+733	trana:yitr	'fear'	()	VB
+734	tratray	'break'	()	VB
+735	tray'a	'place eagles down (for worship)'	()	VB
+736	tre:'a:	'be accepted in marriage'	()	VB
+737	tre:kin	'fear, become exited [sic] with'	()	VB
+738	tre:xal	'speak'	()	VB
+739	trekni:sa:	'became excited'	()	VB
+740	tril'il'wiyi	'open the eyes'	()	VB
+741	triniy	'spread sth out'	()	VB
+742	tripe:n	'move sth away from'	()	VB
+743	trit'i	'have sexual intercourse with'	()	VB
+744	trixe:tr	'clean (off)'	()	VB
+745	triyi	'?'	()	VB
+746	tro:k'o	'strike, hit'	()	VB
+747	trokotr	'commit sodomy with'	()	VB
+748	tromo	'cover up (entirely)'	()	VB
+749	tropol	'freeze'	()	VB
+750	trumo:k'	'get warm'	()	VB
+751	trunu	'enclose'	()	VB
+752	truy'u	'weave'	()	VB
+753	truyu	'weave'	()	VB
+754	tsisi'	'cut out'	()	VB
+755	tso:p'	'break in the middle?'	()	VB
+756	tuhwiyi	'spit'	()	VB
+757	tuku'	'crackle'	()	VB
+758	tupu	'splice'	()	VB
+759	wa'ashrta:/	'be more, be very much'	()	VB
+760	wa:'al	'breakfast'	()	VB
+761	wa:na	'give'	()	VB
+762	wa:swiyi	'make honking sounds (as a duck)'	()	VB
+763	wa:wiyi	'cry once'	()	VB
+764	wa:xal	'weep'	()	VB
+765	wabwis	'stretch the arms (when yawning)'	()	VB
+766	wac'a	'bind a child in a cradle'	()	VB
+767	wagtril/	'be an orphan'	()	VB
+768	wak'ak'wiyi	'open the mouth'	()	VB
+769	wak'akwiyi	'have the mouth open'	()	VB
+770	wak'ay	'donate, give in the sense of help or charity'	()	VB
+771	wakachr	'get ones portion'	()	VB
+772	wal'al'wiyi	'become open, open out'	()	VB
+773	wala:'	'?'	()	VB
+774	wala:tr	'have around ones neck'	()	VB
+775	walam'wiyi	'glare'	()	VB
+776	walaxwiyi	'pass s.o.'	()	VB
+777	walli:sa:/	'perform a miracle on'	()	VB
+778	walxo:	'pass'	()	VB
+779	walxo:/	'pass s.o.'	()	VB
+780	wasto	'be possible'	()	VB
+781	wasto:	'hurt, injure'	()	VB
+782	wasto:/	'injure'	()	VB
+783	wasto:/	'be able'	()	VB
+784	watr'a:l	'rip (open)'	()	VB
+785	watr'al	'rip open'	()	VB
+786	waxa:tr	'depart from'	()	VB
+787	wayac'	'get revenge'	()	VB
+788	we:shri	'straighten'	()	VB
+789	we:t'i	'spread sth out'	()	VB
+790	we:tr'i	'fornicate with a virgin'	()	VB
+791	we:tri	'stretch out ones leg'	()	VB
+792	wella:/	'prepare to depart'	()	VB
+793	wic'e:ta	'turn into a log'	()	VB
+794	wichribna:	'give birth to a child'	()	VB
+795	widin	'roll sth'	()	VB
+796	wik'uy	'move, quake'	()	VB
+797	wip'i	'jerk up quickly'	()	VB
+798	wip'wiyi	'shake upwards (as tree branches)'	()	VB
+799	wisi'	'wait awhile'	()	VB
+800	witrwiyi	'kick, stretch out the leg'	()	VB
+801	wiyi	'say, do'	()	VB
+802	wo:'uy	'fall asleep, sleep'	()	VB
+803	wo:k'o:/	'hunt deer by using decoys'	()	VB
+804	wo:no	'hide (tr)'	()	VB
+805	wo:sayna:	'whistle'	()	VB
+806	wo:wul	'stand'	()	VB
+807	wo:xo	'fell a tree'	()	VB
+808	wo:yo	'be born'	()	VB
+809	wolo:ye:/	'dodge'	()	VB
+810	woloy	'overtake'	()	VB
+811	wot'ot'wiyi	'project, stick out'	()	VB
+812	wotr'od	'increase sth, draw interest'	()	VB
+813	wotr'odwiyi	'somersault, turn over'	()	VB
+814	wotro	'hit with a club'	()	VB
+815	woyha:/	'miss s.o.'	()	VB
+816	woyo:	'give birth (caus; woy- is root)'	()	VB
+817	wuk'uy	'quake, move'	()	VB
+818	wuko:y	'quake'	()	VB
+819	wuku	'cover s.o., place s.o. as a cover'	()	VB
+820	wulwiyi	'twist about once (in a spiral)'	()	VB
+821	wut'wiyi	'wag the tail once'	()	VB
+822	wutru:kwiyi	'be smoky'	()	VB
+823	xal'a	'put a stick in a crack'	()	VB
+824	xapa'	'fly'	()	VB
+825	xapapwiyi	'get spread out in a radiating formation, as fingers or trees on a hill'	()	VB
+826	xapwiyi	'be severed'	()	VB
+827	xata	'eat'	()	VB
+828	xaya:	'place, put'	()	VB
+829	xet't'eyna:/	'drag a cradle'	()	VB
+830	xi:swiyi	'descend through the air (natural thing)'	()	VB
+831	xibil	'take away'	()	VB
+832	xili	'tangle, place under'	()	VB
+833	xip'il	'take from s.o. by force, deprive'	()	VB
+834	xip'wiyi	'make a rubbing motion'	()	VB
+835	xip'xip'wiyi	'rub several times'	()	VB
+836	xishrishrwiyi	'bare the teeth'	()	VB
+837	xitriw	'become angry'	()	VB
+838	xo'lo:	'take off (only clothes)'	()	VB
+839	xo'oc	'stay behind'	()	VB
+840	xo:	'live, exist, be'	()	VB
+841	xo:/	'live'	()	VB
+842	xobo:twiyi	'come out (hair, feathers)'	()	VB
+843	xoshro	'rub'	()	VB
+844	xosop	'scratch'	()	VB
+845	xul'u	'go ahead'	()	VB
+846	xumun	'crumble'	()	VB
+847	xupuy	'gather seeds, one at a time'	()	VB
+848	xutrun	'wrap sth'	()	VB
+849	ya'	'go'	()	VB
+850	yawa:l	'follow, pursue'	()	VB
+851	yaxwis/	'fight with ones spouse'	()	VB
+852	yehe:sin	'rest'	()	VB
+853	yiki	'fart'	()	VB
+854	yimil	'catch fish with the hand'	()	VB
+855	yit'e:sa:	'become five, become Friday (A-->V)'	()	VB
+856	yit'is	'make five'	()	VB
+857	yit-'	'be one?'	()	VB
+858	yiy'ca:/	'do sth alone'	()	VB
+859	yo'ke:	'return'	()	VB
+860	yo:mu	'dispossess; cuckold s.o.'	()	VB
+861	yo:w	'go home'	()	VB
+862	yo:wo	'go home'	()	VB
+863	yolo:w	'assemble tr'	()	VB
+864	yonk'e:/	'have convulsions'	()	VB
+865	yowke:c'a:	'become human'	()	VB
+866	yozho	'go back and forth'	()	VB
+867	yu:xwiyi	'melt away'	()	VB
+868	yunumwiyi	'get back in the hole quickly (after having gotten only partially out)'	()	VB
+869	yuxulwiyi	'flatten out itr (of objects flattened by a hard blow)'	()	VB
+870	zhilb'in	'consider to be swift'	()	VB
+871	zhu'ub	'divide, break sth in the middle'	()	VB
+872	zhu'upo:	'cause to divide'	()	VB
+873	'ac'a:wis	'in a short while'	(Newman 1944: 236)	RB
+874	'alid	'some time ago'	(Newman 1944: 236)	RB
+875	'anaxdi'	'it is doubtful that'	(Newman 1944: 236)	RB
+876	'an'um'	'at any rate, at least'	(Newman 1944: 238)	RB
+877	'ax	'unintentionally, unwittingly'	(Newman 1944: 236; Shipley based on Newman)	RB
+878	batr	'as usual'	(Newman 1944: 237)	RB
+879	da:ba'	'then, too(?)'	(Newman 1944)	RB
+880	he:zhi'	'today'	(Newman 1944: 236)	RB
+881	hi'zhri'	'tomorrow'	(Shipley; based on Newman)	RB
+882	mizhna'	'indeed, surely'	(Newman 1944: 236)	RB
+883	ta'an'	'too'	(Newman 1944)	RB
+884	triymi	'right now'	(Newman 1944: 236)	RB
+885	wa'ashrgi	'therefore'	(Newman 1944: 238)	RB
+886	walan	'yesterday'	(Newman 1944: 236)	RB
+887	wisa	'not yet, after a while'	(Newman 1944: 236)	RB
+888	hina'	'perhaps, maybe'	(Newman 1944: 236)	RB
+889	na'ashr	'dubitative'	(Newman 1944: 236)	RB
+890	wil'	'of course'	(Newman 1944: 236)	RB
+891	'ahmun	'it is to be expected that'	(Newman 1944: 236)	RB
+892	'ashr	'actually, really'	(Newman 1944: 236)	RB
+893	'axam'	'probably'	(Newman 1944: 236)	RB
+894	'e:man	'to no avail'	(Newman 1944: 236)	RB
+895	hiyam	'already, now'	(Newman 1944: 236)	RB
+896	hiyam'	'next morning'	(Newman 1944: 236)	RB
+897	hiya:m'i'	'a long time ago'	(Newman 1944: 236)	RB
+898	hi'	'FUT'	(Newman 1944: 236)	RB
+899	nihi'	'1SG.NOM FUT'	(Newman 1944: 237)	RB
+900	mihi'	'2SG.NOM FUT'	(Newman 1944: 237)	RB
+901	maywihi'	'1PL.PRIM FUT'	(Newman 1944: 237)	RB
+902	hawa'zhay	'with difficulty'	(Newman 1944: 237)	RB
+903	ho:gaw	'directly'	(Newman 1944: 237)	RB
+904	mit'achr	'slightly, not much'	(Newman 1944: 237)	RB
+905	nay	'nearly, more than'	(Newman 1944: 237)	RB
+906	wakkiy	'very, very much'	(Newman 1944: 237)	RB
+907	'ut't'al	'solely, nothing but'	(Newman 1944: 237)	RB
+908	mi'in	'soon'	(Newman 1944: 236)	RB
+909	canum	'immediately'	(Newman 1944: 236)	RB
+910	mihnichr	'still, yet'	(Newman 1944: 237)	RB
+911	tra'ashr	'continuously'	(Newman 1944: 237)	RB
+912	xo:now	'always'	(Newman 1944: 237)	RB
+913	'angi'	'Q'	(Newman 1944: 237)	RB
+914	gi'	'Q.FOCUS'	(Newman 1944: 237)	RB
+915	'a:n'i	'NEG.IMPER'	(Newman 1944: 237)	RB
+916	'ohom	'NEG'	(Newman 1944: 237)	RB
+917	dab	'next, on the other hand, then'	(Newman 1944: 29, 237)	RB
+918	wa'ashrta'	'very'	(Newman 1944: 238)	RB
+919	ye:tr'aw	'all'	(Newman 1944: 238)	RB
+920	xa:mi	'hither, this place'	(Newman 1944: 238)	RB
+921	xuno:chru	'thither, yonder'	(Newman 1944: 238)	RB
+922	'agiy	'toward the hills'	(Newman 1944: 238)	RB
+923	mayni	'AR.EMPH'	(Newman 1944: 238-239)	RB
+924	di'	'with a little doubt'	(Gamble 1994: 79)	RB
+925	he:dam	'nearby'	(Gamble 1994: 77)	RB
+926	'isel	'outside'	(Gamble 1944: 77)	RB
+927	mec'	'surely'	(Gamble 1944: 77)	RB
+928	ha'zhaxom	'finally, at last'	(Newman 1944: 235)	RB
+929	'a:wuw	'across, on the other side of, to the shore'	(Newman 1944: 238 and elsewhere)	PP
+930	'abiy	'with.ACCOMP'	(Newman 1944: 238)	PP
+931	yidwas	'with.ACCOMP'	(Newman 1944: 238)	PP
+932	'amcaw	'close to'	(Gamble 1994: 99)	PP
+933	p'e:p'at'iw	'on top of'	(Gamble 1994: 62)	PP
+934	dil'naw	'on the other side of'	(Newman 1944: 239)	PP
+935	tripin	'on top of'	(Kroeber 1906: 301)	PP
+936	'adil	'under'	(Kroeber 1906: 301)	PP
+937	go:bin	'inside'	(Kroeber 1906: 306)	PP
+938	'a:cay	'mahogany'	(Shipley; based on Newman)	NN
+939	'a:c'ec'	'large wild artichoke'	(Shipley; based on Newman)	NN
+940	'a:dra'	'ax'	(Shipley; based on Newman)	NN
+941	'a:gashr	'mother's brother'	(Shipley; based on Newman)	NN
+942	'ac'	'container'	(Shipley; based on Newman)	NN
+943	'adre:yas	'twin'	(Newman 1944)	NN
+944	'allewas	'handgame, guessing game'	(Shipley; based on Newman)	NN
+945	'alwutr'	'crow'	(Shipley; based on Newman)	NN
+946	'anas	'large pack-basket'	(Newman 1944)	NN
+947	'antruw	'shaman'	(Newman 1944)	NN
+948	'aptruw	'manzanita'	(Shipley; based on Newman)	NN
+949	'aw'ashr	'chin'	(Shipley; based on Newman)	NN
+950	'axic'	'bed'	(Shipley; based on Newman)	NN
+951	'ayab	'magnesium-like mineral'	(Shipley; based on Newman)	NN
+952	'azhr'a:zhruk'	'mole (animal)'	(Shipley; based on Newman)	NN
+953	baba'	'paternal aunt'	(Newman 1944)	NN
+954	bal'aw	'hole, cave under a rock'	(Shipley; based on Newman)	NN
+955	balik'	'belly'	(Shipley; based on Newman)	NN
+956	baluw	'downhill, west'	(Shipley; based on Newman)	NN
+957	ban'itr'	'intestines'	(Shipley; based on Newman)	NN
+958	ba'o:nay	'wasp'	(Newman 1944)	NN
+959	bashr	'marrow'	(Shipley; based on Newman)	NN
+960	bay'a'	'right side, right hand'	(Shipley; based on Newman)	NN
+961	be:mamguc'	'hummingbird'	(Newman 1944)	NN
+962	be:na'	'comb'	(Newman 1944)	NN
+963	bidik'	'excrement'	(Shipley; based on Newman)	NN
+964	bim'tran'a'	'stump (of tree)'	(Shipley; based on Newman)	NN
+965	bo:do'	'penis'	(Shipley; based on Newman)	NN
+966	bo:ga'	'poker'	(Newman 1944)	NN
+967	bodo:diywe:'ichr'	'stinkbug'	(Shipley; based on Newman)	NN
+968	bogogbil	'weed species with cactus-like stickers'	(Shipley; based on Newman)	NN
+969	bok	'muscle, calf of leg'	(Shipley; based on Newman)	NN
+970	bowon'ey	'trap'	(Newman 1944)	NN
+971	buhuk'	'juniper tree'	(Shipley; based on Newman)	NN
+972	buk'k'al	'hill, knoll'	(Newman 1944)	NN
+973	bumutr'	'beak'	(Shipley; based on Newman)	NN
+974	bu'us	'dog'	(Newman 1944)	NN
+975	c'abix	'nest'	(Newman 1944)	NN
+976	c'abix	'nest'	(Shipley; based on Newman)	NN
+977	c'agas	'wiregrass'	(Newman 1944)	NN
+978	c'agas	'wire-grass, used in making baskets'	(Shipley; based on Newman)	NN
+979	c'ak'	'blackbird'	(Newman 1944)	NN
+980	c'ak'	'blackbird'	(Shipley; based on Newman)	NN
+981	c'ak'o:man	'small lake trout'	(Shipley; based on Newman)	NN
+982	c'alis	'sweet smell'	(Shipley; based on Newman)	NN
+983	capit'	'gambling tray'	(Newman 1944)	NN
+984	c'ayax	'man's sister's child'	(Newman 1944)	NN
+985	c'ayax	'man's sister's child'	(Shipley; based on Newman)	NN
+986	c'aydas	'star'	(Shipley; based on Newman)	NN
+987	c'e:da'	'greens'	(Newman 1944)	NN
+988	c'e:la:lun	'bridge'	(Newman 1944)	NN
+989	chri'in	'waylaying place'	(Shipley; based on Newman)	NN
+990	chri'iw	'cottontail rabbit'	(Shipley; based on Newman)	NN
+991	chrimex	'twilight'	(Shipley; based on Newman)	NN
+992	c'ic'ew	'weasel (?)'	(Shipley; based on Newman)	NN
+993	c'idiy	'live oak'	(Shipley; based on Newman)	NN
+994	c'igey	'string'	(Shipley; based on Newman)	NN
+995	c'igey'iy	'bush with bark used to make twine'	(Shipley; based on Newman)	NN
+996	c'iliwxay	'kidneys'	(Shipley; based on Newman)	NN
+997	c'im'c'im'	'bat (animal)'	(Shipley; based on Newman)	NN
+998	c'iwik'	'poison oak'	(Shipley; based on Newman)	NN
+999	c'iwil'i'	'chipmunk'	(Shipley; based on Newman)	NN
+1000	c'ixil	'meat'	(Shipley; based on Newman)	NN
+1001	c'iy'	'bone'	(Newman 1944)	NN
+1002	c'o:kay	'offspring, new generation, green shoots of tree'	(Shipley; based on Newman)	NN
+1003	c'o:mis	'cage for wild pigeons'	(Shipley; based on Newman)	NN
+1004	c'olo:win	'plains, flat open place'	(Shipley; based on Newman)	NN
+1005	c'onis	'apron'	(Shipley; based on Newman)	NN
+1006	'cono:xis	'sugar pine'	(Shipley; based on Newman)	NN
+1007	cox	'skunk'	(Shipley; based on Newman)	NN
+1008	c'uluy	'hide, skin'	(Shipley; based on Newman)	NN
+1009	c'umun	'end'	(Shipley; based on Newman)	NN
+1010	c'utus	'navel'	(Shipley; based on Newman)	NN
+1011	da:'ak'	'sun'	(Shipley; based on Newman)	NN
+1012	da:m'otr	'beard'	(Newman 1944)	NN
+1013	da:nay	'jimson weed'	(Shipley; based on Newman)	NN
+1014	dal'im	'trout'	(Shipley; based on Newman)	NN
+1015	datr'atr'	'foot'	(Shipley; based on Newman)	NN
+1016	dey'asi	'leader, chief'	(Newman 1944)	NN
+1017	dibin	'well'	(Shipley; based on Newman)	NN
+1018	dik'e:ni'	'one who is behind'	(Shipley; based on Newman)	NN
+1019	dil'la:l	'slope'	(Newman 1944)	NN
+1020	dillal	'slope'	(Shipley; based on Newman)	NN
+1021	dimaha'	'quiver'	(Shipley; based on Newman)	NN
+1022	dina:ga'	'oak mountain'	(Newman 1944)	NN
+1023	dip	'liver'	(Newman 1944)	NN
+1024	dip	'liver'	(Shipley; based on Newman)	NN
+1025	diy'a'	'leader, captain'	(Shipley; based on Newman)	NN
+1026	diyac'	'goal'	(Newman 1944)	NN
+1027	diy'ac'	'goal'	(Shipley; based on Newman)	NN
+1028	dobol	'large rabbit'	(Shipley; based on Newman)	NN
+1029	dopin	'buckeye'	(Shipley; based on Newman)	NN
+1030	driba:gu'	'cane arrow'	(Shipley; based on Newman)	NN
+1031	drim	'condor'	(Shipley; based on Newman)	NN
+1032	driwigisna'	'elbow'	(Newman 1944)	NN
+1033	duda'	'maternal grandmother, woman's daughter's child'	(Newman 1944)	NN
+1034	duda'	'woman's grandchild'	(Shipley; based on Newman)	NN
+1035	dutr'utr'	'hoof'	(Shipley; based on Newman)	NN
+1036	duwwe:'itr'	'butcher-bird'	(Newman 1944)	NN
+1037	'e:law	'flower'	(Shipley; based on Newman)	NN
+1038	'e:nas	'grandfather, man's grandchild'	(Newman 1944)	NN
+1039	'e:nitr	'jimsonweed power'	(Shipley; based on Newman)	NN
+1040	'e:nitr	'magic power'	(Shipley; based on Newman)	NN
+1041	'entram	'sleeping potion'	(Newman 1944: 91)	NN
+1042	'e:p'ishr	'lake-trout'	(Newman 1944)	NN
+1043	'e:shrin'	'black oak'	(Newman 1944)	NN
+1044	'e:shrin'	'black oak'	(Shipley; based on Newman)	NN
+1045	'e'chri'	'large type of basket'	(Shipley; based on Newman)	NN
+1046	'entram	'gummy, sandy substance in rocks used to induce sleep'	(Shipley; based on Newman)	NN
+1047	ga:du'	'cat'	(Newman 1944)	NN
+1048	ga:'ina	'woman'	(Newman 1944)	NN
+1049	ga:'it	'young woman'	(Newman 1944)	NN
+1050	ga:'ita	'girl'	(Shipley; based on Newman)	NN
+1051	gac'ap	'niece'	(Shipley; based on Newman)	NN
+1052	gac'ap	'sibling's daughter'	(Newman 1944)	NN
+1053	galni'	'meat'	(Newman 1944)	NN
+1054	gawa:yu'	'horse'	(Newman 1944)	NN
+1055	gaxo:n/	'box'	(Newman 1944)	NN
+1056	gaxon	'box'	(Shipley; based on Newman)	NN
+1057	gi'iy	'enemy'	(Shipley; based on Newman)	NN
+1058	gitr'ennel	'armpit'	(Newman 1944)	NN
+1059	gi'ya:'in	'lance'	(Newman 1944)	NN
+1060	go:dri'	'pig'	(Shipley; based on Newman)	NN
+1061	go:lankil	'kingsnake'	(Shipley; based on Newman)	NN
+1062	go:tro:nitr	'gopher snake'	(Shipley; based on Newman)	NN
+1063	guchrchrun	'name'	(Shipley; based on Newman)	NN
+1064	gumun	'fog, mist'	(Shipley; based on Newman)	NN
+1065	ha'he:c'aw	'great grandchild, invisible thing'	(Shipley; based on Newman)	NN
+1066	ha'he:tr'aw	'animal'	(Shipley; based on Newman)	NN
+1067	hamna'	'greedy person'	(Shipley; based on Newman)	NN
+1068	hanhas	'hunter, beast of prey (mountain lion)'	(Shipley; based on Newman)	NN
+1069	hapa:lis	'chimney, heater'	(Shipley; based on Newman)	NN
+1070	hapoy	'sugar'	(Shipley; based on Newman)	NN
+1071	hapoy	'sweet'	(Shipley; based on Newman)	NN
+1072	hasbay'al	'lungs'	(Shipley; based on Newman)	NN
+1073	hashra:k'an	'thirst'	(Shipley; based on Newman)	NN
+1074	hashrak'	'thirst'	(Shipley; based on Newman)	NN
+1075	hashrkiywe:'ic'	'gopher'	(Newman 1944)	NN
+1076	hay'al	'day'	(Newman 1944)	NN
+1077	hay'na'	'duck'	(Newman 1944)	NN
+1078	hay'na'	'duck'	(Shipley; based on Newman)	NN
+1079	he:tr'ik'	'lie'	(Shipley; based on Newman)	NN
+1080	he:xa'	'fat, grease'	(Newman 1944)	NN
+1081	hides	'wood'	(Newman 1944)	NN
+1082	hidsic'	'woodrat'	(Newman 1944)	NN
+1083	hidsic'	'woodrat'	(Shipley; based on Newman)	NN
+1084	hik'e:yic'	'player'	(Newman 1944)	NN
+1085	hik'ey'iy	'playground'	(Shipley; based on Newman)	NN
+1086	histaha'	'ten cents (formerly a measure of shell beads)'	(Shipley; based on Newman)	NN
+1087	hit'el	'ashes'	(Shipley; based on Newman)	NN
+1088	hitr'kiy	'liar'	(Shipley; based on Newman)	NN
+1089	hitr'wa:yu'	'devil'	(Shipley; based on Newman)	NN
+1090	hixna'	'fat one'	(Shipley; based on Newman)	NN
+1091	hiy'aw'tra'	'warrior, fighter'	(Newman 1944)	NN
+1092	ho:nak'honak'	'inchworm'	(Shipley; based on Newman)	NN
+1093	ho:pul	'root'	(Shipley; based on Newman)	NN
+1094	holic'	'term for characters in myths'	(Shipley; based on Newman)	NN
+1095	hon	'egg'	(Shipley; based on Newman)	NN
+1096	honac'honac'	'milkweed'	(Shipley; based on Newman)	NN
+1097	honotr'	'testicles'	(Shipley; based on Newman)	NN
+1098	hoshril	'windpipe'	(Shipley; based on Newman)	NN
+1099	hot'o:ne:lis	'fireplace'	(Newman 1944)	NN
+1100	hot'o:ne:lis	'fireplace'	(Shipley; based on Newman)	NN
+1101	hoy'iw	'tree whose bark is used for making twine'	(Shipley; based on Newman)	NN
+1102	hoyo:wos	'name'	(Newman 1944)	NN
+1103	huddulu'	'owl'	(Newman 1944)	NN
+1104	hugo:yus	'sibling of opposite sex'	(Shipley; based on Newman)	NN
+1105	huguy	'mixture'	(Shipley; based on Newman)	NN
+1106	humnul	'quail'	(Shipley; based on Newman)	NN
+1107	hup'	'brain'	(Shipley; based on Newman)	NN
+1108	huwtruwus	'game name'	(Shipley; based on Newman)	NN
+1109	'ikit	'glans penis'	(Shipley; based on Newman)	NN
+1110	'ilik'	'water'	(Newman 1944)	NN
+1111	'ip'in	'acorn flour'	(Shipley; based on Newman)	NN
+1112	'isel	'outdoors'	(Shipley; based on Newman)	NN
+1113	'ishrel	'horn'	(Newman 1944)	NN
+1114	'ishril'	'animal horn'	(Shipley; based on Newman)	NN
+1115	'isla:lu'	'dragonfly'	(Shipley; based on Newman)	NN
+1116	'it'ichr	'sparrow hawk'	(Shipley; based on Newman)	NN
+1117	'it'wop'	'husband's sister, woman's brother's wife'	(Newman 1944)	NN
+1118	k'a:hutrway	'red lizard'	(Shipley; based on Newman)	NN
+1119	k'a:ma:shra'	'bottle fly'	(Shipley; based on Newman)	NN
+1120	ka:tr'na'	'fish inhabiting Yowlumne Styx'	(Shipley; based on Newman)	NN
+1121	ka:wiy	'wigwam, tent'	(Shipley; based on Newman)	NN
+1122	k'absay	'shoulder'	(Shipley; based on Newman)	NN
+1123	k'ac'	'obsidian'	(Shipley; based on Newman)	NN
+1124	k'ak'aw	'large red ant'	(Shipley; based on Newman)	NN
+1125	k'alassa'	'leg'	(Shipley; based on Newman)	NN
+1126	k'anal	'fir tree'	(Newman 1944)	NN
+1127	k'ashrup'	'mosquito'	(Shipley; based on Newman)	NN
+1128	k'ashryin	'black seed'	(Shipley; based on Newman)	NN
+1129	k'atr'a:nat'	'salamander'	(Shipley; based on Newman)	NN
+1130	k'awo:dashr	'ladybug'	(Shipley; based on Newman)	NN
+1131	k'awo:dashr	'large yellow bottle gourd'	(Shipley; based on Newman)	NN
+1132	kay'iw	'coyote'	(Newman 1944)	NN
+1133	ke:mitr'	'meanness'	(Shipley; based on Newman)	NN
+1134	k'e:nic'	'red ant'	(Newman 1944)	NN
+1135	k'e:tra'	'smegma'	(Shipley; based on Newman)	NN
+1136	k'e:xa'	'money'	(Newman 1944)	NN
+1137	kelkil	'icicle'	(Shipley; based on Newman)	NN
+1138	k'elshri'	'Mikitti's birthplace'	(Shipley; based on Newman)	NN
+1139	kenkin	'porcupine'	(Shipley; based on Newman)	NN
+1140	k'iley	'cloud'	(Shipley; based on Newman)	NN
+1141	kim'triy	'mean person, scold'	(Shipley; based on Newman)	NN
+1142	k'inim	'acorn'	(Shipley; based on Newman)	NN
+1143	k'inim	'valley oak'	(Shipley; based on Newman)	NN
+1144	kinip	'dress'	(Newman 1944)	NN
+1145	k'ishrdana'	'circumcised man'	(Shipley; based on Newman)	NN
+1146	kitwinic'	'husband's sister'	(Shipley; based on Newman)	NN
+1147	k'o:p'a'	'perch, sunfish'	(Shipley; based on Newman)	NN
+1148	k'o:yotr'	'water duck'	(Shipley; based on Newman)	NN
+1149	k'olpo:po'	'wild gourd'	(Shipley; based on Newman)	NN
+1150	kom'o:yis	'paternal uncle, stepfather'	(Shipley; based on Newman)	NN
+1151	kom'o:yis	'stepfather, father's brother'	(Shipley; based on Newman)	NN
+1152	k'onc'o:c'i'	'small lizard'	(Shipley; based on Newman)	NN
+1153	k'otr'	'tule'	(Newman 1944)	NN
+1154	k'o'tre:ya'	'buzzard'	(Shipley; based on Newman)	NN
+1155	k'o'tre:ya:/	'buzzard'	(Newman 1944)	NN
+1156	k'owiy	'thigh'	(Shipley; based on Newman)	NN
+1157	k'oyotr'	'venereal disease'	(Shipley; based on Newman)	NN
+1158	k'oyotwotr'	'frog'	(Shipley; based on Newman)	NN
+1159	k'oywos	'corn mortar'	(Shipley; based on Newman)	NN
+1160	k'umayha'	'clothes'	(Shipley; based on Newman)	NN
+1161	k'umunyutr	'hornets'	(Shipley; based on Newman)	NN
+1162	k'ut'oshr	'tail'	(Newman 1944)	NN
+1163	k'ut'ushr	'tail'	(Shipley; based on Newman)	NN
+1164	kuyu'	'ankle'	(Shipley; based on Newman)	NN
+1165	kuyu'	'salt'	(Shipley; based on Newman)	NN
+1166	k'uyutr'	'knee'	(Shipley; based on Newman)	NN
+1167	la:na:/	'wool'	(Newman 1944)	NN
+1168	lagelwas	'different kinds of things'	(Newman 1944)	NN
+1169	la'la'	'wild goose'	(Shipley; based on Newman)	NN
+1170	lame:sa'	'table'	(Shipley; based on Newman)	NN
+1171	lan't'i'	'a side'	(Shipley; based on Newman)	NN
+1172	lap'a:lip'itr'	'whipper snake, razor snake'	(Shipley; based on Newman)	NN
+1173	latraw'	'hillside'	(Shipley; based on Newman)	NN
+1174	le:mondo'	'name of Tejon chief'	(Shipley; based on Newman)	NN
+1175	lil'na'	'money, bead, general term'	(Shipley; based on Newman)	NN
+1176	limik'	'prairie falcon'	()	NN
+1177	liwe:shrip'	'mountain sheep'	(Shipley; based on Newman)	NN
+1178	lo:go:/	'crazy'	(Newman 1944)	NN
+1179	lomit	'mountain'	(Newman 1944)	NN
+1180	lopitr	'fish'	(Newman 1944)	NN
+1181	lopitr	'fish'	(Shipley; based on Newman)	NN
+1182	lowo:yitr'	'pitiful one'	(Newman 1944)	NN
+1183	lowo:yitr'	'pitiful one, poor'	(Shipley; based on Newman)	NN
+1184	lowo:yitr'	'poor, pitiful one'	(Shipley; based on Newman)	NN
+1185	lo'wos	'war'	(Shipley; based on Newman)	NN
+1186	ma:n'a'	'gnat'	(Shipley; based on Newman)	NN
+1187	ma:wo:lus	'musical bow'	(Newman 1944)	NN
+1188	masse:/	'corn'	(Newman 1944)	NN
+1189	massi'	'maize'	(Shipley; based on Newman)	NN
+1190	mimyatr	'thunder'	(Shipley; based on Newman)	NN
+1191	minc'ix	'milk'	(Shipley; based on Newman)	NN
+1192	mitr'iw	'comb of feathers on quail'	(Shipley; based on Newman)	NN
+1193	miye:l/	'bee, honey'	(Newman 1944)	NN
+1194	mo:koy	'mother's sister, stepmother'	(Shipley; based on Newman)	NN
+1195	mo:n'ay	'fly'	(Shipley; based on Newman)	NN
+1196	mo:tr'ak'	'smoke'	(Shipley; based on Newman)	NN
+1197	mo:'yak'	'whirlwind'	(Shipley; based on Newman)	NN
+1198	mogo:wic'	'dodger'	(Shipley; based on Newman)	NN
+1199	mogoyoc'	'great grandparents'	(Shipley; based on Newman)	NN
+1200	mokiy'	'wife'	(Newman 1944)	NN
+1201	mokoy	'stepmother, maternal aunt'	(Newman 1944)	NN
+1202	mononhol	'things, property, all one's different possessions'	(Shipley; based on Newman)	NN
+1203	moshr	'sweathouse'	(Newman 1944)	NN
+1204	motrk'a'	'prairie falcon'	(Shipley; based on Newman)	NN
+1205	moxe:max	'Pleiades'	(Shipley; based on Newman)	NN
+1206	moyo'chri'	'great grandmother'	(Shipley; based on Newman)	NN
+1207	mozhrok'o'	'larger dark beads'	(Shipley; based on Newman)	NN
+1208	muhugyal	'female lake trout, large variety'	(Shipley; based on Newman)	NN
+1209	na'ad	'elder sister'	(Shipley; based on Newman)	NN
+1210	na'ad	'older sister'	(Newman 1944)	NN
+1211	naddal	'very level place'	(Shipley; based on Newman)	NN
+1212	naha:'itr'	'beaver'	(Shipley; based on Newman)	NN
+1213	napa:tim	'sister's husband, husband's brother, son-in-law, son-in-law's brother'	(Newman 1944)	NN
+1214	napas	'woman's brother's child'	(Shipley; based on Newman)	NN
+1215	natritr	'rattlesnake'	(Newman 1944)	NN
+1216	natritr	'rattlesnake'	(Shipley; based on Newman)	NN
+1217	naxa:mis	'father-in-law'	(Newman 1944)	NN
+1218	nay'watra'	'dog with one side red, other white'	(Shipley; based on Newman)	NN
+1219	ne'eshr	'younger brother'	(Newman 1944)	NN
+1220	nibec'	'older brother'	(Newman 1944)	NN
+1221	niked	'maternal aunt'	(Newman 1944)	NN
+1222	niked	'maternal aunt'	(Newman 1944)	NN
+1223	no:chro'	'friend'	(Newman 1944)	NN
+1224	no:c'o'	'clever fellow'	(Shipley; based on Newman)	NN
+1225	no:mitr'	'big toe'	(Shipley; based on Newman)	NN
+1226	no:n'o'	'man'	(Newman 1944)	NN
+1227	no:to'	'east'	(Shipley; based on Newman)	NN
+1228	no:tro'	'young man'	(Newman 1944)	NN
+1229	no:tr'o'	'boy, young man'	(*Harrington, Reel 89, Slide 460; community dict; Newman 1944; cf. Chukchansi)	NN
+1230	noh'o'	'bear'	(Newman 1944)	NN
+1231	no'od	'younger sister'	(Newman 1944)	NN
+1232	no'om	'mother'	(Newman 1944)	NN
+1233	nopop	'father'	(Newman 1944)	NN
+1234	now	'hook'	(Shipley; based on Newman)	NN
+1235	nowo:'iy	'stick for gathering nuts'	(Shipley; based on Newman)	NN
+1236	nowoc'	'stick for gathering nuts'	(Shipley; based on Newman)	NN
+1237	nusos	'paternal aunt'	(Newman 1944)	NN
+1238	'o:xiy	'tree whose bark is used for making twine'	(Shipley; based on Newman)	NN
+1239	'obo'bishr	'oak balls'	(Shipley; based on Newman)	NN
+1240	'oc'uc'	'magpie'	(Shipley; based on Newman)	NN
+1241	'olol	'ball'	(Shipley; based on Newman)	NN
+1242	'onboy	'wife's sister, man's brother's wife'	(Shipley; based on Newman)	NN
+1243	'onmil	'daughter-in-law'	(Newman 1944)	NN
+1244	'onmil	'daughter-in-law'	(Shipley; based on Newman)	NN
+1245	'ontip	'mother-in-law'	(Newman 1944)	NN
+1246	'ontip	'mother-in-law'	(Shipley; based on Newman)	NN
+1247	'op	'moon, a watch'	(Shipley; based on Newman)	NN
+1248	'oshrit	'fire'	(Newman 1944)	NN
+1249	'otix	'pillow'	(Shipley; based on Newman)	NN
+1250	'otix?	'pillow'	(Newman 1944)	NN
+1251	'otr'ow	'hair on head'	(Shipley; based on Newman)	NN
+1252	'owon	'boat'	(Shipley; based on Newman)	NN
+1253	'oy'uy	'roadrunner'	(Shipley; based on Newman)	NN
+1254	'ozhoy	'sign, color'	(Shipley; based on Newman)	NN
+1255	'ozhri'yewas	'picture'	(Shipley; based on Newman)	NN
+1256	p'a:k'il	'???'	(Shipley; based on Newman)	NN
+1257	p'a:w'uk	'awl'	(Shipley; based on Newman)	NN
+1258	p'aw'ko...	'awl'	(Newman 1944)	NN
+1259	pa:yax	'blood'	(Newman 1944)	NN
+1260	p'a'a:shri'	'lake'	(Shipley; based on Newman)	NN
+1261	p'a'an	'world'	(Newman 1944)	NN
+1262	pala:k'ak'	'woodpecker'	(Shipley; based on Newman)	NN
+1263	palin	'slate rock'	(Shipley; based on Newman)	NN
+1264	pe:na'	'edge, border'	(Shipley; based on Newman)	NN
+1265	p'e:p'et'	'summit'	(Shipley; based on Newman)	NN
+1266	pespis	'chicks'	(Shipley; based on Newman)	NN
+1267	pi'is	'chest'	(Shipley; based on Newman)	NN
+1268	pikel	'sinew'	(Newman 1944)	NN
+1269	pikil	'sinew'	(Shipley; based on Newman)	NN
+1270	pil	'road'	(Newman 1944)	NN
+1271	p'islu'	'mouse'	(Newman 1944)	NN
+1272	pispasa'	'hen with chicks'	(Shipley; based on Newman)	NN
+1273	pit'iw	'forehead'	(Shipley; based on Newman)	NN
+1274	po:hal	'squirrel'	(Shipley; based on Newman)	NN
+1275	po:lay	'small beads'	(Shipley; based on Newman)	NN
+1276	po:lut	'body'	(Newman 1944)	NN
+1277	p'oho:'itr'	'weasel'	(Shipley; based on Newman)	NN
+1278	pohulhay	'parent'	(Shipley; based on Newman)	NN
+1279	pohyon	'sparrow hawk'	(Shipley; based on Newman)	NN
+1280	polum	'husband'	(Newman 1944)	NN
+1281	polwoy	'corn pestle'	(Shipley; based on Newman)	NN
+1282	polxoy	'sucker fish'	(Shipley; based on Newman)	NN
+1283	ponpon	'snow'	(Shipley; based on Newman)	NN
+1284	pospolo'	'match'	(Shipley; based on Newman)	NN
+1285	p'ot'o:lo'	'piles'	(Shipley; based on Newman)	NN
+1286	p'ow	'gall bladder'	(Shipley; based on Newman)	NN
+1287	puhk'a'	'remainder'	(Newman 1944: 196)	NN
+1288	puk'aha'	'hat'	(Shipley; based on Newman)	NN
+1289	puk'k'al	'hill'	(Shipley; based on Newman)	NN
+1290	p'utr'wiy	'semen'	(Shipley; based on Newman)	NN
+1291	sa:luw	'charcoal'	(Shipley; based on Newman)	NN
+1292	sa:xal	'pitch, wax'	(Shipley; based on Newman)	NN
+1293	salam	'willow tree'	(Shipley; based on Newman)	NN
+1294	sam'a'	'door, gate'	(Shipley; based on Newman)	NN
+1295	sama'	'mouth'	(Newman 1944)	NN
+1296	samaywas	'belt'	(Shipley; based on Newman)	NN
+1297	sa'nac'	'rattle'	(Shipley; based on Newman)	NN
+1298	sanli:ya'	'watermelon'	(Shipley; based on Newman)	NN
+1299	sapsapic'	'mouse'	(Shipley; based on Newman)	NN
+1300	sasa'	'eye'	(Newman 1944)	NN
+1301	shra:yip'	'rainbow'	(Shipley; based on Newman)	NN
+1302	shraxatr	'willow tree'	(Shipley; based on Newman)	NN
+1303	shre:ma'	'headdress'	(Shipley; based on Newman)	NN
+1304	shrikil'	'arrow'	(Shipley; based on Newman)	NN
+1305	shrilel	'stone'	(Newman 1944)	NN
+1306	shrilishr	'hair'	(Shipley; based on Newman)	NN
+1307	shroglon'o'	'hole'	(Shipley; based on Newman)	NN
+1308	shrogol	'hole'	(Shipley; based on Newman)	NN
+1309	shrokiw	'wind'	(Shipley; based on Newman)	NN
+1310	shrop'ix	'stomach, paunch'	(Shipley; based on Newman)	NN
+1311	shropon	'blanket'	(Shipley; based on Newman)	NN
+1312	shroyol	'antelope'	(Shipley; based on Newman)	NN
+1313	shrugutr'	'hole in the penis'	(Shipley; based on Newman)	NN
+1314	shruto:sul	'shirt'	(Newman 1944)	NN
+1315	shru'un	'granary'	(Shipley; based on Newman)	NN
+1316	shruxup'	'large hawk'	(Shipley; based on Newman)	NN
+1317	silel	'rock'	(Shipley; based on Newman)	NN
+1318	simix	'dried tears (mixed with face dirt)'	(Shipley; based on Newman)	NN
+1319	so:gon	'Indian tobacco weed'	(Shipley; based on Newman)	NN
+1320	so:win	'wild dove'	(Shipley; based on Newman)	NN
+1321	sohgoy	'elk'	(Shipley; based on Newman)	NN
+1322	sohow	'Indian tobacco'	(Shipley; based on Newman)	NN
+1323	son'lic'	'pack strap'	(Shipley; based on Newman)	NN
+1324	sono:dip	'wild grapes'	(Shipley; based on Newman)	NN
+1325	soxsox	'hawk, fish hawk'	(Shipley; based on Newman)	NN
+1326	suxsay	'sand'	(Shipley; based on Newman)	NN
+1327	t'a:ca'	'left side'	(Shipley; based on Newman)	NN
+1328	t'a:nawutr	'grasshopper'	(Shipley; based on Newman)	NN
+1329	t'acnaya	'left-handed person'	(Shipley; based on Newman)	NN
+1330	tam'ay	'sandal'	(Shipley; based on Newman)	NN
+1331	tana:'ey	'footprint'	(Newman 1944)	NN
+1332	tana:'iy	'footprints, tracks'	(Shipley; based on Newman)	NN
+1333	t'ayak	'the little finger'	(Shipley; based on Newman)	NN
+1334	t'aywan'	'type of basket'	(Shipley; based on Newman)	NN
+1335	t'e:bik'	'seal (animal)'	(Shipley; based on Newman)	NN
+1336	t'e:pin	'acorn mush'	(Newman 1944)	NN
+1337	t'e:pin	'acorn mush'	(Shipley; based on Newman)	NN
+1338	t'e:wichr	'basket in hole for acorns'	(Shipley; based on Newman)	NN
+1339	teshhpan'yishr	'sequoia'	(Shipley; based on Newman)	NN
+1340	ti'itr	'louse'	(Shipley; based on Newman)	NN
+1341	t'imitr	'eyebrow'	(Shipley; based on Newman)	NN
+1342	tinel	'hole'	(Newman 1944)	NN
+1343	t'inew	'notch'	(Shipley; based on Newman)	NN
+1344	tin'lin'in	'Tejon tribe'	(Shipley; based on Newman)	NN
+1345	tipik'	'tick'	(Shipley; based on Newman)	NN
+1346	tis'a'	'sucker fish (first to come out after winter)'	(Shipley; based on Newman)	NN
+1347	tismay'a'	'springtime'	(Shipley; based on Newman)	NN
+1348	to:nas	'digger pine tree'	(Shipley; based on Newman)	NN
+1349	to:wixit	'white oak'	(Shipley; based on Newman)	NN
+1350	to:wixit	'white oak, small mountain oak'	(Shipley; based on Newman)	NN
+1351	to:xiw	'cheek'	(Shipley; based on Newman)	NN
+1352	t'on'o:trim	'transvestite'	(Newman 1944)	NN
+1353	totr	'belly'	(Newman 1944)	NN
+1354	toxil	'west'	(Shipley; based on Newman)	NN
+1355	toy'ni'	'middle one'	(Shipley; based on Newman)	NN
+1356	toy'no'	'night'	(Newman 1944)	NN
+1357	toy'no'	'night'	(Shipley; based on Newman)	NN
+1358	tr'a:y'ak'	'filth'	(Shipley; based on Newman)	NN
+1359	tra:y'i'	'down (on bird)'	(Shipley; based on Newman)	NN
+1360	tr'alap	'bow'	(Newman 1944)	NN
+1361	tr'aniw	'badger'	(Newman 1944)	NN
+1362	tran'k'a'	'buzzard'	(Shipley; based on Newman)	NN
+1363	tr'ap	'bow used for hunting'	(Shipley; based on Newman)	NN
+1364	tra'tra'	'ally'	(Newman 1944)	NN
+1365	traw'ni'	'same kind, previously mentioned number'	(Shipley; based on Newman)	NN
+1366	tr'e:'itr'	'conjurer'	(Shipley; based on Newman)	NN
+1367	tre:lis	'yellow seed plant, made into beverage'	(Shipley; based on Newman)	NN
+1368	tr'e:sa'	'bile'	(Shipley; based on Newman)	NN
+1369	tre:yey	'tooth'	(Newman 1944)	NN
+1370	tre:yiy	'teeth'	(Shipley; based on Newman)	NN
+1371	tri'	'house'	(Newman 1944)	NN
+1372	tr'ibe:k'il	'mud'	(Shipley; based on Newman)	NN
+1373	trik'it'	'stench'	(Shipley; based on Newman)	NN
+1374	tr'ilil	'gizzard'	(Shipley; based on Newman)	NN
+1375	trinik'	'nose'	(Shipley; based on Newman)	NN
+1376	tripis	'tribe'	(Newman 1944)	NN
+1377	tripna'	'magic power'	(Shipley; based on Newman)	NN
+1378	tripnasa'	'power'	(Shipley; based on Newman)	NN
+1379	tripni'	'one endowed with magic powers'	(Newman 1944)	NN
+1380	tr'it'et'	'anus'	(Newman 1944)	NN
+1381	tr'it't'iyin	'raccoon'	(Newman 1944)	NN
+1382	tr'iwissa'	'yellowhammer'	(Shipley; based on Newman)	NN
+1383	triy'lum	'medicine man, snake charmer'	(Shipley; based on Newman)	NN
+1384	triy'lum	'snake charmer, medicine man'	(Shipley; based on Newman)	NN
+1385	triy'xala'	'talker'	(Shipley; based on Newman)	NN
+1386	tr'o:dod	'bark, skin of fruit'	(Shipley; based on Newman)	NN
+1387	tro:litr	'canyon'	(Shipley; based on Newman)	NN
+1388	tro:litr	'ravine, river, canyon'	(Shipley; based on Newman)	NN
+1389	tro:pox	'sweat'	(Shipley; based on Newman)	NN
+1390	tro:xon'	'belt-skirt used in ceremonial dances'	(Shipley; based on Newman)	NN
+1391	tr'odin	'hide, strap'	(Shipley; based on Newman)	NN
+1392	tr'odo'	'turtle'	(Newman 1944)	NN
+1393	tron'op'	'nose mucus, snot'	(Shipley; based on Newman)	NN
+1394	tron'op'	'snot'	(Shipley; based on Newman)	NN
+1395	tr'opno'	'mountain quail'	(Shipley; based on Newman)	NN
+1396	tropol	'frost, ice, icicle'	(Shipley; based on Newman)	NN
+1397	trot'oy	'penis'	(Shipley; based on Newman)	NN
+1398	tr'oxil'	'bald eagle'	(Shipley; based on Newman)	NN
+1399	tr'oxil	'eagle'	(Newman 1944)	NN
+1400	troxotr	'soaproot plant'	(Shipley; based on Newman)	NN
+1401	trumut	'pubic hair'	(Shipley; based on Newman)	NN
+1402	trumyun	'widow, widower'	(Newman 1944)	NN
+1403	tr'un	'anal hair'	(Shipley; based on Newman)	NN
+1404	trunowsol	'door'	(Newman 1944)	NN
+1405	tr'unul	'wildcat'	(Shipley; based on Newman)	NN
+1406	tuk'	'ear'	(Newman 1944)	NN
+1407	tuk'	'ear'	(Newman 1944)	NN
+1408	tuk'uyun	'jackrabbit'	(Newman 1944)	NN
+1409	tulay'is	'an impossible place'	(Shipley; based on Newman)	NN
+1410	tun	'mountain pine'	(Shipley; based on Newman)	NN
+1411	tupwas	'joint of body'	(Shipley; based on Newman)	NN
+1412	tuyatr'	'unhandy person, person who doesn't do things well'	(Shipley; based on Newman)	NN
+1413	t'uyos	'arrow'	(Newman 1944)	NN
+1414	'uguggu'	'frog'	(Shipley; based on Newman)	NN
+1415	'uhuy	'a cold, mucus'	(Shipley; based on Newman)	NN
+1416	'ulusk'uy	'meadowlark'	(Shipley; based on Newman)	NN
+1417	'umutr	'clitoris'	(Shipley; based on Newman)	NN
+1418	'uplalli'	'wild dove'	(Newman 1944)	NN
+1419	'ushruk'	'heart'	(Newman 1944)	NN
+1420	'ushruk'	'heart'	(Shipley; based on Newman)	NN
+1421	'uwas	'grass'	(Shipley; based on Newman)	NN
+1422	wa:xatr'	'crane'	(Shipley; based on Newman)	NN
+1423	wa:yu'	'buckskin'	(Shipley; based on Newman)	NN
+1424	wa:yu'	'yellow; buckskin'	(Shipley; based on Newman)	NN
+1425	wac'as	'cradle'	(Shipley; based on Newman)	NN
+1426	wac'was	'stake in gambling'	(Shipley; based on Newman)	NN
+1427	wagtral	'orphan'	(Newman 1944)	NN
+1428	wagtral	'orphan'	(Shipley; based on Newman)	NN
+1429	wahay'i'	'poison arrow'	(Shipley; based on Newman)	NN
+1430	wakay	'gap, swale'	(Shipley; based on Newman)	NN
+1431	walatr	'neck ornament, incl. necklace or tie'	(Shipley; based on Newman)	NN
+1432	wallal	'open, bare place'	(Shipley; based on Newman)	NN
+1433	wasat	'scar'	(Shipley; based on Newman)	NN
+1434	watak'	'pine nut'	(Shipley; based on Newman)	NN
+1435	wat'im	'back'	(Shipley; based on Newman)	NN
+1436	wazham'	'feather ornament used in healing ceremony'	(Shipley; based on Newman)	NN
+1437	we:chr'iyip'	'sapling oak'	(Shipley; based on Newman)	NN
+1438	wehe:sit	'mountain lion'	(Newman 1944)	NN
+1439	wek'wek'	'worm'	(Shipley; based on Newman)	NN
+1440	wew'coy	'wild bird'	(Shipley; based on Newman)	NN
+1441	wic'et	'stick'	(Shipley; based on Newman)	NN
+1442	wichr'	'condor'	(Newman 1944)	NN
+1443	wichr'	'large eagle (condor?)'	(Shipley; based on Newman)	NN
+1444	wichr'il	'stick used in playing allewas'	(Shipley; based on Newman)	NN
+1445	wile:li'	'long spotted lizard'	(Shipley; based on Newman)	NN
+1446	wina:t'um	'crier, messenger'	(Shipley; based on Newman)	NN
+1447	wishrac'	'arrow-straightener'	(Newman 1944)	NN
+1448	wishre:ta'	'elder'	(Shipley; based on Newman)	NN
+1449	witeb	'child'	(Newman 1944)	NN
+1450	wo:gaygichr	'butterfly'	(Shipley; based on Newman)	NN
+1451	wo:kumchriyna'	'bird sp.'	(Shipley; based on Newman)	NN
+1452	wodo:dishr	'heel'	(Shipley; based on Newman)	NN
+1453	wosok'	'belt'	(Shipley; based on Newman)	NN
+1454	wule:wu'	'sheep'	(Shipley; based on Newman)	NN
+1455	xa:lay	'seed beater'	(Shipley; based on Newman)	NN
+1456	xa:matr'	'rib'	(Shipley; based on Newman)	NN
+1457	xa:pal	'feathers'	(Shipley; based on Newman)	NN
+1458	xa:pal	'wings, feathers'	(Shipley; based on Newman)	NN
+1459	xala'	'cane'	(Shipley; based on Newman)	NN
+1460	xala'	'swordgrass, cane'	(Shipley; based on Newman)	NN
+1461	xappa:l	'finger'	(Newman 1944)	NN
+1462	xappal	'finger'	(Shipley; based on Newman)	NN
+1463	xat	'food'	(Newman 1944)	NN
+1464	xatac'	'seed'	(Newman 1944)	NN
+1465	xe:six	'claw'	(Shipley; based on Newman)	NN
+1466	xinic'	'nape of neck'	(Shipley; based on Newman)	NN
+1467	xisewsil	'scales of fish'	(Shipley; based on Newman)	NN
+1468	xo:lanitr	'small weed with fuzzy leaves and small purple blossoms'	(Shipley; based on Newman)	NN
+1469	xo:witr	'hail, sleet'	(Shipley; based on Newman)	NN
+1470	xo:witr	'sleet, hail'	(Shipley; based on Newman)	NN
+1471	xo'itr'	'afterbirth'	(Shipley; based on Newman)	NN
+1472	xolom	'clover'	(Shipley; based on Newman)	NN
+1473	xolpo:yi'	'large lizard sp.'	(Shipley; based on Newman)	NN
+1474	xolpo:yi'	'lizard'	(Newman 1944)	NN
+1475	xontol	'roe'	(Shipley; based on Newman)	NN
+1476	xot'o'	'rain prophet'	(Shipley; based on Newman)	NN
+1477	xotr'oy	'ground, soil'	(Shipley; based on Newman)	NN
+1478	xoy	'deer'	(Newman 1944)	NN
+1479	xul'a'	'swift one'	(Shipley; based on Newman)	NN
+1480	xum'na'	'long bone beads; anything brittle'	(Shipley; based on Newman)	NN
+1481	ya:wil	'grass'	(Newman 1944)	NN
+1482	yaw'lic'	'wolf'	(Newman 1944)	NN
+1483	yax	'reptile, snake (general term)'	(Shipley; based on Newman)	NN
+1484	ye:bitr'	'lip'	(Shipley; based on Newman)	NN
+1485	yiy'ca	'only (one), alone'	(Newman 1944)	NN
+1486	yokoc'	'person, people'	(Newman 1944: 196)	NN
+1487	yo:kic'a	'relatives'	(Shipley; based on Newman)	NN
+1488	yonxo'	'gray squirrel'	(Shipley; based on Newman)	NN
+1489	zhriwig(?)	'elbow'	(Shipley; based on Newman)	NN
+1490	zhu'ba'	'a part'	(Shipley; based on Newman)	NN
+1491	zhu'ban'a'	'a half'	(Shipley; based on Newman)	NN
+1492	zhux	'headdress worn by shamans and dancers'	(Shipley; based on Newman)	NN
+1493	'i'	'or'	(Newman 1944: 238)	CC
+1494	'o'	'or'	(Newman 1944: 238)	CC
+1495	ki	'when'	(Newman 1944: 237)	CC
+1496	me'zhi'	'because'	(Newman 1944: 237)	CC
+1497	traw	'if'	(Newman 1944: 238)	CC
+1498	wa	'however'	(Newman 1944: 238)	CC
+1499	wilshrin	'but, in spite of that'	(Newman 1944: 238)	CC
+1500	yow	'and, also, again'	(Newman 1944: 238)	CC
+1501	'ama'	'and, then'	(Newman 1944: 238)	CC
+1502	ki	'this.SG.NOM'	(Newman 1944:228)	DT
+1503	tra	'that.SG.NOM'	(Newman 1944:228)	DT
+1504	ke:'in	'this.SG.GEN'	(Newman 1944:228)	DT
+1505	tra:'in	'that.SG.GEN'	(Newman 1944:228)	DT
+1506	kin	'this.SG.PRIM'	(Newman 1944:228)	DT
+1507	tran	'that.SG.PRIM'	(Newman 1944:228)	DT
+1508	ke:ni	'this.SG.SEC'	(Newman 1944:228)	DT
+1509	tra:ni	'that.SG.SEC'	(Newman 1944:228)	DT
+1510	ke:nit	'this.SG.ABL'	(Newman 1944:229)	DT
+1511	tra:nit	'that.SG.ABL'	(Newman 1944:229)	DT
+1512	kew	'this.SG.LOC'	(Newman 1944:229)	DT
+1513	traw	'that.SG.LOC'	(Newman 1944:229)	DT
+1514	kisik'	'this.DU.NOM'	(Newman 1944:229)	DT
+1515	trasik'	'that.DU.NOM'	(Newman 1944:229)	DT
+1516	kisikwin	'this.DU.GEN'	(Newman 1944:229)	DT
+1517	trasikwin	'that.DU.GEN'	(Newman 1944:229)	DT
+1518	kisikwa	'this.DU.PRIM'	(Newman 1944:229)	DT
+1519	trasikwa	'that.DU.PRIM'	(Newman 1944:229)	DT
+1520	kisikwa:ni	'this.DU.SEC'	(Newman 1944:229)	DT
+1521	trasikwa:ni	'that.DU.SEC'	(Newman 1944:229)	DT
+1522	kisikwa:nit	'this.DU.ABL'	(Newman 1944:229)	DT
+1523	trasikwa:nit	'that.DU.ABL'	(Newman 1944:229)	DT
+1524	kisikwaw	'this.DU.LOC'	(Newman 1944:229)	DT
+1525	trasikwaw	'that.DU.LOC'	(Newman 1944:229)	DT
+1526	kisin	'this.PL.NOM'	(Newman 1944:229)	DT
+1527	trasin	'that.PL.NOM'	(Newman 1944:229)	DT
+1528	kisinwin	'this.PL.GEN'	(Newman 1944:229)	DT
+1529	trasinwin	'that.PL.GEN'	(Newman 1944:229)	DT
+1530	kisinwa	'this.PL.PRIM'	(Newman 1944:229)	DT
+1531	trasinwa	'that.PL.PRIM'	(Newman 1944:229)	DT
+1532	kisinwa:ni	'this.PL.SEC'	(Newman 1944:229)	DT
+1533	trasinwa:ni	'that.PL.SEC'	(Newman 1944:229)	DT
+1534	kisinwa:nit	'this.PL.ABL'	(Newman 1944:229)	DT
+1535	trasinwa:nit	'that.PL.ABL'	(Newman 1944:229)	DT
+1536	kisinwaw	'this.PL.LOC'	(Newman 1944:229)	DT
+1537	trasinwaw	'that.PL.LOC'	(Newman 1944:229)	DT
+1538	dotr'bishrin	'ugly, homely'	(Shipley; based on Newman)	JJ
+1539	dotr'i'	'bad'	(Newman 1944: 223)	JJ
+1540	gude'	'small'	(Newman 1944: 38)	JJ
+1541	guchre'	'tiny'	(Newman 1944: 38)	JJ
+1542	hac'a:mi'	'new'	(Shipley; based on Newman)	JJ
+1543	hap'ic'	'sofy (sic)'	(Shipley; based on Newman)	JJ
+1544	hawchrin	'a few'	(Shipley; based on Newman)	JJ
+1545	k'idet'	'short'	(Shipley; based on Newman)	JJ
+1546	k'it'trin	'stingy'	(Shipley; based on Newman)	JJ
+1547	lagil	'different'	(Newman 1944)	JJ
+1548	shrin'a'	'lean, consumptive'	(Shipley; based on Newman)	JJ
+1549	tiw'as	'strong'	(Newman 1944: 223)	JJ
+1550	tixit	'painful, sick, ill'	(Shipley; based on Newman)	JJ
+1551	toc'o:hoy	'unimportant'	(Shipley; based on Newman)	JJ
+1552	trum'uk'	'warm, lukewarm'	(Shipley; based on Newman)	JJ
+1553	tulay'is	'difficult'	(Shipley; based on Newman)	JJ
+1554	wa'atr'	'long'	(Newman 1944)	JJ
+1555	wa'atr'	'long, tall'	(Shipley; based on Newman)	JJ
+1556	zhilab	'swift'	(Newman 1944)	JJ
+1557	c'iyugay	'green'	(Shipley; based on Newman)	JJ
+1558	dindinitr'	'thick'	(Shipley; based on Newman)	JJ
+1559	diwitr'	'hard, tough'	(Newman 1944: 223)	JJ
+1560	hic'ya'	'permanent, solid'	(Shipley; based on Newman)	JJ
+1561	homhomik'	'generous, liberal'	(Shipley; based on Newman)	JJ
+1562	k'abit'	'warm'	(Newman 1944: 223)	JJ
+1563	mutr'k'an'a'	'smoky'	(Shipley; based on Newman)	JJ
+1564	tr'axya'	'dry'	(*Harrington, Reel 89, Slide 255, community dict)	JJ
+1565	hǫ:hǫ'	'yes'	(Newman 1944: 238)	UH
+1566	hiydege'	'DOUBT/SURPRISE'	(Newman 1944: 238)	UH
+1567	hiyuk	'hello'	(Newman 1944: 238)	UH
+1568	wi:	'ANNOYANCE'	(Newman 1944: 239)	UH
+1569	yah	'hey!'	(Newman 1944: 239)	UH
+1570	'ąh	'oh!'	(Newman 1944: 239)	UH
+1571	'e:	'AMAZEMENT'	(Newman 1944: 239)	UH
+1572	'iná:	'FEAR'	(Newman 1944: 239)	UH

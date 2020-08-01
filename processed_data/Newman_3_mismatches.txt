@@ -1,0 +1,1432 @@
+1	ț’a	da'ak'	'shine (of sun)'	0.4
+2	wíhhin	wik'	'2DU.VOC.IMPER'	0.5
+4	sasá	shra:pa	'burn'	0.625
+8	yɔuyimɛ́	yo'ke:	'return'	0.0
+11	yɔ	yo:w	'go home'	0.5
+13	káyu	ga:yal	'await?'	0.4
+15	káyu	ga:yal	'await?'	0.4
+18	hin	hi'	'FUT'	0.5
+19	límka	laga:	'spend the night'	0.25
+20	hí	hi'	'FUT'	0.5
+22	yɔk̦	yo:w	'go home'	0.5
+23	míhitáxanɛn	ma'an	'2PL.NOM'	0.0
+24	'amá	'ama'	'3SG.NOM'	0.7
+25	țan	ta:na	'go'	0.625
+28	hin	hi'	'FUT'	0.5
+29	táxnɛn	taxa:	'bring'	0.625
+30	nihi	nitr'i	'press'	0.625
+31	tukóoklam	dugogla:	'straighten'	0.5710000000000001
+34	káy	k'ac'	'obsidian'	0.5
+38	yimɛ̯́iṭ’a	yimil	'catch fish with the hand'	0.1
+41	yimé̯	yiki	'fart'	0.25
+46	hin	hi'	'FUT'	0.5
+47	'ílk’au	'a:lat	'lick'	0.1
+48	níhi	nitr'i	'press'	0.625
+49	taxnɛn	taxa:	'bring'	0.625
+51	'ama	'ama'	'3SG.NOM'	0.7
+53	míkwa	makwa	'1DU.INCL.PRIM'	0.7
+56	hin	hi'	'FUT'	0.5
+57	ká	k'ac'	'obsidian'	0.5
+59	yu	ya'	'go'	0.0
+60	hoyɛn	ho:ye:	'send'	0.625
+61	'ama	'ama'	'3SG.NOM'	0.7
+63	míkwa	makwa	'1DU.INCL.PRIM'	0.7
+64	mí	min	'2SG.GEN'	0.5
+66	n	na'	'1SG.NOM'	0.0
+68	líhmen	lihim	'run'	0.7
+69	hí	hi'	'FUT'	0.5
+71	yam	ya'	'go'	0.5
+73	tapṭipin	t'apwiyi	'slap'	0.35700000000000004
+74	taxínhin	tawin	'to become morning'	0.7
+75	yimé	yiki	'fart'	0.25
+78	'ílkau	'a:lat	'lick'	0.1
+79	taxínhin	tawin	'to become morning'	0.7
+81	hí	hi'	'FUT'	0.5
+83	yam	ya'	'go'	0.5
+87	'ɔ́hin	'op	'moon, a watch'	0.5
+88	yíme	yiki	'fart'	0.25
+92	ṭekní	tr'e:xi	'blacken s.o. with firesmoke'	0.25
+94	sam	shra:pa	'burn'	0.25
+95	xapwí	xapa'	'fly'	0.4
+97	hin	hi'	'FUT'	0.5
+98	lómtɔ	lo:l'o:	'leave behind, let go of, quit'	0.4
+99	yɔ́utap’	ya'	'go'	0.0
+100	yimé	yiki	'fart'	0.25
+103	kitiúhin	gidiw	'surround'	0.7
+104	'ílk’au	'a:lat	'lick'	0.1
+106	ṭauxɔ́	draxa	'step over, take a step'	0.25
+108	ɔ	'op	'moon, a watch'	0.5
+109	kuti’ílik	gi'iy	'oppose'	0.0
+111	ṭau	tr'ap	'bow used for hunting'	0.5
+112	yɛhɛ́	yah	'hey!'	0.0
+114	sinhin	shrunu	'plug, stuff up'	0.25
+115	yimé	yiki	'fart'	0.25
+119	hɔxúshun	huxus	'vomit'	0.1
+120	manɛ́	mak'	'1DU.INCL.NOM'	0.0
+123	lɔ́pṭɔ	lo:l'o:	'leave behind, let go of, quit'	0.4
+127	yɔɔkɛxɔ́	yo'ke:	'return'	0.7
+129	hin	hi'	'FUT'	0.5
+130	mí	min	'2SG.GEN'	0.5
+134	ṭ’auwísen	tr'aw'a	'win from'	0.1
+135	yɔɔtáp’	ya'	'go'	0.0
+136	káyu	ga:yal	'await?'	0.4
+137	ṣil’ɛ́	shril'i	'see'	0.7
+140	yɔɔpaṭ’	ye:bitr'	'lip'	0.4
+144	talwuṭ’	ta:watr	'die'	0.4
+148	ṭaúta’an	tr'adad	'lie on ones back'	0.0
+150	límk’in	limi	'file'	0.625
+154	ṭaútaan	tr'adad	'lie on ones back'	0.1
+156	límk’in	limi	'file'	0.625
+157	tapnɔ́	da:ba:	'try again (after you or others have failed before)'	0.25
+159	ṭci	tr'e:xi	'blacken s.o. with firesmoke'	0.25
+160	hí	hi'	'FUT'	0.5
+162	yam	ya'	'go'	0.5
+164	taxínhin	tawin	'to become morning'	0.7
+167	tsáuhin	c'ak'	'blackbird'	0.5
+168	pɔnɛ́	be:ni	'cook by burying in ashes'	0.25
+171	lihímka	lihim	'run'	0.4
+174	yá	ya'	'go'	0.5
+176	n	na'	'1SG.NOM'	0.0
+178	'á	'at'	'cut'	0.5
+180	ni	nim	'1SG.GEN'	0.5
+183	ṭnit	tra:nit	'that.SG.ABL'	0.7
+185	ṣílá	s(hr)alap'	'shave, whittle'	0.4
+187	n	na'	'1SG.NOM'	0.0
+188	hɛi’hí	he'ca:	'tease (Newman 1944:104 has hec.c.aa, cf. Gamble 1994:78 note 2)'	0.1
+190	yuk	ya'	'go'	0.0
+191	té	de:yi	'take the lead, get in front'	0.25
+193	yau	ya'	'go'	0.5
+194	wálxu	walxo:	'pass'	0.7
+197	té	de:yi	'take the lead, get in front'	0.25
+199	yau	ya'	'go'	0.5
+202	hin	hi'	'FUT'	0.5
+205	nɛ́ɛu̯á	ne'ca:	'be sleepy'	0.4
+207	hin	hi'	'FUT'	0.5
+208	hitcí’yɔu	hic'e:y	'tighten'	0.0
+209	lákli	laga:	'spend the night'	0.25
+211	hí	hi'	'FUT'	0.5
+213	yam	ya'	'go'	0.5
+214	tsáuhin	c'ak'	'blackbird'	0.5
+215	káyu	ga:yal	'await?'	0.4
+216	taxínka	damna:	'try'	0.1
+218	ṭí	drim	'condor'	0.5
+220	mi	min	'2SG.GEN'	0.5
+222	hi	hi'	'FUT'	0.5
+224	yam	ya'	'go'	0.5
+225	tapxɔ́	da:ba:	'try again (after you or others have failed before)'	0.25
+228	ye	ya'	'go'	0.0
+230	ṭ’au	tr'ap	'bow used for hunting'	0.5
+232	mí	min	'2SG.GEN'	0.5
+236	k’aṭ’lít’sa’	k'alassa'	'leg'	0.25
+238	'áminɔ́	'amin	'3SG.GEN'	0.7
+240	kun	kin	'this.SG.PRIM'	0.5
+241	yɛt’	ya'	'go'	0.0
+242	mí	min	'2SG.GEN'	0.5
+244	naman	na'an	'1PL.EXCL.NOM'	0.7
+245	k’áṭ’liṭṣa	gatr'la:	'fish with a hook and line'	0.4
+246	hí	hi'	'FUT'	0.5
+248	yam	ya'	'go'	0.5
+250	tánhin	ta:na	'go'	0.625
+251	waki	wik'	'2DU.VOC.IMPER'	0.0
+252	'aminɔ́	'amin	'3SG.GEN'	0.7
+254	kun	kin	'this.SG.PRIM'	0.5
+255	waṭ’	wa	'however'	0.25
+256	wáts’was	wac'was	'stake in gambling'	0.75
+257	ṭau	tr'ap	'bow used for hunting'	0.5
+258	ṭ’auhínyɔu	tr'uno:y	'scorch'	0.0
+263	hin	hi'	'FUT'	0.5
+264	káyu	ga:yal	'await?'	0.4
+265	hítsi’	he:zhi'	'today'	0.7
+266	má	mak'	'1DU.INCL.NOM'	0.5
+268	kyɔu	goyow	'win back what one has lost'	0.4
+272	yɔu	yo:mu	'dispossess; cuckold s.o.'	0.625
+273	mí	min	'2SG.GEN'	0.5
+276	lákli	laga:	'spend the night'	0.25
+278	kayu	ga:yal	'await?'	0.4
+279	máxit	ma:gin	'1DU.INCL.GEN'	0.4
+282	ṣɔ	shro:gu	'pull out an unfastened object'	0.25
+284	pin	pil	'road'	0.5
+285	nɔné	nine:	'keep still, become quiet'	0.625
+288	ṭ’awa	draxa	'step over, take a step'	0.625
+290	lá	lap'	'whip'	0.5
+292	hin	hi'	'FUT'	0.5
+293	káywa	k'ay'a	'urinate (animals)'	0.7
+299	hin	hi'	'FUT'	0.5
+300	'ánki	'angi'	'Q'	0.75
+301	ma’ná	ma'a	'look down'	0.625
+303	ṣṭan	s(hr)alap'	'shave, whittle'	0.1
+304	'amki	'ama'	'3SG.NOM'	0.4
+306	mɔki	me:k'i	'swallow'	0.625
+309	hɔ̢́hɔ̢	hono	'lay an egg'	0.625
+312	hin	hi'	'FUT'	0.5
+313	ṭawa	draxa	'step over, take a step'	0.625
+315	lá	lap'	'whip'	0.5
+317	hin	hi'	'FUT'	0.5
+318	'amánṭan	'amingin	'3DU.GEN'	0.43799999999999994
+319	hitsí	hishri	'get ripe, become cooked'	0.625
+320	níhi	nitr'i	'press'	0.625
+322	pʿaníts’	ba:nwiyi	'run the hand over'	0.35700000000000004
+323	wɛn	wik'	'2DU.VOC.IMPER'	0.0
+328	'ilk’au	'a:lat	'lick'	0.1
+329	lɔ́mtɔu	lo:l'o:	'leave behind, let go of, quit'	0.1
+331	ci’lhinṭau	chri'in	'waylay'	0.0
+332	'ilk’au	'a:lat	'lick'	0.1
+333	kítax	gada:y	'be unable to reach sth, give out'	0.4
+334	káyu	ga:yal	'await?'	0.4
+336	yɔ́tanhin	ya'	'go'	0.0
+338	yɔ	yo:w	'go home'	0.5
+341	ṭau	tr'ap	'bow used for hunting'	0.5
+342	yɔ	yo:w	'go home'	0.5
+344	ṣilhin	shril'i	'see'	0.4
+345	'ilkau	'a:lat	'lick'	0.1
+347	hí	hi'	'FUT'	0.5
+349	yam	ya'	'go'	0.5
+350	mít’ats	mit'achr	'slightly, not much'	0.7
+353	yɔutánhin	ya'	'go'	0.0
+354	mí	min	'2SG.GEN'	0.5
+357	ṭau	tr'ap	'bow used for hunting'	0.5
+358	pí’lṣɛn	pi'is	'chest'	0.7
+359	yɛ́	ya'	'go'	0.0
+361	ṭ’au	tr'ap	'bow used for hunting'	0.5
+363	ṣí’lhin	shri'e:l	'rain'	0.7
+364	kítax	gada:y	'be unable to reach sth, give out'	0.4
+365	hí	hi'	'FUT'	0.5
+367	yam	ya'	'go'	0.5
+370	suh’wá	suhwa:	'practice magic'	0.7
+372	hin	hi'	'FUT'	0.5
+373	káyu	ga:yal	'await?'	0.4
+375	nɬ	na'	'1SG.NOM'	0.0
+376	nímṭau	nim	'1SG.GEN'	0.0
+377	'ɔ́txɔu	'o:tr'u	'steal'	0.0
+378	xái̯nɛn	xata	'eat'	0.25
+382	niṭ	nim	'1SG.GEN'	0.5
+383	wii	wik'	'2DU.VOC.IMPER'	0.5
+385	mi	min	'2SG.GEN'	0.5
+386	tánhin	ta:na	'go'	0.625
+387	mí	min	'2SG.GEN'	0.5
+390	tánsitɛn	datr'at	'track'	0.1
+392	ká	k'ac'	'obsidian'	0.5
+394	ínha	'iná:	'FEAR'	0.625
+398	hin	hi'	'FUT'	0.5
+400	ka	k'ac'	'obsidian'	0.5
+402	ínha	'iná:	'FEAR'	0.625
+404	na’nim	nanni	'1SG.SEC'	0.4
+406	'ɔh’yúxɔ	'ohyo:	'want, look for (YT has root ?oyoxo)'	0.4
+407	'ɔ́txɔumá	'ohom+ta:	'become not'	0.14300000000000002
+410	ṭau	tr'ap	'bow used for hunting'	0.5
+416	'ɔh’yɔ́	'ohyo:	'want, look for (YT has root ?oyoxo)'	0.7
+418	hin	hi'	'FUT'	0.5
+420	ká	k'ac'	'obsidian'	0.5
+430	hin	hi'	'FUT'	0.5
+432	na	na'	'1SG.NOM'	0.5
+438	niṭ	nim	'1SG.GEN'	0.5
+439	tánhin	ta:na	'go'	0.625
+440	mái̯ni	mayni	'AR.EMPH'	0.7
+443	'ɔkílhin	'ogol	'come to the surface'	0.7
+444	'ɔtxɔuámin	'ohom	'NEG'	0.0
+445	mái̯ni	mayni	'AR.EMPH'	0.7
+446	hí	hi'	'FUT'	0.5
+448	yam	ya'	'go'	0.5
+449	ṭau	tr'ap	'bow used for hunting'	0.5
+453	ṭauṭan	tratray	'break'	0.4
+454	nɔ’nwíshin	nanni	'1SG.SEC'	0.0
+455	súyuk’hái̯mam	shruyna:/	'buy'	0.0
+458	hin	hi'	'FUT'	0.5
+460	lɔ́’lmi’	la'la'	'wild goose'	0.25
+461	hí	hi'	'FUT'	0.5
+463	yam	ya'	'go'	0.5
+465	ṭaniṭ	tr'aniw	'badger'	0.7
+466	tánhin	ta:na	'go'	0.625
+467	kayu	ga:yal	'await?'	0.4
+468	mí	min	'2SG.GEN'	0.5
+472	k’atlítsa	gatr'la:	'fish with a hook and line'	0.1
+473	yɔu	yo:mu	'dispossess; cuckold s.o.'	0.625
+474	mí	min	'2SG.GEN'	0.5
+477	límkin	limi	'file'	0.625
+478	tɔṭ’é	dotr'e:(')	'break?'	0.7
+482	k’atli’ltau	ga:'ita	'girl'	0.0
+486	ṭau	tr'ap	'bow used for hunting'	0.5
+490	'ɔtxɔu	'o:tr'u	'steal'	0.0
+492	ṣɔ́pi	shrop'ix	'stomach, paunch'	0.7
+495	ṭáu	tr'ap	'bow used for hunting'	0.5
+496	nai	na'	'1SG.NOM'	0.5
+497	tánhin	ta:na	'go'	0.625
+500	ṭau	tr'ap	'bow used for hunting'	0.5
+501	ṭ’aúwinhin	tra:'in	'that.SG.GEN'	0.4
+503	káyuyɔu	ga:yal	'await?'	0.0
+504	hitsiyɔu	hic'e:y	'tighten'	0.1
+507	yá	ya'	'go'	0.5
+512	'ama	'ama'	'3SG.NOM'	0.7
+514	mínwa	makwa	'1DU.INCL.PRIM'	0.4
+515	há	hawa	'do what?'	0.25
+517	nuk’	na'	'1SG.NOM'	0.0
+518	máan	ma'an	'2PL.NOM'	0.7
+520	hiṭ’awɛn	ha'traw	'what.supposed.NOM'	0.5
+523	ṭau	tr'ap	'bow used for hunting'	0.5
+524	hák’	ha'uk	'what.NOM'	0.4
+527	yá	ya'	'go'	0.5
+530	sasá	shra:pa	'burn'	0.625
+533	ná	na'	'1SG.NOM'	0.5
+537	ṭ’aúwɛn	traw	'if'	0.5
+539	'ínsiswí	'insis'	'do well'	0.5710000000000001
+541	hin	hi'	'FUT'	0.5
+542	hitc’i	hishri	'get ripe, become cooked'	0.625
+543	wiyá	wiyi	'say, do'	0.625
+547	kayu	ga:yal	'await?'	0.4
+550	ṭɛ	tra	'that.SG.NOM'	0.25
+552	xálhin	xat	'food'	0.5
+553	hí	hi'	'FUT'	0.5
+555	yam	ya'	'go'	0.5
+558	yá	ya'	'go'	0.5
+563	yɔu	yo:mu	'dispossess; cuckold s.o.'	0.625
+565	hik’é̯ihin	hibe:y	'bring water'	0.4
+566	mí	min	'2SG.GEN'	0.5
+569	sasá	shra:pa	'burn'	0.625
+573	ṭ’aúnɛn	tr'un	'anal hair'	0.5
+577	ɔn	'op	'moon, a watch'	0.5
+580	man	mak'	'1DU.INCL.NOM'	0.5
+582	'ɔtxɔw	'otr'ow	'hair on head'	0.4
+589	cɔpí	c'ip'i	'surround'	0.625
+592	tánhin	ta:na	'go'	0.625
+595	'ɔ́txɔw	'otr'ow	'hair on head'	0.4
+597	ṭau	tr'ap	'bow used for hunting'	0.5
+598	ṭ’auwínhin	tra:'in	'that.SG.GEN'	0.4
+599	sasá	shra:pa	'burn'	0.625
+603	hí	hi'	'FUT'	0.5
+605	yam	ya'	'go'	0.5
+606	ní’wɔu	ni'e:w	'come late'	0.1
+610	nɔ́ṭsɛ́	nine:	'keep still, become quiet'	0.25
+615	hin	hi'	'FUT'	0.5
+616	tsapt’ɛ́	c'abbo:	'suck at sth'	0.1
+618	ni	nim	'1SG.GEN'	0.5
+620	yɔu	yo:mu	'dispossess; cuckold s.o.'	0.625
+622	ma	mak'	'1DU.INCL.NOM'	0.5
+624	wɔlsɔ́	walxo:	'pass'	0.4
+626	nu	na'	'1SG.NOM'	0.0
+627	yɔu	yo:mu	'dispossess; cuckold s.o.'	0.625
+629	k’atáɬni	k'atal'	'strike the ball with the katal'	0.5
+635	nɔ́	now	'hook'	0.5
+637	tci	c'ip'i	'surround'	0.25
+640	nɔ́	now	'hook'	0.5
+642	tci	c'ip'i	'surround'	0.25
+647	hin	hi'	'FUT'	0.5
+648	taxínka	damna:	'try'	0.1
+649	ṭí	drim	'condor'	0.5
+651	mi	min	'2SG.GEN'	0.5
+652	hulɔ́ṣka	hulo:shr	'sit down'	0.4
+653	ṭí	drim	'condor'	0.5
+655	mi	min	'2SG.GEN'	0.5
+656	mí	min	'2SG.GEN'	0.5
+660	táhan	daban	'lose what one has'	0.7
+663	yá	ya'	'go'	0.5
+667	ts’imik’	c'iwik'	'poison oak'	0.4
+670	k’a	k'ac'	'obsidian'	0.5
+671	mí	min	'2SG.GEN'	0.5
+675	táhan	daban	'lose what one has'	0.7
+676	hí	hi'	'FUT'	0.5
+678	yam	ya'	'go'	0.5
+681	yá	ya'	'go'	0.5
+686	ṭaniṭ	tr'aniw	'badger'	0.7
+687	ṭɛ́	tra	'that.SG.NOM'	0.25
+689	xalhin	xat	'food'	0.5
+691	mi	min	'2SG.GEN'	0.5
+695	táhan	daban	'lose what one has'	0.7
+698	halínhin	hala:l	'raise, lift up'	0.4
+702	tánhin	ta:na	'go'	0.625
+707	kɔ	k'otr'	'tule'	0.5
+709	nínhin	nim	'1SG.GEN'	0.5
+712	ṣí’lka	shralk'e:	'be awake'	0.1
+713	ṭími	tr'ik'i	'tie, imprison'	0.625
+716	hin	hi'	'FUT'	0.5
+717	kɔ	k'otr'	'tule'	0.5
+719	níntau	na:naw	'1SG.LOC'	0.1
+723	nɔ́	now	'hook'	0.5
+725	tci	c'ip'i	'surround'	0.25
+729	hin	hi'	'FUT'	0.5
+730	hiyɔ́k	hiyuk	'where.NOM'	0.7
+732	táhan	daban	'lose what one has'	0.7
+737	hin	hi'	'FUT'	0.5
+738	xɔsím	xoshro	'rub'	0.25
+743	hin	hi'	'FUT'	0.5
+744	ts’ɔ́k’ɔ	c'o:po:/	'kiss'	0.25
+746	p’unút’kau	pun'u	'fold'	0.0
+749	niṭ	nim	'1SG.GEN'	0.5
+751	tánhin	ta:na	'go'	0.625
+752	yɛṭ’	ya'	'go'	0.0
+753	háyal	hadal	'go under'	0.7
+758	nɔ́	now	'hook'	0.5
+760	tsi	c'ip'i	'surround'	0.25
+764	hin	hi'	'FUT'	0.5
+765	'itɛ́lan	'ile:ma:/	'act mean toward, be feared'	0.25
+767	wánk’anan	wa:na	'give'	0.0
+768	wítcɛtni	wic'e:ta	'turn into a log'	0.5
+769	má	mak'	'1DU.INCL.NOM'	0.5
+774	ni	nim	'1SG.GEN'	0.5
+776	tá	dab	'next, on the other hand, then'	0.5
+778	ni	nim	'1SG.GEN'	0.5
+783	mi	min	'2SG.GEN'	0.5
+784	lántɛu	la:n'a:	'listen'	0.1
+785	kɛu	kew	'this.SG.LOC'	0.5
+786	wɔ́wulk’a	wo:wul	'stand'	0.4
+789	k’ɔ́hin	go:bin	'enter'	0.7
+791	witcɛ́t’	wic'e:ta	'turn into a log'	0.75
+792	tɛ	de:yi	'take the lead, get in front'	0.25
+794	yau	ya'	'go'	0.5
+796	ṭau	tr'ap	'bow used for hunting'	0.5
+797	ṭɔ́khin	tre:kin	'fear, become exited [sic] with'	0.7
+798	tuk’úynu	t'uguy	'spear fish'	0.4
+804	nɔ́	now	'hook'	0.5
+806	tci	c'ip'i	'surround'	0.25
+809	nit	nim	'1SG.GEN'	0.5
+811	tánhin	ta:na	'go'	0.625
+814	nit	nim	'1SG.GEN'	0.5
+816	wa’	wa	'however'	0.25
+817	tánhin	ta:na	'go'	0.625
+818	tsúuptau	zhu'ba'	'a part'	0.25
+820	wa’	wa	'however'	0.25
+823	hin	hi'	'FUT'	0.5
+826	mau	mak'	'1DU.INCL.NOM'	0.5
+827	ka	k'ac'	'obsidian'	0.5
+829	ínhau	'iná:	'FEAR'	0.25
+830	lɔkɔ́u̯ɔn	logow	'pound into powder, pulverize'	0.1
+831	k’aṣí	k'asa	'stick'	0.625
+837	nɔ́	now	'hook'	0.5
+839	tci	c'ip'i	'surround'	0.25
+841	'uṭ’hatínxɔ	'amin	'3SG.GEN'	0.0
+842	lɔ́kwɔ	lo:go:/	'crazy'	0.625
+849	hin	hi'	'FUT'	0.5
+850	ṭípni	tripni'	'one endowed with magic powers'	0.75
+851	'á	'at'	'cut'	0.5
+853	’ni	'at'	'cut'	0.0
+856	k’a	k'ac'	'obsidian'	0.5
+857	tá	dab	'next, on the other hand, then'	0.5
+859	naṣ	na'	'1SG.NOM'	0.5
+860	tánhin	ta:na	'go'	0.625
+861	máxhin	mak'	'1DU.INCL.NOM'	0.5
+863	lókwɔ	lo:go:/	'crazy'	0.625
+869	ṣta	shra:pa	'burn'	0.25
+871	wiya	wiyi	'say, do'	0.625
+873	án	ayanayawiyi'	'sway'	0.0
+875	yɔ́u	yo:mu	'dispossess; cuckold s.o.'	0.625
+877	máxɛn	ma:gin	'1DU.INCL.GEN'	0.4
+878	wiya	wiyi	'say, do'	0.625
+880	án	ayanayawiyi'	'sway'	0.0
+883	maxhín	mak'	'1DU.INCL.NOM'	0.5
+884	tá	dab	'next, on the other hand, then'	0.5
+886	naṣ	na'	'1SG.NOM'	0.5
+889	pitcíu̯hin	pic'i	'count'	0.625
+890	máxtau	ma:xa	'procure, get (116 has maxa)'	0.25
+894	wɔṭwɔṭhin	wotr'od	'increase sth, draw interest'	0.4
+895	kɛɔ	kew	'this.SG.LOC'	0.5
+896	xɔ́ṭ	xo:	'live, exist, be'	0.25
+900	ka	k'ac'	'obsidian'	0.5
+902	k	ki	'when'	0.25
+903	ka	k'ac'	'obsidian'	0.5
+905	k	ki	'when'	0.25
+908	hin	hi'	'FUT'	0.5
+911	tánhin	ta:na	'go'	0.625
+912	maxhínṭan	ma:minwa	'2PL.PRIM'	0.14300000000000002
+913	xá	xo:	'live, exist, be'	0.25
+915	paɬ	ba:lo:	'feel in the dark'	0.625
+917	nɔ	now	'hook'	0.5
+919	tcɛ́	c'e:da:	'gather greens, eat greens (N-->V) itr/tr?'	0.25
+924	nit	nim	'1SG.GEN'	0.5
+925	tánhin	ta:na	'go'	0.625
+926	yí	yit-'	'be one?'	0.5
+928	’tsa	'a:p'a	'ride'	0.25
+931	ṭau	tr'ap	'bow used for hunting'	0.5
+932	wa’	wa	'however'	0.25
+934	tisa	tisi	'come out'	0.625
+936	lá	lap'	'whip'	0.5
+938	hin	hi'	'FUT'	0.5
+939	xa	xo:	'live, exist, be'	0.25
+941	paɬ	ba:lo:	'feel in the dark'	0.625
+942	nɔtcɛ́	nine:	'keep still, become quiet'	0.25
+946	'ama’ṭan	'ama'	'3SG.NOM'	0.1
+947	tɔ́	totr	'belly'	0.5
+949	lhin	lihim	'run'	0.4
+950	ts’ɛ	tso:p'	'break in the middle?'	0.0
+952	náwiw	na'	'1SG.NOM'	0.5
+955	wɔ́ṭhin	wotro	'hit with a club'	0.625
+957	wɔ́ṭtin	wotr'od	'increase sth, draw interest'	0.7
+959	ka	k'ac'	'obsidian'	0.5
+961	kwʌ́hin	go:bin	'enter'	0.4
+963	xiṭiuhin	xitriw	'become angry'	0.7
+964	taílmi	tail	'recover, be well'	0.25
+965	ṭau	tr'ap	'bow used for hunting'	0.5
+967	'ɔh’yɔ́xɔ	'ohyo:	'want, look for (YT has root ?oyoxo)'	0.7
+969	ka	k'ac'	'obsidian'	0.5
+971	ínha	'iná:	'FEAR'	0.625
+973	mɔxɔlɔ́	mo:xol	'become old'	0.7
+979	hin	hi'	'FUT'	0.5
+984	ṭí	drim	'condor'	0.5
+986	mi	min	'2SG.GEN'	0.5
+990	'amíts‘hin	'ama'	'3SG.NOM'	0.4
+991	nuṣɔ́	nusos	'paternal aunt'	0.7
+993	son	shro:gu	'pull out an unfastened object'	0.25
+995	ṭɛ́in	tre:kin	'fear, become exited [sic] with'	0.7
+998	tánhin	ta:na	'go'	0.625
+999	kutɛ́	gude'	'small'	0.7
+1002	tsaawí	cawa	'shout'	0.25
+1004	yɔxna’	ya'	'go'	0.0
+1007	hin	hi'	'FUT'	0.5
+1009	nɔ	now	'hook'	0.5
+1011	tcɛ́	c'e:da:	'gather greens, eat greens (N-->V) itr/tr?'	0.25
+1015	tsáu̯hin	c'ak'	'blackbird'	0.5
+1017	núsus	nusos	'paternal aunt'	0.7
+1020	lánhin	la:na	'hear'	0.625
+1022	núsus	nusos	'paternal aunt'	0.7
+1024	ṭau	tr'ap	'bow used for hunting'	0.5
+1027	hin	hi'	'FUT'	0.5
+1028	hawí	hawa	'do what?'	0.625
+1030	nuk	na'	'1SG.NOM'	0.0
+1032	tsɔ́	tso:p'	'break in the middle?'	0.5
+1034	púnhun	puhuk'	'survive'	0.4
+1035	hak’a	hawa	'do what?'	0.625
+1037	wíntin	widin	'roll sth'	0.7
+1039	yɔ	yo:w	'go home'	0.5
+1040	'amítsmi	'amin	'3SG.GEN'	0.1
+1041	tsáuhin	c'ak'	'blackbird'	0.5
+1042	pɔ́’nyiɬ	be:ni	'cook by burying in ashes'	0.0
+1043	tsáuhin	c'ak'	'blackbird'	0.5
+1046	ṭau	tr'ap	'bow used for hunting'	0.5
+1049	hin	hi'	'FUT'	0.5
+1050	nusɔ́sɔw	nusos	'paternal aunt'	0.4
+1054	ṣki	sik'i	'stick sth into the ground'	0.625
+1055	mí	min	'2SG.GEN'	0.5
+1060	'ankimak	'amak'	'3DU.NOM'	0.1
+1062	'inɛ́sta’	'ine:sa:	'be good'	0.5
+1063	sasá	shra:pa	'burn'	0.625
+1069	tɔinɔu	dini	'shield'	0.0
+1070	ts’ɔ	c'o:po:/	'kiss'	0.25
+1074	hin	hi'	'FUT'	0.5
+1075	sasá	shra:pa	'burn'	0.625
+1080	tawinta	tawin	'to become morning'	0.4
+1082	'inɛ́stam	'ine:sa:	'be good'	0.5
+1083	xayínhin	xaya:	'place, put'	0.25
+1087	'insɛ	'ile:	'fan'	0.25
+1092	tanka	ta:na	'go'	0.625
+1093	kɛu	kew	'this.SG.LOC'	0.5
+1094	yɛ́	ya'	'go'	0.0
+1096	tiu	di'	'with a little doubt'	0.5
+1098	nusɔ́	nusos	'paternal aunt'	0.7
+1100	suʿ	shro:gu	'pull out an unfastened object'	0.25
+1102	ṭanhi	tra:ni	'that.SG.SEC'	0.625
+1103	'inɛ́sta	'ine:sa:	'be good'	0.75
+1106	niṭ	nim	'1SG.GEN'	0.5
+1108	tánhin	ta:na	'go'	0.625
+1111	yɔu	yo:mu	'dispossess; cuckold s.o.'	0.625
+1112	'amítstau	'amcaw	'close to'	0.25
+1113	ṭsáuhin	c'ak'	'blackbird'	0.5
+1116	lánhin	la:na	'hear'	0.625
+1118	núsus	nusos	'paternal aunt'	0.7
+1119	ts’ɛ́ts’wisk’a	c'ec'wis	'try, make efforts'	0.0
+1120	taxínk’a	damna:	'try'	0.1
+1121	wiyá	wiyi	'say, do'	0.625
+1127	ṭau	tr'ap	'bow used for hunting'	0.5
+1130	hin	hi'	'FUT'	0.5
+1131	ṭɛu	tr'e:'a:	'seek a husband'	0.25
+1135	c̣an	c'ak'	'blackbird'	0.5
+1136	cí’ɬhin	chri'in	'waylay'	0.4
+1138	sasá	shra:pa	'burn'	0.625
+1144	ts’ɔ	c'o:po:/	'kiss'	0.25
+1146	wɔ́	wa	'however'	0.25
+1148	hin	hi'	'FUT'	0.5
+1149	tɔ́inɔu	dini	'shield'	0.0
+1151	táwa	da:ba:	'try again (after you or others have failed before)'	0.625
+1153	n	na'	'1SG.NOM'	0.0
+1156	tau	dab	'next, on the other hand, then'	0.5
+1157	cí’ɬhin	chri'in	'waylay'	0.4
+1158	nai	na'	'1SG.NOM'	0.5
+1162	hiyá	hiyam	'already, now'	0.7
+1164	mi’	ma'	'2SG.NOM'	0.5
+1168	hin	hi'	'FUT'	0.5
+1169	mí	min	'2SG.GEN'	0.5
+1173	yɔ́’ki’	yo'ke:	'return'	0.4
+1174	núsus	nusos	'paternal aunt'	0.7
+1176	wiyá	wiyi	'say, do'	0.625
+1183	hɔ́lɛn	ho:le:	'tell a story'	0.625
+1184	pɔnyɔ	bo:do	'circumcise'	0.25
+1185	ṭɛ́	tra	'that.SG.NOM'	0.25
+1187	pani	be:ni	'cook by burying in ashes'	0.625
+1188	pílau	bala:s	'creep on hands and knees'	0.4
+1189	kɛu	kew	'this.SG.LOC'	0.5
+1190	xɔ́’	xo:	'live, exist, be'	0.25
+1195	ṭaniṭ	tr'aniw	'badger'	0.7
+1196	tánhin	ta:na	'go'	0.625
+1197	hí	hi'	'FUT'	0.5
+1199	yam	ya'	'go'	0.5
+1202	cta	c'e:da:	'gather greens, eat greens (N-->V) itr/tr?'	0.625
+1203	kɔ́pnɔtin	go:bo	'put in, take in'	0.25
+1206	hin	hi'	'FUT'	0.5
+1207	tá	dab	'next, on the other hand, then'	0.5
+1209	’ak’	'at'	'cut'	0.5
+1212	n	na'	'1SG.NOM'	0.0
+1214	ma	mak'	'1DU.INCL.NOM'	0.5
+1216	né	na'	'1SG.NOM'	0.0
+1219	yɔkɔ́	yo:wo	'go home'	0.625
+1221	tsi	c'ip'i	'surround'	0.25
+1222	'út’aɬ	'ut't'al	'solely, nothing but'	0.75
+1223	kaɛ́	k'ac'	'obsidian'	0.5
+1225	ni	nim	'1SG.GEN'	0.5
+1226	'a	'at'	'cut'	0.5
+1228	'ni	'at'	'cut'	0.0
+1230	ṭɛ	tra	'that.SG.NOM'	0.25
+1232	xálk’a	xal'a	'put a stick in a crack'	0.7
+1233	wák’i	wik'	'2DU.VOC.IMPER'	0.0
+1234	lá	lap'	'whip'	0.5
+1236	nɛn		'1SG.PRIM'	0.5
+1237	kíhi	gitr'i	'hold between two objects'	0.625
+1239	táan	daban	'lose what one has'	0.7
+1241	lánhin	la:na	'hear'	0.625
+1243	ṭaniṭ	tr'aniw	'badger'	0.7
+1244	taxinhin	tawin	'to become morning'	0.7
+1245	ṭípni	tripni'	'one endowed with magic powers'	0.75
+1246	ṭa’	tr'ap	'bow used for hunting'	0.5
+1248	ṭau	tr'ap	'bow used for hunting'	0.5
+1251	hin	hi'	'FUT'	0.5
+1256	hin	hi'	'FUT'	0.5
+1258	kítax	gada:y	'be unable to reach sth, give out'	0.4
+1259	ṭányiṭit	trana:yitr	'fear'	0.35700000000000004
+1264	hin	hi'	'FUT'	0.5
+1265	'ankimak’	'amak'	'3DU.NOM'	0.1
+1266	naaṣ	na'ashr	'dubitative'	0.7
+1267	hik’yoɬ	hiyuk	'where.NOM'	0.1
+1271	hin	hi'	'FUT'	0.5
+1273	hitc’i	hishri	'get ripe, become cooked'	0.625
+1274	wiyá	wiyi	'say, do'	0.625
+1282	ṭau	tr'ap	'bow used for hunting'	0.5
+1283	tánhin	ta:na	'go'	0.625
+1284	ṭau	tr'ap	'bow used for hunting'	0.5
+1285	hik’ɛ̯́’i‘ɛ	hik'e:yic'	'player'	0.35700000000000004
+1287	yau	ya'	'go'	0.5
+1288	hiyɔɔk	hiyuk	'where.NOM'	0.7
+1289	t’ulá	dala	'flatten (grass or brush on ground)'	0.25
+1293	yɔkɔ́	yo:wo	'go home'	0.625
+1295	ts’i	c'ip'i	'surround'	0.25
+1298	yɔlɔ́winhin	yolo:w	'assemble tr'	0.4
+1299	yɛ	ya'	'go'	0.0
+1301	t’au	da'ak'	'shine (of sun)'	0.4
+1302	kaɛ́	k'ac'	'obsidian'	0.5
+1304	ni	nim	'1SG.GEN'	0.5
+1305	'út’aɬ	'ut't'al	'solely, nothing but'	0.75
+1310	hauk	ha'uk	'what.NOM'	0.7
+1311	ma	mak'	'1DU.INCL.NOM'	0.5
+1314	wáts’was	wac'was	'stake in gambling'	0.75
+1317	ya	ya'	'go'	0.5
+1322	kú’tcun	guchrchrun	'name'	0.75
+1323	wíhin	widin	'roll sth'	0.7
+1324	ṭáu	tr'ap	'bow used for hunting'	0.5
+1328	ṭ’áwɛn	tr'aw'a	'win from'	0.4
+1330	manan	ma'an	'2PL.NOM'	0.7
+1331	'ɔ́ṣtɔu	'oshrot	'to handle fire'	0.4
+1332	k’ɔ́ɛn	gitr'e:n	'hold under the arm'	0.4
+1333	yɔ	yo:w	'go home'	0.5
+1335	na	na'	'1SG.NOM'	0.5
+1337	hi	hi'	'FUT'	0.5
+1338	ṭau	tr'ap	'bow used for hunting'	0.5
+1339	ṭ’awɛn	tr'aw'a	'win from'	0.4
+1341	na	na'	'1SG.NOM'	0.5
+1343	hi	hi'	'FUT'	0.5
+1344	'ɔ́ṣtɔu	'oshrot	'to handle fire'	0.4
+1345	k’ɔ́ɛn	gitr'e:n	'hold under the arm'	0.4
+1349	hin	hi'	'FUT'	0.5
+1350	kútc’un	guchrchrun	'name'	0.75
+1351	hɔt’ɔnɛk’	hot'o:ne:	'build a fire'	0.5
+1353	pís	p'isi	'burn'	0.625
+1355	ṭ’awánan	tr'aw'a	'win from'	0.1
+1356	'am	'at'	'cut'	0.5
+1357	ṭau	tr'ap	'bow used for hunting'	0.5
+1358	k’ɔ’ɔ’	k'o'o	'throw at, throw'	0.625
+1360	ɔ́	'op	'moon, a watch'	0.5
+1362	nit	nim	'1SG.GEN'	0.5
+1363	hí	hi'	'FUT'	0.5
+1365	yam	ya'	'go'	0.5
+1366	wiyá	wiyi	'say, do'	0.625
+1369	wa’amak	wa'ashrta:/	'be more, be very much'	0.35700000000000004
+1370	kitɛ́u̯an	gitr'e:n	'hold under the arm'	0.1
+1371	mi	min	'2SG.GEN'	0.5
+1375	wɔ́	wa	'however'	0.25
+1377	ṭɛn	tr'un	'anal hair'	0.5
+1381	hí	hi'	'FUT'	0.5
+1383	yam	ya'	'go'	0.5
+1386	ya	ya'	'go'	0.5
+1389	k’ɔntc’ɔ́	gonlo:	'cause to descend'	0.7
+1391	tc’i’	c'iy'	'bone'	0.625
+1394	ṣki	sik'i	'stick sth into the ground'	0.625
+1395	hí	hi'	'FUT'	0.5
+1397	yam	ya'	'go'	0.5
+1399	tanhin	ta:na	'go'	0.625
+1403	kaɛ́	k'ac'	'obsidian'	0.5
+1405	ni	nim	'1SG.GEN'	0.5
+1406	ts’ɛ́ts’wisk’a	c'ec'wis	'try, make efforts'	0.0
+1407	ṭányiṭit	trana:yitr	'fear'	0.35700000000000004
+1410	yá	ya'	'go'	0.5
+1416	ṣtá	shra:pa	'burn'	0.25
+1419	wa’	wa	'however'	0.25
+1420	tánhin	ta:na	'go'	0.625
+1421	kutc’un	guchrchrun	'name'	0.75
+1423	yiksítxɔ	yiki	'fart'	0.25
+1424	tauṭa	tawtra:	'kill tr'	0.7
+1426	'ɔ́h’yɔxɔ	'ohyo:	'want, look for (YT has root ?oyoxo)'	0.7
+1430	’ṣ	'ashr	'actually, really'	0.5
+1432	lɔ	lap'	'whip'	0.0
+1434	lɔ	lap'	'whip'	0.0
+1436	wísxɔ	walxo:	'pass'	0.4
+1437	pɔnyil	be:ni	'cook by burying in ashes'	0.0
+1439	yiksíthin	yiki	'fart'	0.25
+1442	t’ɔyɔxí	t'oyox	'doctor, give medicine'	0.4
+1444	saxɔ	shroxo	'exterminate, massacre'	0.625
+1447	’xɔ	'a:xa	'stay overnight itr'	0.25
+1449	t’ɔ́yɔx	t'oyox	'doctor, give medicine'	0.7
+1452	tɛ́	de:yi	'take the lead, get in front'	0.25
+1454	yau	ya'	'go'	0.5
+1457	hin	hi'	'FUT'	0.5
+1459	hí	hi'	'FUT'	0.5
+1461	yam	ya'	'go'	0.5
+1463	kiṭíu̯hin	gitr'i	'hold between two objects'	0.625
+1466	pinɛ́	bine:t	'ask'	0.7
+1468	tit	di'	'with a little doubt'	0.5
+1469	k’ɔntc’ɔ́	gonlo:	'cause to descend'	0.7
+1471	tc’i	c'ip'i	'surround'	0.25
+1472	hiyɔ́	hoyo:	'name (read in YT)'	0.625
+1474	k	ki	'when'	0.25
+1476	hí	hi'	'FUT'	0.5
+1478	yam	ya'	'go'	0.5
+1481	hin	hi'	'FUT'	0.5
+1482	kaɛ́	k'ac'	'obsidian'	0.5
+1484	ni	nim	'1SG.GEN'	0.5
+1486	pinɛ́tan	bine:t	'ask'	0.4
+1489	kiṭíu̯hin	gitr'i	'hold between two objects'	0.625
+1492	yá	ya'	'go'	0.5
+1495	mí	min	'2SG.GEN'	0.5
+1499	wɔṭɛn	wotr'od	'increase sth, draw interest'	0.4
+1500	wiyá	wiyi	'say, do'	0.625
+1503	yɔ	yo:w	'go home'	0.5
+1506	mi	min	'2SG.GEN'	0.5
+1509	háka	hawa	'do what?'	0.625
+1513	yá	ya'	'go'	0.5
+1519	kɔṭ’ɔ'ɔ́	go:tr'o	'overtake'	0.25
+1521	hin	hi'	'FUT'	0.5
+1522	kútc’un	guchrchrun	'name'	0.75
+1527	hin	hi'	'FUT'	0.5
+1528	kútc’un	guchrchrun	'name'	0.75
+1532	yíksithin	yiki	'fart'	0.25
+1533	wálxɔm	walxo:	'pass'	0.7
+1534	ṭ’íhá	tr'ihe:	'become lean'	0.625
+1538	yiksitin	yiki	'fart'	0.25
+1545	yítshin	yit-'	'be one?'	0.5
+1546	wɔilɔ́	wil	'2PL.VOC.IMPER'	0.0
+1548	hin	hi'	'FUT'	0.5
+1549	'ílk’a	'e:k'a	'see, look at'	0.25
+1550	máyɛk	mak'	'1DU.INCL.NOM'	0.0
+1552	hɔkínhin	hogon	'float downstream'	0.7
+1554	kutcɔ́	go:bo	'put in, take in'	0.25
+1556	nun		'1SG.PRIM'	0.5
+1557	yɔ́u	yo:mu	'dispossess; cuckold s.o.'	0.625
+1558	ta’an	da'ak'	'shine (of sun)'	0.7
+1559	ma̯íni	mayni	'AR.EMPH'	0.7
+1560	hɔkínhin	hogon	'float downstream'	0.7
+1561	kúṭc’un	guchrchrun	'name'	0.5
+1563	tá	dab	'next, on the other hand, then'	0.5
+1565	n	na'	'1SG.NOM'	0.0
+1567	tis	tisi	'come out'	0.625
+1569	hin	hi'	'FUT'	0.5
+1573	límk’a	laga:	'spend the night'	0.25
+1574	yɔu	yo:mu	'dispossess; cuckold s.o.'	0.625
+1575	páṭṭan	bat'an	'face (toward)'	0.4
+1576	yiksíthin	yiki	'fart'	0.25
+1577	t’ɔy	do'o	'touch with the penis'	0.25
+1578	xé	xo:	'live, exist, be'	0.25
+1580	saxɔ	shroxo	'exterminate, massacre'	0.625
+1581	ta	dab	'next, on the other hand, then'	0.5
+1583	nɛ́	na'	'1SG.NOM'	0.0
+1585	ni	nim	'1SG.GEN'	0.5
+1586	mí	min	'2SG.GEN'	0.5
+1590	ṭ’ánwaw	tr'aniw	'badger'	0.7
+1595	hin	hi'	'FUT'	0.5
+1596	ṭ’ánwa	draxa	'step over, take a step'	0.25
+1599	máxhin	mak'	'1DU.INCL.NOM'	0.5
+1603	hin	hi'	'FUT'	0.5
+1605	tínliu	dini	'shield'	0.25
+1608	ṭau	tr'ap	'bow used for hunting'	0.5
+1611	hin	hi'	'FUT'	0.5
+1612	kutc’un	guchrchrun	'name'	0.75
+1613	'ɔh’yɔ́xɔ	'ohyo:	'want, look for (YT has root ?oyoxo)'	0.7
+1616	ṭau	tr'ap	'bow used for hunting'	0.5
+1619	yɔu	yo:mu	'dispossess; cuckold s.o.'	0.625
+1621	hí	hi'	'FUT'	0.5
+1623	yam	ya'	'go'	0.5
+1624	yɔu	yo:mu	'dispossess; cuckold s.o.'	0.625
+1625	pinɛ́	bine:t	'ask'	0.7
+1627	tit	di'	'with a little doubt'	0.5
+1628	k’ɔntc’ɔ́	gonlo:	'cause to descend'	0.7
+1630	tc’i’	c'iy'	'bone'	0.625
+1631	hí	hi'	'FUT'	0.5
+1633	yɔk	yo:w	'go home'	0.5
+1635	hi	hi'	'FUT'	0.5
+1637	yam	ya'	'go'	0.5
+1640	hin	hi'	'FUT'	0.5
+1643	yá	ya'	'go'	0.5
+1647	'ama	'ama'	'3SG.NOM'	0.7
+1651	hin	hi'	'FUT'	0.5
+1652	ṭanyíṭit	trana:yitr	'fear'	0.35700000000000004
+1653	ti	di'	'with a little doubt'	0.5
+1660	yá	ya'	'go'	0.5
+1665	'amítcin	'amin	'3SG.GEN'	0.7
+1668	yá	ya'	'go'	0.5
+1673	yɔu	yo:mu	'dispossess; cuckold s.o.'	0.625
+1674	kumná	gumo:y	'serve as midwife'	0.4
+1676	ni	nim	'1SG.GEN'	0.5
+1679	ni	nim	'1SG.GEN'	0.5
+1681	yɔu	yo:mu	'dispossess; cuckold s.o.'	0.625
+1682	ṭ’ɛɛ	tr'e:'a:	'seek a husband'	0.25
+1684	tínhin	dini	'shield'	0.625
+1687	kutc’	k'ac'	'obsidian'	0.5
+1690	taan	daban	'lose what one has'	0.7
+1691	páṭ’aṣ	bala:s	'creep on hands and knees'	0.7
+1692	tishin	tisi	'come out'	0.625
+1693	kutc’	k'ac'	'obsidian'	0.5
+1696	hí	hi'	'FUT'	0.5
+1698	yam	ya'	'go'	0.5
+1699	yɔ́	yo:w	'go home'	0.5
+1701	ɔṭan	'a:dran	'be exited [sic]'	0.7
+1704	yɔu	yo:mu	'dispossess; cuckold s.o.'	0.625
+1705	manɛ́	mak'	'1DU.INCL.NOM'	0.0
+1708	wɔilɔ́	wil	'2PL.VOC.IMPER'	0.0
+1710	hin	hi'	'FUT'	0.5
+1711	k’ɔ́lpɔ	go:bo	'put in, take in'	0.625
+1713	pɔ́	bok	'muscle, calf of leg'	0.5
+1717	yɔu	yo:mu	'dispossess; cuckold s.o.'	0.625
+1718	wɔ́ṭhin	wotro	'hit with a club'	0.625
+1721	kútc’	k'ac'	'obsidian'	0.5
+1725	ṭau	tr'ap	'bow used for hunting'	0.5
+1726	máni	mayni	'AR.EMPH'	0.7
+1729	hin	hi'	'FUT'	0.5
+1730	k’ɔ́lpɔ	go:bo	'put in, take in'	0.625
+1732	pɔ	bok	'muscle, calf of leg'	0.5
+1735	paṭ’as	bala:s	'creep on hands and knees'	0.7
+1736	tíshin	tisi	'come out'	0.625
+1739	taan	daban	'lose what one has'	0.7
+1740	pinɛ́	bine:t	'ask'	0.7
+1742	tit	di'	'with a little doubt'	0.5
+1743	k’ɔ́ntc’ɔ	gonlo:	'cause to descend'	0.7
+1745	tc’i’	c'iy'	'bone'	0.625
+1746	hiyɔ	hoyo:	'name (read in YT)'	0.625
+1748	k	ki	'when'	0.25
+1753	hin	hi'	'FUT'	0.5
+1757	hin	hi'	'FUT'	0.5
+1762	yá	ya'	'go'	0.5
+1765	waaṣta	wa'ashrta:/	'be more, be very much'	0.7859999999999999
+1769	tau	dab	'next, on the other hand, then'	0.5
+1770	wɔ́ṭhin	wotro	'hit with a club'	0.625
+1778	hin	hi'	'FUT'	0.5
+1782	wɔṭhin	wotro	'hit with a club'	0.625
+1783	kútc’	k'ac'	'obsidian'	0.5
+1790	tánhin	ta:na	'go'	0.625
+1792	yi’	ya'	'go'	0.5
+1794	íṭṣa	'iná:	'FEAR'	0.625
+1795	pɔnɛ́	be:ni	'cook by burying in ashes'	0.25
+1801	ya	ya'	'go'	0.5
+1803	wísxɔ	walxo:	'pass'	0.4
+1804	limk’in	limi	'file'	0.625
+1806	té	de:yi	'take the lead, get in front'	0.25
+1808	’yau	'at'	'cut'	0.0
+1809	kɔ	k'otr'	'tule'	0.5
+1811	’pínhin	'ip'in	'acorn flour'	0.7
+1812	pinɛ́	bine:t	'ask'	0.7
+1814	tit	di'	'with a little doubt'	0.5
+1818	tinuk	t'inik'	'hide, screen from sight'	0.7
+1820	tɛ́	de:yi	'take the lead, get in front'	0.25
+1822	’yau	'at'	'cut'	0.0
+1823	kɔ	k'otr'	'tule'	0.5
+1825	ɔpínhin	'ip'in	'acorn flour'	0.7
+1826	ṭanyiṭ	trana:yitr	'fear'	0.7859999999999999
+1827	ṭin	drim	'condor'	0.5
+1830	yá	ya'	'go'	0.5
+1835	kaɛ́	k'ac'	'obsidian'	0.5
+1837	ni	nim	'1SG.GEN'	0.5
+1838	wák	wik'	'2DU.VOC.IMPER'	0.5
+1841	hí	hi'	'FUT'	0.5
+1843	yt’iuláxɔ	yimil	'catch fish with the hand'	0.0
+1848	hin	hi'	'FUT'	0.5
+1851	tinuk	t'inik'	'hide, screen from sight'	0.7
+1856	yá	ya'	'go'	0.5
+1862	té	de:yi	'take the lead, get in front'	0.25
+1864	’yau	'at'	'cut'	0.0
+1867	hin	hi'	'FUT'	0.5
+1870	yá	ya'	'go'	0.5
+1873	kutc’	k'ac'	'obsidian'	0.5
+1879	yá	ya'	'go'	0.5
+1884	yiṭ	yit-'	'be one?'	0.5
+1885	tin	dini	'shield'	0.625
+1888	yá	ya'	'go'	0.5
+1891	k’ɔntc’ɔ	gonlo:	'cause to descend'	0.7
+1893	tc’i’	c'iy'	'bone'	0.625
+1895	píṭcwit	pic'i	'count'	0.0
+1896	kútc’	k'ac'	'obsidian'	0.5
+1900	k’ɔ́	k'otr'	'tule'	0.5
+1903	'ɔ́ṣtɔu	'oshrot	'to handle fire'	0.4
+1904	yɔu	yo:mu	'dispossess; cuckold s.o.'	0.625
+1906	ts’ɔuwí	c'owo	'grasp'	0.0
+1908	hni	he:xi	'fatten'	0.25
+1910	pítcwit	pic'i	'count'	0.25
+1912	tá	dab	'next, on the other hand, then'	0.5
+1915	t’úlut	t'ulu	'burn tr'	0.25
+1922	hin	hi'	'FUT'	0.5
+1924	mani’	ma:gin	'1DU.INCL.GEN'	0.4
+1925	k’é	ki	'when'	0.25
+1927	xa	xo:	'live, exist, be'	0.25
+1929	tásin	tawin	'to become morning'	0.7
+1931	kaɛ́	k'ac'	'obsidian'	0.5
+1933	ni	nim	'1SG.GEN'	0.5
+1934	hɔupuṣhun	hubushr	'choose'	0.7
+1935	hutá	hudu	'recognize, know'	0.625
+1939	'aminɔ́	'amin	'3SG.GEN'	0.7
+1941	kun	kin	'this.SG.PRIM'	0.5
+1942	k’ɛ	ki	'when'	0.25
+1944	xá	xo:	'live, exist, be'	0.25
+1950	tánhin	ta:na	'go'	0.625
+1951	ṭɛ́u	tr'e:'a:	'seek a husband'	0.25
+1952	'aminɔ́	'amin	'3SG.GEN'	0.7
+1954	kun	kin	'this.SG.PRIM'	0.5
+1955	hí	hi'	'FUT'	0.5
+1957	yam	ya'	'go'	0.5
+1959	t’úlhun	da'al	'come to life, escape'	0.4
+1960	kutc’	k'ac'	'obsidian'	0.5
+1962	ɔn	'op	'moon, a watch'	0.5
+1969	man	mak'	'1DU.INCL.NOM'	0.5
+1971	wɔ́w’yatin	wa:'al	'breakfast'	0.0
+1974	nit	nim	'1SG.GEN'	0.5
+1979	yá	ya'	'go'	0.5
+1982	nɔ	now	'hook'	0.5
+1984	tcɛ́	c'e:da:	'gather greens, eat greens (N-->V) itr/tr?'	0.25
+1987	wílnim	wilshrin	'but, in spite of that'	0.5
+1988	nɔ	now	'hook'	0.5
+1990	n’wísk’a	na:nikwa	'1DU.EXCL.PRIM'	0.14300000000000002
+1993	yá	ya'	'go'	0.5
+1998	ṣá	shra:pa	'burn'	0.25
+2000	likhin	lilin	'get dewy'	0.7
+2001	mí	min	'2SG.GEN'	0.5
+2005	tahan	daban	'lose what one has'	0.7
+2006	mí	min	'2SG.GEN'	0.5
+2010	yɔ́	yo:w	'go home'	0.5
+2012	’k	'e:	'AMAZEMENT'	0.25
+2015	waáṣta	wa'ashrta:/	'be more, be very much'	0.7859999999999999
+2016	kɔ	k'otr'	'tule'	0.5
+2018	píntau	bat'an	'face (toward)'	0.1
+2019	ta	dab	'next, on the other hand, then'	0.5
+2021	á	ayanayawiyi'	'sway'	0.0
+2024	ṭáu	tr'ap	'bow used for hunting'	0.5
+2028	hin	hi'	'FUT'	0.5
+2032	ṭɛ́	tra	'that.SG.NOM'	0.25
+2034	xalxɔ	xal'a	'put a stick in a crack'	0.4
+2035	wíṭṣɛp	wic'et	'stick'	0.7
+2037	p’unuṭká	puhuk'	'survive'	0.0
+2039	ni	nim	'1SG.GEN'	0.5
+2041	ṭɛ́	tra	'that.SG.NOM'	0.25
+2043	xalxɔ	xal'a	'put a stick in a crack'	0.4
+2044	tɔshítxɔ	do:so	'report, tell about'	0.25
+2045	'amá	'ama'	'3SG.NOM'	0.7
+2047	míkwa	makwa	'1DU.INCL.PRIM'	0.7
+2050	man	mak'	'1DU.INCL.NOM'	0.5
+2051	mihmiṭṣ	mihnichr	'still, yet'	0.75
+2054	ṭɛ	tra	'that.SG.NOM'	0.25
+2056	xalxɔ́	xal'a	'put a stick in a crack'	0.4
+2058	hin	hi'	'FUT'	0.5
+2059	yɔu	yo:mu	'dispossess; cuckold s.o.'	0.625
+2063	hin	hi'	'FUT'	0.5
+2065	t’úyɔs	t'uyos	'arrow'	0.7
+2069	hin	hi'	'FUT'	0.5
+2070	ṭa’áma’	tra'tra'	'ally'	0.5
+2071	mɔ́xɔlɔ	mo:xol	'become old'	0.7
+2072	ká	k'ac'	'obsidian'	0.5
+2076	ṣutɔ́khun	shrudo:k'	'remove'	0.4
+2078	k’ínpa	gapa	'uphold, help'	0.25
+2079	mí	min	'2SG.GEN'	0.5
+2082	ṭi’náusɛn	tra'ashr	'continuously'	0.1
+2083	mí	min	'2SG.GEN'	0.5
+2086	'amá	'ama'	'3SG.NOM'	0.7
+2088	míkwa	makwa	'1DU.INCL.PRIM'	0.7
+2089	ṭ’ík’ɛn	tripe:n	'move sth away from'	0.7
+2095	hin	hi'	'FUT'	0.5
+2096	ṭɔk’ɔhnɛɬ	tro:k'o	'strike, hit'	0.0
+2098	kínpin	kinip	'put on a dress'	0.7
+2100	mí	min	'2SG.GEN'	0.5
+2103	mai	mak'	'1DU.INCL.NOM'	0.5
+2104	xátɛn	xata	'eat'	0.25
+2107	yá	ya'	'go'	0.5
+2114	yɔkɔ́	yo:wo	'go home'	0.625
+2116	tsi	c'ip'i	'surround'	0.25
+2124	mɔxlɔ́	mo:lu	'cheat'	0.25
+2128	wiyá	wiyi	'say, do'	0.625
+2132	mí	min	'2SG.GEN'	0.5
+2135	na	na'	'1SG.NOM'	0.5
+2136	lá	lap'	'whip'	0.5
+2138	na	na'	'1SG.NOM'	0.5
+2139	mí	min	'2SG.GEN'	0.5
+2142	má	mak'	'1DU.INCL.NOM'	0.5
+2144	wɔ	wa	'however'	0.25
+2145	ṭányiṭit	trana:yitr	'fear'	0.35700000000000004
+2146	wiyá	wiyi	'say, do'	0.625
+2153	niṭ	nim	'1SG.GEN'	0.5
+2154	hí	hi'	'FUT'	0.5
+2156	yam	ya'	'go'	0.5
+2157	wa’	wa	'however'	0.25
+2158	taxínhin	tawin	'to become morning'	0.7
+2159	tɔ́inɔ	dini	'shield'	0.25
+2160	má	mak'	'1DU.INCL.NOM'	0.5
+2162	wɔk’	wik'	'2DU.VOC.IMPER'	0.5
+2163	ṭí	drim	'condor'	0.5
+2165	mi	min	'2SG.GEN'	0.5
+2166	mí	min	'2SG.GEN'	0.5
+2170	lá	lap'	'whip'	0.5
+2172	na	na'	'1SG.NOM'	0.5
+2175	ya	ya'	'go'	0.5
+2179	mɔ́xlɔ	mo:lu	'cheat'	0.25
+2181	hí	hi'	'FUT'	0.5
+2183	yam	ya'	'go'	0.5
+2184	ma	mak'	'1DU.INCL.NOM'	0.5
+2186	wɔ́	wa	'however'	0.25
+2188	hun	hunu	'block'	0.625
+2189	taaṣ	da'ak'	'shine (of sun)'	0.4
+2190	tɔ́inɔu	dini	'shield'	0.0
+2192	má	mak'	'1DU.INCL.NOM'	0.5
+2194	wu‘	wik'	'2DU.VOC.IMPER'	0.0
+2195	tsuupṭau	zhu'ba'	'a part'	0.25
+2196	tɔinɔ́	dini	'shield'	0.25
+2205	ya	ya'	'go'	0.5
+2211	’ʒay	'a:cay	'mahogany'	0.7
+2212	ṭɛ	tra	'that.SG.NOM'	0.25
+2214	xálhin	xat	'food'	0.5
+2215	hɔ̢	hon	'egg'	0.5
+2217	hɔ̢	hon	'egg'	0.5
+2220	yá	ya'	'go'	0.5
+2225	ṣta	shra:pa	'burn'	0.25
+2226	pɔ’yɔ́	ba'mo:	'smoke (tobacco)'	0.4
+2228	mi	min	'2SG.GEN'	0.5
+2231	yá	ya'	'go'	0.5
+2235	yɔu	yo:mu	'dispossess; cuckold s.o.'	0.625
+2236	'úṭhun	'utru	'play music'	0.625
+2237	tɔ́inɔu	dini	'shield'	0.0
+2238	'ama	'ama'	'3SG.NOM'	0.7
+2240	yɔu	yo:mu	'dispossess; cuckold s.o.'	0.625
+2246	yá	ya'	'go'	0.5
+2251	ṭɛ́	tra	'that.SG.NOM'	0.25
+2253	xalhin	xat	'food'	0.5
+2255	wɔ́	wa	'however'	0.25
+2259	ká	k'ac'	'obsidian'	0.5
+2264	nɔ	now	'hook'	0.5
+2266	tcɛ́	c'e:da:	'gather greens, eat greens (N-->V) itr/tr?'	0.25
+2270	ṣalak’ɛ́	sha:lak'	'wake up (itr)'	0.7
+2272	hin	hi'	'FUT'	0.5
+2275	nuk	na'	'1SG.NOM'	0.0
+2276	wiyá	wiyi	'say, do'	0.625
+2280	mí	min	'2SG.GEN'	0.5
+2284	táhan	daban	'lose what one has'	0.7
+2285	wiyá	wiyi	'say, do'	0.625
+2289	'ama	'ama'	'3SG.NOM'	0.7
+2290	ṭau	tr'ap	'bow used for hunting'	0.5
+2292	tíshin	tisi	'come out'	0.625
+2293	wa’	wa	'however'	0.25
+2294	p’é	batr	'as usual'	0.0
+2296	p’at’iu	ban'itr'	'intestines'	0.25
+2297	ṭɛ́in	tre:kin	'fear, become exited [sic] with'	0.7
+2299	ṭau	tr'ap	'bow used for hunting'	0.5
+2300	ṣɔklɔ́nɔ	shroglin	'get perforated'	0.5
+2303	’xɔ	'a:xa	'stay overnight itr'	0.25
+2305	ṭaniṭ	tr'aniw	'badger'	0.7
+2307	tíshin	tisi	'come out'	0.625
+2308	wa’	wa	'however'	0.25
+2310	kɔ́	k'otr'	'tule'	0.5
+2312	ninhin	nim	'1SG.GEN'	0.5
+2314	hi	hi'	'FUT'	0.5
+2316	yam	ya'	'go'	0.5
+2317	wák	wik'	'2DU.VOC.IMPER'	0.5
+2320	táwaná	tawan	'be dawn'	0.7
+2322	hin	hi'	'FUT'	0.5
+2324	c̣alik’hin	c'alis	'sweet smell'	0.7
+2326	ka	k'ac'	'obsidian'	0.5
+2330	xɔxɔ́	xoshro	'rub'	0.625
+2332	hin	hi'	'FUT'	0.5
+2335	tauṭá	tawtra:	'kill tr'	0.7
+2337	lis	lap'	'whip'	0.0
+2338	yɔkɔ́	yo:wo	'go home'	0.625
+2340	tsi	c'ip'i	'surround'	0.25
+2341	wɔṭhín	wotro	'hit with a club'	0.625
+2343	witcɛ́	wic'et	'stick'	0.7
+2345	pa	batr	'as usual'	0.5
+2348	'axam	'amam	'3SG.PRIM'	0.7
+2352	cílhin	c'iliw	'get dizzy'	0.4
+2353	kítax	gada:y	'be unable to reach sth, give out'	0.4
+2355	wítcɛp	wic'et	'stick'	0.7
+2357	wak	wik'	'2DU.VOC.IMPER'	0.5
+2360	xiṭíu̯hin	xitriw	'become angry'	0.7
+2363	cutɔ́khun	c'udo:l	'hatch tr'	0.1
+2365	ṭɛ́	tra	'that.SG.NOM'	0.25
+2373	maxhin	mak'	'1DU.INCL.NOM'	0.5
+2375	t’úyɔs	t'uyos	'arrow'	0.7
+2378	k’ɔ́	k'otr'	'tule'	0.5
+2380	hin	hi'	'FUT'	0.5
+2383	xɔsím	xoshro	'rub'	0.25
+2384	hut	hudu	'recognize, know'	0.625
+2387	hiyɔk	hiyuk	'where.NOM'	0.7
+2389	tanhin	ta:na	'go'	0.625
+2393	hin	hi'	'FUT'	0.5
+2395	t’úyɔs	t'uyos	'arrow'	0.7
+2397	ṭau	tr'ap	'bow used for hunting'	0.5
+2400	yɔu	yo:mu	'dispossess; cuckold s.o.'	0.625
+2401	k’ɔ́	k'otr'	'tule'	0.5
+2403	hin	hi'	'FUT'	0.5
+2404	páluʿ	ba:lo:	'feel in the dark'	0.625
+2406	yɔ́u	yo:mu	'dispossess; cuckold s.o.'	0.625
+2407	yɔ	yo:w	'go home'	0.5
+2409	’ké	'e:	'AMAZEMENT'	0.25
+2411	hin	hi'	'FUT'	0.5
+2413	ṭau	tr'ap	'bow used for hunting'	0.5
+2414	táan	daban	'lose what one has'	0.7
+2417	yɔu	yo:mu	'dispossess; cuckold s.o.'	0.625
+2418	k’ɔ́	k'otr'	'tule'	0.5
+2420	hin	hi'	'FUT'	0.5
+2421	nɔ́	now	'hook'	0.5
+2423	tuw	tuk'	'ear'	0.5
+2425	yɔu	yo:mu	'dispossess; cuckold s.o.'	0.625
+2428	hin	hi'	'FUT'	0.5
+2430	taán	daban	'lose what one has'	0.7
+2431	ṭau	tr'ap	'bow used for hunting'	0.5
+2436	hin	hi'	'FUT'	0.5
+2438	yɔútap	ya'	'go'	0.0
+2440	lɛhɛ́	lets'a	'talk to'	0.25
+2442	man	mak'	'1DU.INCL.NOM'	0.5
+2446	t’úyɔs	t'uyos	'arrow'	0.7
+2451	mɔxlɔ́	mo:lu	'cheat'	0.25
+2454	tɛ́	de:yi	'take the lead, get in front'	0.25
+2456	’yau	'at'	'cut'	0.0
+2457	'amá	'ama'	'3SG.NOM'	0.7
+2459	mikwa	makwa	'1DU.INCL.PRIM'	0.7
+2460	kɔ́	k'otr'	'tule'	0.5
+2462	ninhin	nim	'1SG.GEN'	0.5
+2464	hí	hi'	'FUT'	0.5
+2466	yam	ya'	'go'	0.5
+2467	'ama	'ama'	'3SG.NOM'	0.7
+2469	míkwa	makwa	'1DU.INCL.PRIM'	0.7
+2470	taɛ́	dab	'next, on the other hand, then'	0.5
+2472	lsaxɔ	loxo	'pour, spill'	0.25
+2474	ṭau	tr'ap	'bow used for hunting'	0.5
+2478	hin	hi'	'FUT'	0.5
+2480	mɔ́xlɔ	mo:lu	'cheat'	0.25
+2483	máxhin	mak'	'1DU.INCL.NOM'	0.5
+2485	t’úyɔs	t'uyos	'arrow'	0.7
+2486	mí	min	'2SG.GEN'	0.5
+2489	'amá	'ama'	'3SG.NOM'	0.7
+2491	mikwa	makwa	'1DU.INCL.PRIM'	0.7
+2494	ni	nim	'1SG.GEN'	0.5
+2495	k’ɔk’ílɛn	giwil	'meet s.o.'	0.4
+2497	ṭ’úyɔsnu	trunu	'enclose'	0.0
+2498	mí	min	'2SG.GEN'	0.5
+2501	ṭɔ́	tra	'that.SG.NOM'	0.25
+2503	k’ɛn	kin	'this.SG.PRIM'	0.5
+2505	nɔ	now	'hook'	0.5
+2507	tcɛ́	c'e:da:	'gather greens, eat greens (N-->V) itr/tr?'	0.25
+2510	t’úyɔs	t'uyos	'arrow'	0.7
+2511	nú	na'	'1SG.NOM'	0.0
+2515	máxin	ma:gin	'1DU.INCL.GEN'	0.7
+2516	nɔ	now	'hook'	0.5
+2518	tcɛ́	c'e:da:	'gather greens, eat greens (N-->V) itr/tr?'	0.25
+2524	timahau	dimaha'	'quiver'	0.7859999999999999
+2526	ṭau	tr'ap	'bow used for hunting'	0.5
+2528	cúphun	co:pun	'consent'	0.7
+2531	wíya	wiyi	'say, do'	0.625
+2534	ts’úyu	c'uyo:	'urinate'	0.25
+2535	'axma’	'ama'	'3SG.NOM'	0.7
+2536	na	na'	'1SG.NOM'	0.5
+2538	ṣ	shra:pa	'burn'	0.0
+2540	tá	dab	'next, on the other hand, then'	0.5
+2543	ná	na'	'1SG.NOM'	0.5
+2545	hi	hi'	'FUT'	0.5
+2546	tau	dab	'next, on the other hand, then'	0.5
+2548	hi	hi'	'FUT'	0.5
+2550	yam	ya'	'go'	0.5
+2551	wak	wik'	'2DU.VOC.IMPER'	0.5
+2555	ts’ɔuwilá	c'ala	'hatch'	0.0
+2557	hin	hi'	'FUT'	0.5
+2558	límka	laga:	'spend the night'	0.25
+2559	táɛlsaxɔ	dala	'flatten (grass or brush on ground)'	0.25
+2562	t’úyɔsnu	t'uyos	'arrow'	0.1
+2564	xitíu̯hin	xibil	'take away'	0.4
+2571	hin	hi'	'FUT'	0.5
+2572	hútnai	ha:tam	'dance'	0.1
+2573	'áxma’	'ama'	'3SG.NOM'	0.7
+2574	náh’an	na'an	'1PL.EXCL.NOM'	0.7
+2577	ya	ya'	'go'	0.5
+2582	tisa	tisi	'come out'	0.625
+2584	lá	lap'	'whip'	0.5
+2586	hin	hi'	'FUT'	0.5
+2588	t’úyɔs	t'uyos	'arrow'	0.7
+2589	mi	min	'2SG.GEN'	0.5
+2593	t’úyɔn	toyon	'be night'	0.4
+2594	ká	k'ac'	'obsidian'	0.5
+2597	ṭaú	tr'ap	'bow used for hunting'	0.5
+2599	tauṭá	tawtra:	'kill tr'	0.7
+2601	hin	hi'	'FUT'	0.5
+2604	hulɔ́shun	hulo:shr	'sit down'	0.4
+2605	ṭau	tr'ap	'bow used for hunting'	0.5
+2606	'ámtsau	'amcaw	'close to'	0.75
+2609	tisa	tisi	'come out'	0.625
+2611	lá	lap'	'whip'	0.5
+2613	hin	hi'	'FUT'	0.5
+2615	nɔ	now	'hook'	0.5
+2617	tcɛ́	c'e:da:	'gather greens, eat greens (N-->V) itr/tr?'	0.25
+2622	wɔ́ṭtin	wotr'od	'increase sth, draw interest'	0.7
+2624	tayílhin	de:yil	'guard, watch (wait for)'	0.7
+2625	wák	wik'	'2DU.VOC.IMPER'	0.5
+2628	kítax	gada:y	'be unable to reach sth, give out'	0.4
+2630	wɔ́	wa	'however'	0.25
+2635	ya	ya'	'go'	0.5
+2639	kítax	gada:y	'be unable to reach sth, give out'	0.4
+2641	wɔ́uyhun	wo:'uy	'fall asleep, sleep'	0.7
+2642	wíya	wiyi	'say, do'	0.625
+2646	kímam	k'inim	'acorn'	0.4
+2647	tau	dab	'next, on the other hand, then'	0.5
+2648	ṭaxɔ́	draxa	'step over, take a step'	0.625
+2650	hin	hi'	'FUT'	0.5
+2651	wiyá	wiyi	'say, do'	0.625
+2657	ṣí’ɬhin	shri'e:l	'rain'	0.7
+2660	tisa	tisi	'come out'	0.625
+2662	la	lap'	'whip'	0.5
+2664	hin	hi'	'FUT'	0.5
+2666	t’úyɔs	t'uyos	'arrow'	0.7
+2667	mí	min	'2SG.GEN'	0.5
+2671	tau’ṭá	t'aw'a	'strike an animate object to the ground'	0.4
+2674	t’uit’úyɔn	tuk'uyun	'jackrabbit'	0.0
+2675	mí	min	'2SG.GEN'	0.5
+2679	táhan	daban	'lose what one has'	0.7
+2680	wiya	wiyi	'say, do'	0.625
+2686	'amits	'amin	'3SG.GEN'	0.7
+2688	hin	hi'	'FUT'	0.5
+2690	ṭɛ́	tra	'that.SG.NOM'	0.25
+2696	nit	nim	'1SG.GEN'	0.5
+2697	tsauhin	c'ak'	'blackbird'	0.5
+2701	káyu	ga:yal	'await?'	0.4
+2703	wa’tnit	wat'im	'back'	0.1
+2704	lánhin	la:na	'hear'	0.625
+2707	nak	na'	'1SG.NOM'	0.5
+2709	yíṭit	yiki	'fart'	0.25
+2713	wíya	wiyi	'say, do'	0.625
+2719	hin	hi'	'FUT'	0.5
+2720	tɔinɛ́	dini	'shield'	0.25
+2723	ṭɛ́u	tr'e:'a:	'seek a husband'	0.25
+2725	'a	'at'	'cut'	0.5
+2727	’niwil	'e:dil	'get hungry'	0.1
+2728	wák	wik'	'2DU.VOC.IMPER'	0.5
+2731	tɛ́	de:yi	'take the lead, get in front'	0.25
+2733	xalk’a	xal'a	'put a stick in a crack'	0.7
+2734	ṭaná	draxa	'step over, take a step'	0.625
+2738	káywa	k'ay'a	'urinate (animals)'	0.7
+2743	hin	hi'	'FUT'	0.5
+2744	káyu	ga:yal	'await?'	0.4
+2745	tá	dab	'next, on the other hand, then'	0.5
+2747	naṣ	na'	'1SG.NOM'	0.5
+2750	hin	hi'	'FUT'	0.5
+2751	kitáxma’	k'ishrdana'	'circumcised man'	0.43799999999999994
+2754	hin	hi'	'FUT'	0.5
+2755	kitaxma	gada:y	'be unable to reach sth, give out'	0.0
+2757	yíṭit	yiki	'fart'	0.25
+2758	wiyá	wiyi	'say, do'	0.625
+2764	niṭ’hin	nim	'1SG.GEN'	0.5
+2765	mɔ́k	mak'	'1DU.INCL.NOM'	0.5
+2772	nit	nim	'1SG.GEN'	0.5
+2773	tíshin	tisi	'come out'	0.625
+2774	t’iɛu̯yɔu	duyu	'sting'	0.0
+2775	pɔ́nɔi	bonoy	'have two, make two'	0.7
+2776	witípʿat’s	wichribna:	'give birth to a child'	0.0
+2777	pɔniɔ̯	be:ni	'cook by burying in ashes'	0.25
+2778	máxhin	mak'	'1DU.INCL.NOM'	0.5
+2779	káyu	ga:yal	'await?'	0.4
+2780	yɛ	ya'	'go'	0.0
+2782	t’in	di'ichr	'sane (up), hoard'	0.4
+2785	wɔs	wik'	'2DU.VOC.IMPER'	0.0
+2786	hupá	hup'	'brain'	0.5
+2788	tsɛ́	c'e:da:	'gather greens, eat greens (N-->V) itr/tr?'	0.25
+2790	pam	batr	'as usual'	0.5
+2793	tsɛ́	c'e:da:	'gather greens, eat greens (N-->V) itr/tr?'	0.25
+2795	pum	p'umu	'fill'	0.625
+2796	pɔ́niɔ	be:ni	'cook by burying in ashes'	0.25
+2798	wítcɛ́	wic'et	'stick'	0.7
+2800	pa	batr	'as usual'	0.5
+2801	ta’n̥á	damna:	'try'	0.7
+2803	hin	hi'	'FUT'	0.5
+2804	tan	ta:na	'go'	0.625
+2805	ṭɛu	tr'e:'a:	'seek a husband'	0.25
+2809	witipats	wichribna:	'give birth to a child'	0.35700000000000004
+2810	pɔ	bok	'muscle, calf of leg'	0.5
+2812	húṭ’hun	hutr'u	'cook bread in ashes'	0.625
+2814	yɔkɔ’ts	yokoc'	'person, people'	0.7
+2815	hɔ́i’lɛ́xɔ	hoy'le:	'hunt'	0.75
+2818	’u̯ínu	'utru	'play music'	0.25
+2820	lɛ́hɛ	lets'a	'talk to'	0.25
+2822	m’an	ma'an	'2PL.NOM'	0.7
+2825	man	mak'	'1DU.INCL.NOM'	0.5
+2827	tuyá	duyu	'sting'	0.625
+2833	tsɛ	c'e:da:	'gather greens, eat greens (N-->V) itr/tr?'	0.25
+2835	pam	batr	'as usual'	0.5
+2838	yɔkɔts’	yokoc'	'person, people'	0.7
+2839	kitíuhin	gidiw	'surround'	0.7
+2840	yɛ́	ya'	'go'	0.0
+2842	ṭ’au	tr'ap	'bow used for hunting'	0.5
+2845	'anuṭwa	'anatrwal/	'dream (about)'	0.625
+2846	maxhin	mak'	'1DU.INCL.NOM'	0.5
+2847	hutulɔ́	hudu	'recognize, know'	0.25
+2851	hútulu’	huddulu'	'owl'	0.812
+2853	tí	di'	'with a little doubt'	0.5
+2856	tuk’uinu	t'uguy	'spear fish'	0.1
+2857	ṣípṣaxɔṭan	shripshra:/	'to perform with magical powers'	0.0
+2858	'ɔṣtɔni	'obtol'	'raise up tr'	0.35700000000000004
+2859	mí	min	'2SG.GEN'	0.5
+2862	wɔ́	wa	'however'	0.25
+2864	yɛn	ya'	'go'	0.0
+2865	mi	min	'2SG.GEN'	0.5
+2869	t’úyɔn	toyon	'be night'	0.4
+2870	hupa	hup'	'brain'	0.5
+2872	tsɛ́	c'e:da:	'gather greens, eat greens (N-->V) itr/tr?'	0.25
+2874	pum	p'umu	'fill'	0.625
+2877	húthun	hudu	'recognize, know'	0.625
+2878	káyu	ga:yal	'await?'	0.4
+2880	hitc’í	hishri	'get ripe, become cooked'	0.625
+2881	wíya	wiyi	'say, do'	0.625
+2884	mí	min	'2SG.GEN'	0.5
+2888	yɔlɔ́	yo:wo	'go home'	0.625
+2890	wɛn	wik'	'2DU.VOC.IMPER'	0.0
+2891	tuk’uínu	t'uguy	'spear fish'	0.1
+2893	ṭau	tr'ap	'bow used for hunting'	0.5
+2894	pɔ́k’it	bok'o	'find'	0.25
+2895	híṣna’	hina'	'perhaps, maybe'	0.7
+2902	hin	hi'	'FUT'	0.5
+2903	káyu	ga:yal	'await?'	0.4
+2904	ṣɔ́pyil	shrop'ix	'stomach, paunch'	0.4
+2905	mihi	midi	'sprinkle'	0.625
+2909	twɛn	dik'e:n	'stay behind'	0.4
+2916	mi	min	'2SG.GEN'	0.5
+2917	wíya	wiyi	'say, do'	0.625
+2921	tanhin	ta:na	'go'	0.625
+2922	húpa	hup'	'brain'	0.5
+2924	ts	tso:p'	'break in the middle?'	0.0
+2927	pum	p'umu	'fill'	0.625
+2929	xɔsímnit	xinic'	'nape of neck'	0.0
+2931	t’úyhun	duyu	'sting'	0.25
+2934	t’uímu	dumu	'pile'	0.25
+2936	'ama	'ama'	'3SG.NOM'	0.7
+2937	ṭau	tr'ap	'bow used for hunting'	0.5
+2938	'ɔ́cit	'oshrit	'fire'	0.7
+2939	wɔ́i̯hin	wi:	'ANNOYANCE'	0.25
+2940	mí	min	'2SG.GEN'	0.5
+2944	líhmɛn	lihim	'run'	0.7
+2945	hi	hi'	'FUT'	0.5
+2947	yam	ya'	'go'	0.5
+2948	'ama	'ama'	'3SG.NOM'	0.7
+2950	minwa	makwa	'1DU.INCL.PRIM'	0.4
+2951	'ɔ́cit	'oshrit	'fire'	0.7
+2952	yawalyɛ́xɔ’	yawa:l	'follow, pursue'	0.4
+2954	taxinṭau	damna:	'try'	0.0
+2957	t’úyhun	duyu	'sting'	0.25
+2958	'ɔ́cṭɔ	'o:tr'u	'steal'	0.25
+2960	ṭauk’ínhin	tre:kin	'fear, become exited [sic] with'	0.4
+2961	kutɛ́	gude'	'small'	0.7
+2963	naṣ	na'	'1SG.NOM'	0.5
+2965	yɔu	yo:mu	'dispossess; cuckold s.o.'	0.625
+2966	wɔíhin	wi:	'ANNOYANCE'	0.25
+2968	'ɔ́cit	'oshrit	'fire'	0.7
+2969	'ama	'ama'	'3SG.NOM'	0.7
+2971	minwa	makwa	'1DU.INCL.PRIM'	0.4
+2974	tisa	tisi	'come out'	0.625
+2976	lá	lap'	'whip'	0.5
+2978	hin	hi'	'FUT'	0.5
+2982	k’ɔ	k'otr'	'tule'	0.5
+2984	hin	hi'	'FUT'	0.5
+2985	'ɔ́ctɔu	'ozhoy	'sign, color'	0.4
+2987	k’ɔ́	k'otr'	'tule'	0.5
+2989	sithin	shridig	'pile up (similar objects in a stack)'	0.7
+2991	ṭɔxɔṭni	tro:xon'	'belt-skirt used in ceremonial dances'	0.5
+2992	'ɔ́ṣtɔ	'o:sa:/	'feel the opposite sex in the dark'	0.25
+2994	yɔu	yo:mu	'dispossess; cuckold s.o.'	0.625
+2995	tayk’ínhin	tawin	'to become morning'	0.4
+2999	yɔu	yo:mu	'dispossess; cuckold s.o.'	0.625
+3000	li	lap'	'whip'	0.0
+3002	hímhin	hi'	'FUT'	0.5
+3006	witcípai	wichribna:	'give birth to a child'	0.5710000000000001
+3007	'ank’i	'angi'	'Q'	0.75
+3009	há	hawa	'do what?'	0.25
+3012	xɔ́’	xo:	'live, exist, be'	0.25
+3015	wiyá	wiyi	'say, do'	0.625
+3018	tawak’il	dawak'	'extinguish, put out'	0.4
+3020	'ɔ́ṣtɔ	'o:sa:/	'feel the opposite sex in the dark'	0.25
+3021	wiyá	wiyi	'say, do'	0.625
+3024	hɔ̢	hon	'egg'	0.5
+3026	hɔ̢	hon	'egg'	0.5
+3027	wiyá	wiyi	'say, do'	0.625
+3032	wítiphat’s	wichribna:	'give birth to a child'	0.0
+3033	yɛt’	ya'	'go'	0.0
+3034	yɛ	ya'	'go'	0.0
+3036	t’in	di'ichr	'sane (up), hoard'	0.4
+3040	yá	ya'	'go'	0.5
+3043	hi	hi'	'FUT'	0.5
+3045	yam	ya'	'go'	0.5
+3046	'ama	'ama'	'3SG.NOM'	0.7
+3048	mínwa	makwa	'1DU.INCL.PRIM'	0.4
+3051	'ɔn	'op	'moon, a watch'	0.5
+3055	pɔht’á	baw'a	'be enough'	0.1
+3059	witcɛ́	wic'et	'stick'	0.7
+3061	pa	batr	'as usual'	0.5
+3063	t’úi̯k’a	t'inik'	'hide, screen from sight'	0.1
+3064	wiya	wiyi	'say, do'	0.625
+3068	'ɔ́ṣtɔ	'o:sa:/	'feel the opposite sex in the dark'	0.25
+3069	ṭapaṭ	draxa	'step over, take a step'	0.25
+3071	nɔ́	now	'hook'	0.5
+3073	kun	kin	'this.SG.PRIM'	0.5
+3074	yɔu	yo:mu	'dispossess; cuckold s.o.'	0.625
+3076	t’sɛt’swisk’a	t'aw'wis	'throw oneself to the ground'	0.0
+3077	wiyá	wiyi	'say, do'	0.625
+3081	núsus	nusos	'paternal aunt'	0.7
+3083	ka’iwin	ga:'it	'young woman'	0.7
+3084	hí	hi'	'FUT'	0.5
+3086	yam	ya'	'go'	0.5
+3088	'amítshin	'amin	'3SG.GEN'	0.7
+3089	wiyá	wiyi	'say, do'	0.625
+3093	hi	hi'	'FUT'	0.5
+3095	yam	ya'	'go'	0.5
+3096	'ama	'ama'	'3SG.NOM'	0.7
+3098	minwa	makwa	'1DU.INCL.PRIM'	0.4
+3099	yɔu	yo:mu	'dispossess; cuckold s.o.'	0.625
+3102	'ɔn	'op	'moon, a watch'	0.5
+3105	hɛ́	he:xi	'fatten'	0.25
+3107	tci	c'ip'i	'surround'	0.25
+3108	wiyá	wiyi	'say, do'	0.625
+3112	wit’cɛ	widin	'roll sth'	0.1
+3114	pá	batr	'as usual'	0.5
+3117	tikɛ	dik'e:n	'stay behind'	0.7
+3119	nɛ́	na'	'1SG.NOM'	0.0
+3122	t’uik’a	t'inik'	'hide, screen from sight'	0.1
+3123	wiyá	wiyi	'say, do'	0.625
+3129	t’uihun	de:yi	'take the lead, get in front'	0.25
+3131	tauk’ínhin	tawin	'to become morning'	0.4
+3133	lihímk’a	lihim	'run'	0.4
+3134	wilwák	wik'	'2DU.VOC.IMPER'	0.0
+3137	wiyá	wiyi	'say, do'	0.625
+3140	núsus	nusos	'paternal aunt'	0.7
+3142	mí	min	'2SG.GEN'	0.5
+3145	má	mak'	'1DU.INCL.NOM'	0.5
+3147	minwa	makwa	'1DU.INCL.PRIM'	0.4
+3148	pa’na	pana:	'arrive'	0.625
+3152	yá	ya'	'go'	0.5
+3157	'aṭílhin	'atral	'open'	0.7
+3159	ṭɛ́	tra	'that.SG.NOM'	0.25
+3162	núsus	nusos	'paternal aunt'	0.7
+3166	kɔ	k'otr'	'tule'	0.5
+3168	ɔpínhin	'ip'in	'acorn flour'	0.7
+3170	ṭau	tr'ap	'bow used for hunting'	0.5
+3171	'aminnɔ́	'amin	'3SG.GEN'	0.4
+3173	kun	kin	'this.SG.PRIM'	0.5
+3174	t’ulúnhun	t'ulu	'burn tr'	0.25
+3177	'á	'at'	'cut'	0.5
+3179	ts’ɛ́	tso:p'	'break in the middle?'	0.0
+3181	ts’in	chri'in	'waylay'	0.7

@@ -1,0 +1,1029 @@
+Juan	ya'	'go'	0.0%
+Coluco	c'o:du	'pull the hair, to skin'	0.0%
+Story	shro:gu	'pull out an unfastened object'	0.0%
+1922	1922	[digits]	100%
+limik'	limik'	'prairie falcon'	100.0%
+qojoqontraw	xo'lo:	'take off (only clothes)'	0.0%
+,	,	[punc]	100%
+'alwutran	'alwutr'	'crow'	50.0%
+nots'i'	no:chro'	'friend'	70.0%
+,	,	[punc]	100%
+jetraw	ye:tr'aw	'all'	100.0%
+makin	ma:gin	'1DU.INCL.GEN'	100.0%
+pana	pana:	'arrive'	100.0%
+'amak'	'amak'	'3DU.NOM'	100.0%
+hewtaqo'n	hawa:'	'do what'	0.0%
+,	,	[punc]	100%
+'ama	'ama'	'3SG.NOM'	70.0%
+jet	yit-'	'be one?'	50.0%
+phanahin	pak'a:tin	'remember'	57.1%
+'amak'	'amak'	'3DU.NOM'	100.0%
+tr'āma'in	tra:'in	'that.SG.GEN'	40.0%
+,	,	[punc]	100%
+mani'	ma:gin	'1DU.INCL.GEN'	40.0%
+'am	'at'	'cut'	50.0%
+pówin	be:win	'sew'	70.0%
+,	,	[punc]	100%
+'ama	'ama'	'3SG.NOM'	70.0%
+limik	limik'	'prairie falcon'	100.0%
+tisala	dala	'flatten (grass or brush on ground)'	25.0%
+'amin	'amin	'3SG.GEN'	100.0%
+'olo'l	'olol	'ball'	70.0%
+,	,	[punc]	100%
+'ama	'ama'	'3SG.NOM'	70.0%
+trin	drim	'condor'	50.0%
+k'ɑ́'hi	ga:'it	'young woman'	40.0%
+,	,	[punc]	100%
+'ama	'ama'	'3SG.NOM'	70.0%
+t`owonon	toy'o:n	'come late'	25.0%
+trin	drim	'condor'	50.0%
+powin	be:win	'sew'	70.0%
+tra	tra	'that.SG.NOM'	100.0%
+'ólol	'olol	'ball'	100.0%
+,	,	[punc]	100%
+'ama	'ama'	'3SG.NOM'	70.0%
+tisin	tisi	'come out'	62.5%
+tr'a'ma'	tra'tra'	'ally'	75.0%
+,	,	[punc]	100%
+pitsiwin	pichriw	'catch, grasp'	100.0%
+tran	tran	'that.SG.PRIM'	100.0%
+'olol	'olol	'ball'	100.0%
+,	,	[punc]	100%
+'ama	'ama'	'3SG.NOM'	70.0%
+wi'in	widin	'roll sth'	70.0%
+má'ki	mak'	'1DU.INCL.NOM'	0.0%
+taq	taxa:	'bring'	62.5%
+limik'	limik'	'prairie falcon'	100.0%
+,	,	[punc]	100%
+mi'na'k	mizhna'	'indeed, surely'	50.0%
+t`ah̯an	daban	'lose what one has'	70.0%
+.	.	[punc]	100%
+.	.	[punc]	100%
+.	.	[punc]	100%
+.	.	[punc]	100%
+'ama	'ama'	'3SG.NOM'	70.0%
+'amak	'amak'	'3DU.NOM'	100.0%
+phanāhin	pak'a:tin	'remember'	57.1%
+jet'	yit-'	'be one?'	50.0%
+moqlo'in	mo:xol	'become old'	40.0%
+ka'ina	ga:'ina	'woman'	100.0%
+,	,	[punc]	100%
+t`an	ta:na	'go'	62.5%
+tra'	tr'ap	'bow used for hunting'	50.0%
+ma'	ma'	'2SG.NOM'	100.0%
+,	,	[punc]	100%
+tra`amata	tr'adad	'lie on ones back'	0.0%
+lokówin	logow	'pound into powder, pulverize'	100.0%
+,	,	[punc]	100%
+'ama'	'ama'	'3SG.NOM'	100.0%
+mak	mak'	'1DU.INCL.NOM'	100.0%
+traw	traw	'if'	100.0%
+phanahin	pak'a:tin	'remember'	57.1%
+jet'	yit-'	'be one?'	50.0%
+jow	yo:w	'go home'	100.0%
+tr'ā	tra	'that.SG.NOM'	100.0%
+má'in	ma:gin	'1DU.INCL.GEN'	70.0%
+,	,	[punc]	100%
+saq	saxal	'apply wax'	40.0%
+saq	saxal	'apply wax'	40.0%
+saq	saxal	'apply wax'	40.0%
+(	(	[punc]	100%
+overheard	overheard	[foreign]	100%
+interj	interj	[foreign]	100%
+.	.	[punc]	100%
+as	as	[foreign]	100%
+Juan	ya'	'go'	0.0%
+told	do:lu	'climb'	62.5%
+this	tisi	'come out'	62.5%
+part	batr	'as usual'	50.0%
+of	of	[foreign]	100%
+the	de:yi	'take the lead, get in front'	25.0%
+story	shro:gu	'pull out an unfastened object'	0.0%
+)	)	[punc]	100%
+'ama	'ama'	'3SG.NOM'	70.0%
+'utr'ān	'a:dran	'be exited [sic]'	70.0%
+'amin	'amin	'3SG.GEN'	100.0%
+jotr'ow	yolo:w	'assemble tr'	70.0%
+liḿik'	limik'	'prairie falcon'	100.0%
+t`an	ta:na	'go'	62.5%
+ponoj	bonoy	'have two, make two'	100.0%
+'amak'	'amak'	'3DU.NOM'	100.0%
+,	,	[punc]	100%
+'a'ni	'a:n'i	'NEG.IMPER'	40.0%
+wik'aw	wik'	'2DU.VOC.IMPER'	100.0%
+wijan	wayac'	'get revenge'	40.0%
+tr`an	tran	'that.SG.PRIM'	100.0%
+,	,	[punc]	100%
+mets'	mec'	'surely'	100.0%
+limik'	limik'	'prairie falcon'	100.0%
+nots'en	no:chro'	'friend'	40.0%
+'amin	'amin	'3SG.GEN'	100.0%
+,	,	[punc]	100%
+'ani	'a:n'i	'NEG.IMPER'	70.0%
+wī́kaw	wik'	'2DU.VOC.IMPER'	100.0%
+wijā'n	wala:'	'?'	10.0%
+tr`an	tran	'that.SG.PRIM'	100.0%
+,	,	[punc]	100%
+t`aw	dab	'next, on the other hand, then'	50.0%
+tran	tran	'that.SG.PRIM'	100.0%
+tran	tran	'that.SG.PRIM'	100.0%
+tr'a'	tr'ap	'bow used for hunting'	50.0%
+ma'	ma'	'2SG.NOM'	100.0%
+lokew	logow	'pound into powder, pulverize'	70.0%
+hintr`an	hina'	'perhaps, maybe'	40.0%
+,	,	[punc]	100%
+than	ta:na	'go'	62.5%
+in	in	[foreign]	100%
+trānit	tra:nit	'that.SG.ABL'	100.0%
+jí'tʃ`a	yiy'ca:/	'do sth alone'	50.0%
+,	,	[punc]	100%
+jet'	yit-'	'be one?'	50.0%
+amin	amin	[foreign]	100%
+wilsin	wilshrin	'but, in spite of that'	100.0%
+qāpan	xapa'	'fly'	70.0%
+maqin	ma:gin	'1DU.INCL.GEN'	70.0%
+,	,	[punc]	100%
+nots'e'in	no:chro'	'friend'	70.0%
+'amin	'amin	'3SG.GEN'	100.0%
+,	,	[punc]	100%
+qajain	xaya:	'place, put'	100.0%
+tran	tran	'that.SG.PRIM'	100.0%
+timahaw	dimaha'	'quiver'	78.6%
+'amin	'amin	'3SG.GEN'	100.0%
+,	,	[punc]	100%
+=	=	[punc]	100%
+cancaje	c'adab	'turn over, tip over, around'	0.0%
+'ama	'ama'	'3SG.NOM'	70.0%
+hijam	hiyam	'already, now'	100.0%
+wa'	wa	'however'	25.0%
+than	ta:na	'go'	62.5%
+in	in	[foreign]	100%
+'ama	'ama'	'3SG.NOM'	70.0%
+ti'itewjamin	de:mide:mi	'think about'	0.0%
+'amin	'amin	'3SG.GEN'	100.0%
+nōts'e'in	no:chro'	'friend'	70.0%
+,	,	[punc]	100%
+'ama	'ama'	'3SG.NOM'	70.0%
+tr`an	tran	'that.SG.PRIM'	100.0%
+tisa'la'in	tis'a'	'sucker fish (first to come out after winter)'	50.0%
+kak	k'ac'	'obsidian'	50.0%
+qā́pal	xa:pal	'feathers'	100.0%
+,	,	[punc]	100%
+'ama'	'ama'	'3SG.NOM'	100.0%
+tran	tran	'that.SG.PRIM'	100.0%
+p`osun	po:su	'blow on'	62.5%
+,	,	[punc]	100%
+overheard	overheard	[foreign]	100%
+interj	interj	[foreign]	100%
+.	.	[punc]	100%
+'ama	'ama'	'3SG.NOM'	70.0%
+traw	traw	'if'	100.0%
+tis̱in	tisi	'come out'	62.5%
+'alwutr'	'alwutr'	'crow'	100.0%
+,	,	[punc]	100%
+wa'staqna'	wa'ashrta'	'very'	25.0%
+wō'ihun	we:shri	'straighten'	25.0%
+wijan	wayac'	'get revenge'	40.0%
+'alwutr'	'alwutr'	'crow'	100.0%
+,	,	[punc]	100%
+ha'nuk	ha'uk	'what.NOM'	70.0%
+mawōjun	ma:wo:lus	'musical bow'	57.1%
+wijá'n	wala:'	'?'	10.0%
+,	,	[punc]	100%
+lokiwhin	logow	'pound into powder, pulverize'	70.0%
+mam	mam	'2SG.PRIM'	100.0%
+tr`a	tra	'that.SG.NOM'	100.0%
+móqlow	mo:xol	'become old'	40.0%
+,	,	[punc]	100%
+silhate	shrilit'	'jump'	10.0%
+min	min	'2SG.GEN'	100.0%
+khin	kin	'this.SG.PRIM'	100.0%
+polta	bo:do	'circumcise'	25.0%
+.	.	[punc]	100%
+silhin	shril'i	'see'	40.0%
+'amin	'amin	'3SG.GEN'	100.0%
+pólta	bo:do	'circumcise'	25.0%
+hijam	hiyam	'already, now'	100.0%
+mótʌkiwik	modrok'wiyi	'be black'	33.3%
+he	he:xi	'fatten'	25.0%
+turned	datr'at	'track'	10.0%
+black	balak'	'be sated (with food)'	40.0%
+!	!	[punc]	100%
+hi'	hi'	'FUT'	100.0%
+mamak	ma'ak'	'2DU.NOM'	70.0%
+t`anhin	ta:na	'go'	62.5%
+,	,	[punc]	100%
+hijowk	hiyuk	'where.NOM'	40.0%
+mak	mak'	'1DU.INCL.NOM'	100.0%
+t`anan	daban	'lose what one has'	70.0%
+wijan	wayac'	'get revenge'	40.0%
+tran	tran	'that.SG.PRIM'	100.0%
+limk'a	laga:	'spend the night'	25.0%
+,	,	[punc]	100%
+mi'n	min	'2SG.GEN'	50.0%
+mak	mak'	'1DU.INCL.NOM'	100.0%
+phana	pana:	'arrive'	100.0%
+jet'	yit-'	'be one?'	50.0%
+jow	yo:w	'go home'	100.0%
+mōqlo'in	mo:xol	'become old'	40.0%
+,	,	[punc]	100%
+'ohom	'ohom	'NEG'	100.0%
+patr	batr	'as usual'	100.0%
+ma'	ma'	'2SG.NOM'	100.0%
+tr`an	tran	'that.SG.PRIM'	100.0%
+hetsansen	he'ca:	'tease (Newman 1944:104 has hec.c.aa, cf. Gamble 1994:78 note 2)'	10.0%
+,	,	[punc]	100%
+hamna'	hamna'	'greedy person'	100.0%
+,	,	[punc]	100%
+ponoj	bonoy	'have two, make two'	100.0%
+'amin	'amin	'3SG.GEN'	100.0%
+witsipai	wichribna:	'give birth to a child'	57.1%
+kajɛni	k'aye:wis/	'ask for mercy'	57.1%
+,	,	[punc]	100%
+'ama	'ama'	'3SG.NOM'	70.0%
+mok	mak'	'1DU.INCL.NOM'	50.0%
+tra	tra	'that.SG.NOM'	100.0%
+paná'in	pak'a:tin	'remember'	57.1%
+,	,	[punc]	100%
+mí'namok	ma'ak'	'2DU.NOM'	0.0%
+pojetsa	boy'e:tr'a:/	'become miserable'	57.1%
+,	,	[punc]	100%
+p`ana'in	pak'a:tin	'remember'	57.1%
+kitaq	gada:y	'be unable to reach sth, give out'	40.0%
+ma'	ma'	'2SG.NOM'	100.0%
+hijawtra'	hiy'aw'tra'	'warrior, fighter'	70.0%
+,	,	[punc]	100%
+wija'n	wala:'	'?'	10.0%
+tr`an	tran	'that.SG.PRIM'	100.0%
+hamna'	hamna'	'greedy person'	100.0%
+.	.	[punc]	100%
+mi'na	min	'2SG.GEN'	0.0%
+hētsi	he:xi	'fatten'	62.5%
+la'na'	la'la'	'wild goose'	75.0%
+min	min	'2SG.GEN'	100.0%
+'ilka	'e:k'a	'see, look at'	25.0%
+t`ojne'in	dotr'e:(')	'break?'	40.0%
+,	,	[punc]	100%
+mi'n	min	'2SG.GEN'	50.0%
+t`oinɛw	t'inew	'notch'	70.0%
+'ilkin	'ile:	'fan'	62.5%
+limik	limik'	'prairie falcon'	100.0%
+.	.	[punc]	100%
+hi	hi'	'FUT'	50.0%
+maqama	ma:xa	'procure, get (116 has maxa)'	25.0%
+wo'jhun	wo:'uy	'fall asleep, sleep'	70.0%
+wija'n	wala:'	'?'	10.0%
+tran	tran	'that.SG.PRIM'	100.0%
+limik	limik'	'prairie falcon'	100.0%
+'ohom	'ohom	'NEG'	100.0%
+wija'n	wala:'	'?'	10.0%
+hamna'	hamna'	'greedy person'	100.0%
+,	,	[punc]	100%
+no'no	no:bo	'gather'	25.0%
+sqa'mak	sha:lak'	'wake up (itr)'	10.0%
+kajinhe	ga:'ina	'woman'	25.0%
+hámna'in	hamna'	'greedy person'	100.0%
+witsiphaj	wichribna:	'give birth to a child'	57.1%
+,	,	[punc]	100%
+himthaw	hilit	'announce'	40.0%
+in	in	[foreign]	100%
+thaw	dab	'next, on the other hand, then'	50.0%
+wo'jo	wo:yo	'be born'	62.5%
+'amam	'amam	'3SG.PRIM'	100.0%
+tr`ími	tr'ik'i	'tie, imprison'	62.5%
+traw	traw	'if'	100.0%
+mak'	mak'	'1DU.INCL.NOM'	100.0%
+tr`imi	tr'ik'i	'tie, imprison'	62.5%
+than	ta:na	'go'	62.5%
+,	,	[punc]	100%
+'ama	'ama'	'3SG.NOM'	70.0%
+'ophothin	'opo:t	'get up (from sleep), arise from bed'	100.0%
+limik'	limik'	'prairie falcon'	100.0%
+'ama	'ama'	'3SG.NOM'	70.0%
+t`isalahin	dala	'flatten (grass or brush on ground)'	25.0%
+'amin	'amin	'3SG.GEN'	100.0%
+'entr`am	'entram	'sleeping potion'	100.0%
+,	,	[punc]	100%
+k'ohin	go:bin	'enter'	70.0%
+tran	tran	'that.SG.PRIM'	100.0%
+'oʃto	'o:sa:/	'feel the opposite sex in the dark'	25.0%
+'éntr`am	'entram	'sleeping potion'	100.0%
+,	,	[punc]	100%
+'ama'	'ama'	'3SG.NOM'	100.0%
+k'ohin	go:bin	'enter'	70.0%
+tr`an	tran	'that.SG.PRIM'	100.0%
+m	mak'	'1DU.INCL.NOM'	0.0%
+wi'ja'n	wa:'al	'breakfast'	0.0%
+(	(	[punc]	100%
+=	=	[punc]	100%
+express	express	[foreign]	100%
+stink	shridig	'pile up (similar objects in a stack)'	40.0%
+'oʃto	'o:sa:/	'feel the opposite sex in the dark'	25.0%
+,	,	[punc]	100%
+|	|	[punc]	100%
+waʃtas'insis	wa:tinuk	'who.GEN'	0.0%
+'amin	'amin	'3SG.GEN'	100.0%
+trekat	tr'adad	'lie on ones back'	40.0%
+,	,	[punc]	100%
+'am	'at'	'cut'	50.0%
+ink	ink	[foreign]	100%
+(	(	[punc]	100%
+nice	nine:	'keep still, become quiet'	62.5%
+flown	flown	[foreign]	100%
+)	)	[punc]	100%
+thantaw	ta:na	'go'	62.5%
+wo'ihun	we:shri	'straighten'	25.0%
+hamna'	hamna'	'greedy person'	100.0%
+pim	pil	'road'	50.0%
+trana	draxa	'step over, take a step'	62.5%
+in	in	[foreign]	100%
+'amak	'amak'	'3DU.NOM'	100.0%
+traw	traw	'if'	100.0%
+lolhin	lilin	'get dewy'	40.0%
+,	,	[punc]	100%
+'aminkin	'amingin	'3DU.GEN'	100.0%
+wo'jowjaw	wo:'uy	'fall asleep, sleep'	10.0%
+,	,	[punc]	100%
+'ama'	'ama'	'3SG.NOM'	100.0%
+tr`a	tra	'that.SG.NOM'	100.0%
+tr`ēqalqohin	tre:xal	'speak'	100.0%
+,	,	[punc]	100%
+himamak	hashrak	'make s.o. thirsty'	10.0%
+wāthanhin	walan	'yesterday'	70.0%
+,	,	[punc]	100%
+ʃala'kek	sha:lak'	'wake up (itr)'	10.0%
+'amam	'amam	'3SG.PRIM'	100.0%
+tr`īmi	tr'ik'i	'tie, imprison'	62.5%
+,	,	[punc]	100%
+wijantran	wa:na	'give'	0.0%
+'alwutr'	'alwutr'	'crow'	100.0%
+,	,	[punc]	100%
+'ohom	'ohom	'NEG'	100.0%
+wija'n	wala:'	'?'	10.0%
+limik'	limik'	'prairie falcon'	100.0%
+,	,	[punc]	100%
+phitswen	pic'i	'count'	62.5%
+makwí'	ma:gin	'1DU.INCL.GEN'	40.0%
+,	,	[punc]	100%
+ʃalak'ikamam	sha:lak'	'wake up (itr)'	0.0%
+pụ́	p'umu	'fill'	25.0%
+,	,	[punc]	100%
+interj	interj	[foreign]	100%
+.	.	[punc]	100%
+wija'n	wala:'	'?'	10.0%
+'alwutr'	'alwutr'	'crow'	100.0%
+:	:	[punc]	100%
+'insis	'insis'	'do well'	78.6%
+wija'n	wala:'	'?'	10.0%
+limik'	limik'	'prairie falcon'	100.0%
+,	,	[punc]	100%
+'ama'	'ama'	'3SG.NOM'	100.0%
+thisala'in	dimaha'	'quiver'	57.1%
+'amin	'amin	'3SG.GEN'	100.0%
+k'umajha'in	k'umayha'	'clothes'	62.5%
+,	,	[punc]	100%
+p`osun	po:su	'blow on'	62.5%
+tr`an	tran	'that.SG.PRIM'	100.0%
+,	,	[punc]	100%
+'ama	'ama'	'3SG.NOM'	70.0%
+tap	dab	'next, on the other hand, then'	100.0%
+ʃālikhin	sha:lak'	'wake up (itr)'	70.0%
+hamna'	hamna'	'greedy person'	100.0%
+,	,	[punc]	100%
+hijuk	hiyuk	'where.NOM'	100.0%
+ma'	ma'	'2SG.NOM'	100.0%
+hijawtra'	hiy'aw'tra'	'warrior, fighter'	70.0%
+,	,	[punc]	100%
+'om	'op	'moon, a watch'	50.0%
+tr`aw	traw	'if'	100.0%
+.	.	[punc]	100%
+h`osin	hishrin	'hide'	40.0%
+hin	hi'	'FUT'	50.0%
+tr`an	tran	'that.SG.PRIM'	100.0%
+,	,	[punc]	100%
+'ama'	'ama'	'3SG.NOM'	100.0%
+(	(	[punc]	100%
+he	he:xi	'fatten'	25.0%
+did	di'	'with a little doubt'	50.0%
+not	now	'hook'	50.0%
+find	find	[foreign]	100%
+him	hi'	'FUT'	50.0%
+)	)	[punc]	100%
+.	.	[punc]	100%
+pothin	bo:do	'circumcise'	62.5%
+hamna'	hamna'	'greedy person'	100.0%
+min	min	'2SG.GEN'	100.0%
+k`in	kin	'this.SG.PRIM'	100.0%
+pen	be:ni	'cook by burying in ashes'	62.5%
+ts'uju	c'uyo:	'urinate'	62.5%
+'aqma'	'ama'	'3SG.NOM'	70.0%
+hijo'uk	hiyo'uk	'where.LOC'	100.0%
+t`anal	da'al	'come to life, escape'	70.0%
+hijawtra'	hiy'aw'tra'	'warrior, fighter'	70.0%
+t`á	dab	'next, on the other hand, then'	50.0%
+'amam	'amam	'3SG.PRIM'	100.0%
+hiqáthin	hilal	'be visible, appear'	40.0%
+,	,	[punc]	100%
+hijam	hiyam	'already, now'	100.0%
+pilisin	bilishr	'finish'	100.0%
+'amin	'amin	'3SG.GEN'	100.0%
+k`inpa	gapa	'uphold, help'	25.0%
+,	,	[punc]	100%
+'ama'	'ama'	'3SG.NOM'	100.0%
+mik`wa	makwa	'1DU.INCL.PRIM'	70.0%
+tamnahin	damna:	'try'	100.0%
+hā́m	ha:tam	'dance'	40.0%
+wijá'n	wala:'	'?'	10.0%
+,	,	[punc]	100%
+'ama'	'ama'	'3SG.NOM'	100.0%
+'amak	'amak'	'3DU.NOM'	100.0%
+t`aqinin	tawin	'to become morning'	70.0%
+,	,	[punc]	100%
+t`a	dab	'next, on the other hand, then'	50.0%
+há'in	hi'	'FUT'	50.0%
+'amā́mikwa	'ama:mikwa	'3DU.PRIM'	100.0%
+khi	ki	'when'	100.0%
+'amin	'amin	'3SG.GEN'	100.0%
+hāmwij̥	ha:ywiyi	'answer'	57.1%
+.	.	[punc]	100%
+pisnamam	pispasa'	'hen with chicks'	43.8%
+wija'āhin	wa:'al	'breakfast'	10.0%
+qaten	xata	'eat'	25.0%
+makwij	ma:gin	'1DU.INCL.GEN'	40.0%
+wija'n	wala:'	'?'	10.0%
+'amin	'amin	'3SG.GEN'	100.0%
+notse'in	no:chro'	'friend'	70.0%
+,	,	[punc]	100%
+'ama'	'ama'	'3SG.NOM'	100.0%
+jow	yo:w	'go home'	100.0%
+'amāmikwa	'ama:mikwa	'3DU.PRIM'	100.0%
+hā	hawa	'do what?'	25.0%
+m	mak'	'1DU.INCL.NOM'	0.0%
+wihin	widin	'roll sth'	70.0%
+,	,	[punc]	100%
+mé'k`inamakwa	ma:mikwa	'2DU.PRIM'	0.0%
+,	,	[punc]	100%
+'ama'	'ama'	'3SG.NOM'	100.0%
+thisālahin	dala	'flatten (grass or brush on ground)'	25.0%
+limik	limik'	'prairie falcon'	100.0%
+'amin	'amin	'3SG.GEN'	100.0%
+'útr`ats'ḁ	'a:dran	'be exited [sic]'	10.0%
+.	.	[punc]	100%
+'ama	'ama'	'3SG.NOM'	70.0%
+tr`an	tran	'that.SG.PRIM'	100.0%
+kawlahin	gatr'la:	'fish with a hook and line'	70.0%
+kopin	go:bin	'enter'	100.0%
+'amin	'amin	'3SG.GEN'	100.0%
+samaw	sama'	'mouth'	70.0%
+'ama'	'ama'	'3SG.NOM'	100.0%
+amak	amak	[foreign]	100%
+traw	traw	'if'	100.0%
+hološun	ho:mon	'welcome, greet'	10.0%
+'ankima	'angi'	'Q'	50.0%
+hijam	hiyam	'already, now'	100.0%
+jehesinhin	yehe:sin	'rest'	100.0%
+wija'n	wala:'	'?'	10.0%
+uctse'in	uctse'in	[foreign]	100%
+'amin	'amin	'3SG.GEN'	100.0%
+,	,	[punc]	100%
+huhu	hucu	'frighten s.o. by being a ghost'	62.5%
+wija'n	wala:'	'?'	10.0%
+jamak	yawa:l	'follow, pursue'	40.0%
+tr`īmi	tr'ik'i	'tie, imprison'	62.5%
+wija'n	wala:'	'?'	10.0%
+'álwutr'	'alwutr'	'crow'	100.0%
+,	,	[punc]	100%
+'ama'a	'ama'	'3SG.NOM'	70.0%
+patr	batr	'as usual'	100.0%
+'amāmikwa	'ama:mikwa	'3DU.PRIM'	100.0%
+khosinhin	kisinwin	'this.PL.GEN'	62.5%
+,	,	[punc]	100%
+'ama'	'ama'	'3SG.NOM'	100.0%
+jow	yo:w	'go home'	100.0%
+missed	masse:/	'corn'	40.0%
+|him	hi'	'FUT'	50.0%
+hāmwihin	hawa	'do what?'	25.0%
+'ama'	'ama'	'3SG.NOM'	100.0%
+patr	batr	'as usual'	100.0%
+'amāmikwa	'ama:mikwa	'3DU.PRIM'	100.0%
+tsanum	canum	'immediately'	100.0%
+phanlahin	pana:	'arrive'	62.5%
+,	,	[punc]	100%
+(	(	[punc]	100%
+produce	bo:do	'circumcise'	0.0%
+)	)	[punc]	100%
+hā́m	ha:tam	'dance'	40.0%
+wīmi	wip'i	'jerk up quickly'	62.5%
+,	,	[punc]	100%
+'ama'	'ama'	'3SG.NOM'	100.0%
+alwutr'	alwutr'	[foreign]	100%
+ha'k	ha'uk	'what.NOM'	70.0%
+patr	batr	'as usual'	100.0%
+khijow	goyow	'win back what one has lost'	70.0%
+kom	k'otr'	'tule'	50.0%
+kom	k'otr'	'tule'	50.0%
+wijá'n	wala:'	'?'	10.0%
+,	,	[punc]	100%
+'uʃuk	'ushruk'	'heart'	100.0%
+'amin	'amin	'3SG.GEN'	100.0%
+wija'n	wala:'	'?'	10.0%
+.	.	[punc]	100%
+limik	limik'	'prairie falcon'	100.0%
+,	,	[punc]	100%
+tʃ`iska	tr'iag	'lie on the top of sth'	25.0%
+wija'n	wala:'	'?'	10.0%
+'alwutr'	'alwutr'	'crow'	100.0%
+tran	tran	'that.SG.PRIM'	100.0%
+wija'n	wala:'	'?'	10.0%
+,	,	[punc]	100%
+(	(	[punc]	100%
+limik	limik'	'prairie falcon'	100.0%
+got	k'otr'	'tule'	50.0%
+tr`olótr`ol	tr'o:lo	'peel'	0.0%
+,	,	[punc]	100%
+a	a	[foreign]	100%
+sharp	s(hr)alap'	'shave, whittle'	40.0%
+plant	pana:	'arrive'	25.0%
+that	dab	'next, on the other hand, then'	50.0%
+grows	ge:wi	'meet'	0.0%
+on	on	[foreign]	100%
+the	de:yi	'take the lead, get in front'	25.0%
+water	watuk	'who.NOM'	40.0%
+,	,	[punc]	100%
+out	out	[foreign]	100%
+&	&	[punc]	100%
+cut	zhux	'headdress worn by shamans and dancers'	50.0%
+out	out	[foreign]	100%
+hamna's	hamna'	'greedy person'	75.0%
+heart	hadray	'make s.o. a glutton'	10.0%
+out	out	[foreign]	100%
+.	.	[punc]	100%
+)	)	[punc]	100%
+'ama'	'ama'	'3SG.NOM'	100.0%
+tisālahin	dala	'flatten (grass or brush on ground)'	25.0%
+'amin	'amin	'3SG.GEN'	100.0%
+tr`olotr`ol	tr'o:lo	'peel'	0.0%
+,	,	[punc]	100%
+tʃisin	tripin	'on top of'	70.0%
+'amin	'amin	'3SG.GEN'	100.0%
+'uʃka	'e:k'a	'see, look at'	25.0%
+'ama	'ama'	'3SG.NOM'	70.0%
+t`awitr`in	ta:witr	'die'	100.0%
+,	,	[punc]	100%
+tr`éw'amak	tr'aw'a	'win from'	0.0%
+jehe|sin	yehe:sin	'rest'	100.0%
+hin	hi'	'FUT'	50.0%
+)	)	[punc]	100%
+.	.	[punc]	100%
+there	de:yi	'take the lead, get in front'	25.0%
+they	de:yi	'take the lead, get in front'	62.5%
+rested	tr'it'et'	'anus'	40.0%
+|snin	shre:nitr'	'smell'	40.0%
+|	|	[punc]	100%
+mí'n	min	'2SG.GEN'	50.0%
+amak	amak	[foreign]	100%
+jow	yo:w	'go home'	100.0%
+t`ahan	daban	'lose what one has'	70.0%
+,	,	[punc]	100%
+mi'n	min	'2SG.GEN'	50.0%
+'amak	'amak'	'3DU.NOM'	100.0%
+phana'	pana:	'arrive'	62.5%
+,	,	[punc]	100%
+		[punc]	100%
+(	(	[punc]	100%
+ts`op`nik	c'onis	'apron'	40.0%
+,	,	[punc]	100%
+(	(	[punc]	100%
+another	another	[foreign]	100%
+personality	ba'o:nay	'wasp'	0.0%
+.	.	[punc]	100%
+)	)	[punc]	100%
+'ohom	'ohom	'NEG'	100.0%
+patr	batr	'as usual'	100.0%
+ma'	ma'	'2SG.NOM'	100.0%
+witip	widin	'roll sth'	70.0%
+na	na'	'1SG.NOM'	50.0%
+tr'en	tr'un	'anal hair'	50.0%
+wija'n	wala:'	'?'	10.0%
+'amin	'amin	'3SG.GEN'	100.0%
+nōts`e'in	no:chro'	'friend'	70.0%
+,	,	[punc]	100%
+waqlem	wa:xal	'weep'	10.0%
+patr	batr	'as usual'	100.0%
+mihi'	mihi'	'2SG.NOM FUT'	100.0%
+ponoj	bonoy	'have two, make two'	100.0%
+'amin	'amin	'3SG.GEN'	100.0%
+t`a'n	da'ak'	'shine (of sun)'	40.0%
+witsiphaj	wichribna:	'give birth to a child'	57.1%
+ts`op`ínk'in	co:pun	'consent'	40.0%
+,	,	[punc]	100%
+tsanum	canum	'immediately'	100.0%
+'amāmikwa	'ama:mikwa	'3DU.PRIM'	100.0%
+linits'hin	linic'	'talk to, speak (see letsa)'	100.0%
+,	,	[punc]	100%
+kisik	kisik'	'this.DU.NOM'	100.0%
+patr	batr	'as usual'	100.0%
+wa'ʃta	wa'ashrta:/	'be more, be very much'	78.6%
+mamikwa	ma:mikwa	'2DU.PRIM'	100.0%
+tr`itr'ew	tr'idiw	'shell (nuts)'	40.0%
+joq|o'	yonxo'	'gray squirrel'	75.0%
+māmikwa'	ma:mikwa	'2DU.PRIM'	78.6%
+wija'n	wala:'	'?'	10.0%
+'amin	'amin	'3SG.GEN'	100.0%
+wits''ip̄haj	wichribna:	'give birth to a child'	35.7%
+,	,	[punc]	100%
+He	he:xi	'fatten'	25.0%
+does	do'o	'touch with the penis'	25.0%
+not	now	'hook'	50.0%
+remember	tr'e'et'in	'conjure, perform miracles'	0.0%
+how	hon	'egg'	50.0%
+they	de:yi	'take the lead, get in front'	62.5%
+killed	k'iley	'cloud'	40.0%
+the	de:yi	'take the lead, get in front'	25.0%
+old	old	[foreign]	100%
+gentle	gonlo:	'cause to descend'	10.0%
+man	mak'	'1DU.INCL.NOM'	50.0%
+.	.	[punc]	100%
+waski	wasto	'be possible'	40.0%
+he'ts`i	he'ca:	'tease (Newman 1944:104 has hec.c.aa, cf. Gamble 1994:78 note 2)'	70.0%
+t`ojnen	toyon	'be night'	70.0%
+,	,	[punc]	100%
+ma'	ma'	'2SG.NOM'	100.0%
+'atran	'a:dran	'be exited [sic]'	100.0%
+'ama'	'ama'	'3SG.NOM'	100.0%
+na'	na'	'1SG.NOM'	100.0%
+lā́na'	la:na	'hear'	62.5%
+hijām	hiyam	'already, now'	100.0%
+'iwasta'	'ama'	'3SG.NOM'	0.0%
+'oho'm	'ohom	'NEG'	70.0%
+na	na'	'1SG.NOM'	50.0%
+kanōhohin	ganaw	'tangle, wrap around s.o.'	10.0%
+min	min	'2SG.GEN'	100.0%
+'útr`a	'adra	'chop'	62.5%
+,	,	[punc]	100%
+mi'n	min	'2SG.GEN'	50.0%
+tap	dab	'next, on the other hand, then'	100.0%
+t`o'jnow	do'o	'touch with the penis'	0.0%
+'utr`on	'ugo:n	'drink'	70.0%
+límik'	limik'	'prairie falcon'	100.0%
+,	,	[punc]	100%
+jow	yo:w	'go home'	100.0%
+tap	dab	'next, on the other hand, then'	100.0%
+la'na'	la'la'	'wild goose'	75.0%
+mi'n	min	'2SG.GEN'	50.0%
+ts`óp`nik	c'onis	'apron'	40.0%
+,	,	[punc]	100%
+t`an	ta:na	'go'	62.5%
+ts'inaqo'	c'ala	'hatch'	25.0%
+'amīnkin	'amingin	'3DU.GEN'	100.0%
+wu'ja	wa:'al	'breakfast'	10.0%
+'ama'	'ama'	'3SG.NOM'	100.0%
+'amāmikwa	'ama:mikwa	'3DU.PRIM'	100.0%
+ʃoqen	so:xun	'vanish, --> die'	70.0%
+jow	yo:w	'go home'	100.0%
+'amak	'amak'	'3DU.NOM'	100.0%
+tha'n	da'ak'	'shine (of sun)'	40.0%
+wijēqo	wiyi	'say, do'	62.5%
+ts`ínaqo	c'ala	'hatch'	25.0%
+'amak	'amak'	'3DU.NOM'	100.0%
+t`a'n	da'ak'	'shine (of sun)'	40.0%
+'amin	'amin	'3SG.GEN'	100.0%
+wú'ja	wa:'al	'breakfast'	10.0%
+,	,	[punc]	100%
+'ama'	'ama'	'3SG.NOM'	100.0%
+mak	mak'	'1DU.INCL.NOM'	100.0%
+ṯ'an	da'ak'	'shine (of sun)'	40.0%
+t`áwtr`a'	tawtra:	'kill tr'	70.0%
+,	,	[punc]	100%
+'ama'	'ama'	'3SG.NOM'	100.0%
+t`awnaw	tawan	'be dawn'	70.0%
+traw	traw	'if'	100.0%
+'amaktr`an	'amak'	'3DU.NOM'	10.0%
+ts`isin	chri'in	'waylay'	70.0%
+'ṓkunaw	'o:kuc'	'depend upon, desire'	70.0%
+.	.	[punc]	100%
+'ama'	'ama'	'3SG.NOM'	100.0%
+traw	traw	'if'	100.0%
+phanahin	pak'a:tin	'remember'	57.1%
+k`á'jiw	ga:'it	'young woman'	40.0%
+,	,	[punc]	100%
+persn	batr'in	'fall down'	40.0%
+.	.	[punc]	100%
+nom	nim	'1SG.GEN'	50.0%
+.	.	[punc]	100%
+himki	hik'iy	'play'	40.0%
+mautran	ma'an	'2PL.NOM'	40.0%
+t`aw	dab	'next, on the other hand, then'	50.0%
+trāhin	tra:'in	'that.SG.GEN'	70.0%
+wija'n	wala:'	'?'	10.0%
+,	,	[punc]	100%
+húhu	hucu	'frighten s.o. by being a ghost'	62.5%
+wija'n	wala:'	'?'	10.0%
+limik'	limik'	'prairie falcon'	100.0%
+,	,	[punc]	100%
+wakij	wak'ay	'donate, give in the sense of help or charity'	70.0%
+'insis	'insis'	'do well'	78.6%
+,	,	[punc]	100%
+wija'n	wala:'	'?'	10.0%
+k`a'jaw	ga:yal	'await?'	40.0%
+,	,	[punc]	100%
+mí'na	min	'2SG.GEN'	0.0%
+natr`an	na'an	'1PL.EXCL.NOM'	70.0%
+luklon	lagan	'set a day for a feast'	10.0%
+(	(	[punc]	100%
+=	=	[punc]	100%
+packed	pak'at	'remind, make remember'	40.0%
+off	off	[foreign]	100%
+the	de:yi	'take the lead, get in front'	25.0%
+head	he:xi	'fatten'	25.0%
+&	&	[punc]	100%
+threw	dotr'e:(')	'break?'	40.0%
+it	it	[foreign]	100%
+in	in	[foreign]	100%
+crack	c'ak'	'blackbird'	0.0%
+in	in	[foreign]	100%
+nock	no:bo	'gather'	25.0%
+and	and	[foreign]	100%
+left	left	[foreign]	100%
+the	de:yi	'take the lead, get in front'	25.0%
+body	bo:do	'circumcise'	62.5%
+)	)	[punc]	100%
+.	.	[punc]	100%
+wija'n	wala:'	'?'	10.0%
+.	.	[punc]	100%
+t`awtran	tawan	'be dawn'	70.0%
+tran	tran	'that.SG.PRIM'	100.0%
+'ama'	'ama'	'3SG.NOM'	100.0%
+hijam	hiyam	'already, now'	100.0%
+'amak	'amak'	'3DU.NOM'	100.0%
+tap	dab	'next, on the other hand, then'	100.0%
+moklḗ'jits'	mokye:'	'take a wife'	0.0%
+.	.	[punc]	100%
+himamakwa	hashra:k'in	'be thirsty'	0.0%
+k`a'ju	ga:'it	'young woman'	40.0%
+'apij	'abiy	'with.ACCOMP'	100.0%
+qó'qo	xo'lo:	'take off (only clothes)'	70.0%
+hímaman	hiyam	'already, now'	10.0%
+ʃṓpin	shrop'ix	'stomach, paunch'	70.0%
+hijam	hiyam	'already, now'	100.0%
+patr	batr	'as usual'	100.0%
+hū́t`un	hudu	'recognize, know'	62.5%
+k`a'juw	ga:yal	'await?'	10.0%
+,	,	[punc]	100%
+taqninhin	tawin	'to become morning'	40.0%
+tr`a	tra	'that.SG.NOM'	100.0%
+'otr'ow	'otr'ow	'hair on head'	100.0%
+ts`opink'in	co:pun	'consent'	40.0%
+,	,	[punc]	100%
+t`óinen	dopin	'buckeye'	70.0%
+wijá'n	wala:'	'?'	10.0%
+,	,	[punc]	100%
+wats'éts	wac'a	'bind a child in a cradle'	25.0%
+wisen	widin	'roll sth'	40.0%
+ma'k	mak'	'1DU.INCL.NOM'	50.0%
+wijá'n	wala:'	'?'	10.0%
+k`a'jiw	ga:'it	'young woman'	40.0%
+tautr`a	tawtra:	'kill tr'	70.0%
+maj	may	'1PL.INCL.NOM'	100.0%
+wīhi'	wisi'	'wait awhile'	70.0%
+wijá'n	wala:'	'?'	10.0%
+,	,	[punc]	100%
+'ama'	'ama'	'3SG.NOM'	100.0%
+mitna'	mizhna'	'indeed, surely'	75.0%
+tho'jne'in	dotr'e:(')	'break?'	10.0%
+phana'in	pak'a:tin	'remember'	57.1%
+hijam	hiyam	'already, now'	100.0%
+'amínōkun	'amino:gun	'3PL.GEN'	100.0%
+wo'ithaw	wo:'uy	'fall asleep, sleep'	40.0%
+,	,	[punc]	100%
+him	hi'	'FUT'	50.0%
+'aminōkun	'amino:gun	'3PL.GEN'	100.0%
+wō'ithaw	wo:'uy	'fall asleep, sleep'	40.0%
+jow	yo:w	'go home'	100.0%
+tap	dab	'next, on the other hand, then'	100.0%
+t`aqnnen	daban	'lose what one has'	40.0%
+'otr'ow	'otr'ow	'hair on head'	100.0%
+,	,	[punc]	100%
+tem̄	dama	'make suffocate'	25.0%
+wija'n	wala:'	'?'	10.0%
+taqnēni	taxa:	'bring'	62.5%
+,	,	[punc]	100%
+tr`okon	tro:k'o	'strike, hit'	62.5%
+'amāminwa	'ama:minwa	'3PL.PRIM'	100.0%
+,	,	[punc]	100%
+'ama'	'ama'	'3SG.NOM'	100.0%
+patr	batr	'as usual'	100.0%
+tap	dab	'next, on the other hand, then'	100.0%
+k`a'juw	ga:yal	'await?'	10.0%
+'ophoten	'opo:t	'get up (from sleep), arise from bed'	100.0%
+'ama'	'ama'	'3SG.NOM'	100.0%
+patr	batr	'as usual'	100.0%
+tr`an	tran	'that.SG.PRIM'	100.0%
+maqen	ma:gin	'1DU.INCL.GEN'	40.0%
+t`anapatr`an	daban	'lose what one has'	0.0%
+'amāmaw	'amam	'3SG.PRIM'	100.0%
+'ama	'ama'	'3SG.NOM'	70.0%
+patr	batr	'as usual'	100.0%
+t`awtr`an	tawan	'be dawn'	70.0%
+lúk'lon	lagan	'set a day for a feast'	10.0%
+,	,	[punc]	100%
+hijam	hiyam	'already, now'	100.0%
+kimatr`an	galan	'have a miscarriage, die in childbirth'	10.0%
+thanáhin	tana:'iy	'footprints, tracks'	57.1%
+wija'n	wala:'	'?'	10.0%
+tr`an	tran	'that.SG.PRIM'	100.0%
+hijawtr`a	hiy'aw'tra:/	'become belligerent'	66.7%
+,	,	[punc]	100%
+huhu	hucu	'frighten s.o. by being a ghost'	62.5%
+wija'n	wala:'	'?'	10.0%
+k`ájiw	kay'iw	'coyote'	75.0%
+,	,	[punc]	100%
+tī́tsin	dibin	'well'	70.0%
+na'	na'	'1SG.NOM'	100.0%
+tr`an	tran	'that.SG.PRIM'	100.0%
+hēts`i'	he:zhi'	'today'	100.0%
+,	,	[punc]	100%
+'ohom	'ohom	'NEG'	100.0%
+hiyow	hiyuk	'where.NOM'	40.0%
+táqnen	taxa:	'bring'	62.5%
+wija'n	wala:'	'?'	10.0%
+,	,	[punc]	100%
+'ama'	'ama'	'3SG.NOM'	100.0%
+patr	batr	'as usual'	100.0%
+'aminōkun	'amino:gun	'3PL.GEN'	100.0%
+waʃtow	wasto	'be possible'	70.0%
+woit`aw	wik'	'2DU.VOC.IMPER'	0.0%
+jopot̄ap	yo:wo	'go home'	0.0%
+táqnen	taxa:	'bring'	62.5%
+,	,	[punc]	100%
+tr`a	tra	'that.SG.NOM'	100.0%
+'otr`o	'o:tr'u	'steal'	62.5%
+,	,	[punc]	100%
+t`awnaw	tawan	'be dawn'	70.0%
+mi'n	min	'2SG.GEN'	50.0%
+'amāminwa	'ama:minwa	'3PL.PRIM'	100.0%
+wāʃta	wasto	'be possible'	70.0%
+pojit'na'	bay'e:na:/	'know how, learn'	14.3%
+.	.	[punc]	100%
+min	min	'2SG.GEN'	100.0%
+ts`awphaw	cawa	'shout'	62.5%
+phana'	pana:	'arrive'	62.5%
+hijam	hiyam	'already, now'	100.0%
+t`awinhin	tawin	'to become morning'	100.0%
+,	,	[punc]	100%
+daylight	t'ayak	'the little finger'	0.0%
+.	.	[punc]	100%
+mi'n	min	'2SG.GEN'	50.0%
+'amānwa	'aman	'3PL.NOM'	40.0%
+tsawphaw	cawa	'shout'	62.5%
+trṓken	tre:kin	'fear, become exited [sic] with'	40.0%
+,	,	[punc]	100%
+mi'n	min	'2SG.GEN'	50.0%
+patr	batr	'as usual'	100.0%
+waqlen	wa:xal	'weep'	70.0%
+limik'	limik'	'prairie falcon'	100.0%
+wākwākwija'n	wak'ak'wiyi	'open the mouth'	33.3%
+,	,	[punc]	100%
+hijam	hiyam	'already, now'	100.0%
+'amak	'amak'	'3DU.NOM'	100.0%
+pojets'a'jin	boy'e:tr'a:/	'become miserable'	14.3%
+hijam	hiyam	'already, now'	100.0%
+'amak	'amak'	'3DU.NOM'	100.0%
+'ohom	'ohom	'NEG'	100.0%
+hijo'k	hiyo'uk	'where.LOC'	78.6%
+thahan	daban	'lose what one has'	70.0%
+,	,	[punc]	100%
+k`a'jiw	ga:'it	'young woman'	40.0%
+t`an	ta:na	'go'	62.5%
+hijam	hiyam	'already, now'	100.0%
+.	.	[punc]	100%
+pojētsáhin	boy'e:tr'a:/	'become miserable'	57.1%
+,	,	[punc]	100%
+'ohom	'ohom	'NEG'	100.0%
+kimak	kisik'	'this.DU.NOM'	40.0%
+na'ʃ	na'	'1SG.NOM'	50.0%
+hijok	hiyuk	'where.NOM'	70.0%
+t`a'nal	da'al	'come to life, escape'	70.0%
+wija'n	wala:'	'?'	10.0%
+'alwutr	'alwutr'	'crow'	100.0%
+na'n	na'	'1SG.NOM'	50.0%
+nots'e'in	no:chro'	'friend'	70.0%
+'amin	'amin	'3SG.GEN'	100.0%
+limk'a	laga:	'spend the night'	25.0%
+,	,	[punc]	100%
+mi'n	min	'2SG.GEN'	50.0%
+mok	mak'	'1DU.INCL.NOM'	50.0%
+ta't`a'n	da'a'le:	'bring to life'	35.7%
+nusṓsónim	nusos	'paternal aunt'	0.0%
+wijá'n	wala:'	'?'	10.0%
+,	,	[punc]	100%
+'ama'	'ama'	'3SG.NOM'	100.0%
+'amak	'amak'	'3DU.NOM'	100.0%
+tr'ānit	tra:nit	'that.SG.ABL'	100.0%
+t`aqhinhin	tawin	'to become morning'	40.0%
+,	,	[punc]	100%
+ts'ololiw	c'olo:win	'plains, flat open place'	57.1%
+lomt`ow	logow	'pound into powder, pulverize'	40.0%
+(	(	[punc]	100%
+the	de:yi	'take the lead, get in front'	25.0%
+rocky	tro:k'o	'strike, hit'	25.0%
+hill	hilal	'be visible, appear'	70.0%
+n	na'	'1SG.NOM'	0.0%
+.	.	[punc]	100%
+of	of	[foreign]	100%
+the	de:yi	'take the lead, get in front'	25.0%
+Porterville	Porterville	[foreign]	100%
+reservation	reservation	[foreign]	100%
+)	)	[punc]	100%
+.	.	[punc]	100%
+hijam	hiyam	'already, now'	100.0%
+'amā́mikwa	'ama:mikwa	'3DU.PRIM'	100.0%
+tap	dab	'next, on the other hand, then'	100.0%
+jowaljéqo'	yawa:l	'follow, pursue'	10.0%
+,	,	[punc]	100%
+khajiw	kay'iw	'coyote'	75.0%
+tap	dab	'next, on the other hand, then'	100.0%
+'apīt`á'n	'ama'	'3SG.NOM'	0.0%
+,	,	[punc]	100%
+soqotoq̄	sodox	'throw'	40.0%
+'on	'op	'moon, a watch'	50.0%
+tr`an	tran	'that.SG.PRIM'	100.0%
+'ēman	'e:man	'to no avail'	100.0%
+'otr'ow	'otr'ow	'hair on head'	100.0%
+khin	kin	'this.SG.PRIM'	100.0%
+k`á'jiw	ga:'it	'young woman'	40.0%
+wa	wa	'however'	100.0%
+t`á'nas	da'ak'	'shine (of sun)'	40.0%
+tá'l'an	da'a'le:	'bring to life'	35.7%
+,	,	[punc]	100%
+came	c'ala	'hatch'	25.0%
+to	totr	'belly'	50.0%
+life	life	[foreign]	100%
+.	.	[punc]	100%
+'ama'	'ama'	'3SG.NOM'	100.0%
+tr`aw	traw	'if'	100.0%
+'aminkin	'amingin	'3DU.GEN'	100.0%
+p`anātaw	p'axa:t'	'mourn'	70.0%
+wija'ntr`an	wa:'al	'breakfast'	0.0%
+nusus	nusos	'paternal aunt'	70.0%
+'amin	'amin	'3SG.GEN'	100.0%
+,	,	[punc]	100%
+wáts'	wac'a	'bind a child in a cradle'	62.5%
+min	min	'2SG.GEN'	100.0%
+'ohom	'ohom	'NEG'	100.0%
+lán	la:na	'hear'	62.5%
+,	,	[punc]	100%
+'an	'at'	'cut'	50.0%
+i	i	[foreign]	100%
+hetsawska	hawa	'do what?'	0.0%
+khin	kin	'this.SG.PRIM'	100.0%
+tr`ēphan	tr'e:'a:	'seek a husband'	25.0%
+hi	hi'	'FUT'	50.0%
+wija'n	wala:'	'?'	10.0%
+pus	bashr	'marrow'	50.0%
+namam	na:naw	'1SG.LOC'	40.0%
+'ēman	'e:man	'to no avail'	100.0%
+,	,	[punc]	100%
+'ama'	'ama'	'3SG.NOM'	100.0%
+hijam	hiyam	'already, now'	100.0%
+'aminkin	'amingin	'3DU.GEN'	100.0%
+tr`aw	traw	'if'	100.0%
+jōt`ow	yolo:w	'assemble tr'	70.0%
+jow	yo:w	'go home'	100.0%
+tap	dab	'next, on the other hand, then'	100.0%
+taqnin	taxa:	'bring'	62.5%
+'ótr'ow	'otr'ow	'hair on head'	100.0%
+,	,	[punc]	100%
+hijam	hiyam	'already, now'	100.0%
+amak	amak	[foreign]	100%
+tap	dab	'next, on the other hand, then'	100.0%
+kopin	go:bin	'enter'	100.0%
+qṓqow	xo:now	'always'	70.0%
+lomt`ow	logow	'pound into powder, pulverize'	40.0%
+jow	yo:w	'go home'	100.0%
+tap	dab	'next, on the other hand, then'	100.0%
+t`aqnen	taxa:	'bring'	62.5%
+'otrow	'otr'ow	'hair on head'	100.0%
+,	,	[punc]	100%
+tr`aw	traw	'if'	100.0%
+tr`ok	tro:k'o	'strike, hit'	62.5%
+hinkin	hik'iy	'play'	40.0%
+lomtow	logow	'pound into powder, pulverize'	40.0%
+'ama	'ama'	'3SG.NOM'	70.0%
+traw	traw	'if'	100.0%
+tr'iwīhin	tr'iwi	'wet (sic)'	100.0%
+,	,	[punc]	100%
+busted	bine:t	'ask'	10.0%
+'ama'	'ama'	'3SG.NOM'	100.0%
+tr`a'	tr'ap	'bow used for hunting'	50.0%
+'amin	'amin	'3SG.GEN'	100.0%
+h'op'	hodob	'make four'	40.0%
+tr`a	tra	'that.SG.NOM'	100.0%
+ts'ololho'	c'e:la:lno:	'go on the bridge (N-->V)'	14.3%
+tr`aw	traw	'if'	100.0%
+ts'ṓ'munhun	c'o:mu	'destroy, devour'	25.0%
+,	,	[punc]	100%
+t`ā'min	tawin	'to become morning'	40.0%
+ts'umun	c'umun	'end'	100.0%
+.	.	[punc]	100%
+		[punc]	100%
