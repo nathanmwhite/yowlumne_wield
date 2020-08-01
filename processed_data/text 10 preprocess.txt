@@ -1,6 +1,6 @@
 p`anahin	pana:	'arrive'	100.0%
 'aminōkun	'amino:gun	'3PL.GEN'	100.0%
-trew	traw	'that.SG.LOC'	100.0%
+trew	tri'	'house'	100.0%
 k`a'jiw	kay'iw	'coyote'	100.0%
 ,	,	[punc]	100.0%
 'eljiwu'n	'e:liw	'bloom'	25.0%
