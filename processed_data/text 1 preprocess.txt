@@ -11,11 +11,7 @@ tap	dab	'next, on the other hand, then'	100.0%
 jokhots'	yokoc'	'person, people'	100.0%
 wolqoqōhin	walxo:	'pass'	100.0%
 'ithapnitr`a	'ithapnitr`a	'[name]'	100.0%
-<<<<<<< HEAD
-sonorēñu	'[foreign]'	100.0%
-=======
 sonorēñu	sonorēñu	[foreign]	100.0%
->>>>>>> preprocessed_texts
 ,	,	[punc]	100.0%
 wowlu	wo:wul	'stand'	100.0%
 'amnōkun	'amino:gun	'3PL.GEN'	100.0%
