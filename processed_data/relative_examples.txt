@@ -1,0 +1,356 @@
+'ama'	'ama'	'3SG.NOM'	100.0%
+k`a'jiw	kay'iw	'coyote'	100.0%
+wīhin	wiyi	'say, do'	100.0%
+li'mk'in	limik'	'prairie falcon'	100.0%
+kē'ajhi	gi'iy	'enemy'	100.0%
+na'	na'	'1SG.NOM'	100.0%
+hut'ēqo'	hudu	'recognize, know'	100.0%
+hawa't`am'uk`	hawa'tamuk	'having done what? (interrogative)'	100.0%
+ma'an	ma'an	'2PL.NOM'	100.0%
+na'aʃr	na'ashr	'dubitative'	100.0%
+tr`an	tran	'that.SG.PRIM'	100.0%
+tr'a'wal	tr'aw'a	'win from'	100.0%
+.	.	[punc]	100.0%
+'ama'	'ama'	'and'	100.0%
+k`a'jiw	kay'iw	'coyote'	100.0%
+tr`ānit	tra:nit	'that.SG.ABL'	100.0%
+t`anhin	ta:na	'go'	100.0%
+puk'aliw	buk'k'al	'hill, knoll'	100.0%
+tr`aw	traw	'that.SG.ABL'	100.0%
+'atil	'adil	'under'	100.0%
+qo'qōhin	xo:	'live, exist, be'	100.0%
+kuti'	gude'	'small'	100.0%
+'ilik'	'ilik'	'water'	100.0%
+traw	traw	'if'	100.0%
+limik'	limik'	'prairie falcon'	100.0%
+jow	yow	'and, also, again'	100.0%
+p'ohō'it'	p'oho:'itr'	'weasel'	100.0%
+huwtruwsāhin	huwtruwus	'game name'	100.0%
+'ama'	'ama'	'and'	100.0%
+p'ohō'it'	p'oho:'itr'	'weasel'	100.0%
+tran	tran	'that.SG.PRIM'	100.0%
+tr'a'wa'āhin	tr'aw'a	'win from'	100.0%
+tra%	tra	'that.SG.NOM'	100.0%
+tran%	tran	'that.SG.PRIM'	100.0%
+'aʃr	'ashr	'actually, really'	100.0%
+tr'a'wa'āhin	tr'aw'a	'win from'	100.0%
+'ohom	'ohom	'NEG'	100.0%
+tran	tran	'that.SG.PRIM'	100.0%
+hawjo'uk`	hawyo'uk	'what.kind.PRIM'	100.0%
+limik'	limik'	'prairie falcon'	100.0%
+k`ojiwhin	goyow	'win back what one has lost'	100.0%
+limik'	limik'	'prairie falcon'	100.0%
+tr`ip`ni'	tripni'	'one endowed with magic powers'	100.0%
+hut'ēqōhin	hudu	'recognize, know'	100.0%
+'inest`an	'ine:sa:	'be good'	100.0%
+hawjēnok`	hawye:no'uk	'what.kind.SEC'	100.0%
+tr'a'wanāhin	tr'aw'a	'win from'	100.0%
+.	.	[punc]	100.0%
+trāni	tra:ni	'that.SG.SEC'	100.0%
+hēts`i'	he:zhi'	'today'	100.0%
+hilalqo'	hilal	'be visible, appear'	100.0%
+'amin	'amin	'3SG.GEN'	100.0%
+weqwas	wac'was	'stake in gambling'	100.0%
+trā'in	tra:'in	'that.SG.GEN'	100.0%
+t`aqan'ijaw	taxa:	'bring'	100.0%
+manālin	manal	'tear'	100.0%
+'amin	'amin	'3SG.GEN'	100.0%
+.	.	[punc]	100.0%
+wilʃin	wilshrin	'but, in spite of that'	100.0%
+hut'ēqōhin	hudu	'recognize, know'	100.0%
+limik'	limik'	'prairie falcon'	100.0%
+hawjēno'uk	hawye:no'uk	'what.kind.SEC'	100.0%
+tr'a'winhin	tr'aw'a	'win from'	100.0%
+'ama	'ama'	'and'	100.0%
+trāni	tra:ni	'that.SG.SEC'	100.0%
+'ohom	'ohom	'NEG'	100.0%
+t`anhat`inqōhin	ta:na	'go'	100.0%
+'amin	'amin	'3SG.GEN'	100.0%
+tr`ew	tri'	'house'	100.0%
+.	.	[punc]	100.0%
+tos̄ō'on	do:so	'report, tell about'	100.0%
+hijō'uk	hiyo'uk	'where.LOC'	100.0%
+'amak'	'amak'	'3DU.NOM'	100.0%
+t`anā'an	ta:na	'go'	100.0%
+.	.	[punc]	100.0%
+t`o'jnē'in	toyon	'be night'	100.0%
+'amak'	'amak'	'3DU.NOM'	100.0%
+traw	traw	'that.SG.ABL'	100.0%
+p`anāhin	pana:	'arrive'	100.0%
+'ohom	'ohom	'NEG'	100.0%
+'amāmikwa	'ama:mikwa	'3DU.PRIM'	100.0%
+watuk`	watuk	'who.NOM'	100.0%
+ʃri'lhin	shril'i	'see'	100.0%
+'aminkin	'amingin	'3DU.GEN'	100.0%
+p`anāt`aw	pana:	'arrive'	100.0%
+.	.	[punc]	100.0%
+limik'	limik'	'prairie falcon'	100.0%
+wak̄`i	wakkiy	'very, very much'	100.0%
+tr`ip`ni'	tripni'	'one endowed with magic powers'	100.0%
+.	.	[punc]	100.0%
+trok'ō'on	tro:k'o	'strike, hit'	100.0%
+tr`ok'hot`inmi	tro:k'o	'strike, hit'	100.0%
+hā'in&
+traw	ha:'intraw	'what.supposed.PRIM.SEC'	100.0%
+'aʃr	'ashr	'actually, really'	100.0%
+t`awtr`a'	tawtra:	'kill tr'	100.0%
+'ohjoqo'	'ohyo:	'want, look for'	100.0%
+,	,	[punc]	100.0%
+jow	yow	'and, also, again'	100.0%
+tap	dab	'next, on the other hand, then'	100.0%
+'ēman	'e:man	'to no avail'	100.0%
+tr'ā'ma'	tr'a:ma'	'blind'	100.0%
+hawjaw	[unknown]	'[unknown]'	0.0%
+tr`aw	traw	'that.SG.ABL'	100.0%
+'aʃr	'ashr	'actually, really'	100.0%
+'et`len	'e:dil	'get hungry'	100.0%
+'alwutr'	'alwutr'	'crow'	100.0%
+'ama'	'ama'	'and'	100.0%
+tran	tran	'that.SG.PRIM'	100.0%
+limik'	limik'	'prairie falcon'	100.0%
+tr`ok'siten	tro:k'o	'strike, hit'	100.0%
+limik'	limik'	'prairie falcon'	100.0%
+jow	yow	'and, also, again'	100.0%
+'alwutr'	'alwutr'	'crow'	100.0%
+.	.	[punc]	100.0%
+p`anāhin	pana:	'arrive'	100.0%
+jet'	yet'	'one'	100.0%
+kā'inha	ga:'ina	'woman'	100.0%
+loko'wts'i	logow	'pound into powder, pulverize'	100.0%
+k'aʃrijna	k'ashryin	'black seed'	100.0%
+.	.	[punc]	100.0%
+nimhatr`	[unknown]	'[unknown]'	0.0%
+wijā'an	wiyi	'say, do'	100.0%
+limk'a	limik'	'prairie falcon'	100.0%
+,	,	[punc]	100.0%
+'ohom	'ohom	'NEG'	100.0%
+ma'	ma'	'2SG.NOM'	100.0%
+hut'ēqōhin	hudu	'recognize, know'	100.0%
+hā'nuk`	ha:nuk	'what.PRIM'	100.0%
+,	,	[punc]	100.0%
+k`a'jiw	kay'iw	'coyote'	100.0%
+mam	mam	'2SG.PRIM'	100.0%
+t'otr'ējāhin	dotr'e:ya:	'spoil, cause to become bad'	100.0%
+.	.	[punc]	100.0%
+limik'	limik'	'prairie falcon'	100.0%
+wak̄`i	wakkiy	'very, very much'	100.0%
+tr`ip`ni'	tripni'	'one endowed with magic powers'	100.0%
+hijō'uk`	hiyo'uk	'where.LOC'	100.0%
+tran	tran	'that.SG.PRIM'	100.0%
+maqhin	ma:xa	'procure, get'	100.0%
+'olol	'olol	'ball'	100.0%
+jow	yow	'and, also, again'	100.0%
+tap`	dab	'next, on the other hand, then'	100.0%
+jetr'aw	ye:tr'aw	'all'	100.0%
+'ēman	'e:man	'to no avail'	100.0%
+tr'a'wanāhin	tr'aw'a	'win from'	100.0%
+tr`an	tran	'that.SG.PRIM'	100.0%
+huwtruwsaw	huwtruwus	'game name'	100.0%
+.	.	[punc]	100.0%
+waqal'āhin	wa:xal	'weep'	100.0%
+mets'	mec'	'surely'	100.0%
+'ohom	'ohom	'NEG'	100.0%
+hut'ēqo'	hudu	'recognize, know'	100.0%
+hawa't`ō'uk`	hawa'to'uk	'will be/is doing what? (interrogative)'	100.0%
+'amin	'amin	'3SG.GEN'	100.0%
+hi'	hi'	'FUT'	100.0%
+'ākas	'a:gashr	'mother's brother'	100.0%
+limik'	limik'	'prairie falcon'	100.0%
+.	.	[punc]	100.0%
+k'ontsō'wi'	[unknown]	'[unknown]'	0.0%
+ʃri'lā'an	shril'i	'see'	100.0%
+jētr'aw	ye:tr'aw	'all'	100.0%
+hā'nuk`	ha:nuk	'what.PRIM'	100.0%
+wilʃin	wilshrin	'but, in spite of that'	100.0%
+jētr'aw	ye:tr'aw	'all'	100.0%
+tr`asin	trasin	'that.PL.NOM'	100.0%
+ka'ēni	ga:'ina	'woman'	100.0%
+k`i	ki	'when'	100.0%
+'aminōkun	'amino:gun	'3PL.GEN'	100.0%
+p`ulōma	polum	'husband'	100.0%
+t'ulā'at`	t'ulu	'burn tr'	100.0%
+wijā'an	wiyi	'say, do'	100.0%
+'ohom	'ohom	'NEG'	100.0%
+'aminōkun	'amino:gun	'3PL.GEN'	100.0%
+tr`an	tran	'that.SG.PRIM'	100.0%
+hi'jō'uk`	hiyo'uk	'where.LOC'	100.0%
+wastōhun	wasto	'be possible'	100.0%
+wuk'ūju'	wuk'uy	'quake, move'	100.0%
+tr`ānit	tra:nit	'that.SG.ABL'	100.0%
+k`i%	ki	'this.SG.NOM'	100.0%
+tr`aw	traw	'that.SG.LOC'	100.0%
+huloʃrāhin	hulo:shr	'sit down'	100.0%
+limik'	limik'	'prairie falcon'	100.0%
+tāpa'	da:ba'	'then, too(?)'	100.0%
+hut'ēqōhin	hudu	'recognize, know'	100.0%
+hā'no'uk`	ha:no'uk	'what.SEC'	100.0%
+'amāmik`wa	'ama:mikwa	'3DU.PRIM'	100.0%
+wanā'an	wa:na	'give'	100.0%
+'ama'	'ama'	'and'	100.0%
+tr`aw	traw	'that.SG.LOC'	100.0%
+tr`a	tra	'that.SG.NOM'	100.0%
+k'āhin	k'a:	'stick itr'	100.0%
+'amin	'amin	'3SG.GEN'	100.0%
+jētr'aw	ye:tr'aw	'all'	100.0%
+ts'amis	c'amas	'chew'	100.0%
+'alwutr'	'alwutr'	'crow'	100.0%
+tāpa'	da:ba'	'then, too(?)'	100.0%
+'ohom	'ohom	'NEG'	100.0%
+hut'ēqōhun	hudu	'recognize, know'	100.0%
+hā'no'uk`	ha:no'uk	'what.SEC'	100.0%
+'amāmik`wa	'ama:mikwa	'3DU.PRIM'	100.0%
+qat`laqo'	xata	'eat'	100.0%
+'alwutr'	'alwutr'	'crow'	100.0%
+tap`	dab	'next, on the other hand, then'	100.0%
+tsanum	canum	'immediately'	100.0%
+wō'ujhun	wo:'uy	'fall asleep, sleep'	100.0%
+,	,	[punc]	100.0%
+wilʃin	wilshrin	'but, in spite of that'	100.0%
+limik'	limik'	'prairie falcon'	100.0%
+tap`	dab	'next, on the other hand, then'	100.0%
+'ohom	'ohom	'NEG'	100.0%
+wō'ujhun	wo:'uy	'fall asleep, sleep'	100.0%
+,	,	[punc]	100.0%
+me'itsi'	me'zhi'	'because'	100.0%
+hut'ēqōhin	hudu	'recognize, know'	100.0%
+hamna'	hamna'	'greedy person'	100.0%
+'amāmik`wa	'ama:mikwa	'3DU.PRIM'	100.0%
+t`awetr`ajqo'	tawtra:	'kill tr'	100.0%
+hā'nuk`	ha:nuk	'what.PRIM'	100.0%
+k'ō'hin	k'o'o	'throw at, throw'	100.0%
+nim	nim	'1SG.GEN'	100.0%
+nap`āt`im	napa:tim	'sister's husband, husband's brother, son-in-law, son-in-law's brother'	100.0%
+,	,	[punc]	100.0%
+wijā'an	wiyi	'say, do'	100.0%
+hamna'	hamna'	'greedy person'	100.0%
+,	,	[punc]	100.0%
+wilʃrin	wilshrin	'but, in spite of that'	100.0%
+hijam	hiyam	'already, now'	100.0%
+ne'ts`aqōhin	ne'ca:	'be sleepy'	100.0%
+hā'nuk`	ha:nuk	'what.PRIM'	100.0%
+k'o'k'ilqo'	k'o'o	'throw at, throw'	50.0%
+nim	nim	'1SG.GEN'	100.0%
+nap`āt`im	napa:tim	'sister's husband, husband's brother, son-in-law, son-in-law's brother'	100.0%
+'oʃrt`ow	'otr'ow	'hair on head'	100.0%
+wijā'an	wiyi	'say, do'	100.0%
+hamna'	hamna'	'greedy person'	100.0%
+hamnā'in	hamna'	'greedy person'	100.0%
+tr`i'	tri'	'house'	100.0%
+jētr'aw	ye:tr'aw	'all'	100.0%
+hits'ja'	hic'ya'	'permanent, solid'	100.0%
+tr'ot`nōni	[unknown]	'[unknown]'	0.0%
+'ohom	'ohom	'NEG'	100.0%
+hijo'uk	hiyo'uk	'where.LOC'	100.0%
+wāt`inuk`	wa:tinuk	'who.GEN'	100.0%
+wast`oqo'	wasto	'be possible'	100.0%
+t`is	tisi	'come out'	100.0%
+'ama'	'ama'	'and'	100.0%
+jetr'aw	ye:tr'aw	'all'	100.0%
+tr`a	tra	'that.SG.NOM'	100.0%
+qōjin	xoy	'deer'	100.0%
+ts'uljun	c'uluy	'hide, skin'	100.0%
+ʃrokol	shrogol	'perforate'	100.0%
+t'ujohnul	t'uyu	'shoot at, shoot'	100.0%
+'amin	'amin	'3SG.GEN'	100.0%
+ʃrit`kīsāhin	shridig	'pile up (similar objects in a stack)'	100.0%
+natatwīqashin	nadadwiyi	'become flat, become smooth'	100.0%
+hawa't`amuk`	hawa'tamuk	'having done what? (interrogative)'	100.0%
+mak'	mak'	'1DU.INCL.NOM'	100.0%
+hi'	hi'	'FUT'	100.0%
+t`isi'	tisi	'come out'	100.0%
+,	,	[punc]	100.0%
+wijā'an	wiyi	'say, do'	100.0%
+tr`an	tran	'that.SG.PRIM'	100.0%
+'alwutr'	'alwutr'	'crow'	100.0%
+hawjēnō'uk`	hawye:no'uk	'what.kind.SEC'	100.0%
+ma%	ma'	'2SG.NOM'	100.0%
+tr`an	tran	'that.SG.PRIM'	100.0%
+'ohom	'ohom	'NEG'	100.0%
+ʃralak'eqo'	sha:lak'	'wake up (itr)'	100.0%
+wijā'an	wiyi	'say, do'	100.0%
+tran	tran	'that.SG.PRIM'	100.0%
+'alwutr'	'alwutr'	'crow'	100.0%
+.	.	[punc]	100.0%
+'ama	'ama'	'and'	100.0%
+pinet`hin	bine:t	'ask'	100.0%
+hi'juk`	hiyuk	'where.NOM'	100.0%
+tr`a	tra	'that.SG.NOM'	100.0%
+moqlo'	moxlo'	'old person'	100.0%
+wijā'an	wiyi	'say, do'	100.0%
+.	.	[punc]	100.0%
+p`anāhin	pana:	'arrive'	100.0%
+nan	nan	'1SG.PRIM'	100.0%
+tr`aw	traw	'that.SG.LOC'	100.0%
+kitaq	gidax	'unexpectedly'	100.0%
+tr`aw	traw	'that.SG.LOC'	100.0%
+'ohom	'ohom	'NEG'	100.0%
+watuk`	watuk	'who.NOM'	100.0%
+'ama'	'ama'	'3SG.NOM'	100.0%
+ma'	ma'	'2SG.NOM'	100.0%
+'ēp`en	'e:pi	'swim'	100.0%
+'ama'	'ama'	'and'	100.0%
+ma'	ma'	'2SG.NOM'	100.0%
+ʃri'len	shril'i	'see'	100.0%
+t`iqt`an	text-in/	'become ill, sore'	50.0%
+wāt`inuk	wa:tinuk	'who.GEN'	100.0%
+polt`aw	po:lut	'body'	70.0%
+'ohom	'ohom	'NEG'	100.0%
+hawjēno'uk	hawye:no'uk	'what.kind.SEC'	100.0%
+nihi'	nihi'	'1SG.NOM FUT'	100.0%
+'ēp`en	'e:pi	'swim'	100.0%
+'ama'	'ama'	'and'	100.0%
+'aman	'aman	'3PL.NOM'	100.0%
+wijā'an	wiyi	'say, do'	100.0%
+ʃri'len	shril'i	'see'	100.0%
+ma'an	ma'an	'2PL.NOM'	100.0%
+hi'	hi'	'FUT'	100.0%
+minōkun	mino:gun	'2PL.GEN'	100.0%
+ʃroqnō'in	shroxno'	'dead relation'	100.0%
+,	,	[punc]	100.0%
+jētr'aw	ye:tr'aw	'all'	100.0%
+minōkun	mino:gun	'2PL.GEN'	100.0%
+hi'	hi'	'FUT'	100.0%
+hā'uk	ha'uk	'what.NOM'	100.0%
+qajnen	xaya:	'place, put'	100.0%
+'inēsasi	'ine:sa:	'be good'	100.0%
+k'ēxa'	k'e:xa'	'money'	100.0%
+minōkun	mino:gun	'2PL.GEN'	100.0%
+jow	yow	'and, also, again'	100.0%
+minōkun	mino:gun	'2PL.GEN'	100.0%
+kawāyu'	gawa:yu'	'horse'	100.0%
+,	,	[punc]	100.0%
+sijalahana'	[unknown]	'[unknown]'	0.0%
+'ut'al	'ut't'al	'solely, nothing but'	100.0%
+k'ēqa'	k'e:xa'	'money'	100.0%
+minōkun	mino:gun	'2PL.GEN'	100.0%
+hi'	hi'	'FUT'	100.0%
+sīja'	[unknown]	'[unknown]'	100.0%
+.	.	[punc]	100.0%
+wak̄`i	wakkiy	'very, very much'	100.0%
+mani'	mani'	'many'	100.0%
+jok`ots'	yokoc'	'person, people'	100.0%
+'ohom	'ohom	'NEG'	100.0%
+'aman	'aman	'3PL.NOM'	100.0%
+hā'nuk`	ha:nuk	'what.PRIM'	100.0%
+qat`ā'an	xata	'eat'	100.0%
+lo'lt`ow	lo:l'o:	'leave behind, let go of, quit'	100.0%
+hat`min	ha:tam	'dance'	100.0%
+wijā'an	wiyi	'say, do'	100.0%
+tr`asin	trasin	'that.PL.NOM'	100.0%
+no'nē'ij	no:n'o'	'man'	100.0%
+t`aqna'	taxa:	'bring'	100.0%
+pajūtsē'in	[unknown]	'[unknown]'	0.0%
+p'a'nānit`	p'a'an	'world'	100.0%
+mani'	mani'	'many'	100.0%
+tr`aw	traw	'that.SG.LOC'	100.0%
+jok`ots'	yokoc'	'person, people'	100.0%
+t`aqna'	taxa:	'bring'	100.0%
+jētr'aw	ye:tr'aw	'all'	100.0%
+'aʃr	'ashr	'actually, really'	100.0%
+hijetuk`	hiye:tuk	'where.ABL'	100.0%
+'ohjōhin	'ohyo:	'want, look for (YT has root ?oyoxo)'	100.0%
+'aman	'aman	'3PL.NOM'	100.0%
+trasinwa	trasinwa	'that.PL.PRIM'	100.0%
+t`aw	traw	'that.SG.LOC'	100.0%
+trihnē'in	tr'ihe:	'become lean'	25.0%
+.	.	[punc]	100.0%
