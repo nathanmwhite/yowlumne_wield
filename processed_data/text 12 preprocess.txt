@@ -1,57 +1,61 @@
-t`awt`a'n	tawan	'be dawn'	40.0%
-qo'qōhin	xo:	'live, exist, be'	25.0%
+t`aw%	traw	'that.SG.LOC'	80.0%
+t`a'n	ta'an'	'too'	80.0%
+qo'qōhin	xo:	'live, exist, be'	100.0%
 jókhots'	yokoc'	'person, people'	100.0%
 ,	,	[punc]	100.0%
-qo'q'ōhin	xo'lo:	'take off (only clothes)'	40.0%
-limib'	limi	'file'	25.0%
-ɉow	yo:w	'go home'	100.0%
+qo'q'ōhin	xo:	'live, exist, be'	100.0%
+limib'	limik'	'prairie falcon'	100.0%
+ɉow	yow	'and, also, again'	100.0%
 'álwutr'	'alwutr'	'crow'	100.0%
-tr`āmin	tra:'in	'that.SG.GEN'	70.0%
-nōts`i'	no:chro'	'friend'	70.0%
+tr`ā%	tra	'that.SG.NOM'	80.0%
+min	'amin	'3SG.GEN'	80.0%
+nōts`i'	no:chro'	'friend'	100.0%
 ,	,	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
-kútsun	guchrchrun	'name'	75.0%
-ʃoqo'ōhin	shroxo	'exterminate, massacre'	25.0%
+'ama'	'ama'	'and'	100.0%
+kútsun	guchrchrun	'name'	50.0%
+ʃoqo'ōhin	shroxo	'exterminate, massacre'	100.0%
 tap	dab	'next, on the other hand, then'	100.0%
-jokhōtsi	yokoc'	'person, people'	70.0%
+jokhōtsi	yokoc'	'person, people'	100.0%
 ,	,	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+'ama'	'ama'	'and'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
 limik'	limik'	'prairie falcon'	100.0%
-lanhin	la:na	'hear'	62.5%
+lanhin	la:na	'hear'	100.0%
 ʃoqo	shroxo	'exterminate, massacre'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
-jok`óts'i	yokoc'	'person, people'	70.0%
+jok`óts'i	yokoc'	'person, people'	100.0%
 ,	,	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+'ama'	'ama'	'and'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
-wīhin	widin	'roll sth'	70.0%
-nots`ē'in	no:chro'	'friend'	70.0%
-'insis	'insis'	'do well'	78.6%
+wīhin	wiyi	'say, do'	100.0%
+nots`ē'in	no:chro'	'friend'	100.0%
+'insis	'insis'	'do well'	100.0%
 mak	mak'	'1DU.INCL.NOM'	100.0%
-tr`aw	traw	'if'	100.0%
+tr`aw	traw	'that.SG.LOC'	100.0%
 'aʃ	'ashr	'actually, really'	100.0%
-t`áh̯an	daban	'lose what one has'	70.0%
+t`áh̯an	ta:na	'go'	100.0%
 ,	,	[punc]	100.0%
-mi'n	min	'2SG.GEN'	50.0%
+mi'n	mi'in	'soon'	100.0%
 mak	mak'	'1DU.INCL.NOM'	100.0%
-ʃóqen	so:xun	'vanish, --> die'	70.0%
+ʃóqen	shroxo	'exterminate, massacre'	100.0%
 jētr'aw	ye:tr'aw	'all'	100.0%
 k`in	kin	'this.SG.PRIM'	100.0%
 'aʃ	'ashr	'actually, really'	100.0%
-tr`ḗphan̄i	tra:ni	'that.SG.SEC'	25.0%
-tr`aw	traw	'if'	100.0%
+tr`ḗ%	tri'	'house'	50.0%
+phan̄i	pana:	'arrive'	50.0%
+tr`aw	traw	'that.SG.LOC'	100.0%
 mak	mak'	'1DU.INCL.NOM'	100.0%
 hi'	hi'	'FUT'	100.0%
-wáts'u	wac'a	'bind a child in a cradle'	62.5%
-móno	mo:no	'put in ones mouth'	100.0%
-wijá'ăn	wa:'al	'breakfast'	10.0%
+wá%	wa	'however'	50.0%
+ts'u&
+móno	c'o:mu	'destroy, devour'	50.0%
+wijá'ăn	wiyi	'say, do'	100.0%
 ,	,	[punc]	100.0%
-'ama	'ama'	'3SG.NOM'	70.0%
+'ama	'ama'	'and'	100.0%
 'amak	'amak'	'3DU.NOM'	100.0%
-tr`aw	traw	'if'	100.0%
-thaqhinhin	tawin	'to become morning'	40.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+tr`aw	traw	'that.SG.LOC'	100.0%
+thaqhinhin	taxa:	'bring'	100.0%
+'ama'	'ama'	'and'	100.0% [conttinue here]
 tē	de:yi	'take the lead, get in front'	25.0%
 'amak	'amak'	'3DU.NOM'	100.0%
 phanāhin	pana:	'arrive'	100.0%
