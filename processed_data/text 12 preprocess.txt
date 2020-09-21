@@ -228,43 +228,45 @@ jow	yow	'and, also, again'	100.0%
 tap	dab	'next, on the other hand, then'	100.0%
 phána	pana:	'arrive'	100.0%
 kúṯsun	guchrchrun	'name'	50.0%
-,	,	[punc]	100.0% [continue here]
-hitsījamaḵhi	hiyam	'already, now'	0.0%
-hawj̄an	hawyuk	'what.kind.NOM'	50.0%
 ,	,	[punc]	100.0%
-hitsímakhi	hilim	'slander the dead or helpless'	0.0%
-k'átlitsa	gatr'la:	'fish with a hook and line'	10.0%
+hitsījamaḵhi	[unknown]	'[unknown]'	0.0%
+hawj̄an	[unknown]	'[unknown]'	0.0%
+,	,	[punc]	100.0%
+hitsímakhi	[unknown]	'[unknown]'	0.0%
+k'átlitsa	[unknown]	'[unknown]'	0.0%
 wijá'n	wiyi	'say, do'	100.0%
-k`útsun	guchrchrun	'name'	75.0%
+k`útsun	guchrchrun	'name'	50.0%
 ,	,	[punc]	100.0%
 'ama'	'ama'	'and'	100.0%
 tap	dab	'next, on the other hand, then'	100.0%
 limik	limik'	'prairie falcon'	100.0%
-wijá'n	wala:'	'?'	10.0%
-'ins	'iná:	'FEAR'	62.5%
-wija'n	wala:'	'?'	10.0%
+wijá'n	wiyi	'say, do'	100.0%
+'ins	'insis'	'good'	100.0%
+wija'n	wiyi	'say, do'	100.0%
 ,	,	[punc]	100.0%
-hitsí	hishri	'get ripe, become cooked'	62.5%
-makhi	mak'	'1DU.INCL.NOM'	50.0%
-k'átlítsa	gatr'la:	'fish with a hook and line'	10.0%
+hitsí	[unknown]	'[unknown]'	0.0%
+ma%	ma'	'2SG.NOM'	50.0%
+khi	ki	'this.SG.NOM'	50.0%
+k'átlítsa	[unknown]	'[unknown]'	0.0%
 ,	,	[punc]	100.0%
 hijam	hiyam	'already, now'	100.0%
 patr	batr	'as usual'	100.0%
-k`iwīhin	ge:wi	'meet'	62.5%
-wija'n	wala:'	'?'	10.0%
+k`i%	ki	'this.SG.NOM'	50.0%
+wīhin	wiyi	'say, do'	50.0%
+wija'n	wiyi	'say, do'	100.0%
 ,	,	[punc]	100.0%
-t`asin	tawin	'to become morning'	70.0%
+t`asin	[unknown]	'[unknown]'	0.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
-kajeni	k'ac'	'obsidian'	50.0%
+kajeni	[unknown]	'[unknown]'	0.0%
 ,	,	[punc]	100.0%
 tr`āni	tra:ni	'that.SG.SEC'	100.0%
 hijam	hiyam	'already, now'	100.0%
-nimō'kun	nimo:gun	'1PL.EXCL.GEN'	78.6%
+nimō'kun	nimo:gun	'1PL.EXCL.GEN'	100.0%
 'ohom	'ohom	'NEG'	100.0%
-nonéi	nanni	'1SG.SEC'	40.0%
+nonéi	no:n'o'	'man'	100.0%
 min	min	'2SG.GEN'	100.0%
-t`anājo	da:nay	'jimson weed'	70.0%
-wija'n	wala:'	'?'	10.0%
+t`anājo	ta:na	'go'	50.0%
+wija'n	wiyi	'say, do'	100.0%
 'aman	'aman	'3PL.NOM'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
 ,	,	[punc]	100.0%
@@ -272,35 +274,35 @@ má'	ma'	'2SG.NOM'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
 hijam	hiyam	'already, now'	100.0%
 jētr'aw	ye:tr'aw	'all'	100.0%
-ʃóqhin	shroxo	'exterminate, massacre'	62.5%
+ʃóqhin	shroxo	'exterminate, massacre'	100.0%
 ,	,	[punc]	100.0%
-waʃki	wasto	'be possible'	40.0%
-mi'n	min	'2SG.GEN'	50.0%
+waʃki	wa'ashrgi	'therefore'	100.0%
+mi'n	mi'in	'soon'	100.0%
 'amak	'amak'	'3DU.NOM'	100.0%
-k'atlítsa	gatr'la:	'fish with a hook and line'	10.0%
+k'atlítsa	[unknown]	'[unknown]'	0.0%
 ,	,	[punc]	100.0%
-waʃki	wasto	'be possible'	40.0%
-t`aqinka	damna:	'try'	10.0%
-tr`īmi	tr'ik'i	'tie, imprison'	62.5%
-wija'n	wala:'	'?'	10.0%
+waʃki	wa'ashrgi	'therefore'	100.0%
+t`aqinka	taxa:	'bring'	100.0%
+tr`īmi	triymi	'right now'	100.0%
+wija'n	wiyi	'say, do'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
 k`úṯsun	guchrchrun	'name'	50.0%
 ,	,	[punc]	100.0%
-mi'n	min	'2SG.GEN'	50.0%
+mi'n	mi'in	'soon'	100.0%
 'amak	'amak'	'3DU.NOM'	100.0%
-k'atlī́sa	gatr'la:	'fish with a hook and line'	10.0%
+k'atlī́sa	[unknown]	'[unknown]'	0.0%
 k`i	ki	'when'	100.0%
 'olol	'olol	'ball'	100.0%
-wijá'n	wala:'	'?'	10.0%
+wijá'n	wiyi	'say, do'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
-kutsun	guchrchrun	'name'	75.0%
+kutsun	guchrchrun	'name'	50.0%
 ,	,	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+'ama'	'ama'	'and'	100.0%
 tap	dab	'next, on the other hand, then'	100.0%
 limik'	limik'	'prairie falcon'	100.0%
-wīhin	widin	'roll sth'	70.0%
-'ohóon	'ohyo:	'want, look for (YT has root ?oyoxo)'	40.0%
-,	,	[punc]	100.0%
+wīhin	wiyi	'say, do'	100.0%
+'ohóon	'ohyo:	'want, look for (YT has root ?oyoxo)'	100.0%
+,	,	[punc]	100.0%  [continue here]
 qo'qo	xo'lo:	'take off (only clothes)'	70.0%
 nim	nim	'1SG.GEN'	100.0%
 'ólol	'olol	'ball'	100.0%
