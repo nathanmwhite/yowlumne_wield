@@ -279,7 +279,7 @@ jētr'aw	ye:tr'aw	'all'	100.0%
 waʃki	wa'ashrgi	'therefore'	100.0%
 mi'n	mi'in	'soon'	100.0%
 'amak	'amak'	'3DU.NOM'	100.0%
-k'atlítsa	[unknown]	'[unknown]'	0.0%
+k'atlítsa	k'adlizha	'[name]'	100.0%
 ,	,	[punc]	100.0%
 waʃki	wa'ashrgi	'therefore'	100.0%
 t`aqinka	taxa:	'bring'	100.0%
@@ -290,7 +290,7 @@ k`úṯsun	guchrchrun	'name'	50.0%
 ,	,	[punc]	100.0%
 mi'n	mi'in	'soon'	100.0%
 'amak	'amak'	'3DU.NOM'	100.0%
-k'atlī́sa	[unknown]	'[unknown]'	0.0%
+k'atlī́sa	k'adlizha	'[name]'	100.0%
 k`i	ki	'when'	100.0%
 'olol	'olol	'ball'	100.0%
 wijá'n	wiyi	'say, do'	100.0%
@@ -303,43 +303,43 @@ limik'	limik'	'prairie falcon'	100.0%
 wīhin	wiyi	'say, do'	100.0%
 'ohóon	'ohyo:	'want, look for (YT has root ?oyoxo)'	100.0%
 ,	,	[punc]	100.0%  [continue here]
-qo'qo	xo'lo:	'take off (only clothes)'	70.0%
+qo'qo	xo:	'live, exist, be'	100.0%
 nim	nim	'1SG.GEN'	100.0%
 'ólol	'olol	'ball'	100.0%
 ,	,	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+'ama'	'ama'	'and'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
-wī́hin	widin	'roll sth'	70.0%
+wī́hin	wiyi	'say, do'	100.0%
 mín	min	'2SG.GEN'	100.0%
 mak	mak'	'1DU.INCL.NOM'	100.0%
-thaqan	daban	'lose what one has'	70.0%
+thaqan	taxa:	'bring'	50.0%
 mín	min	'2SG.GEN'	100.0%
 'amak	'amak'	'3DU.NOM'	100.0%
-wōwlon	woloy	'overtake'	40.0%
+wōwlon	wo:wul	'stand'	100.0%
 ,	,	[punc]	100.0%
-mi'n	min	'2SG.GEN'	50.0%
+mi'n	mi'in	'soon'	100.0%
 'amak	'amak'	'3DU.NOM'	100.0%
-thahan	daban	'lose what one has'	70.0%
+thahan	ta:na	'go'	100.0%
 ,	,	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+'ama'	'ama'	'and'	100.0%
 'amak	'amak'	'3DU.NOM'	100.0%
-wothin	widin	'roll sth'	70.0%
+wothin	wotro	'hit with a club'	100.0%
 'aminkin	'amingin	'3DU.GEN'	100.0%
 'olol	'olol	'ball'	100.0%
 ,	,	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+'ama'	'ama'	'and'	100.0%
 tr`á'aʃ	tra'ashr	'continuously'	100.0%
 'amak	'amak'	'3DU.NOM'	100.0%
-natā́tam	naddal	'very level place'	50.0%
-t`anán	daban	'lose what one has'	70.0%
+natā́tam	nadadwiyi	'become flat, smooth'	50.0%
+t`anán	ta:na	'go'	100.0%
 ,	,	[punc]	100.0%
 'ohom	'ohom	'NEG'	100.0%
 'amak	'amak'	'3DU.NOM'	100.0%
-hejihijuk	hawiyuk	'what.kind.NOM'	14.3%
-lólówísqo'	logow	'pound into powder, pulverize'	10.0%
+hejihijuk	[unknown]	'[unknown]'	0.0%
+lólówísqo'	lo:l'o:	'leave behind, let go of, quit'	80.0%
 ,	,	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
-'uṯal	'ada:l	'make sth lower'	70.0%
+'ama'	'ama'	'and'	100.0%
+'uṯal	'ut't'al	'solely, nothing but'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
 tap	dab	'next, on the other hand, then'	100.0%
 khiṉip	kinip	'put on a dress'	100.0%
@@ -349,52 +349,53 @@ kutsonun	guchrchrun	'name'	50.0%
 'aʃ	'ashr	'actually, really'	100.0%
 ki	ki	'when'	100.0%
 hijam	hiyam	'already, now'	100.0%
-wīhin	widin	'roll sth'	70.0%
+wīhin	wiyi	'say, do'	100.0%
 kuṯsun	guchrchrun	'name'	50.0%
 'óhom	'ohom	'NEG'	100.0%
-kitaq	gada:y	'be unable to reach sth, give out'	40.0%
-nī́khin	nimgin	'1DU.EXCL.GEN'	75.0%
-lolo	lo:l'o:	'leave behind, let go of, quit'	70.0%
-wijá'n	wala:'	'?'	10.0%
-ki	ki	'when'	100.0%
-kutsun	guchrchrun	'name'	75.0%
+kitaq	gidax	'unexpectedly'	100.0%
+nī́khin	[unknown]	'[unknown]'	0.0%
+lolo	lo:l'o:	'leave behind, let go of, quit'	100.0%
+wijá'n	wiyi	'say, do'	100.0%
+ki	gi'	'Q.FOCUS'	50.0%
+kutsun	guchrchrun	'name'	100.0%
 ,	,	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+'ama'	'ama'	'and'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
-walaq	wala:'	'?'	70.0%
-wīhin	widin	'roll sth'	70.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+walaq&
+wīhin	walaxwiyi	'pass s.o.'	100.0%
+'ama'	'ama'	'and'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
-jiksithen	yiki	'fart'	25.0%
-limk'a	laga:	'spend the night'	25.0%
+jiksithen	yiki	'fart'	75.0%
+limk'a	limik'	'prairie falcon'	100.0%
 ,	,	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
-tr`aw	traw	'if'	100.0%
-hamal	hadal	'go under'	70.0%
-wīhin	widin	'roll sth'	70.0%
+'ama'	'ama'	'and'	100.0%
+tr`aw	traw	'that.SG.LOC'	100.0%
+hamal	[unknown]	'[unknown]'	0.0%
+wīhin	wiyi	'say, do'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
 lihim	lihim	'run'	100.0%
-limk'in	limi	'file'	62.5%
+limk'in	limik'	'prairie falcon'	100.0%
 'ama'	'ama'	'3SG.NOM'	100.0%
 ts'anum	canum	'immediately'	100.0%
-t'o'j	do'o	'touch with the penis'	62.5%
-qīsāhin	xata	'eat'	25.0%
+t'o'j&
+qīsāhin	t'oy'ox	'doctor, give medicine'	80.0%
 ,	,	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+'ama'	'ama'	'and'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
-jow	yo:w	'go home'	100.0%
+jow	yow	'and, also, again'	100.0%
 ts`anum	canum	'immediately'	100.0%
-k'ótr'hin	k'otr'	'tule'	100.0%
+k'ótr'hin	[unknown]	'[unknown]'	0.0%
 ,	,	[punc]	100.0%
-jow	yo:w	'go home'	100.0%
+jow	yow	'and, also, again'	100.0%
 tap	dab	'next, on the other hand, then'	100.0%
 k'in	kin	'this.SG.PRIM'	100.0%
-tsōwi'	c'o:w'o:	'work, grasp, touch (110 has cowo)'	40.0%
-t`aqani	daban	'lose what one has'	40.0%
-jow	yo:w	'go home'	100.0%
+tsōwi'	c'o:w'o:	'work, grasp, touch (110 has cowo)'	80.0%
+t`aqani	taxa:	'bring'	100.0%
+jow	yow	'and, also, again'	100.0%
 'aminkin	'amingin	'3DU.GEN'	100.0%
-tr`āminkin	trasinwin	'that.PL.GEN'	62.5%
-ʃiḻé'its'	shril'i	'see'	40.0%
+tr`ā%	tra	'that.SG.NOM'	80.0%
+minkin	'amingin	'3DU.GEN'	80.0%
+ʃiḻé'its'	shril'i	'see'	100.0% [continue here]
 ʃílk'apəs	s(hr)alap'	'shave, whittle'	0.0%
 wijá'n	wala:'	'?'	10.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
