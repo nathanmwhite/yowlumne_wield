@@ -55,7 +55,7 @@ wijá'ăn	wiyi	'say, do'	100.0%
 'amak	'amak'	'3DU.NOM'	100.0%
 tr`aw	traw	'that.SG.LOC'	100.0%
 thaqhinhin	taxa:	'bring'	100.0%
-'ama'	'ama'	'and'	100.0% [conttinue here]
+'ama'	'ama'	'and'	100.0%
 tē	[unknown]	'[unknown]'	0.0%
 'amak	'amak'	'3DU.NOM'	100.0%
 phanāhin	pana:	'arrive'	100.0%
@@ -302,7 +302,7 @@ tap	dab	'next, on the other hand, then'	100.0%
 limik'	limik'	'prairie falcon'	100.0%
 wīhin	wiyi	'say, do'	100.0%
 'ohóon	'ohyo:	'want, look for (YT has root ?oyoxo)'	100.0%
-,	,	[punc]	100.0%  [continue here]
+,	,	[punc]	100.0%
 qo'qo	xo:	'live, exist, be'	100.0%
 nim	nim	'1SG.GEN'	100.0%
 'ólol	'olol	'ball'	100.0%

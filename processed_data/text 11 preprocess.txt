@@ -472,7 +472,7 @@ nusus	nusos	'paternal aunt'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
 phanahin	pana:	'arrive'	100.0%
 ,	,	[punc]	100.0%
-'ama'	'ama'	'and'	100.0%	[continue here]
+'ama'	'ama'	'and'	100.0%
 hawinup	hawiynuk	'what.kind.SEC'	100.0%
 pátskhij	[unknown]	'[unknown]'	0.0%
 hoṯun%	[unknown]	'[unknown]'	0.0%
@@ -1041,7 +1041,7 @@ tr`aw	traw	'that.SG.LOC'	100.0%
 tap	dab	'next, on the other hand, then'	100.0%
 mú'eqo'	muhu	'dive'	100.0%
 ,	,	[punc]	100.0%
-múmuhtran	muhu	'dive'	75.0%
+múmuhtran	muhu	'dive'	25.0%
 lánhin	la:na	'hear'	100.0%
 ,	,	[punc]	100.0%
 'ama'	'ama'	'and'	100.0%
@@ -1058,7 +1058,7 @@ tr`aw	traw	'that.SG.LOC'	100.0%
 ,	,	[punc]	100.0%
 hijam	hiyam	'already, now'	100.0%
 limik	limik'	'prairie falcon'	100.0%
-pojets'oqo'	biye:tr'	'twist'	25.0%
+pojets'oqo'	[unknown]	'[unknown]'	0.0%
 ts'ajaq	c'ayax	'man's sister's child'	100.0%
 mā́kin	ma:gin	'1DU.INCL.GEN'	100.0%
 ,	,	[punc]	100.0%
@@ -1074,8 +1074,8 @@ mí'n	mi'in	'soon'	100.0%
 tap	dab	'next, on the other hand, then'	100.0%
 qája'	xaya:	'place, put'	100.0%
 ,	,	[punc]	100.0%
-mutr	mutru	'smear'	62.5%
-wasam	wasat	'scar'	70.0%
+mutr	mutru	'smear'	50.0%
+wasam	[unknown]	'[unknown]'	0.0%
 mi'n	mi'in	'soon'	100.0%
 wúk	wuku	'cover s.o., place s.o. as a cover'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
@@ -1085,7 +1085,7 @@ mimjatr	mimyatr	'thunder'	100.0%
 mi'n	mi'in	'soon'	100.0%
 tap	dab	'next, on the other hand, then'	100.0%
 k`a'jiw	kay'iw	'coyote'	100.0%
-k`ōts`ēnaq	guchre'	'tiny'	50.0%
+k`ōts`ēnaq	[unknown]	'[unknown]'	0.0%
 wija'n	wiyi	'say, do'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
 t`ana	ta:na	'go'	100.0%
@@ -1098,7 +1098,7 @@ makin	ma:gin	'1DU.INCL.GEN'	100.0%
 pojēts'āhin	boy'e:tr'a:/	'become miserable'	100.0%
 ts'áq̓aq	[unknown]	'[unknown]'	0.0%
 ,	,	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+'ama'	'ama'	'and'	100.0%
 tr`a	tra	'that.SG.NOM'	100.0%
 thaqinhin	taxa:	'bring'	100.0%
 ,	,	[punc]	100.0%
