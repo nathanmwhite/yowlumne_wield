@@ -517,150 +517,154 @@ kámotrun	[unknown]	'[unknown]'	0.0%
 haʃkhiwēts	hashrkiywe:'ic'	'gopher'	100.0%
 jow	yow	'and, also, again'	100.0%
 tr'ániw	tr'aniw	'badger'	100.0%
-,	,	[punc]	100.0% [continue here]
-lehēm'āhin	la:n'a:	'listen'	0.0%
+,	,	[punc]	100.0%
+lehēm'āhin	lihim	'run'	100.0%
 'amak'	'amak'	'3DU.NOM'	100.0%
-khewas	ge:wi	'meet'	25.0%
+khewas	[unknown]	'[unknown]'	0.0%
 'atil	'adil	'under'	100.0%
-thinliw	dini	'shield'	62.5%
+thinliw	tinel	'hole'	100.0%
 'aminkin	'amingin	'3DU.GEN'	100.0%
 ,	,	[punc]	100.0%
-jow	yo:w	'go home'	100.0%
+jow	yow	'and, also, again'	100.0%
 tap	dab	'next, on the other hand, then'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
-k`amits	ga:'it	'young woman'	40.0%
-hītilqo'	hit'el	'ashes'	70.0%
-wáḵi	wik'	'2DU.VOC.IMPER'	0.0%
+k`amits	kamic'	'grandmother, granddaughter'	100.0%
+hītilqo'	[unknown]	'[unknown]'	0.0%
+wáḵi	wakkiy	'very, very much'	100.0%
 hijam	hiyam	'already, now'	100.0%
-t`āwitʃt`aw	ta:witr	'die'	70.0%
+t`āwitʃt`aw	ta:witr	'die'	100.0%
 tran	tran	'that.SG.PRIM'	100.0%
 nóh'ó'in	noh'o'	'bear'	100.0%
 ,	,	[punc]	100.0%
-wāʃki	wasto	'be possible'	40.0%
+wāʃki	wa'ashrgi	'therefore'	100.0%
 hijam	hiyam	'already, now'	100.0%
 t`āwitr`in	ta:witr	'die'	100.0%
-wija'n	wala:'	'?'	10.0%
+wija'n	wiyi	'say, do'	100.0%
 'aman	'aman	'3PL.NOM'	100.0%
 tran	tran	'that.SG.PRIM'	100.0%
-silítka	shrilit'	'jump'	40.0%
+silítka	shrilit'	'jump'	100.0%
 tr`ānit	tra:nit	'that.SG.ABL'	100.0%
-wa'nit	wa'ashrta:/	'be more, be very much'	35.7%
+wa'nit	wa'	'far'	100.0%
 ,	,	[punc]	100.0%
-hetnit	he:xi	'fatten'	0.0%
+hetnit	[unknown]	'[unknown]'	0.0%
 tr`ānit	tra:nit	'that.SG.ABL'	100.0%
-wa'nit	wa'ashrta:/	'be more, be very much'	35.7%
-tr`ipinit	tripin	'on top of'	40.0%
+wa'nit	wa'	'far'	100.0%
+tr`ipinit	tripin	'on top of'	50.0%
 ,	,	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
-silen	shrilel	'stone'	70.0%
+'ama'	'ama'	'and'	100.0%
+silen	shril'i	'see'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
-hats'āmi	hac'a:mi'	'new'	78.6%
-wójjo	wo:yo	'be born'	62.5%
+hats'āmi	hac'a:mi'	'new'	100.0%
+wójjo	wo:yo	'be born'	50.0%
 .	.	[punc]	100.0%
 naj	nay	'nearly, more than'	100.0%
-maj'as	maywa	'1PL.INCL.PRIM'	40.0%
-silan	s(hr)alap'	'shave, whittle'	40.0%
+maj%	may	'1PL.INCL.NOM'	100.0%
+'as	'ashr	'actually, really'	100.0%
+silan	shril'i	'see'	100.0%
 jetr'aw	ye:tr'aw	'all'	100.0%
-hānukhin	ha:nuk	'what.PRIM'	100.0%
-hētsi	he:xi	'fatten'	62.5%
+hānuk%	ha:nuk	'what.PRIM'	100.0%
+hin	kin	'this.SG.PRIM'	25.0%
+hētsi	he:zhi'	'today'	100.0%
 ,	,	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+'ama'	'ama'	'and'	100.0%
 'aman	'aman	'3PL.NOM'	100.0%
-wī́jen	widin	'roll sth'	40.0%
+wī́jen	wiyi	'say, do'	100.0%
 khénit	ke:nit	'this.SG.ABL'	100.0%
-kitaq	gada:y	'be unable to reach sth, give out'	40.0%
-sileṯāhin	shrilit'	'jump'	40.0%
-mikíṯi'	midi	'sprinkle'	0.0%
+kitaq	gidax	'unexpectedly'	100.0%
+sileṯāhin	shrilit'	'jump'	100.0%
+mikíṯi'	mikitti'	'[name]'	100.0%
 ,	,	[punc]	100.0%
-'oho'm	'ohom	'NEG'	70.0%
-wija'n	wala:'	'?'	10.0%
-'oho'm	'ohom	'NEG'	70.0%
-nikjan	nan	'1SG.PRIM'	0.0%
+'oho'm	'ohom	'NEG'	100.0%
+wija'n	wiyi	'say, do'	100.0%
+'oho'm	'ohom	'NEG'	100.0%
+nikjan	[unknown]	'[unknown]'	0.0%
 khēnit	ke:nit	'this.SG.ABL'	100.0%
-ʃilten	shrilit'	'jump'	70.0%
-waki	wik'	'2DU.VOC.IMPER'	0.0%
-wātr'	wa	'however'	25.0%
-wija'n	wala:'	'?'	10.0%
-mit'atswi	mit'achr	'slightly, not much'	40.0%
-ka	k'ac'	'obsidian'	50.0%
-tálka	dala	'flatten (grass or brush on ground)'	62.5%
-wijá'n	wala:'	'?'	10.0%
+ʃilten	shrilit'	'jump'	80.0%
+waki	wakkiy	'very, very much'	100.0%
+wātr'	[unknown]	'[unknown]'	0.0%
+wija'n	wiyi	'say, do'	100.0%
+mit'ats%	mit'achr	'slightly, not much'	100.0%
+wi&
+ka	wiyi	'say, do'	100.0%
+tálka	dala	'flatten (grass or brush on ground)'	75.0%
+wijá'n	wiyi	'say, do'	100.0%
 ,	,	[punc]	100.0%
-wa'	wa	'however'	25.0%
-tr'inhin	drim	'condor'	50.0%
+wa'	wa'	'far'	100.0%
+tr'inhin	[unknown]	'[unknown]'	0.0%
 tran	tran	'that.SG.PRIM'	100.0%
 ,	,	[punc]	100.0%
-hetsi	he:xi	'fatten'	62.5%
-ta'pa	da:ba:	'try again (after you or others have failed before)'	62.5%
-wija'n	wala:'	'?'	10.0%
-minak`enit	mingin	'2DU.GEN'	0.0%
-ʃílten	shrilit'	'jump'	70.0%
-ha'k	ha'uk	'what.NOM'	70.0%
+hetsi	he:zhi'	'today'	100.0%
+ta'pa	da:ba'	'then, too'	100.0%
+wija'n	wiyi	'say, do'	100.0%
+mina%	[unknown]	'[unknown]'	0.0%
+k`enit	ke:nit	'this.SG.ABL'	100.0%
+ʃílten	shrilit'	'jump'	100.0%
+ha'k	ha'uk	'what.NOM'	100.0%
 min	min	'2SG.GEN'	100.0%
 trānit	tra:nit	'that.SG.ABL'	100.0%
 siḻit	shrilit'	'jump'	100.0%
-hi	hi'	'FUT'	50.0%
+hi	hi'	'FUT'	100.0%
 hijam	hiyam	'already, now'	100.0%
-wāʃta	wasto	'be possible'	70.0%
+wāʃta	wa'ashrta'	'very'	100.0%
 k'ítet	k'idet'	'short'	100.0%
 ,	,	[punc]	100.0%
 hijam	hiyam	'already, now'	100.0%
 k'itet	k'idet'	'short'	100.0%
-tr`awnit	tra:nit	'that.SG.ABL'	70.0%
+tr`awnit	tra:nit	'that.SG.ABL'	25.0%
 siḻithin	shrilit'	'jump'	100.0%
 ,	,	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+'ama'	'ama'	'and'	100.0%
 koninhin	go:nin	'go down'	100.0%
 'atil	'adil	'under'	100.0%
-qótr'juw	xitriw	'become angry'	10.0%
+qótr'juw	xotr'oy	'ground, soil'	75.0%
 hijam	hiyam	'already, now'	100.0%
 ,	,	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
-maqhin	mak'	'1DU.INCL.NOM'	50.0%
+'ama'	'ama'	'and'	100.0%
+maqhin	ma:xa	'procure, get'	100.0%
 soqohin	shroxo	'exterminate, massacre'	100.0%
-mi'n	min	'2SG.GEN'	50.0%
-soqwisen	so:win	'wild dove'	40.0%
-sóqwíska	so:win	'wild dove'	0.0%
-wijá'n	wala:'	'?'	10.0%
-'ámántran	'amingin	'3DU.GEN'	43.8%
+mi'n	mi'in	'soon'	100.0%
+soqwisen	shroxo	'exterminate, massacre'	100.0%
+sóqwíska	shroxo	'exterminate, massacre'	100.0%
+wijá'n	wiyi	'say, do'	100.0%
+'ámán%	'aman	'3PL.NOM'	100.0%
+tran	tran	'that.SG.PRIM'	100.0%
 ,	,	[punc]	100.0%
-'ama	'ama'	'3SG.NOM'	70.0%
-soqwisen	so:win	'wild dove'	40.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+'ama	'ama'	'and'	100.0%
+soqwisen	shroxo	'exterminate, massacre'	100.0%
+'ama'	'ama'	'and'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
-wīmi	wip'i	'jerk up quickly'	62.5%
-k'ōhin	go:bin	'enter'	70.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
-wítstew	wic'et	'stick'	40.0%
+wīmi	wiyi	'say, do'	100.0%
+k'ōhin	k'o'o	'throw at, throw'	75.0%
+'ama'	'ama'	'and'	100.0%
+wítstew	wic'et	'stick'	100.0%
 k'ṓninhin	go:nin	'go down'	100.0%
 ,	,	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
-tr`aw	traw	'if'	100.0%
-qo'qo	xo'lo:	'take off (only clothes)'	70.0%
-pistha	bishrix	'gut, take out guts'	40.0%
-soqwas	saxal	'apply wax'	10.0%
-'ojho	'o:yo	'move place of residence'	62.5%
-t`awtr`an	tawan	'be dawn'	70.0%
-maqen	ma:gin	'1DU.INCL.GEN'	40.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+'ama'	'ama'	'and'	100.0%
+tr`aw	traw	'that.SG.LOC'	100.0%
+qo'qo	xo:	'live, exist, be'	100.0%
+pistha	[unknown]	'[unknown]'	0.0%
+soqwas	shroxo	'exterminate, massacre'	100.0%
+'ojho	'ohyo:	'want, look for'	50.0%
+t`awtr`an	ta:watr	'die'	100.0%
+maqen	ma:xa	'procure, get'	100.0%
+'ama'	'ama'	'and'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
 tamna	damna:	'try'	100.0%
-wija'n	wala:'	'?'	10.0%
-'anki	'angi'	'Q'	75.0%
-tiqit	tixit	'painful, sick, ill'	100.0%
-wija'n	wala:'	'?'	10.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+wija'n	wiyi	'say, do'	100.0%
+'anki	'angi'	'Q'	100.0%
+tiqit	tixit	'painful, sick, ill'	75.0%
+wija'n	wiyi	'say, do'	100.0%
+'ama'	'ama'	'and'	100.0%
 tr`ānit	tra:nit	'that.SG.ABL'	100.0%
-thaqinmi	dini	'shield'	0.0%
-tr`aw	traw	'if'	100.0%
-qajinhin	xaya:	'place, put'	25.0%
-lomthow	logow	'pound into powder, pulverize'	40.0%
+thaqinmi	taxa:	'bring'	100.0%
+tr`aw	traw	'that.SG.LOC'	100.0%
+qajinhin	xaya:	'place, put'	100.0%
+lomthow	lomit	'mountain'	100.0%
 qolṓmin	xolom	'clover'	100.0%
 lomit	lomit	'mountain'	100.0%
-k'elsi	k'e:li	'smear, dab'	62.5%
+k'elsi	k'elsi	'[name]'	100.0%
 tr`a	tra	'that.SG.NOM'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
-tr`i	drim	'condor'	50.0%
-mikiṯe'in	mokye:'	'take a wife'	25.0%
+tr`i	tri'	'house'	75.0%
+mikiṯe'in	mikitti'	'[name]'	100.0%
 .	.	[punc]	100.0%
-		[punc]	100.0%
