@@ -253,7 +253,7 @@ hi	hi'	'FUT'	50.0%
 'ats'āwis	'ac'a:wis	'in a short while'	100.0%
 p`ana'	pana:	'arrive'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
-tḗ'ja'	de'ya:	'haul away'	100.0%
+tḗ'ja'	di'ya'	'leader'	100.0%
 'ā́ts`aj	'a:cay	'mahogany'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
 ,	,	[punc]	100.0%
@@ -563,176 +563,180 @@ tr`aw	traw	'that.SG.LOC'	100.0%
 qo'qo'	xo:	'live, exist, be'	100.0%
 mā́ni'	mani'	'many'	100.0%
 jók`ots'	yokoc'	'person, people'	100.0%
-,	,	[punc]	100.0% [continue here]
-jow	yo:w	'go home'	100.0%
+,	,	[punc]	100.0%
+jow	yow	'and, also, again'	100.0%
 tap	dab	'next, on the other hand, then'	100.0%
-k`oʃon	koshron	'be unable to find, miss'	100.0%
-'ōnit	'oshrit	'fire'	70.0%
-k`a'jiw	ga:'it	'young woman'	40.0%
+k`oʃon&
+'ōnit	koshron	'be unable to find, miss'	100.0%
+k`a'jiw	kay'iw	'coyote'	100.0%
 ,	,	[punc]	100.0%
-hijōk	hiyuk	'where.NOM'	70.0%
-wilthanhin	widin	'roll sth'	40.0%
-wijátr'	wala:tr	'have around ones neck'	40.0%
+hijōk	hiyo'uk	'where.LOC'	100.0%
+wil%	[unknown]	'[unknown]'	0.0%
+thanhin	ta:na	'go'	100.0%
+wijátr'	[unknown]	'[unknown]'	0.0%
 ,	,	[punc]	100.0%
-hijowk	hiyuk	'where.NOM'	40.0%
-wilthanhin	widin	'roll sth'	40.0%
-k`a'jiw	ga:'it	'young woman'	40.0%
+hijowk	hiyo'uk	'where.LOC'	100.0%
+wil%	[unknown]	'[unknown]'	0.0%
+thanhin	ta:na	'go'	100.0%
+k`a'jiw	kay'iw	'coyote'	100.0%
 ,	,	[punc]	100.0%
 'ama'	'ama'	'3SG.NOM'	100.0%
 phanāhin	pana:	'arrive'	100.0%
 ,	,	[punc]	100.0%
 'ama'	'ama'	'3SG.NOM'	100.0%
-wī́hin	widin	'roll sth'	70.0%
-mi'n	min	'2SG.GEN'	50.0%
+wī́hin	wiyi	'say, do'	100.0%
+mi'n	mi'in	'soon'	100.0%
 maja	may	'1PL.INCL.NOM'	50.0%
-lōnen	lowon	'attend a feast'	40.0%
+lōnen	lowon	'attend a feast'	100.0%
 májin	ma:yin	'1PL.INCL.GEN'	100.0%
-ti'ja'in	de'ya:	'haul away'	40.0%
-tr`éw	traw	'if'	50.0%
+ti'ja'in	di'ya'	'leader'	100.0%
+tr`éw	tri'	'house'	100.0%
 .	.	[punc]	100.0%
 'ama'	'ama'	'3SG.NOM'	100.0%
 'aman	'aman	'3PL.NOM'	100.0%
-jolōwinhin	yolo:w	'assemble tr'	40.0%
-ti'ꞏja'in	de'ya:	'haul away'	40.0%
+jolōwinhin	yolo:w	'assemble tr'	100.0%
+ti'ꞏja'in	di'ya'	'leader'
 'aminōkun	'amino:gun	'3PL.GEN'	100.0%
-tr`ew	traw	'if'	50.0%
+tr`ew	tri'	'house'	100.0%
 ,	,	[punc]	100.0%
-mi'n	min	'2SG.GEN'	50.0%
+mi'n	mi'in	'soon'	100.0%
 'amāminwa	'ama:minwa	'3PL.PRIM'	100.0%
-tos̱iten	do:so	'report, tell about'	25.0%
+tos̱iten	do:so	'report, tell about'	100.0%
 hijam	hiyam	'already, now'	100.0%
-qat`isen	xata	'eat'	25.0%
-t`rāmin	tawin	'to become morning'	40.0%
+qat`isen	xata	'eat'	75.0%
+t`r%	tra	'that.SG.NOM'	100.0%
+āmin	'amin	'3SG.GEN'	100.0%
 tr`ataqan	draxa	'step over, take a step'	0.0%
 k`ēnit	ke:nit	'this.SG.ABL'	100.0%
-wa'niꞏt	wa'ashrta:/	'be more, be very much'	35.7%
-'ilk'anit	'ikit	'glans penis'	10.0%
-tr`á'ámin	tra'ashr	'continuously'	70.0%
+wa'niꞏt	wa'	'far'	100.0%
+'ilk'anit	'ilik'	'water'	100.0%
+tr`á%	tra	'that.SG.NOM'	100.0%
+'ámin	'amin	'3SG.GEN'	100.0%
 tr`a	tra	'that.SG.NOM'	100.0%
-wán̄hana'	wa:na	'give'	0.0%
+wán̄hana'	wa:na	'give'	100.0%
 ,	,	[punc]	100.0%
 min	min	'2SG.GEN'	100.0%
 'aman	'aman	'3PL.NOM'	100.0%
-t`ahan	daban	'lose what one has'	70.0%
-'iphatr'	'ipitr	'throw off/out, pick off'	70.0%
+t`ahan	ta:na	'go'	100.0%
+'iphatr'	'ipitr	'throw off/out, pick off'	80.0%
 tam	dama	'make suffocate'	62.5%
 'aminōkun	'amino:gun	'3PL.GEN'	100.0%
-wits`ḗp`a	wic'e:ta	'turn into a log'	75.0%
+wits`ḗp`a	wichre:b	'offspring'	100.0%
 .	.	[punc]	100.0%
-tijēlits'	di'ichr	'sane (up), hoard'	10.0%
+tijēlits'	de:yil	'guard, watch (wait for)'	100.0%
 'aminōkun	'amino:gun	'3PL.GEN'	100.0%
 tap	dab	'next, on the other hand, then'	100.0%
-qó'qo	xo'lo:	'take off (only clothes)'	70.0%
+qó'qo	xo:	'live, exist, be'	100.0%
 ,	,	[punc]	100.0%
-'om	'op	'moon, a watch'	50.0%
+'om	'ohom	'NEG'	100.0%
 'aman	'aman	'3PL.NOM'	100.0%
-aꞏ	aꞏ	[foreign]	100.0%
+aꞏ	[unknown]	'[unknown]'	100.0%
 wá'ʃta	wa'ashrta:/	'be more, be very much'	78.6%
-'ipétratr	'ile:ma:/	'act mean toward, be feared'	25.0%
+'ipétratr	[unknown]	'[unknown]'	100.0%
 ,	,	[punc]	100.0%
-k`e	ki	'when'	25.0%
+k`e	ki	'this.SG'	50.0%
 'amin	'amin	'3SG.GEN'	100.0%
 tap	dab	'next, on the other hand, then'	100.0%
 qat	xat	'food'	100.0%
-wija'n	wala:'	'?'	10.0%
+wija'n	wiyi	'say, do'	100.0%
 'aman	'aman	'3PL.NOM'	100.0%
-k`e	ki	'when'	25.0%
+k`e	ki	'that.SG'	50.0%
 'aminōkun	'amino:gun	'3PL.GEN'	100.0%
 pohúlhaj	pohulhay	'parent'	100.0%
 ,	,	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
-tr`aw	traw	'if'	100.0%
+'ama'	'ama'	'and'	100.0%
+tr`aw	traw	'that.SG.LOC'	100.0%
 'aman	'aman	'3PL.NOM'	100.0%
-t`ánhin	ta:na	'go'	62.5%
-mi'n	min	'2SG.GEN'	50.0%
+t`ánhin	ta:na	'go'	100.0%
+mi'n	mi'in	'soon'	100.0%
 'aman	'aman	'3PL.NOM'	100.0%
 tap	dab	'next, on the other hand, then'	100.0%
-maqen	ma:gin	'1DU.INCL.GEN'	40.0%
-q'aṯa	xata	'eat'	62.5%
+maqen	ma:xa	'procure, get'	100.0%
+q'aṯa	xata	'eat'	100.0%
 ,	,	[punc]	100.0%
-'ipitrmi	'ipitr	'throw off/out, pick off'	40.0%
+'ipitrmi	'ipitr	'throw off/out, pick off'	100.0%
 'aminōkun	'amino:gun	'3PL.GEN'	100.0%
-witsíp̱aj	wichribna:	'give birth to a child'	57.1%
+witsíp̱aj	wichribhay	'children'	100.0%
 ,	,	[punc]	100.0%
-há'tsaqo	ha'zhaxom	'finally, at last'	81.2%
-mi'n	min	'2SG.GEN'	50.0%
-kas	k'asa	'stick'	62.5%
+há'tsaqo	ha'zhaxom	'finally, at last'	80.0%
+mi'n	mi'in	'soon'	100.0%
+kas	[unknown]	'[unknown]'	0.0%
 tsu'pa	zhu'ba'	'a part'	75.0%
-t`awatr	ta:watr	'die'	100.0%
-ta'	dab	'next, on the other hand, then'	50.0%
-wit`iphats	wichribna:	'give birth to a child'	35.7%
+t`awatr&
+ta'	ta:watr	'die'	100.0%
+wit`iphats	witibha:chr'	'children'	100.0%
 hijam	hiyam	'already, now'	100.0%
 'aman	'aman	'3PL.NOM'	100.0%
-putr`atr'	pa'atr	'fight'	40.0%
+putr`atr'	[unknown]	'[unknown]'	0.0%
 mitats'	mit'achr	'slightly, not much'	100.0%
-t`awatr	ta:watr	'die'	100.0%
-taqo'	taxa:	'bring'	25.0%
+t`awatr&
+taqo'	ta:watr	'die'	100.0%
 'aman	'aman	'3PL.NOM'	100.0%
-'ētilmi	'e:dil	'get hungry'	40.0%
+'ētilmi	'e:dil	'get hungry'	100.0%
 ,	,	[punc]	100.0%
-'amá	'ama'	'3SG.NOM'	70.0%
+'amá	'ama'	'and'	100.0%
 'aman	'aman	'3PL.NOM'	100.0%
-wīhin	widin	'roll sth'	70.0%
+wīhin	wiyi	'say, do'	100.0%
 hijam	hiyam	'already, now'	100.0%
 'aman	'aman	'3PL.NOM'	100.0%
-pū́trhatr'	bo:hutr'	'grow up'	10.0%
+pū́trhatr'	[unknown]	'[unknown]'	0.0%
 ,	,	[punc]	100.0%
 'insis	'insis'	'do well'	78.6%
-ma'ăs	ma'ak'	'2DU.NOM'	70.0%
-tísis	di'ishr	'repair, make'	70.0%
+ma'ăs	[unknown]	'[unknown]'	0.0%
+tísis	[unknown]	'[unknown]'	0.0%
 nimokun	nimo:gun	'1PL.EXCL.GEN'	100.0%
 moʃ	moshr	'sweathouse'	100.0%
 ,	,	[punc]	100.0%
-wijá'n	wala:'	'?'	10.0%
+wijá'n	wiyi	'say, do'	100.0%
 'aman	'aman	'3PL.NOM'	100.0%
 'ēnas	'e:nas	'grandfather, man's grandchild'	100.0%
 'aminōkun	'amino:gun	'3PL.GEN'	100.0%
-k`á'jiw	ga:'it	'young woman'	40.0%
+k`á'jiw	kay'iw	'coyote'	100.0%
 ,	,	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
-t`aw	dab	'next, on the other hand, then'	50.0%
+'ama'	'ama'	'and'	100.0%
+t`aw	traw	'that.SG.LOC'	75.0%
 'aman	'aman	'3PL.NOM'	100.0%
-moṣlawisqo'	mala:pin/	'make a mistake'	14.3%
-pi'lsin	pi'is	'chest'	70.0%
-t`aw	dab	'next, on the other hand, then'	50.0%
-tr`ā'in	tra:'in	'that.SG.GEN'	100.0%
+moṣlawisqo'	[unknown]	'[unknown]'	0.0%
+pi'lsin	[unknown]	'[unknown]'	0.0%
+t`aw&
+tr`ā'in	tawtra:	'kill tr'	100.0%
 'aminōkun	'amino:gun	'3PL.GEN'	100.0%
-mṓʃ`un	ma'an	'2PL.NOM'	10.0%
+mṓʃ`un	moshr	'sweathouse'	100.0%
 ,	,	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
-ponoj	bonoy	'have two, make two'	100.0%
-'om	'op	'moon, a watch'	50.0%
-moʃlāwishiqo'	malapwiyi	'make a mistake'	33.3%
+'ama'	'ama'	'and'	100.0%
+ponoj	bonoy	'two'	100.0%
+'om	'ohom	'NEG'	100.0%
+moʃlāwishiqo'	[unknown]	'[unknown]'	0.0%
 ,	,	[punc]	100.0%
 pēmamkuts'	be:mamguc'	'hummingbird'	100.0%
 ,	,	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
-pustsa'	puhk'a'	'remainder'	50.0%
-tisá'n	tis'a'	'sucker fish (first to come out after winter)'	50.0%
+'ama'	'ama'	'and'	100.0%
+pustsa'	[unknown]	'[unknown]'	0.0%
+tisá'n	[unknown]	'[unknown]'	0.0%
 k`ēnit	ke:nit	'this.SG.ABL'	100.0%
-móʃnut	mo:lu	'cheat'	0.0%
+móʃnut	moshr	'sweathouse'	100.0%
 ,	,	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
-panan	bana:na:/	'lie down'	75.0%
-wa'n	wa:'al	'breakfast'	40.0%
+'ama'	'ama'	'and'	100.0%
+panan	pana:	'arrive'	100.0%
+wa'n	wa'	'far'	75.0%
 k`ew	kew	'this.SG.LOC'	100.0%
 'ís̱el	'isel	'outside'	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+'ama'	'ama'	'and'	100.0%
 'amak	'amak'	'3DU.NOM'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
-ponējam	bonoy	'have two, make two'	10.0%
-t'ujá'n	duda'	'maternal grandmother, woman's daughter's child'	40.0%
+ponējam	bonoy	'have two, make two'	100.0%
+t'ujá'n	t'uyu	'shoot at, shoot'	100.0%
 ,	,	[punc]	100.0%
 tr`asik	trasik'	'that.DU.NOM'	100.0%
 pé'mamkuts	be:mamguc'	'hummingbird'	81.2%
 ,	,	[punc]	100.0%
-jow	yo:w	'go home'	100.0%
+jow	yow	'and, also, again'	100.0%
 tap	dab	'next, on the other hand, then'	100.0%
-límik'	limik'	'prairie falcon'	100.0%
+límik'	limik'	'prairie falcon'	100.0% [continue here]
 tísmi	tisi	'come out'	62.5%
 t`sawá'n	tawan	'be dawn'	40.0%
-mi'n	min	'2SG.GEN'	50.0%
-'ēphen	'e:pi	'swim'	25.0%
+mi'n	mi'in	'soon'	100.0%
+'ēphen	'e:pi	'swim'	100.0%
 ,	,	[punc]	100.0%
 limik'	limik'	'prairie falcon'	100.0%
 ,	,	[punc]	100.0%
@@ -761,23 +765,23 @@ maqá'n	ma'an	'2PL.NOM'	40.0%
 'aman	'aman	'3PL.NOM'	100.0%
 qáta	xata	'eat'	100.0%
 ,	,	[punc]	100.0%
-mi'n	min	'2SG.GEN'	50.0%
+mi'n	mi'in	'soon'	100.0%
 'aman	'aman	'3PL.NOM'	100.0%
-tr`aw	traw	'if'	100.0%
-t`áh'an	da'ak'	'shine (of sun)'	40.0%
-phitel	pikel	'sinew'	70.0%
-sewis	shre:nitr'	'smell'	40.0%
+tr`aw	traw	'that.SG.LOC'	100.0%
+t`áh'an	ta:na	'go'	100.0%
+phitel&
+sewis&
 qo'	xo:	'live, exist, be'	25.0%
 'aman	'aman	'3PL.NOM'	100.0%
-té'jaw	de'ya:	'haul away'	70.0%
+té'jaw	di'ya'	'leader'	100.0%
 ,	,	[punc]	100.0%
-mi'n	min	'2SG.GEN'	50.0%
+mi'n	mi'in	'soon'	100.0%
 'aman	'aman	'3PL.NOM'	100.0%
 p`á'tisa	pi'is	'chest'	10.0%
 pohuꞏlhaj	pohulhay	'parent'	100.0%
 'aminōkun	'amino:gun	'3PL.GEN'	100.0%
 ,	,	[punc]	100.0%
-'amá'	'ama'	'3SG.NOM'	100.0%
+'amá'	'ama'	'and'	100.0%
 'aman	'aman	'3PL.NOM'	100.0%
 phitelsēwishin	pitelse:	'act of advising, teach, advise'	35.7%
 'ama'	'ama'	'3SG.NOM'	100.0%
