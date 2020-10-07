@@ -1,0 +1,197 @@
+jet'	yet'	'one'	100.0%
+kā'ina	ga:'ina	'woman'	100.0%
+hijam	hiyam	'already, now'	100.0%
+mit'ats`	mit'achr	'slightly, not much'	100.0%
+puhtʃr'a'	[unknown]	'[unknown]'	0.0%
+t`āwitʃrhin	ta:witr	'die'	100.0%
+'ama'	'ama'	'and'	100.0%
+qajat`	xaya:	'place, put'	100.0%
+pumk'aw	[unknown]	'[unknown]'	100.0%
+tʃr`ew	tri'	'house'	100.0%
+'ama'	'ama'	'and'	100.0%
+wīmi	wiyi	'say, do'	100.0% [continue here]
+'inest`am	'ine:sa:	'be good'	50.0%
+qutʃrnut	xutrun	'wrap sth'	100.0%
+tʃrinjāni	trasinwa:ni	'that.PL.SEC'	50.0%
+.	.	[punc]	100.0%
+'ama'	'ama'	'and'	100.0%
+wīmi	wiyi	'say, do'	100.0%
+hot'ōnet`	hot'o:ne:	'build a fire'	100.0%
+tʃraw	traw	'that.SG.LOC'	100.0%
+'aman	'aman	'3PL.NOM'	100.0%
+hāt'imhin	ha:tam	'dance'	100.0%
+t`o'jnow	toyon	'be night'	100.0%
+'ama'	'ama'	'and'	100.0%
+t`anhin	ta:na	'go'	100.0%
+tap`	dab	'next, on the other hand, then'	100.0%
+tʃr`a	tra	'that.SG.NOM'	100.0%
+t`a'wtʃr`a'	ta:witr	'die'	100.0%
+wa'	wa'	'far'	100.0%
+qosim	xosim	'north'	100.0%
+.	.	[punc]	100.0%
+'ama'	'ama'	'and'	100.0%
+p`anāhin	pana:	'arrive'	100.0%
+manē'in	mane:'a'	'increase'	57.1%
+'ilk'a	'e:k'a	'see, look at'	25.0%
+,	,	[punc]	100.0%
+wak̄`i	wik'	'2DU.VOC.IMPER'	0.0%
+'ilmam	'amam	'3SG.PRIM'	40.0%
+,	,	[punc]	100.0%
+wak̄`i	wik'	'2DU.VOC.IMPER'	0.0%
+'ilmam	'amam	'3SG.PRIM'	40.0%
+p'a'an	p'a'an	'world'	100.0%
+.	.	[punc]	100.0%
+ts'ēlālun	c'e:la:lun	'bridge'	100.0%
+tʃraw	traw	'if'	50.0%
+qō'qo'	xo:	'live, exist, be'	25.0%
+'ilk'aw	'ile:	'fan'	62.5%
+,	,	[punc]	100.0%
+'ama'	'ama'	'3SG.NOM'	100.0%
+tʃr`a	tr'e:'a:	'seek a husband'	62.5%
+ts'ēlālun	c'e:la:lun	'bridge'	100.0%
+wip'wip'	wabwis	'stretch the arms (when yawning)'	50.0%
+wijā'an	wa:'al	'breakfast'	10.0%
+.	.	[punc]	100.0%
+ʃroqno'	shroxo	'exterminate, massacre'	0.0%
+wilʃrin	wilshrin	'but, in spite of that'	75.0%
+tʃr`aw	tri'	'house'	50.0%
+walqoqo'	walxo:	'pass'	100.0%
+.	.	[punc]	100.0%
+'a'wnu	'amin	'3SG.GEN'	10.0%
+t`aqinmi	dini	'shield'	0.0%
+k`in	kin	'this.SG.PRIM'	100.0%
+'ilk'a	'e:k'a	'see, look at'	25.0%
+tʃraw	traw	'if'	50.0%
+qō'qo'	xo:	'live, exist, be'	25.0%
+jet'	yit-'	'be one?'	50.0%
+noh'o'	noh'o'	'bear'	100.0%
+la'nt'ew	la'as	'fletch'	0.0%
+p`ila	pil	'road'	50.0%
+jow	yo:w	'go home'	100.0%
+la'nt'ew	la'as	'fletch'	0.0%
+t`a'an	da'ak'	'shine (of sun)'	70.0%
+natʃritʃr	natritr	'rattlesnake'	40.0%
+.	.	[punc]	100.0%
+wa'jsēni	wa:'al	'breakfast'	40.0%
+tʃraw	traw	'if'	50.0%
+walqōhun	walxo:	'pass'	100.0%
+ts'ēlalnu	c'e:la:lno:	'go on the bridge (N-->V)'	78.6%
+'ama'	'ama'	'3SG.NOM'	100.0%
+qunōtsu	xuno:chru	'thither, yonder'	100.0%
+'a'wu	'a:wuw	'across, on the other side of, to the shore'	40.0%
+ʃri'lhin	shri'e:l	'rain'	40.0%
+manē'in	mane:'a'	'increase'	57.1%
+ʃroqnō'in	shroxo	'exterminate, massacre'	0.0%
+.	.	[punc]	100.0%
+ʃri'lhin	shri'e:l	'rain'	40.0%
+majni	mayni	'AR.EMPH'	100.0%
+'amin	'amin	'3SG.GEN'	100.0%
+ʃroqnō'in	shroxo	'exterminate, massacre'	0.0%
+jōk`its'a	yo:kic'a	'relatives'	100.0%
+.	.	[punc]	100.0%
+wijā'an	wa:'al	'breakfast'	10.0%
+'amantʃran	'amingin	'3DU.GEN'	25.0%
+wak̄`i	wik'	'2DU.VOC.IMPER'	0.0%
+ma'	ma'	'2SG.NOM'	100.0%
+tʃr`ik'it'	trik'it'	'stench'	40.0%
+,	,	[punc]	100.0%
+jok`ots'	yokoc'	'person, people'	100.0%
+ma'	ma'	'2SG.NOM'	100.0%
+nimōkun	nimo:gun	'1PL.EXCL.GEN'	100.0%
+'ēman	'e:man	'to no avail'	100.0%
+wilʃrin	wilshrin	'but, in spite of that'	75.0%
+na'an	na'an	'1PL.EXCL.NOM'	100.0%
+mam	mam	'2SG.PRIM'	100.0%
+'ohom	'ohom	'NEG'	100.0%
+k`ew	kew	'this.SG.LOC'	100.0%
+'ohjoqo'	'ohyo:	'want, look for (YT has root ?oyoxo)'	100.0%
+.	.	[punc]	100.0%
+'insis	'insis'	'do well'	78.6%
+ma'aʃr	ma'ak'	'2DU.NOM'	40.0%
+jo'wk`i'	yo'ke:	'return'	10.0%
+.	.	[punc]	100.0%
+'ama'	'ama'	'3SG.NOM'	100.0%
+ʃri'lhin	shri'e:l	'rain'	40.0%
+'amin	'amin	'3SG.GEN'	100.0%
+no'ōmo	no'om	'mother'	70.0%
+t`aqinsit`qo'	dini	'shield'	0.0%
+tʃr`an	tr'e:'a:	'seek a husband'	25.0%
+,	,	[punc]	100.0%
+'ama'	'ama'	'3SG.NOM'	100.0%
+mithin	midi	'sprinkle'	62.5%
+tʃr`an	tr'e:'a:	'seek a husband'	25.0%
+no'om	no'om	'mother'	100.0%
+'amin	'amin	'3SG.GEN'	100.0%
+qotʃr'ojni	xotr'oy	'ground, soil'	0.0%
+.	.	[punc]	100.0%
+'ama'	'ama'	'3SG.NOM'	100.0%
+jo'wk`en	yo'ke:	'return'	40.0%
+.	.	[punc]	100.0%
+hijāmi'hija'm	hiya:m'i'	'a long time ago'	0.0%
+watuk`	watuk	'who.NOM'	100.0%
+'aqa'm	'ama'	'3SG.NOM'	40.0%
+tʃr`aw	tri'	'house'	50.0%
+wejk'iʃrhin	wabwis	'stretch the arms (when yawning)'	0.0%
+'ama'	'ama'	'3SG.NOM'	100.0%
+tʃr`an	tr'e:'a:	'seek a husband'	25.0%
+ʃri'lhin	shri'e:l	'rain'	40.0%
+'amin	'amin	'3SG.GEN'	100.0%
+wuk'ajt`a	wa'ashrta:/	'be more, be very much'	35.7%
+'ama'	'ama'	'3SG.NOM'	100.0%
+tos̄ithin	do:so	'report, tell about'	25.0%
+tʃr`asinwa	trasinwa	'that.PL.PRIM'	57.1%
+tsu'pā'in	zhu'ba'	'a part'	100.0%
+jok`ots'i	yokoc'	'person, people'	70.0%
+tē'jaw	de'ya:	'haul away'	70.0%
+'ohom	'ohom	'NEG'	100.0%
+'amantʃr`an	'ama'	'3SG.NOM'	0.0%
+tsup`on'āhin	zhu'ban'a'	'a half'	50.0%
+.	.	[punc]	100.0%
+ha'ts`aqom	ha'zhaxom	'finally, at last'	100.0%
+'aman	'aman	'3PL.NOM'	100.0%
+t`a'an	da'ak'	'shine (of sun)'	70.0%
+ʃri'lhin	shri'e:l	'rain'	40.0%
+tʃr`aw	tri'	'house'	50.0%
+'ama'	'ama'	'3SG.NOM'	100.0%
+'aman	'aman	'3PL.NOM'	100.0%
+ʃri'lhin	shri'e:l	'rain'	40.0%
+'amin	'amin	'3SG.GEN'	100.0%
+wuk'ja	wuk'uy	'quake, move'	40.0%
+'ama'	'ama'	'3SG.NOM'	100.0%
+'aman	'aman	'3PL.NOM'	100.0%
+ts`owp`unhun	co:pun	'consent'	70.0%
+'ama'	'ama'	'3SG.NOM'	100.0%
+'amantʃr`an	'ama'	'3SG.NOM'	0.0%
+ʃrot'ʃrut'hun	shro:gu	'pull out an unfastened object'	0.0%
+'ama'	'ama'	'3SG.NOM'	100.0%
+wīmi	wip'i	'jerk up quickly'	62.5%
+'amantʃr`an	'ama'	'3SG.NOM'	0.0%
+'atʃr`ilhin	'atra'le:	'cause to open'	35.7%
+'ama'	'ama'	'3SG.NOM'	100.0%
+ʃri'lqashin	shrilishr	'hair'	0.0%
+manē'in	mane:'a'	'increase'	57.1%
+ha'jal	ha'traw	'what.supposed.NOM'	50.0%
+'ohom	'ohom	'NEG'	100.0%
+tʃr`ēqalhin	tre:xal	'speak'	40.0%
+,	,	[punc]	100.0%
+me'its`i	me'zhi'	'because'	50.0%
+t`awtʃrīqōhin	ta:watr	'die'	40.0%
+wilʃrin	wilshrin	'but, in spite of that'	75.0%
+'amin	'amin	'3SG.GEN'	100.0%
+jow	yo:w	'go home'	100.0%
+t`alqatʃr	dala	'flatten (grass or brush on ground)'	0.0%
+hap'ejts'āhin	ha'zha:/	'keep on doing sth'	10.0%
+'ama'	'ama'	'3SG.NOM'	100.0%
+jow	yo:w	'go home'	100.0%
+tʃr`ēqalhin	tre:xal	'speak'	40.0%
+'ama'	'ama'	'3SG.NOM'	100.0%
+amāminwa	amāminwa	[foreign]	100.0%
+jētʃr'aw	ye:tr'aw	'all'	40.0%
+tos̄ithin	do:so	'report, tell about'	25.0%
+hā'nuk	ha'uk	'what.NOM'	70.0%
+ʃri'lhin	shri'e:l	'rain'	40.0%
+wa'	wa	'however'	25.0%
+ʃroqnō'in	shroxo	'exterminate, massacre'	0.0%
+p'a'naw	p'a'an	'world'	70.0%
+.	.	[punc]	100.0%
+		[punc]	100.0%

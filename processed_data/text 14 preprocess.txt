@@ -325,7 +325,7 @@ tr`an	tran	'that.SG.PRIM'	100.0%
 .	.	[punc]	100.0%
 wá'ʃki	wa'ashrgi	'therefore'	100.0%
 wija'n%	wiyi	'say, do'	100.0%
-tran	tran	'that.SG.PRIM'	100.0% [continue here]
+tran	tran	'that.SG.PRIM'	100.0%
 hitsi	hishri	'get ripe, become cooked'	62.5%
 maki	mak'	'1DU.INCL.NOM'	50.0%
 joho'wsen	yolo:w	'assemble tr'	10.0%
@@ -732,36 +732,39 @@ pé'mamkuts	be:mamguc'	'hummingbird'	81.2%
 ,	,	[punc]	100.0%
 jow	yow	'and, also, again'	100.0%
 tap	dab	'next, on the other hand, then'	100.0%
-límik'	limik'	'prairie falcon'	100.0% [continue here]
-tísmi	tisi	'come out'	62.5%
-t`sawá'n	tawan	'be dawn'	40.0%
+límik'	limik'	'prairie falcon'	100.0%
+tísmi	tisi	'come out'	75.0%
+t`sawá'n	[unknown]	'[unknown]'	0.0%
 mi'n	mi'in	'soon'	100.0%
 'ēphen	'e:pi	'swim'	100.0%
 ,	,	[punc]	100.0%
 limik'	limik'	'prairie falcon'	100.0%
 ,	,	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+'ama'	'ama'	'and'	100.0%
 ha'tsaqom	ha'zhaxom	'finally, at last'	100.0%
 'aman	'aman	'3PL.NOM'	100.0%
-wī́hin	widin	'roll sth'	70.0%
+wī́hin	wiyi	'say, do'	100.0%
 hijuk	hiyuk	'where.NOM'	100.0%
 nimōkun	nimo:gun	'1PL.EXCL.GEN'	100.0%
-ta'pa	da:ba:	'try again (after you or others have failed before)'	62.5%
+ta'pa	da:ba'	'then, too'	100.0%
 nōphoph	nopop	'father'	100.0%
 ,	,	[punc]	100.0%
 jow	yo:w	'go home'	100.0%
-'aminōkunaʃ	'amino:gun	'3PL.GEN'	66.7%
+'aminōkun%	'amino:gun	'3PL.GEN'	100.0%
+aʃ
 nó'ŏm	no'om	'mother'	100.0%
 .	.	[punc]	100.0%
-'ama	'ama'	'3SG.NOM'	70.0%
+'ama	'ama'	'and'	100.0%
 tap	dab	'next, on the other hand, then'	100.0%
-wī́hin	widin	'roll sth'	70.0%
-k`á'jiw	ga:'it	'young woman'	40.0%
+wī́hin	wiyi	'say, do'	100.0%
+k`á'jiw	kay'iw	'coyote'	100.0%
 k`ew	kew	'this.SG.LOC'	100.0%
 'aman	'aman	'3PL.NOM'	100.0%
-qó'qo'	xo:	'live, exist, be'	25.0%
-k`itr`awkhen	gitr'e:n	'hold under the arm'	10.0%
-maqá'n	ma'an	'2PL.NOM'	40.0%
+qó'qo'	xo:	'live, exist, be'	100.0%
+k`i%	ki	'this.SG.NOM'	100.0%
+tr`aw%	traw	'that.SG.LOC'	100.0%
+khen	[unknown]	'[unknown]'	0.0%
+maqá'n	ma:xa	'procure, get'	100.0%
 'aman	'aman	'3PL.NOM'	100.0%
 qáta	xata	'eat'	100.0%
 ,	,	[punc]	100.0%
@@ -771,35 +774,35 @@ tr`aw	traw	'that.SG.LOC'	100.0%
 t`áh'an	ta:na	'go'	100.0%
 phitel&
 sewis&
-qo'	xo:	'live, exist, be'	25.0%
+qo'	pitelse:	'act of advising, teach, advise'	100.0%
 'aman	'aman	'3PL.NOM'	100.0%
 té'jaw	di'ya'	'leader'	100.0%
 ,	,	[punc]	100.0%
 mi'n	mi'in	'soon'	100.0%
 'aman	'aman	'3PL.NOM'	100.0%
-p`á'tisa	pi'is	'chest'	10.0%
+p`á'tisa	pa'atr	'fight'	25.0%
 pohuꞏlhaj	pohulhay	'parent'	100.0%
 'aminōkun	'amino:gun	'3PL.GEN'	100.0%
 ,	,	[punc]	100.0%
 'amá'	'ama'	'and'	100.0%
 'aman	'aman	'3PL.NOM'	100.0%
-phitelsēwishin	pitelse:	'act of advising, teach, advise'	35.7%
-'ama'	'ama'	'3SG.NOM'	100.0%
-aman	aman	[foreign]	100.0%
-k`ajwa	k'ay'a	'urinate (animals)'	70.0%
-wija'n	wala:'	'?'	10.0%
+phitelsēwishin	pitelse:	'act of advising, teach, advise'	100.0%
+'ama'	'ama'	'and'	100.0%
+aman	'aman	'3PL.NOM'	100.0%
+k`ajwa	kay'iw	'coyote'	100.0%
+wija'n	wiyi	'say, do'	100.0%
 hijuk	hiyuk	'where.NOM'	100.0%
-mimōkun	mino:gun	'2PL.GEN'	78.6%
+mimōkun	mino:gun	'2PL.GEN'	100.0%
 tr'álap	tr'alap	'bow'	100.0%
 ,	,	[punc]	100.0%
-wanka	wa:na	'give'	62.5%
+wanka	wa:na	'give'	100.0%
 nāninwa	na:ninwa	'1PL.EXCL.PRIM'	100.0%
 tr`āni	tra:ni	'that.SG.SEC'	100.0%
-wija'n	wala:'	'?'	10.0%
+wija'n	wiyi	'say, do'	100.0%
 'aman	'aman	'3PL.NOM'	100.0%
-mi'n	min	'2SG.GEN'	50.0%
-na'n	na'	'1SG.NOM'	50.0%
-soqen	so:xun	'vanish, --> die'	70.0%
+mi'n	mi'in	'soon'	100.0%
+na'n	na'an	'1PL.EXCL.NOM'	100.0%
+soqen	so:xo	'exterminate, massascre'	100.0%
 nimōkun	nimo:gun	'1PL.EXCL.GEN'	100.0%
 tr`asinwa	trasinwa	'that.PL.PRIM'	100.0%
 pohulhaj	pohulhay	'parent'	100.0%
@@ -808,7 +811,6 @@ nāninwa	na:ninwa	'1PL.EXCL.PRIM'	100.0%
 'aman	'aman	'3PL.NOM'	100.0%
 'ipitr`in	'ipitr	'throw off/out, pick off'	100.0%
 ,	,	[punc]	100.0%
-wijá'n	wala:'	'?'	10.0%
+wijá'n	wiyi	'say, do'	100.0%
 'aman	'aman	'3PL.NOM'	100.0%
 ,	,	[punc]	100.0%
-		[punc]	100.0%
