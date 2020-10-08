@@ -9,10 +9,11 @@ qajat`	xaya:	'place, put'	100.0%
 pumk'aw	[unknown]	'[unknown]'	100.0%
 tʃr`ew	tri'	'house'	100.0%
 'ama'	'ama'	'and'	100.0%
-wīmi	wiyi	'say, do'	100.0% [continue here]
-'inest`am	'ine:sa:	'be good'	50.0%
+wīmi	wiyi	'say, do'	100.0%
+'inest`am	'inestam	'well'	100.0%
 qutʃrnut	xutrun	'wrap sth'	100.0%
-tʃrinjāni	trasinwa:ni	'that.PL.SEC'	50.0%
+tʃr%	tra	'that.SG.NOM'	50.0%
+injāni	'inja:ni	'Indian'	50.0%
 .	.	[punc]	100.0%
 'ama'	'ama'	'and'	100.0%
 wīmi	wiyi	'say, do'	100.0%
@@ -31,81 +32,82 @@ qosim	xosim	'north'	100.0%
 .	.	[punc]	100.0%
 'ama'	'ama'	'and'	100.0%
 p`anāhin	pana:	'arrive'	100.0%
-manē'in	mane:'a'	'increase'	57.1%
-'ilk'a	'e:k'a	'see, look at'	25.0%
+manē'in	mani'	'much, many'	100.0%
+'ilk'a	'ilik'	'water'	100.0%
 ,	,	[punc]	100.0%
-wak̄`i	wik'	'2DU.VOC.IMPER'	0.0%
-'ilmam	'amam	'3SG.PRIM'	40.0%
+wak̄`i	wakkiy	'very, very much'	100.0%
+'ilmam	'ilmam	'ugly'	100.0%
 ,	,	[punc]	100.0%
-wak̄`i	wik'	'2DU.VOC.IMPER'	0.0%
-'ilmam	'amam	'3SG.PRIM'	40.0%
+wak̄`i	wakkiy	'very, very much'	100.0%
+'ilmam	'ilmam	'ugly'	100.0%
 p'a'an	p'a'an	'world'	100.0%
 .	.	[punc]	100.0%
 ts'ēlālun	c'e:la:lun	'bridge'	100.0%
-tʃraw	traw	'if'	50.0%
-qō'qo'	xo:	'live, exist, be'	25.0%
-'ilk'aw	'ile:	'fan'	62.5%
+tʃraw	traw	'that.SG.NOM'	100.0%
+qō'qo'	xo:	'live, exist, be'	100.0%
+'ilk'aw	'ilik'	'water'	100.0%
 ,	,	[punc]	100.0%
 'ama'	'ama'	'3SG.NOM'	100.0%
-tʃr`a	tr'e:'a:	'seek a husband'	62.5%
+tʃr`a	tra	'that.SG.NOM'	100.0%
 ts'ēlālun	c'e:la:lun	'bridge'	100.0%
-wip'wip'	wabwis	'stretch the arms (when yawning)'	50.0%
-wijā'an	wa:'al	'breakfast'	10.0%
+wip'wip'&
+wijā'an	wip'wiyi	'shake upwards'	50.0%
 .	.	[punc]	100.0%
-ʃroqno'	shroxo	'exterminate, massacre'	0.0%
-wilʃrin	wilshrin	'but, in spite of that'	75.0%
-tʃr`aw	tri'	'house'	50.0%
+ʃroqno'	shroxo	'exterminate, massacre'	100.0%
+wilʃrin	wilshrin	'but, in spite of that'	100.0%
+tʃr`aw	traw	'that.SG.LOC'	100.0%
 walqoqo'	walxo:	'pass'	100.0%
 .	.	[punc]	100.0%
-'a'wnu	'amin	'3SG.GEN'	10.0%
-t`aqinmi	dini	'shield'	0.0%
+'a'wnu	'a:wuw	'across, on the other side of'	100.0%
+t`aqinmi	taxa:	'bring'	100.0%
 k`in	kin	'this.SG.PRIM'	100.0%
-'ilk'a	'e:k'a	'see, look at'	25.0%
-tʃraw	traw	'if'	50.0%
-qō'qo'	xo:	'live, exist, be'	25.0%
-jet'	yit-'	'be one?'	50.0%
+'ilk'a	'ilik'	'water'	100.0%
+tʃraw	traw	'that.SG.LOC'	100.0%
+qō'qo'	xo:	'live, exist, be'	100.0%
+jet'	yet'	'one'	100.0%
 noh'o'	noh'o'	'bear'	100.0%
-la'nt'ew	la'as	'fletch'	0.0%
-p`ila	pil	'road'	50.0%
-jow	yo:w	'go home'	100.0%
-la'nt'ew	la'as	'fletch'	0.0%
-t`a'an	da'ak'	'shine (of sun)'	70.0%
+la'nt'ew	lan't'i'	'side'	100.0%
+p`ila	pil	'road'	100.0%
+jow	yow	'and, also, again'	100.0%
+la'nt'ew	lan't'i'	'side'	100.0%
+t`a'an	[unknown]	'[unknown]'	0.0%
 natʃritʃr	natritr	'rattlesnake'	40.0%
 .	.	[punc]	100.0%
-wa'jsēni	wa:'al	'breakfast'	40.0%
-tʃraw	traw	'if'	50.0%
+wa'jsēni	way'se:	'be swift'	50.0%
+tʃraw	traw	'that.SG.LOC'	100.0%
 walqōhun	walxo:	'pass'	100.0%
-ts'ēlalnu	c'e:la:lno:	'go on the bridge (N-->V)'	78.6%
-'ama'	'ama'	'3SG.NOM'	100.0%
+ts'ēlalnu	c'e:la:lun	'bridge'	100.0%
+'ama'	'ama'	'and'	100.0%
 qunōtsu	xuno:chru	'thither, yonder'	100.0%
-'a'wu	'a:wuw	'across, on the other side of, to the shore'	40.0%
-ʃri'lhin	shri'e:l	'rain'	40.0%
-manē'in	mane:'a'	'increase'	57.1%
-ʃroqnō'in	shroxo	'exterminate, massacre'	0.0%
+'a'wu	'a:wuw	'across, on the other side of, to the shore'	100.0%
+ʃri'lhin	shril'i	'see'	100.0%
+manē'in	mani'	'much, many'	100.0%
+ʃroqnō'in	shroxo	'exterminate, massacre'	100.0%
 .	.	[punc]	100.0%
-ʃri'lhin	shri'e:l	'rain'	40.0%
+ʃri'lhin	shril'i	'see'	100.0%
 majni	mayni	'AR.EMPH'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
-ʃroqnō'in	shroxo	'exterminate, massacre'	0.0%
+ʃroqnō'in	shroxo	'exterminate, massacre'	100.0%
 jōk`its'a	yo:kic'a	'relatives'	100.0%
 .	.	[punc]	100.0%
-wijā'an	wa:'al	'breakfast'	10.0%
-'amantʃran	'amingin	'3DU.GEN'	25.0%
-wak̄`i	wik'	'2DU.VOC.IMPER'	0.0%
+wijā'an	wiyi	'say, do'	100.0%
+'aman%	'aman	'3PL.NOM'	100.0%
+tʃran	tran	'that.SG.PRIM'	100.0%
+wak̄`i	wakkiy	'very, very much'	100.0%
 ma'	ma'	'2SG.NOM'	100.0%
-tʃr`ik'it'	trik'it'	'stench'	40.0%
+tʃr`ik'it'	trik'it'	'stench'	100.0%
 ,	,	[punc]	100.0%
 jok`ots'	yokoc'	'person, people'	100.0%
 ma'	ma'	'2SG.NOM'	100.0%
 nimōkun	nimo:gun	'1PL.EXCL.GEN'	100.0%
 'ēman	'e:man	'to no avail'	100.0%
-wilʃrin	wilshrin	'but, in spite of that'	75.0%
+wilʃrin	wilshrin	'but, in spite of that'	100.0%
 na'an	na'an	'1PL.EXCL.NOM'	100.0%
 mam	mam	'2SG.PRIM'	100.0%
 'ohom	'ohom	'NEG'	100.0%
 k`ew	kew	'this.SG.LOC'	100.0%
 'ohjoqo'	'ohyo:	'want, look for (YT has root ?oyoxo)'	100.0%
-.	.	[punc]	100.0%
+.	.	[punc]	100.0% [continue here]
 'insis	'insis'	'do well'	78.6%
 ma'aʃr	ma'ak'	'2DU.NOM'	40.0%
 jo'wk`i'	yo'ke:	'return'	10.0%
