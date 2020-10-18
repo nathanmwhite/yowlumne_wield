@@ -6,7 +6,7 @@ puhtʃr'a'	[unknown]	'[unknown]'	0.0%
 t`āwitʃrhin	ta:witr	'die'	100.0%
 'ama'	'ama'	'and'	100.0%
 qajat`	xaya:	'place, put'	100.0%
-pumk'aw	[unknown]	'[unknown]'	100.0%
+pumk'aw	bumuk'	'tule (round) [Chuk.]'	80.0%
 tʃr`ew	tri'	'house'	100.0%
 'ama'	'ama'	'and'	100.0%
 wīmi	wiyi	'say, do'	100.0%
@@ -185,13 +185,13 @@ t`awtʃrīqōhin	ta:watr	'die'	100.0%
 wilʃrin	wilshrin	'but, in spite of that'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
 jow	yow	'and, also, again'	100.0%
-t`alqatʃr	[unknown]	'[unknown]'	0.0%
+t`alqatʃr	talxatr	'tongue'	100.0%
 hap'ejts'āhin	[unknown]	'[unknown]'	0.0%
 'ama'	'ama'	'and'	100.0%
 jow	yow	'and, also, again'	100.0%
 tʃr`ēqalhin	tre:xal	'speak'	100.0%
 'ama'	'ama'	'and'	100.0%
-amāminwa	amāminwa	[foreign]	100.0%
+amāminwa	'ama:minwa	'3PL.PRIM'	100.0%
 jētʃr'aw	ye:tr'aw	'all'	100.0%
 tos̄ithin	do:so	'report, tell about'	100.0%
 hā'nuk	ha:nuk	'what.PRIM'	100.0%

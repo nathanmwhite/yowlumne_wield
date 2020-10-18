@@ -162,7 +162,7 @@ hukajt`aqo'	huguy	'mix'	50.0%
 taptap	t'ap't'ap'	'leaf'	75.0%
 ki%	ki	'this.SG.NOM'	100.0%
 tr`aw	traw	'that.SG.LOC'	100.0%
-ka'ī́qo	[unknown]	'[unknown]'	0.0%
+ka'ī́qo	k'a'a	'stick, adhere itr (form uncertain; dict 372)'	100.0%
 tr`a	tra	'that.SG.NOM'	100.0%
 phājaq	pa:yax	'blood'	100.0%
 mikiti'	mikitti'	'[name]'	100.0%
