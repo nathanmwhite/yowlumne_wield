@@ -31,7 +31,7 @@ tr`aw	traw	'that.LOC'	100.0%
 munos	muno:shr	'eight'	100.0%
 p'á'n	p'a'an	'year'	100.0%
 ,	,	[punc]	100%
-tr`aw	traw	'if'	100.0%
+tr`aw	traw	'that.SG.LOC'	100.0%
 na'n	nan	'1SG.PRIM'	100.0%
 t`aqan'āhin	taxa:	'bring'	100.0%
 qā́mi	xa:mi	'hither, this place'	100.0%
@@ -39,7 +39,7 @@ qā́mi	xa:mi	'hither, this place'	100.0%
 'uṯal	'ut't'al	'solely, nothing but'	100.0%
 lomit	lomit	'mountain'	100.0%
 'ohom	'ohom	'NEG'	100.0%
-traw	traw	'that.LOC'	100.0%
+traw	traw	'that.SG.LOC'	100.0%
 kalētā'in	galēta'	'cart'	100.0%
 phil	pil	'road'	100.0%
 ,	,	[punc]	100%
@@ -55,14 +55,14 @@ hotponoj	hodbonoy	'four'	100.0%
 'aqá'm	'axam'	'probably'	100.0%
 qá'jal	hay'al	'day'	100.0%
 ,	,	[punc]	100%
-'ama'	'ama'	'3SG.NOM'	100.0%
-na'n	nan	'1SG.PRIM'	100.0%
+'ama'	'ama'	'and'	100.0%
+na'n	na'an	'1PL.EXCL.NOM'	100.0%
 tr`aw	traw	'that.LOC'	100.0%
 phanāhin	pana:	'arrive'	100.0%
 t'ujt'ujhañaw	t'uyu	'shoot'	100.0%
 tr`unaw	tr'un	'anal hair'	100.0%
 'ama'	'ama'	'3SG.NOM'	100.0%
-na'n	nan	'1SG.PRIM'	100.0%
+na'n	na'an	'1PL.EXCL.NOM'	100.0%
 tr`ānit	tra:nit	'that.SG.ABL'	100.0%
 'op`now	[unknown]	[unknown]	50.0%
 phanāhin	pana:	'arrive'	100.0%
@@ -72,24 +72,24 @@ jokhots'	yokoc'	'person, people'	100.0%
 wáth'ak'ilits'	[unknown]	[unknown]	0.0%
 ,	,	[punc]	100%
 'ama'	'ama'	'3SG.NOM'	100.0%
-na'n	nan	'1SG.PRIM'	100.0%
+na'n	na'an	'1PL.EXCL.NOM'	100.0%
 ts'ōmunthaw	c'o:mu	'destroy, devour'	100.0%
 wathākin	watak'	'pine nut'	100.0%
 t`aqhinhin	taxa:	'bring'	100.0%
 t`inliw	tinel	'hole'	100.0%
 ,	,	[punc]	100.0%
 'ama'	'ama'	'3SG.NOM'	100.0%
-na'n	nan	'1SG.PRIM'	100.0%
-tr`aw	traw	'that.LOC'	100.0%
+na'n	na'an	'1PL.EXCL.NOM'	100.0%
+tr`aw	traw	'that.SG.LOC'	100.0%
 phanāhin	pana:	'arrive'	100.0%
 .	.	[punc]	100%
 'oho'm	'ohom	'NEG'	100.0%
-tr`aw	traw	'that.LOC'	100.0%
+tr`aw	traw	'that.SG.LOC'	100.0%
 ha'uk	ha'uk	'what.NOM'	100.0%
 'itrphīnits	'itrphīnits	'[name]'	0.0%
 .	.	[punc]	100.0%
 'ohom	'ohom	'NEG'	100.0%
-traw	traw	'that.LOC'	100.0%
+traw	traw	'that.SG.LOC'	100.0%
 ha'uk	ha'uk	'what.NOM'	100.0%
 ts'oḻol	c'olol	'white'	100.0%
 jōkhots'	yokoc'	'person, people'	100.0%
@@ -120,7 +120,6 @@ kulal	[unknown]	[unknown]	0.0%
 na	na'	'1SG.NOM'	100.0%
 wilsin	wilshrin	'but, in spite of that'	100.0%
 ʃilhin	shril'i	'see'	100.0%
-^	^	[punc]	100.0%
 'oho'm	'ohom	'NEG'	100.0%
 tr`aw	traw	'that.LOC'	100.0%
 tr`i'	tri'	'house'	100.0%
@@ -139,7 +138,7 @@ kutew	gude'	'small' 100.0%
 jawliw	ya:wil	'grass'	100.0%
 tr`aw	traw	'that.LOC'	100.0%
 na'	na'	'1SG.NOM'	100.0%
-qó'o'	xo:	'exist'	100.0%
+qó'o'	xo:	'live, exist, be'	100.0%
 ,	,	[punc]	100%
 tr`aw	traw	'that.LOC'	100.0%
 naʃ	na'ashr	'dubitative'	100.0%
@@ -252,20 +251,20 @@ jow	yow	'and'	100.0%
 ponjow	bonoy	'two'	100.0%
 ,	,	[punc]	100%
 'ama'	'ama'	'3SG.NOM'	100.0%
-t`awinmi	tawin	'to become morning'	40.0%
+t`awinmi	tawin	'to become morning'	100.0%
 jolowin	yolo:w	'assemble tr'	100.0%
 jētr'aw	ye:tr'aw	'all'	100.0%
-jokhōts'i	yokoc'	'person, people'	70.0%
+jokhōts'i	yokoc'	'person, people'	100.0%
 ,	,	[punc]	100% edited to here
-mi'n	min	'2SG.GEN'	50.0%
+mi'n	mi'in	'soon'	100.0%
 jokhots'	yokoc'	'person, people'	100.0%
 lāna	la:na	'hear'	100.0%
 treqal	tre:xal	'speak'	100.0%
 bīlin	bil	'Beale'	100.0%
-,	,	[punc]	100%
-zapatīlo'in	Zapatīlo'	[foreign]	100%
+,	,	[punc]	100.0%
+zapatīlo'in	Zapatīlo'	[foreign]	100.0%
 tr`ew	tri'	'house'	100.0%
-,	,	[punc]	100%
+,	,	[punc]	100.0%
 na'	na'	'1SG.NOM'	100.0%
 t`aqan'an	taxa:	'bring'	100.0%
 māminwa	ma:minwa	'2PL.PRIM'	100.0%
@@ -274,7 +273,7 @@ ts'owōni	c'owo	'grasp'	25.0%
 ,	,	[punc]	100%
 mi'n	mi'in	'soon'	100.0%
 maj	may	'1PL.INCL.NOM'	100.0%
-wojlo	wo:yo	'be born'	62.5%
+wojlo	wo:yo	'be born'	50.0%
 'alālu	[unknown]	[unknown]	0.0%
 wija'n	wiyi	'say, do'	100.0%
 ,	,	[punc]	100%
@@ -325,9 +324,9 @@ kalēta'	kale:ta'	'cart:carreta'	100.0%
 ,	,	[punc]	100%
 molowa'ji	mulo:	'mule'	100.0%
 ,	,	[punc]	100%
-kotsi	kotsi	'pig:cochino'	100.0%
+kotsi	kozhi	'pig:cochino'	100.0%
 ,	,	[punc]	100%
-tsiwato'	tsiwato'	'young goat:chivato'	100.0%
+tsiwato'	zhiwato'	'young goat:chivato'	100.0%
 ,	,	[punc]	100%
 jet'	yet'	'one'	100.0%
 kalētā'in	kale:ta'	'cart'	100.0%
@@ -351,4 +350,3 @@ qōnow	xo:now	'always'	100.0%
 ʃila'āhin	shril'i	'see'	100.0%
 Beale	Beale	[foreign]	100.0%
 ,	,	[punc]	100%
-		[punc]	100%

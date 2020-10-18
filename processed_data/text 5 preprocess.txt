@@ -47,8 +47,9 @@ tran	tran	'that.SG.PRIM'	100.0%
 ,	,	[punc]	100.0%
 'ama	'ama'	'and'	100.0%
 wi'in	[unknown]	'[unknown]'	0.0%
-má'ki	[unknown]	'[unknown]'	0.0%
-taq	taxa:	'bring'	100.0%
+má'%	ma'	'2SG.NOM'	100.0%
+ki&
+taq	gidax	'unexpectedly'	100.0%
 limik'	limik'	'prairie falcon'	100.0%
 ,	,	[punc]	100.0%
 mi'na'k	[unknown]	'[unknown]'	0.0%

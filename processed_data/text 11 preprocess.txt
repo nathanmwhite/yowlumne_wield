@@ -161,7 +161,7 @@ tr'áwhin	tr'aw'a	'win from'	100.0%
 hijam	hiyam	'already, now'	100.0%
 limik'	limik'	'prairie falcon'	100.0%
 hahit'waj	[unknown]	'[unknown]'	0.0%
-'am	[unknown]	'[unknown]'	0.0%
+'am	'amin	'3SG.GEN'	50.0%
 ts'elwas	[unknown]	'[unknown]'	0.0%
 ts'awan'an	tr'aw'a	'win from'	80.0%
 ,	,	[punc]	100.0%

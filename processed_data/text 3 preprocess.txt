@@ -46,8 +46,8 @@ traw	traw	'that.LOC'	100.0%
 thahan	ta:na	'go'	100.0%
 .	.	[punc]	100.0%
 'ama'	'ama'	'and'	100.0%
-ponoj	bonoy	'have two, make two'	100.0%
-withipats	[unknown]	'[unknown]'	0.0%
+ponoj	bonoy	'two'	100.0%
+withipats	witibha:chr'	'children'	100.0%
 'iptrit	'ipitr	'throw off/out, pick off'	100.0%
 jow	yow	'and, also, again'	100.0%
 'anūnkīn	'amingin	'3DU.GEN'	80.0%
@@ -461,7 +461,7 @@ k`emaj	[unknown]	'[unknown]'	0.0%
 hi	hi'	'FUT'	100.0%
 wija'n	wiyi	'say, do'	100.0%
 wija'n	wiyi	'say, do'	100.0%
-pumuk'	[unknown]	'[unknown]'	0.0%
+pumuk'	bumuk'	'tule (round) [Chuk.]'	80.0%
 tr`aw	traw	'that.LOC'	100.0%
 qo'qōhin	xo:	'live, exist, be'	100.0%
 'ama	'ama'	'and'	100.0%
@@ -493,7 +493,7 @@ wī́hin	wiyi	'say, do'	100.0%
 ama'	'ama'	'and'	100.0%
 tha'n	[unknown]	'[unknown]'	0.0%
 t'ulhun	t'ulu	'burn tr'	100.0%
-p'umk'a	p'umu	'fill'	100.0%
+p'umk'a	bumuk'	'tule (round) [Chuk.]'	80.0%
 t`aw	traw	'that.LOC'	80.0%
 t`anhin	ta:na	'go'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%

@@ -7,13 +7,13 @@ t'ojnēni	toyon	'be night'	100.0%
 ,	,	[punc]	100.0%
 mi'n	mi'in	'soon'	100.0%
 máqnitr	ma:xa	'procure, get'	80.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+'ama'	'ama'	'and'	100.0%
 maqin	ma:xa	'procure, get'	100.0%
 jawli	yawa:l	'follow, pursue'	80.0%
 ts'uju	c'uyo:	'urinate'	80.0%
 'aʃ	'ashr	'actually, really'	100.0%
 hawithaw	hawa	'do what?'	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+'ama'	'ama'	'and'	100.0%
 tr`āni	tra:ni	'that.SG.SEC'	100.0%
 t'ójqen	t'oyox	'doctor, give medicine'	100.0%
 ,	,	[punc]	100.0%

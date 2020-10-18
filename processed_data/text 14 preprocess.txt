@@ -751,7 +751,7 @@ nōphoph	nopop	'father'	100.0%
 ,	,	[punc]	100.0%
 jow	yo:w	'go home'	100.0%
 'aminōkun%	'amino:gun	'3PL.GEN'	100.0%
-aʃ
+aʃ	'ashr	'actually, really'	100.0%
 nó'ŏm	no'om	'mother'	100.0%
 .	.	[punc]	100.0%
 'ama	'ama'	'and'	100.0%
