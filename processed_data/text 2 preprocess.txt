@@ -5,7 +5,7 @@ jet'	yet'	'one'	100.0%
 nono'	no:n'o'	'man'	100.0%
 ,	,	[punc]	100.0%
 waʃta	wa'ashrta'	'very'	100.0%
-ka'its'a	ga:'ita	'girl'	0.0%
+ka'its'a	ga'ec'a	'pretty'	50.0%
 'amin	'amin	'3SG.GEN'	100.0%
 mok`ji'	mokiy'	'wife'	100.0%
 ,	,	[punc]	100.0%
@@ -29,7 +29,7 @@ no'no'	no:n'o'	'man'	100.0%
 tr`a	tra	'that.SG.NOM'	100.0%
 tr`okhin	tro:k'o	'strike, hit'	100.0%
 k`ew	kew	'this.SG.LOC'	100.0%
-k'ujtr'aw	k'uyutr'	'knee'	100.0%
+k'ujtr'aw	k'uyutr'	'elbow, knee'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
 'ama'	'ama'	'and'	100.0%
 tr`aw	traw	'that.SG.LOC'	100.0%
@@ -185,8 +185,9 @@ ts&
 i&
 meqt`aw	chrimex	'twilight'	80.0%
 ,	,	[punc]	100.0%
-t`aw	taw	'that.SG.LOC'	100.0%
-mī	[unknown]	'[unknown]'	0.0%
+t`aw	traw	'that.SG.LOC'	80.0%
+m%	ma'	'2SG.NOM'	25.0%
+ī	hi'	'FUT'	25.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
 si'len	shril'i	'see'	100.0%
 mi'n	mi'in	'soon'	100.0%
@@ -200,8 +201,10 @@ na%	mizhna'	'indeed, surely'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
 sílhin	shril'i	'see'	100.0%
 ,	,	[punc]	100.0%
-t`am	[unknown]	'[unknown]'	0.0%
-itran	[unknown]	'[unknown]'	0.0%
+t`a%	tra	'that.SG.NOM'	25.0%
+m&
+i%	mihi'	'2SG.NOM FUT'	50.0%
+tran	tran	'that.SG.PRIM'	25.0%
 nónwisen	non'wos'	'sleep'	100.0%
 'ohóm	'ohom	'NEG'	100.0%
 ma'	ma'	'2SG.NOM'	100.0%
@@ -210,10 +213,11 @@ wó'jon	wo:'uy	'sleep'	100.0%
 wija'n	wiyi	'say, do'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
 ,	,	[punc]	100.0%
-t`áaw	[unknown]	'[unknown]'	0.0%
-mi	[unknown]	'[unknown]'	0.0%
+t`áaw	traw	'that.SG.LOC'	80.0%
+mi	mihi'	'2SG.NOM FUT'	50.0%
 wo'jon	wo:'uy	'sleep'	100.0%
-'omi	[unknown]	'[unknown]'	0.0%
+'om%	'ohom	'NEG'	80.0%
+i	hi'	'FUT'	25.0%
 hānuk	ha:nuk	'what.PRIM'	100.0%
 t`ana'	ta:na	'go'	100.0%
 wijān%	wiyi	'say, do'	100.0%
@@ -310,12 +314,15 @@ hų́hų	hǫ:hǫ'	'yes'	100.0%
 wija'n	wiyi	'say, do'	100.0%
 ,	,	[punc]	100.0%
 jet'	yet'	'one'	100.0%
-k`iwilsin	giwil	'meet s.o.'	50.0%
+k`i%	ki	'this.SG.NOM'	50.0%
+wilsin	wilshrin	'but'	50.0%
 thojnow	toyon	'be night'	100.0%
 wija'n	wiyi	'say, do'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
 ,	,	[punc]	100.0%
-tr`ámijo	[unknown]	'[unknown]'	0.0%
+tr`á%	traw	'that.SG.LOC'	25.0%
+mi%	mihi'	'2SG.NOM FUT'	25.0%
+jo	yow	'and, also, again'	25.0%
 hetʃi	he:zhi'	'today'	100.0%
 wó'jon	wo:'uy	'sleep'	100.0%
 wá%	wa'	'far'	100.0%
@@ -324,7 +331,7 @@ mihi'	mihi'	'2SG.NOM FUT'	100.0%
 hānuk	ha:nuk	'what.PRIM'	100.0%
 t`ā́na'	ta:na	'go'	100.0%
 ,	,	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+'ama'	'ama'	'and'	100.0%
 mits&
 na	mizhna'	'indeed, surely'	100.0%
 patr	batr	'as usual'	100.0%
@@ -355,7 +362,7 @@ háklḗqo'	'ak'al 'put ones arms around s.o.s head'	100.0%
 'ama	'ama'	'and'	100.0%
 patr	batr	'as usual'	100.0%
 tsopnik	copnig	'[name]'	100.0%
-tr`am	[unknown]	'[unknown]'	0.0%
+tr`am	traw	'that.SG.LOC'	25.0%
 p`ána'	pana:	'arrive'	100.0%
 ,	,	[punc]	100.0%
 hijuk	hiyuk	'where.NOM'	100.0%
@@ -373,7 +380,8 @@ wija'n	wiyi	'say, do'	100.0%
 ti	di'	'with a little doubt'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
 tsopnik	copnig	'[name]'	100.0%
-táʃ'ins	[unknown]	'[unknown]'	0.0%
+táʃ%	[unknown]	'[unknown]'	0.0%
+'ins	'insis	'good'	25.0%
 'amā́%	'ama'	'and'	100.0%
 ma'	ma'	'2SG.NOM'	100.0%
 jókhi'	yo'ke:	'return'	100.0%
@@ -388,6 +396,6 @@ p`anahin	pana:	'arrive'	100.0%
 tr`ew	trew	'house'	100.0%
 jow	yow	'and, also, again'	100.0%
 tap	dab	'next, on the other hand, then'	100.0%
-t`aw	taw	'that.SG.LOC'	100.0%
-tr`an	tran	'that.SG.PRIM'	100.0%
+t`aw&
+tr`an	ta:witr	'die'	100.0%
 .	.	[punc]	100.0%
