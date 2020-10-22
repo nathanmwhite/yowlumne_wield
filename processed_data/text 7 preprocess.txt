@@ -3,7 +3,8 @@ ti	di'	'with a little doubt'	100.0%
 ts'olip̱i	c'olippiy	'six'	100.0%
 kajēni	ga:'ina	'woman'	100.0%
 ,	,	[punc]	100.0%
-kajetsamun	[unknown]	'[unknown]'	0.0%
+kajetsa%	ga'ec'a	'pretty'	50.0%
+mun	'aman	'3PL.NOM'	50.0%
 wáḵi	wakkiy	'very much, be very much'	100.0%
 ,	,	[punc]	100.0%
 qōqon	xo:	'live, exist, be'	100.0%
@@ -43,7 +44,7 @@ hijók	hiyo'uk	'where.LOC'	100.0%
 ,	,	[punc]	100.0%
 hijo'%	hiyo'uk	'where.LOC'	100.0%
 ki&
-taq%	gidax	'[unknown]'	0.0%
+taq%	gidax	'unexpectedly'	0.0%
 maj	may	'1PL.INCL.NOM'	100.0%
 t`a'n	ta:na	'go'	80.0%
 nṓt%	no'od	'younger sister'	100.0%
@@ -53,7 +54,7 @@ tíkḗni	dik'e:n	'stay behind'	80.0%
 ,	,	[punc]	100.0%
 hijók	hiyo'uk	'where.LOC'	100.0%
 ki&
-taq%	gidax	'[unknown]'	0.0%
+taq%	gidax	'unexpectedly'	0.0%
 maj	may	'1PL.INCL.NOM'	100.0%
 t`án	ta:na	'go'	100.0%
 wija'n	wiyi	'say, do'	100.0%
@@ -67,7 +68,7 @@ amnōkun	'amino:gun	'3PL.GEN'	100.0%
 wijá'n	wiyi	'say, do'	100.0%
 ,	,	[punc]	100.0%
 waʃka	[unknown]	'[unknown]'	0.0%
-jáh%	[unknown]	'[unknown]'	0.0%
+jáh%	yah	'hey!'	100.0%
 maj	may	'1PL.INCL.NOM'	100.0%
 wijá'n	wiyi	'say, do'	100.0%
 ,	,	[punc]	100.0%
@@ -84,14 +85,15 @@ jolōwinhin	yolo:w	'assemble tr'	100.0%
 hēts`i'	he:zhi'	'today'	100.0%
 hawa't`o'k%	hawa'to'uk	'will be/is doing what? (interrogative)'	100.0%
 maj	may	'1PL.INCL.NOM'	100.0%
-wajanti	[unknown]	'[unknown]'	0.0%
+wajan%	wiyi	'say, do'	75.0%
+ti	di'	'with a little doubt'	75.0%
 ná't	no'od	'younger sister'	100.0%
 'amnōkun	'amino:gun	'3PL.GEN'	100.0%
 ,	,	[punc]	100.0%
 'ama'	'ama'	'and'	100.0%
 tisá'lā́'n	tisi	'come out'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
-p`isḗsan	[unknown]	'[unknown]'	0.0%
+p`isḗsan	pise:san	'pise:san'	100.0%
 ,	,	[punc]	100.0%
 nó't	no'od	'younger sister'	100.0%
 'amnōkun	'amino:gun	'3PL.GEN'	100.0%
@@ -107,7 +109,7 @@ hits'éhin	hic'e:y	'tighten'	80.0%
 ,	,	[punc]	100.0%
 'ama'	'ama'	'and'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
-amtr`aw	[unknown]	'[unknown]'	100.0%
+amtr`aw	'amcaw	'close to'	80.0%
 tó'lunhun	do:lu	'climb'	100.0%
 no't	no'od	'younger sister'	100.0%
 'aminōkun	'amino:gun	'3PL.GEN'	100.0%
@@ -127,7 +129,7 @@ pojēts'óhin	boy'e:tr'a:/	'become miserable'	50.0%
 ,	,	[punc]	100.0%
 'ohjoon	'ohyo:	'want, look for (YT has root ?oyoxo)'	100.0%
 'aminōkun	'amino:gun	'3PL.GEN'	100.0%
-mókhójho	[unknown]	'[unknown]'	0.0%
+mókhójho	mokoyi	'women'	75.0%
 ,	,	[punc]	100.0%
 jow	yow	'and, also, again'	100.0%
 man	man	'2SG.PRIM'	80.0%
@@ -165,7 +167,7 @@ wija'n	wiyi	'say, do'	100.0%
 'amā́nwa	'ama:minwa	'3PL.PRIM'	80.0%
 k`á'jiw	kay'iw	'coyote'	100.0%
 ,	,	[punc]	100.0%
-mok`ojho	[unknown]	'[unknown]'	0.0%
+mok`ojho	mokoyi	'women'	50.0%
 nimṓkun	nimo:gun	'1PL.EXCL.GEN'	100.0%
 wijá'n	wiyi	'say, do'	100.0%
 'áman	'aman	'3PL.NOM'	100.0%
@@ -186,7 +188,7 @@ tr`aw	traw	'that.SG.LOC'	100.0%
 'ilk'aw	'ilik'	'water'	100.0%
 hilalhin	hilal	'be visible, appear'	100.0%
 'aminōkun	'amino:gun	'3PL.GEN'	100.0%
-ts'ēnaw	[unknown]	'[unknown]'	0.0%
+ts'ēnaw	c'enaw	'shadow, shade'	80.0%
 'aminōkun	'amino:gun	'3PL.GEN'	100.0%
 ,	,	[punc]	100.0%
 hētʃi'	he:zhi'	'today'	100.0%
@@ -211,7 +213,7 @@ k`'a'jiw	kay'iw	'coyote'	100.0%
 'ama'	'ama'	'and'	100.0%
 tr`aw	traw	'that.SG.LOC'	100.0%
 'aminōkun	'amino:gun	'3PL.GEN'	100.0%
-p`isḗsan	[unknown]	'[unknown]'	0.0%
+p`isḗsan	pise:san	'pise:san'	100.0%
 tan	ta:na	'go'	100.0%
 qajinhin	xaya:	'place, put'	100.0%
 tr`aw	traw	'that.SG.LOC'	100.0%
@@ -226,26 +228,27 @@ thanhin	ta:na	'go'	100.0%
 wilsin	wilshrin	'but, in spite of that'	100.0%
 'aman	'aman	'3PL.NOM'	100.0%
 'ohom	'ohom	'NEG'	100.0%
-k'otr'hin	[unknown]	'[unknown]'	0.0%
+k'otr'hin	go:tr'o	'overtake'	100.0%
 'aminōkun	'amino:gun	'3PL.GEN'	100.0%
-mokhojho	[unknown]	'[unknown]'	0.0%
+mokhojho	mokoyi	'women'	50.0%
 tik'naw	dik'naw	'behind'	100.0%
 tap	dab	'next, on the other hand, then'	100.0%
 k`a'jiw	kay'iw	'coyote'	100.0%
 ,	,	[punc]	100.0%
 t`an	ta:na	'go'	80.0%
 'ēman	'e:man	'to no avail'	100.0%
-kotrhotrhin	[unknown]	'[unknown]'	0.0%
+kotrhotrhin	go:tr'o	'overtake'	50.0%
 qōhin	xo:	'live, exist, be'	50.0%
 .	.	[punc]	100.0%
-tr`a'	tra	'that.NOM'	80.0%
-man	man	'2SG.PRIM'	80.0%
+tr`a%	tra	'that.NOM'	100.0%
+'&
+man	'aman	'3PL.NOM'	100.0%
 tr`iphin	tripin	'on top of'	100.0%
 .	.	[punc]	100.0%
 'oho'm	'ohom	'NEG'	100.0%
 tr`asin	trasin	'that.PL.NOM'	100.0%
 nonei	no:n'o'	'man'	100.0%
-kotrhin	[unknown]	'[unknown]'	0.0%
+kotrhin	go:tr'o	'overtake'	100.0%
 'amāminwa	'ama:minwa	'3PL.PRIM'	100.0%
 hawjo'k	hawyo'uk	'what.kind.PRIM'	100.0%
 .	.	[punc]	100.0%

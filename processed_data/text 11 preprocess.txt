@@ -17,10 +17,10 @@ t`awin
 mi%	tawin	'to become morning'	100.0%
 tran	tran	'that.SG.PRIM'	100.0%
 jow	yow	'and, also, again'	100.0%
-kíjem	gi'iy	'enemy'	100.0%
+kíjem	gi'iy	'oppose'	50.0%
 ,	,	[punc]	100.0%
 limik'in	limik'	'prairie falcon'	100.0%
-tr'awin	traw	'if'	100.0%
+tr'awin	tr'aw'a	'win from'	100.0%
 .	.	[punc]	100.0%
 'ama'	'ama'	'and'	100.0%
 jet'	yet'	'one'	100.0%
@@ -58,7 +58,7 @@ hija'm	hiyam	'already, now'	100.0%
 mokjowmen	mokiy'	'woman'	50.0%
 limk'in	limik'	'prairie falcon'	100.0%
 .	.	[punc]	100.0%
-t`ahak	[unknown]	'[unknown]'	0.0%
+t`ahak	taxa:	'bring'	80.0%
 nim	nim	'1SG.GEN'	100.0%
 tran	tran	'that.SG.PRIM'	100.0%
 toḵojni	dogoy	'dogoy'	100.0%

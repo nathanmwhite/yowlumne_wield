@@ -67,8 +67,9 @@ tr`aw	traw	'that.SG.LOC'	100.0%
 thanahin	ta:na	'go'	100.0%
 'antr'awho	'antruw	'shaman'	50.0%
 t`áwetr'iw	ta:watr	'die'	100.0%
-mi'nam	mizhna'	'indeed, surely'	0.0%
-an	an	[foreign]	0.0%
+mi'n%	mi'in	'soon'	50.0%
+am&
+an	'aman	'3PL.NOM'	50.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
 ʃípʃa'	shripshra:/	'to perform with magical powers'	100.0%
 ,	,	[punc]	100.0%
@@ -89,7 +90,7 @@ mi'n	mi'in	'soon'	100.0%
 qósména'	xo:sim	'north'	90.0%
 ,	,	[punc]	100%
 'ama'	'ama'	'and'	100.0%
-tao	dab	'next, on the other hand, then'	50.0%
+tap	dab	'next, on the other hand, then'	50.0%
 ts`anum	canum	'immediately'	100.0%
 'apij	'abiy	'with.ACCOMP'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
@@ -102,8 +103,8 @@ kotr'ó'on	go:tr'o	'overtake'	100.0%
 kuti'am	gude'	'small'	75.0%
 tr`ānan	[unknown]	'[unknown]'	0.0%
 'as	'ashr	'actually, really'	100.0%
-lolo'	lo:l'o:	'leave behind, let go of, quit'	40.0%
-,	,	[punc]	100%
+lolo'	lo:l'o:	'leave behind, let go of, quit'	50.0%
+,	,	[punc]	100.0%
 wilsin	wilshrin	'but, in spite of that'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
 siḻēqo'	shril'i	'see'	100.0%
@@ -221,15 +222,15 @@ t`ojnow	toyon	'be night'	100.0%
 'om	'ohom	'NEG'	50.0%
 wō'jon	wo:'uy	'sleep'	100.0%
 'ama'	'ama'	'and'	100.0%
-hakhākwit`aw	[unknown]	'[unknown]'	100.0%
-tr`aw	traw	'if'	100.0%
+hakhākwit`aw	hakhakwiyi	'be lightning'	80.0%
+tr`aw	traw	'that.SG.LOC'	100.0%
 wójhun	wo:'uy	'sleep'	100.0%
 ,	,	[punc]	100%
 kitaq	gidax	'uncertain'	100.0%
 pi'm&
 tr`an&
 na'in&	bim'tran'a'	'stump (of tree)'	100.0%
-hak'lḗqo	[unknown]	'[unknown]'	100.0%
+hak'lḗqo	'ak'al 'put ones arms around s.o.s head'	100.0%
 ,	,	[punc]	100%
 hijuk	hiyuk	'where.NOM'	100.0%
 wija'n	wiyi	'say, do'	100.0%
@@ -269,8 +270,8 @@ tr`an	tran	'that.SG.PRIM'	100.0%
 ts'opnik	Copnig	'[name]'	100.0%
 ,	,	[punc]	100.0%
 'ama'	'ama'	'and'	100.0%
-mits	[unknown]	'[unknown]'	100.0%
-na'	na'	'1SG.NOM'	100.0%
+mits&
+na'	mizhna'	'indeed, surely'	100.0%
 patr	batr	'as usual'	100.0%
 tsimeqt`aw	chrimex	'twilight'	80.0%
 p`ana'	pana:	'arrive'	100.0%
@@ -292,7 +293,7 @@ patr	batr	'as usual'	100.0%
 pimtran&
 a&
 hin	bim'tran'a'	'stump (of tree)'	100.0%
-'aklēqo'	[unknown]	'[unknown]'	0.0%
+'aklēqo'	'ak'al 'put ones arms around s.o.s head'	100.0%
 ,	,	[punc]	100.0%
 hija'm	hiyam	'already, now'	100.0%
 paṯṟ%&	batr	'as usual'	100.0%
@@ -324,8 +325,8 @@ hānuk	ha:nuk	'what.PRIM'	100.0%
 t`ā́na'	ta:na	'go'	100.0%
 ,	,	[punc]	100.0%
 'ama'	'ama'	'3SG.NOM'	100.0%
-mits	[unknown]	'[unknown]'	0.0%
-na	na'	'1SG.NOM'	100.0%
+mits&
+na	mizhna'	'indeed, surely'	100.0%
 patr	batr	'as usual'	100.0%
 tsimeqthaw	chrimex	'twilight'	80.0%
 silen	shril'i	'see'	100.0%
@@ -349,7 +350,7 @@ wojo	wo:'uy	'sleep'	100.0%
 t`aw	taw	'that.SG.LOC'	100.0%
 patr	batr	'as usual'	100.0%
 pimtr`anahin	bim'tran'a'	'stump (of tree)'	100.0%
-háklḗqo'	[unknown]	'[unknown]'	100.0%
+háklḗqo'	'ak'al 'put ones arms around s.o.s head'	100.0%
 ,	,	[punc]	100.0%
 'ama	'ama'	'and'	100.0%
 patr	batr	'as usual'	100.0%
