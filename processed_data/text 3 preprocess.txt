@@ -1,6 +1,6 @@
 mani	mani'	'many'	100.0%
 jokhots'	yokoc'	'person, people'	100.0%
-qoqi'in	xo:	'live, exist, be'	100.0%
+qoqo'in	xo:	'live, exist, be'	100.0%
 waḵi	wakkiy	'very, very much'	100.0%
 .	.	[punc]	100.0%
 mani	mani'	'many'	100.0%
@@ -147,8 +147,10 @@ hītiwluq'o	hiyt'iwla:'	'become happy'	100.0%
 ti'	di'	'with a little doubt'	100.0%
 waḵij	wakkiy	'very, very much'	100.0%
 .	.	[punc]	100.0%
-hímkitahmák	[unknown]	'[unknown]'	0.0%
-majṓwāhin	[unknown]	'[unknown]'	0.0%
+hím%	[unknown]	'[unknown]'	0.0%
+kitah%	gidax	'unexpectedly'	50.0%
+mák	mak'	'1DU.INCL.NOM'	50.0%
+majṓwāhin	mayo:ywa:/	'become experts'	80.0%
 ,	,	[punc]	100.0%
 jow	yo:w	'go home'	100.0%
 tap	dab	'next, on the other hand, then'	100.0%
@@ -185,7 +187,8 @@ hǫhǫ	hǫ:hǫ'	'yes'	100.0%
 wihin	wiyi	'say, do'	100.0%
 tá'pa'	da:ba'	'then, too(?)'	100.0%
 .	.	[punc]	100.0%
-wahitsi	[unknown]	'[unknown]'	0.0%
+wa%	wa	'however'	25.0%
+hitsi	hi'zhri' 'tomorrow'	25.0%
 míhi'	mihi'	'2SG.NOM FUT'	100.0%
 thahan	ta:na	'go'	100.0%
 min	min	'2SG.GEN'	100.0%
@@ -205,7 +208,8 @@ tap	dab	'next, on the other hand, then'	100.0%
 ts'owo	c'owo	'grasp'	100.0%
 mi'n	mi'in	'soon'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
-tr`aqāji'	[unknown]	'[unknown]'	0.0%
+tr`a%	tra	'this.SG.NOM'	25.0%
+qāji'	xaya:	'put, place'	25.0%
 ta'pa'	da:ba'	'then, too(?)'	100.0%
 .	.	[punc]	100.0%
 tr`aʃ	tra'ashr	'continuously'	50.0%
@@ -221,7 +225,9 @@ p`ak̄'āthinhin	pak'a:tin	'remember'	100.0%
 ,	,	[punc]	100.0%
 wṓkom	wo:k'o:/	'hunt deer by using decoys'	50.0%
 ts'i'na'	[unknown]	'[unknown]'	0.0%
-tr`āminkhin	[unknown]	'[unknown]'	0.0%
+tr`ā%	tra	'that.SG.NOM'	25.0%
+min%	'amin	'3SG.GEN'	25.0%
+khin	kin	'this.SG.PRIM'	25.0%
 'ākas	'a:gashr	'mother's brother'	100.0%
 ,	,	[punc]	100.0%
 mi'n	mi'in	'soon'	100.0%
@@ -254,7 +260,7 @@ wija'n	wiyi	'say, do'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
 hī́m%	[unknown]	'[unknown]'	100.0%
 'amak	'amak'	'3DU.NOM'	100.0%
-majōjwāhin	[unknown]	'[unknown]'	0.0%
+majōjwāhin	mayo:ywa:/	'become experts'	80.0%
 ,	,	[punc]	100.0%
 min	min	'2SG.GEN'	100.0%
 ts'ájqa	c'ayax	'man's sister's child'	100.0%
@@ -289,7 +295,7 @@ ts'utújhun	[unknown]	'[unknown]'	0.0%
 'ama'	'ama'	'3SG.NOM'	100.0%
 tap	dab	'next, on the other hand, then'	100.0%
 milwīhin	[unknown]	'[unknown]'	0.0%
-qot'juw	[unknown]	'[unknown]'	0.0%
+qot'juw	xotr'oy	'ground, soil'	25.0%
 ,	,	[punc]	100.0%
 'ama'	'ama'	'3SG.NOM'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
