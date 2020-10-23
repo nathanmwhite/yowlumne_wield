@@ -150,7 +150,7 @@ waḵij	wakkiy	'very, very much'	100.0%
 hím%	[unknown]	'[unknown]'	0.0%
 kitah%	gidax	'unexpectedly'	50.0%
 mák	mak'	'1DU.INCL.NOM'	50.0%
-majṓwāhin	mayo:ywa:/	'become experts'	80.0%
+majṓwāhin	mayo:wa:/	'become experts'	80.0%
 ,	,	[punc]	100.0%
 jow	yo:w	'go home'	100.0%
 tap	dab	'next, on the other hand, then'	100.0%
@@ -260,7 +260,7 @@ wija'n	wiyi	'say, do'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
 hī́m%	[unknown]	'[unknown]'	100.0%
 'amak	'amak'	'3DU.NOM'	100.0%
-majōjwāhin	mayo:ywa:/	'become experts'	80.0%
+majōjwāhin	mayo:wa:/	'become experts'	80.0%
 ,	,	[punc]	100.0%
 min	min	'2SG.GEN'	100.0%
 ts'ájqa	c'ayax	'man's sister's child'	100.0%
@@ -304,12 +304,12 @@ k'īswīhin	[unknown]	'[unknown]'	0.0%
 ,	,	[punc]	100.0%
 'ama'	'ama'	'and'	100.0%
 'aman	'aman	'3PL.NOM'	100.0%
-tr`aw	traw	'if'	100.0%
+tr`aw	traw	'that.SG.LOC'	100.0%
 jolōwinhin	yolo:w	'assemble tr'	100.0%
 ,	,	[punc]	100.0%
 mi'n	mi'in	'soon'	100.0%
 aman	'aman	'3PL.NOM'	100.0%
-tr`at	[unknown]	'[unknown]'	0.0%
+tr`at	tra:nit	'that.SG.ABL'	50.0%
 t`an	ta:na	'go'	50.0%
 tr`ew	tri'	'house'	100.0%
 ,	,	[punc]	100.0%
@@ -322,7 +322,7 @@ tap	dab	'next, on the other hand, then'	100.0%
 moqlo'	moxlo'	'old person'	100.0%
 tí'sen	di'ishr	'repair, make'	80.0%
 'amin	'amin	'3SG.GEN'	100.0%
-sonlo	[unknown]	'[unknown]'	100.0%
+sonlo	so:nol	'pack on the back'	80.0%
 ,	,	[punc]	100.0%
 mi'n%	mi'in	'soon'	100.0%
 jo'ki'	yo'ke:	'return'	100.0%
@@ -341,16 +341,16 @@ ta'pa'	da:ba'	'then, too(?)'	100.0%
 ,	,	[punc]	100.0%
 him	[unknown]	'[unknown]'	0.0%
 trasik	trasik'	'that.DU.NOM'	100.0%
-mojōwāhin	[unknown]	'[unknown]'	0.0%
-withipats'	[unknown]	'[unknown]'	0.0%
+mojōwāhin	mayo:wa:/	'become experts'	80.0%
+withipats'	witibha:chr'	'children'	100.0%
 ,	,	[punc]	100.0%
 hina	hina'	'perhaps, maybe'	100.0%
 ma'n	ma'an	'2PL.NOM'	50.0%
 thanathinqo'	ta:na	'go'	100.0%
 wilsin	wilshrin	'but, in spite of that'	100.0%
 ma'n	ma'an	'2PL.NOM'	50.0%
-hits'e	hic'e:y	'tighten'	80.0%
-wisen	[unknown]	'[unknown]'	0.0%
+hits'e&
+wisen	hic'e:y	'tighten'	80.0%
 waḵij	wakkiy	'very, very much'	100.0%
 ;	;	[punc]	100.0%
 'ama	'ama'	'and'	100.0%
@@ -531,8 +531,9 @@ hijowk	hiyo'uk	'where.LOC'	100.0%
 tháhan	ta:na	'go'	100.0%
 .	.	[punc]	100.0%
 'apij	'abiy	'with.ACCOMP'	100.0%
-namākwi	[unknown]	'[unknown]'	0.0%
-thā́n	ta:na	'go'	62.5%
+na%	na'	'1SG.NOM'	25.0%
+mākwi	makwihi'	'1DU.INCL.PRIM'	25.0%
+thā́n	ta:na	'go'	100.0%
 wijá'n	wiyi	'say, do'	100.0%
 ,	,	[punc]	100.0%
 jow	yow	'and, also, again'	100.0%
@@ -554,9 +555,10 @@ tele&
 tel	[unknown]	'[unknown]'	0.0%
 na'	na'	'1SG.NOM'	100.0%
 ,	,	[punc]	100.0%
-motrkiwik	[unknown]	'[unknown]'	0.0%
+motrkiwik	modrk'iwik	'black'	25.0%
 pu's	bu'us	'dog'	100.0%
-tr`ámkin	[unknown]	'[unknown]'	0.0%
+tr`%	tra	'that.SG.NOM'	25.0%
+ámkin	'amingin	'3DU.GEN'	25.0%
 'ḗnas	'e:nas	'grandfather, man's grandchild'	100.0%
 .	.	[punc]	100.0%
 hi'	hi'	'FUT'	100.0%
