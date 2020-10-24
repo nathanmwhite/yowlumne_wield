@@ -1,5 +1,6 @@
 limik'	limik'	'prairie falcon'	100.0%
-qojoqontraw	[unknown]	'[unknown]'	0.0%
+qojoqon%	xaya:	'place, put'	25.0%
+traw	traw	'that.SG.LOC'	25.0%
 ,	,	[punc]	100.0%
 'alwutran	'alwutr'	'crow'	100.0%
 nots'i'	no:chro'	'friend'	100.0%
@@ -14,7 +15,7 @@ hewtaqo'n	hew'ta:	'walk about, roam'	100.0%
 jet	yet'	'one'	100.0%
 phanahin	pana:	'arrive'	100.0%
 'amak'	'amak'	'3DU.NOM'	100.0%
-tr'āma'in	[unknown]	'[unknown]'	0.0%
+tr'āma'in	tr'ama'	'blind'	50.0%
 ,	,	[punc]	100.0%
 mani'	mani'	'many'	100.0%
 'am	'amin	'3SG.GEN'	50.0%
@@ -39,7 +40,7 @@ tra	tra	'that.SG.NOM'	100.0%
 ,	,	[punc]	100.0%
 'ama	'ama'	'and'	100.0%
 tisin	tisi	'come out'	100.0%
-tr'a'ma'	[unknown]	'[unknown]'	0.0%
+tr'a'ma'	tr'ama'	'blind'	50.0%
 ,	,	[punc]	100.0%
 pitsiwin	pichriw	'catch, grasp'	100.0%
 tran	tran	'that.SG.PRIM'	100.0%
@@ -79,10 +80,10 @@ phanahin	pana:	'arrive'	100.0%
 jet'	yet'	'one'	100.0%
 jow	yow	'and, also, again'	100.0%
 tr'ā&
-má'in	[unknown]	'[unknown]'	0.0%
+má'in	tr'ama'	'blind'	50.0%
 ,	,	[punc]	100.0%
 'ama	'ama'	'and'	100.0%
-'utr'ān	'a:dran	'be exited [sic]'	70.0%
+'utr'ān	'utru 'play music'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
 jotr'ow	yolo:w	'assemble tr'	70.0%
 liḿik'	limik'	'prairie falcon'	100.0%

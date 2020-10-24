@@ -1,4 +1,4 @@
-silnahuwit	[name]	[name]	100.0%
+silnahuwit	[name]	'[name]'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
 hojōwis	hoyo:wos	'name'	100.0%
 ,	,	[punc]	100.0%
