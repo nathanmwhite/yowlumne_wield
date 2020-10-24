@@ -110,7 +110,7 @@ tr`an	tran	'that.PRIM'	100.0%
 tap	dab	'next, on the other hand, then'	100.0%
 tīshin	tisi	'come out'	100.0%
 'aminkin	'amingin	'3DU.GEN'	100.0%
-'ajak'	[unknown]	'[unknown]'	0.0%
+'ajak'	'ay'ak'	'lance'	25.0%
 ,	,	[punc]	100%
 'ama'	'ama'	'and'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
@@ -243,7 +243,7 @@ ts'ā́jiq̱a'	c'ayax	'man's sister's child'	80.0%
 'amin	'amin	'3SG.GEN'	100.0%
 t`aqna	taxa:	'bring'	100.0%
 moqlo'	moxlo'	'old person'	100.0%
-līmsit`in	lim'i	'have spasms (YT has faint)'	80.0%
+līmsit`in	lihim	'run'	80.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
 kéw	kew	'this.SG.LOC'	100.0%
 hin	[unknown]	'[unknown]'	0.0%
@@ -258,7 +258,7 @@ ti'	di'	'with a little doubt'	100.0%
 tsī́sak	tsisi'	'cut out'	80.0%
 wija'n	wiyi	'say, do'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
-hī́m%	[unknown]	'[unknown]'	100.0%
+hī́m%	hiyam	'already, now'	25.0%
 'amak	'amak'	'3DU.NOM'	100.0%
 majōjwāhin	mayo:wa:/	'become experts'	80.0%
 ,	,	[punc]	100.0%
@@ -279,7 +279,7 @@ khēwin	kew	'this.SG.LOC'	100.0%
 ts'ōni	c'owo	'grasp'	80.0%
 'aminkin	'amingin	'3DU.GEN'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
-'ajak'	[unknown]	'[unknown]'	0.0%
+'ajak'	'ay'ak'	'lance'	25.0%
 .	.	[punc]	100.0%
 'amá%	'ama'	'and'	100.0%
 'amak	'amak'	'3DU.NOM'	100.0%
@@ -339,7 +339,7 @@ tōsin	do:so	'report, tell about'	100.0%
 ja	ya'	'go'	50.0%
 ta'pa'	da:ba'	'then, too(?)'	100.0%
 ,	,	[punc]	100.0%
-him	[unknown]	'[unknown]'	0.0%
+him	hiyam	'already, now'	25.0%
 trasik	trasik'	'that.DU.NOM'	100.0%
 mojōwāhin	mayo:wa:/	'become experts'	80.0%
 withipats'	witibha:chr'	'children'	100.0%
@@ -382,7 +382,7 @@ t'okojun	tuk'uyun	'jackrabbit'	100.0%
 'amāmikwa	'ama:mikwa	'3DU.PRIM'	100.0%
 tr`āni	tra:ni	'that.SG.SEC'	100.0%
 'aminkin	'amingin	'3DU.GEN'	100.0%
-'ajak'ni	[unknown]	'[unknown]'	100.0%
+'ajak'ni	'ay'ak'	'lance'	25.0%
 ,	,	[punc]	100.0%
 'oho'm	'ohom	'NEG'	100.0%
 'amak'	'amak'	'3DU.NOM'	100.0%
@@ -409,7 +409,7 @@ jokhots'	yokoc'	'person, people'	100.0%
 thaqnen	taxa:	'bring'	100.0%
 ,	,	[punc]	100.0%
 'ama'	'ama'	'and'	100.0%
-pis%	[unknown]	'[unknown]'	100.0%
+pis%	bis	'[unknown]'	100.0%
 tr`a	tra	'that.NOM'	100.0%
 phanahin	pana:	'arrive'	100.0%
 t`awtr`aho	tawtra:	'kill tr'	100.0%
@@ -440,7 +440,7 @@ ts'owo	c'owo	'grasp'	100.0%
 waʃki	wa'ashrgi	'therefore'	100.0%
 mi'n	mi'in	'soon'	100.0%
 maj	may	'1PL.INCL.NOM'	100.0%
-ta'n	[unknown]	'[unknown]'	0.0%
+ta'n	ta:na	'go'	25.0%
 wija'n	wiyi	'say, do'	100.0%
 'amāmikwa	'ama:mikwa	'3DU.PRIM'	100.0%
 hētsi%	he:zhi'	'today'	100.0%
@@ -497,30 +497,28 @@ ne'es	ne'eshr	'younger brother'	100.0%
 wī́hin	wiyi	'say, do'	100.0%
 ,	,	[punc]	100.0%
 ama'	'ama'	'and'	100.0%
-tha'n	[unknown]	'[unknown]'	0.0%
+tha'n	tran	'that.PRIM'	80.0%
 t'ulhun	t'ulu	'burn tr'	100.0%
 p'umk'a	bumuk'	'tule (round) [Chuk.]'	80.0%
 t`aw	traw	'that.LOC'	80.0%
 t`anhin	ta:na	'go'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
-tha'n	tran	'that.PRIM'	100.0%
+tha'n	tran	'that.PRIM'	80.0%
 né'ĕs	ne'eshr	'younger brother'	100.0%
 mimatr	mimyatr	'thunder'	100.0%
 t`a	tra	'that.NOM'	80.0%
 kuti'	gude'	'small'	100.0%
 ,	,	[punc]	100.0%
-tr`a%	tra	'that.NOM'	80.0%
-tr`a	tra	'that.NOM'	80.0%
+tr`atr`a	tra'tra' 'ally'	80.0%
 tr'āqwíja'	tr'axya'	'dry'	25.0%
 ,	,	[punc]	100.0%
-tr`a%	tra	'that.NOM'	80.0%
-tr`a%	tra	'that.NOM'	80.0%
+tr`atr`a%	tra'tra' 'ally'	80.0%
 warʃta	wa'ashrta:/	'be more, be very much'	80.0%
 qitwa'	[unknown]	'[unknown]'	0.0%
 ,	,	[punc]	100.0%
 'ama'	'ama'	'and'	100.0%
 'amak	'amak'	'3DU.NOM'	100.0%
-wīhin	widin	'say, do'	100.0%
+wīhin	wiyi	'say, do'	100.0%
 'aminkin	'amingin	'3DU.GEN'	100.0%
 k`amts`a	kamic'	'maternal grandmother'	100.0%
 jow	yow	'and, also, again'	100.0%
@@ -550,7 +548,8 @@ hētam	he:dam	'nearby'	100.0%
 mṓʃaw	moshr	'sweathouse'	100.0%
 qo'	xo:	'live, exist, be'	100.0%
 k`ew	kew	'this.SG.LOC'	100.0%
-nasi	[unknown]	'[unknown]'	0.0%
+nas%	na'ashr	'dubitative'	25.0%
+i	hi'	'FUT'	25.0%
 tele&
 tel	[unknown]	'[unknown]'	0.0%
 na'	na'	'1SG.NOM'	100.0%
