@@ -66,7 +66,7 @@ jet'	yet'	'one'	100.0%
 moqlo'in	moxlo'	'old person'	100.0%
 ka'ina	ga:'ina	'woman'	100.0%
 ,	,	[punc]	100.0%
-t`an	ta:na	'go'	62.5%
+t`an	ta:na	'go'	50.0%
 tra'	tra	'that.SG.NOM'	100.0%
 ma'	ma'	'2SG.NOM'	100.0%
 ,	,	[punc]	100.0%
@@ -92,7 +92,7 @@ ponoj	bonoy	'have two, make two'	100.0%
 'amak'	'amak'	'3DU.NOM'	100.0%
 ,	,	[punc]	100.0%
 'a'ni	'a:n'i	'NEG.IMPER'	100.0%
-wik'aw	[unknown]	'[unknown]'	0.0%
+wik'aw	wiyi	'say, do'	25.0%
 wijan	wiyi	'say, do'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
 ,	,	[punc]	100.0%
@@ -102,7 +102,7 @@ nots'en	no:chro'	'friend'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
 ,	,	[punc]	100.0%
 'ani	'a:n'i	'NEG.IMPER'	100.0%
-wī́kaw	[unknown]	'[unknown]'	0.0%
+wī́kaw	wiyi	'say, do'	25.0%
 wijā'n	wiyi	'say, do'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
 ,	,	[punc]	100.0%
@@ -110,7 +110,7 @@ t`aw	traw	'that.SG.LOC'	80.0%
 tran	tran	'that.SG.PRIM'	100.0%
 tran	tran	'that.SG.PRIM'	100.0%
 tr'a'&
-ma'	[unknown]	'[unknown]'	0.0%
+ma'	tr'ama'	'blind'	25.0%
 lokew&
 hin%	logow	'pound into powder, pulverize'	50.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
@@ -134,8 +134,6 @@ tran	tran	'that.SG.PRIM'	100.0%
 timahaw	dimaha'	'quiver'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
 ,	,	[punc]	100.0%
-=	=	[punc]	100.0%
-cancaje	[unknown]	'[unknown]'	0.0%
 'ama	'ama'	'and'	0.0%
 hijam	hiyam	'already, now'	100.0%
 wa'	wa'	'far'	100.0%
