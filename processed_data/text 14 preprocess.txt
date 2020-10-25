@@ -66,21 +66,20 @@ tr`a	tra	'that.SG.NOM'	100.0%
 mi'na	mi'in	'soon'	50.0%
 'ílk`en	'ilik	'sing'	100.0%
 p`ana'	pana:	'arrive'	100.0%
-makwi	makwa	'1DU.INCL.PRIM'	50.0%
-'an	[unknown]	'[unknown]'	0.0%
+makwi	makwihi'	'1DU.INCL.PRIM FUT'	100.0%
+'an	'amin	'3SG.GEN'	25.0%
 'ilik	'ilik	'sing'	100.0%
 sitka	sidi	'get ready'	75.0%
 wijá'n	wiyi	'say, do'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
 ,	,	[punc]	100.0%
 'ohom	'ohom	'NEG'	100.0%
-'an	[unknown]	'[unknown]'	0.0%
+'an	'amin	'3SG.GEN'	25.0%
 'ilika	'ilik	'sing'	50.0%
 wija'n%	wiyi	'say, do'	100.0%
 tran	tran	'that.SG.PRIM'	100.0%
 p`ána	pana:	'arrive'	100.0%
-makwi%	makwa	'1DU.INCL.PRIM'	50.0%
-hi	hi'	'FUT'	50.0%
+makwihi	makwihi'	'1DU.INCL.PRIM FUT'	100.0%
 ,	,	[punc]	100.0%
 waʃki	wa'ashrgi	'therefore'	100.0%
 há'tsahom	ha'zhaxom	'finally, at last'	100.0%
@@ -135,8 +134,7 @@ amāmikw̄a	'ama:mikwa	'3DU.PRIM'	100.0%
 silhin	shril'i	'see'	100.0%
 ,	,	[punc]	100.0%
 p`anám	pana:	'arrive'	100.0%
-'amā́mikwi%	'ama:mikwa	'3DU.PRIM'	100.0%
-hi'	hi'	'FUT'	100.0%
+'amā́mikwihi'	'ama:mikwihi'	'3DU.PRIM FUT'	100.0%
 wija'n	wiyi	'say, do'	100.0%
 ,	,	[punc]	100.0%
 'ama	'ama'	'and'	100.0%
@@ -148,7 +146,7 @@ t`ahan	ta:na	'go'	100.0%
 'ama	'ama'	'and'	100.0%
 phoṣhun	po:su	'blow on'	100.0%
 khin	kin	'this.SG.PRIM'	100.0%
-'ilka	'ilik'	'water'	100.0%
+'ilka	'ilik'	'water'	50.0%
 ,	,	[punc]	100.0%
 min	mi'in	'soon'	75.0%
 'amāmikwa	'ama:mikwa	'3DU.PRIM'	100.0%
@@ -173,7 +171,7 @@ kijámak	[unknown]	'[unknown]'	0.0%
 tr`aw	traw	'that.SG.LOC'	100.0%
 qo'qo'	xo:	'live, exist, be'	100.0%
 ,	,	[punc]	100.0%
-li'lna'	[unknown]	'[unknown]'	0.0%
+li'lna'	lil'na' 'money, bead, general term'	0.0%
 ,	,	[punc]	100.0%
 'ama'	'ama'	'and'	100.0%
 hāwjuk	hawyuk	'what.kind.NOM'	100.0%
@@ -208,7 +206,7 @@ tr`āni	tra:ni	'that.SG.SEC'	100.0%
 na'k	na'ak	'1DU.EXCL.NOM'	100.0%
 mam	mam	'2SG.PRIM'	100.0%
 'oho'm	'ohom	'NEG'	100.0%
-'atrilsitqo	[unknown]	'[unknown]'	0.0%
+'atrilsitqo	'atral 'open'	100.0%
 'oho'm	'ohom	'NEG'	100.0%
 nānikwa	na:nikwa	'1DU.EXCL.PRIM'	100.0%
 hawjo'uk	hawyo'uk	'what.kind.PRIM'	100.0%
@@ -314,7 +312,7 @@ hawjeno'k	hawye:no'uk	'what.kind.SEC'	100.0%
 ma'	ma'	'2SG.NOM'	100.0%
 aṣ	'ashr	'actually, really'	100.0%
 wa'ʃta	wa'ashrta'	'very'	100.0%
-hija'	[unknown]	'[unknown]'	0.0%
+hija'	hiya'	'later on'	100.0%
 phaná'n	pana:	'arrive'	100.0%
 nim	nim	'1SG.GEN'	100.0%
 ki	ki	'when'	100.0%
@@ -326,15 +324,16 @@ tr`an	tran	'that.SG.PRIM'	100.0%
 wá'ʃki	wa'ashrgi	'therefore'	100.0%
 wija'n%	wiyi	'say, do'	100.0%
 tran	tran	'that.SG.PRIM'	100.0%
-hitsi	hishri	'get ripe, become cooked'	62.5%
-maki	mak'	'1DU.INCL.NOM'	50.0%
+hitsi	hi'zhri'	'tomorrow'	100.0%
+mak%	mak'	'1DU.INCL.NOM'	50.0%
+i	hi'	'FUT'	50.0%
 joho'wsen	yolo:w	'assemble tr'	10.0%
 ,	,	[punc]	100.0%
-hitsi	[unknown]	'[unknown]'	0.0%
+hitsi	hi'zhri'	'tomorrow'	100.0%
 mak%	mak'	'1DU.INCL.NOM'	100.0%
-i	hi'	'FUT'	100.0%
-johowsen	[unknown]	'[unknown]'	0.0%
-hej	[unknown]	'[unknown]'	0.0%
+i	hi'	'FUT'	50.0%
+johowsen	'ohyo: 'want, look for (YT has root ?oyoxo)'	50.0%
+hej	hi'	'FUT'	50.0%
 hijuk	hiyuk	'where.NOM'	100.0%
 tí%	di'	'with a little doubt'	25.0%
 hi	hi'	'FUT'	25.0%
@@ -346,10 +345,10 @@ wá'ski	wa'ashrgi	'therefore'	100.0%
 'insis	'insis'	'do well'	100.0%
 wija'n	wiyi	'say, do'	100.0%
 ,	,	[punc]	100.0%
-hits`i̱	[unknown]	'[unknown]'	0.0%
+hits`i̱	hi'zhri'	'tomorrow'	100.0%
 mak	mak'	'1DU.INCL.NOM'	100.0%
 hi'	hi'	'FUT'	100.0%
-johówsen	[unknown]	'[unknown]'	0.0%
+johówsen	'ohyo: 'want, look for (YT has root ?oyoxo)'	25.0%
 ,	,	[punc]	100.0%
 wá'ski	wa'ashrgi	'therefore'	100.0%
 wijá'n%	wiyi	'say, do'	100.0%
@@ -364,7 +363,7 @@ k'ál̄a	[unknown]	'[unknown]'	0.0%
 wijá'ni	wiyi	'say, do'	100.0%
 .	.	[punc]	100.0%
 wa'ʃki	wa'ashrgi	'therefore'	100.0%
-lohoswisen	[unknown]	'[unknown]'	0.0%
+lohoswisen	'ohyo: 'want, look for (YT has root ?oyoxo)'	25.0%
 mak%	mak'	'1DU.INCL.NOM'	100.0%
 `i	hi'	'FUT'	100.0%
 wija'n	wiyi	'say, do'	100.0%
@@ -372,7 +371,7 @@ tran	tran	'that.SG.PRIM'	100.0%
 ,	,	[punc]	100.0%
 lohos&
 wis&
-qa'	[unknown]	'[unknown]'	0.0%
+qa'	'ohyo: 'want, look for (YT has root ?oyoxo)'	25.0%
 mak	mak'	'1DU.INCL.NOM'	100.0%
 ,	,	[punc]	100.0%
 wá'	wa'	'far'	100.0%
@@ -399,14 +398,14 @@ joṯsin	[unknown]	'[unknown]'	0.0%
 'ama	'ama'	'and'	100.0%
 hijam	hiyam	'already, now'	100.0%
 traw	traw	'that.SG.LOC'	100.0%
-joqó'qo'	[unknown]	'[unknown]'	0.0%
+joqó'qo'	'ohyo: 'want, look for (YT has root ?oyoxo)'	25.0%
 ,	,	[punc]	100.0%
 'ama'	'ama'	'and'	100.0%
 hawínuk	hawiynuk	'what.kind.SEC'	100.0%
 ma'	ma'	'2SG.NOM'	100.0%
 'aṣ	'ashr	'actually, really'	100.0%
 wá'ʃta	wa'ashrta'	'very'	100.0%
-waje'āhin	[unknown]	'[unknown]'	0.0%
+waje'āhin	wa'	'far'	25.0%
 wijá'n%	wiyi	'say, do'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
 .	.	[punc]	100.0%
@@ -414,7 +413,7 @@ sik	sik'i	'stick sth into the ground'	50.0%
 hijam%	hiyam	'already, now'	100.0%
 na	na'	'1SG.NOM'	100.0%
 khew	kew	'this.SG.LOC'	100.0%
-joqo'qo	yonxo'	[unknown]	'[unknown]'	0.0%
+joqo'qo	'ohyo: 'want, look for (YT has root ?oyoxo)'	25.0%
 ,	,	[punc]	100.0%
 wij'eqōhin	wiyi	'say, do'	100.0%
 nim	nim	'1SG.GEN'	100.0%
@@ -469,12 +468,12 @@ maqhin	ma:xa	'procure, get'	100.0%
 traw	traw	'that.SG.LOC'	100.0%
 hupúʃmu	hubushr	'choose'	100.0%
 ,	,	[punc]	100.0%
-tī́tskaw	[unknown]	'[unknown]'	100.0%
+tī́tskaw	di'ichr 'sane (up), hoard'	25.0%
 wija'n	wiyi	'say, do'	100.0%
 tran	tran	'that.SG.PRIM'	100.0%
 mets	mec'	'surely'	100.0%
 hijó'wk%	hiyo'uk	'where.LOC'	100.0%
-i	[unknown]	'[unknown]'	0.0%
+i	hi'	'FUT'	25.0%
 tr`aw	traw	'that.SG.LOC'	100.0%
 hi%	hi'	'FUT'	100.0%
 tr`ēqalen	tre:xal	'speak'	100.0%
@@ -509,7 +508,8 @@ hijṓk%	hiyo'uk	'where.LOC'	80.0%
 hi	hi'	'FUT'	80.0%
 ,	,	[punc]	100.0%
 'ohó'm	'ohom	'NEG'	100.0%
-nomom	[unknown]	'[unknown]'	0.0%
+no%	na'	'1SG.NOM'	25.0%
+mom	mam	'2SG.PRIM'	25.0%
 jow%	yow	'and, also, again'	80.0%
 hi	hi'	'FUT'	80.0%
 wānen	wa:na	'give'	100.0%
@@ -518,13 +518,13 @@ wáʃki	wa'ashrgi	'therefore'	100.0%
 wija'n	wiyi	'say, do'	100.0%
 k`a'jiw	kay'iw	'coyote'	100.0%
 hētsi	he:zhi'	'today'	100.0%
-ni	na'	'1SG.NOM'	100.0%
-hi%	hi'	'FUT'	100.0%
+ni	nihi'	'1SG.NOM FUT'	100.0%
 tí'%	di'	'with a little doubt'	100.0%
 tʃan	tran	'that.SG.PRIM'	80.0%
 'amāminwa	'ama:minwa	'3PL.PRIM'	100.0%
 ts'uju'	c'uyo:	'urinate'	100.0%
-nāʃi	[unknown]	'[unknown]'	0.0%
+nāʃ%	na'ashr	'dubitative'	100.0%
+i	hi'	'FUT'	25.0%
 'ak'ajin	'aga:y	'get sth out (of fire, waterhole, a deep place, by pulling)'	100.0%
 háwts`in	hawchrin	'a few'	100.0%
 wija'n	wiyi	'say, do'	100.0%
@@ -681,9 +681,10 @@ hijam	hiyam	'already, now'	100.0%
 'aman	'aman	'3PL.NOM'	100.0%
 pū́trhatr'	[unknown]	'[unknown]'	0.0%
 ,	,	[punc]	100.0%
-'insis	'insis'	'do well'	78.6%
-ma'ăs	[unknown]	'[unknown]'	0.0%
-tísis	[unknown]	'[unknown]'	0.0%
+'insis	'insis'	'do well'	100.0%
+ma'%	ma'	'2SG.NOM'	25.0%
+ăs	'ashr	'actually, really'	25.0%
+tísis	tisi	'come out'	25.0%
 nimokun	nimo:gun	'1PL.EXCL.GEN'	100.0%
 moʃ	moshr	'sweathouse'	100.0%
 ,	,	[punc]	100.0%
@@ -696,8 +697,8 @@ k`á'jiw	kay'iw	'coyote'	100.0%
 'ama'	'ama'	'and'	100.0%
 t`aw	traw	'that.SG.LOC'	75.0%
 'aman	'aman	'3PL.NOM'	100.0%
-moṣlawisqo'	[unknown]	'[unknown]'	0.0%
-pi'lsin	[unknown]	'[unknown]'	0.0%
+moṣlawisqo'	moshrla:wis/	'take a sweat bath'	100.0%
+pi'lsin	bilishr 'finish'	50.0%
 t`aw&
 tr`ā'in	tawtra:	'kill tr'	100.0%
 'aminōkun	'amino:gun	'3PL.GEN'	100.0%
@@ -706,13 +707,13 @@ mṓʃ`un	moshr	'sweathouse'	100.0%
 'ama'	'ama'	'and'	100.0%
 ponoj	bonoy	'two'	100.0%
 'om	'ohom	'NEG'	100.0%
-moʃlāwishiqo'	[unknown]	'[unknown]'	0.0%
+moʃlāwishiqo'	moshrla:wis/	'take a sweat bath'	100.0%
 ,	,	[punc]	100.0%
 pēmamkuts'	be:mamguc'	'hummingbird'	100.0%
 ,	,	[punc]	100.0%
 'ama'	'ama'	'and'	100.0%
 pustsa'	[unknown]	'[unknown]'	0.0%
-tisá'n	[unknown]	'[unknown]'	0.0%
+tisá'n	tisi	'come out'	100.0%
 k`ēnit	ke:nit	'this.SG.ABL'	100.0%
 móʃnut	moshr	'sweathouse'	100.0%
 ,	,	[punc]	100.0%
@@ -734,7 +735,7 @@ jow	yow	'and, also, again'	100.0%
 tap	dab	'next, on the other hand, then'	100.0%
 límik'	limik'	'prairie falcon'	100.0%
 tísmi	tisi	'come out'	75.0%
-t`sawá'n	[unknown]	'[unknown]'	0.0%
+t`sawá'n	cawa	'shout'	25.0%
 mi'n	mi'in	'soon'	100.0%
 'ēphen	'e:pi	'swim'	100.0%
 ,	,	[punc]	100.0%
