@@ -167,7 +167,7 @@ jow	yo:w	'go home'	100.0%
 'aminkin	'amingin	'3DU.GEN'	100.0%
 no'ŏm	no'om	'mother'	100.0%
 .	.	[punc]	100.0%
-'amun	[unknown]	'[unknown]'	0.0%
+'amun	'ahmun	'I thought'	25.0%
 'aman	'aman	'3PL.NOM'	100.0%
 soqinhin	shroxo	'exterminate, massacre'	80.0%
 'ētilmi	'e:dil	'get hungry'	100.0%
@@ -246,8 +246,8 @@ moqlo'	moxlo'	'old person'	100.0%
 līmsit`in	lihim	'run'	80.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
 kéw	kew	'this.SG.LOC'	100.0%
-hin	[unknown]	'[unknown]'	0.0%
-tr`an	tran	'that.SG.PRIM'	100.0%
+hin&
+tr`an	xinic'	'nape of neck'	25.0%
 ,	,	[punc]	100.0%
 hētam	he:dam	'nearby'	100.0%
 wilka	wiyi	'say, do'	80.0%
@@ -514,7 +514,7 @@ tr'āqwíja'	tr'axya'	'dry'	25.0%
 ,	,	[punc]	100.0%
 tr`atr`a%	tra'tra' 'ally'	80.0%
 warʃta	wa'ashrta:/	'be more, be very much'	80.0%
-qitwa'	[unknown]	'[unknown]'	0.0%
+qitwa'	xitrwa'	'angry'	25.0%
 ,	,	[punc]	100.0%
 'ama'	'ama'	'and'	100.0%
 'amak	'amak'	'3DU.NOM'	100.0%
