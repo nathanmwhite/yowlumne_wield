@@ -11,7 +11,7 @@ limi	limik'	'prairie falcon'	100.0%
 tr'owan	tr'aw'a	'win from'	100.0%
 .	.	[punc]	100.0%
 'ama'	'ama'	'and'	100.0%
-tr`at	[unknown]	'[unknown]'	0.0%
+tr`at	tra:nit	'that.SG.ABL'	25.0%
 lakli	lakli'	'different'	100.0%
 t`awin
 mi%	tawin	'to become morning'	100.0%
@@ -45,7 +45,9 @@ man%	man	'2SG.PRIM'	80.0%
 tran	tran	'that.SG.PRIM'	100.0%
 k`ojwen	goyow	'win back what one has lost'	100.0%
 ,	,	[punc]	100.0%
-mi'natran	[unknown]	'[unknown]'	0.0%
+mi'n%	mi'in	'soon'	25.0%
+a%	na'	'1SG.NOM'	25.0%
+tran	tran	'that.SG.PRIM'	25.0%
 ti'sen	di'ishr	'repair, make'	100.0%
 wi'ja'	wiyi	'say, do'	100.0%
 ,	,	[punc]	100.0%
@@ -150,7 +152,9 @@ tr`an	tran	'that.SG.PRIM'	100.0%
 kíjhin	gi'iy	'oppose'	50.0%
 limk'a	limik'	'prairie falcon'	100.0%
 ,	,	[punc]	100.0%
-mi'natraṇ	[unknown]	'[unknown]'	0.0%
+mi'n%	mi'in	'soon'	25.0%
+a%	na'	'1SG.NOM'	25.0%
+traṇ	tran	'that.SG.PRIM'	25.0%
 'ohom	'ohom	'NEG'	100.0%
 notsá'la'	[unknown]	'[unknown]'	0.0%
 ,	,	[punc]	100.0%
@@ -218,9 +222,10 @@ tr`awhin	tr'aw'a	'win from'	100.0%
 jahujan	[unknown]	'[unknown]'	0.0%
 ,	,	[punc]	100.0%
 jet'	yet'	'one'	100.0%
-amkij	[unknown]	'[unknown]'	0.0%
+am%	'amin	'3SG.GEN'	25.0%
+kij	gi'iy	'enemy'	25.0%
 ,	,	[punc]	100.0%
-'ins	[unknown]	'[unknown]'	0.0%
+'ins	'insis	'good'	25.0%
 na'n	na'an	'1PL.EXCL.NOM'	75.0%
 'aʃ	'ashr	'actually, really'	100.0%
 tr'awen	tr'aw'a	'win from'	100.0%
@@ -379,13 +384,13 @@ tr`an	tran	'that.SG.PRIM'	100.0%
 'ilek'an	[unknown]	'[unknown]'	0.0%
 ,	,	[punc]	100.0%
 'anki	'angi'	'Q'	100.0%
-m%	[unknown]	'[unknown]'	0.0%
-itelan	[unknown]	'[unknown]'	0.0%
+m%	ma'	'2SG.NOM'	25.0%
+itelan	'e:dil	'get hungry'	25.0%
 ,	,	[punc]	100.0%
 wija'n	wiyi	'say, do'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
 ,	,	[punc]	100.0%
-'itelan%	[unknown]	'[unknown]'	0.0%
+'itelan%	'e:dil	'get hungry'	25.0%
 ēman	'e:man	'to no avail'	100.0%
 hā́nuk	ha:nuk	'what.PRIM'	100.0%
 táqna'	taxa:	'bring'	100.0%
@@ -424,14 +429,14 @@ jow	yow	'and, also, again'	100.0%
 wits'et	wic'et	'stick'	100.0%
 'ama'	'ama'	'and'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
-wothin	[unknown]	'[unknown]'	0.0%
+wothin	wotro	'hit with a club'	25.0%
 jawli%	ya:wal	'grass'	100.0%
 t`an	tran	'that.SG.PRIM'	50.0%
 ,	,	[punc]	100.0%
 'ama'	'ama'	'and'	100.0%
 tr`aw	traw	'that.SG.LOC'	100.0%
-tr'uk	[unknown]	'[unknown]'	0.0%
-wijun	wiyi	'say, do'	50.0%
+tr'uk&
+wijun	tr'uktr'ukwiyi	'bang, pop'	50.0%
 wots'ot'win	wotr'od	'increase sth, draw interest'	75.0%
 ,	,	[punc]	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
@@ -450,7 +455,7 @@ hanop	ha:nuk	'what.PRIM'	50.0%
 q̓at`a'n	xata	'eat'	100.0%
 ,	,	[punc]	100.0%
 'úṯal	'ut't'al	'solely, nothing but'	100.0%
-sowkun	[unknown]	'[unknown]'	0.0%
+sowkun	so:gon 'Indian tobacco weed'	25.0%
 tíwitr'	diwitr'	'hard, tough'	100.0%
 'ama'	'ama'	'and'	100.0%
 tra'aʃ	tra'ashr	'continuously'	100.0%
@@ -488,7 +493,7 @@ wija'n	wiyi	'say, do'	100.0%
 tran	tran	'that.SG.PRIM'	100.0%
 ,	,	[punc]	100.0%
 hawinuk	hawiynuk	'what.kind.SEC'	100.0%
-itaq	[unknown]	'[unknown]'	0.0%
+itaq	kidax	'unexpectedly'	25.0%
 wakij	wakkiy	'very, very much'	100.0%
 na'	na'	'1SG.NOM'	100.0%
 huwutr`un	[unknown]	'[unknown]'	0.0%
@@ -785,7 +790,7 @@ hot'ōneqo'	hot'o:ne:	'build a fire'	100.0%
 sitji'	sidi	'get ready'	80.0%
 wija'n	wiyi	'say, do'	100.0%
 ,	,	[punc]	100.0%
-hím	[unknown]	'[unknown]'	0.0%
+hím	hiyam	'already, now'	25.0%
 ne'ts'áhin	ne'ca:	'be sleepy'	100.0%
 ,	,	[punc]	100.0%
 'ama'	'ama'	'and'	100.0%
@@ -1058,7 +1063,7 @@ tr`aw	traw	'that.SG.LOC'	100.0%
 ,	,	[punc]	100.0%
 hijam	hiyam	'already, now'	100.0%
 limik	limik'	'prairie falcon'	100.0%
-pojets'oqo'	[unknown]	'[unknown]'	0.0%
+pojets'oqo'	boy'e:tr'a:/	'become miserable'	75.0%
 ts'ajaq	c'ayax	'man's sister's child'	100.0%
 mā́kin	ma:gin	'1DU.INCL.GEN'	100.0%
 ,	,	[punc]	100.0%
