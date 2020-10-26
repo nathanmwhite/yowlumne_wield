@@ -32,7 +32,8 @@ lapaj	laba:y	'gather greens'	100.0%
 'ōmitan	[unknown]	'[unknown]'	0.0%
 qathen	xata	'eat'	100.0%
 majni	mayni	'AR.EMPH'	100.0%
-mashi'	[unknown]	'[unknown]'	0.0%
+mas%	[unknown]	'[unknown]'	0.0%
+hi'	hi'	'FUT'	100.0%
 tr`ew%	tri'	'house'	100.0%
 phana'	pana:	'arrive'	100.0%
 'ama'	'ama'	'and'	100.0%
@@ -76,20 +77,20 @@ taptap'iw	t'ap't'ap'	'leaf'	100.0%
 qolomin	xolom	'clover'	100.0%
 kōninhin	go:nin	'go down'	100.0%
 'ama'	'ama'	'and'	100.0%
-khosinhin	[unknown]	'[unknown]'	0.0%
+khosinhin	koshron 'be unable to find, miss'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
 tr`a	tra	'that.SG.NOM'	100.0%
 khamits'	kamic'	'grandmother, granddaughter'	100.0%
 ,	,	[punc]	100.0%
-pis	[unknown]	'[unknown]'	0.0%
+pis	bis	'indirect question'	100.0%
 na%	na'	'1SG.NOM'	100.0%
 mam	mam	'2SG.PRIM'	100.0%
 wija'āhin	wiyi	'say, do'	100.0%
 'oho'm	'ohom	'NEG'	100.0%
 mitat	mit'achr	'slightly, not much'	100.0%
 qaten	xata	'eat'	100.0%
-hetnit	[unknown]	'[unknown]'	0.0%
+hetnit	hetnit	'there'	50.0%
 majni	mayni	'AR.EMPH'	100.0%
 mas	[unknown]	'[unknown]'	0.0%
 hi%	hi'	'FUT'	100.0%
@@ -146,7 +147,7 @@ t`āwitr`in	ta:witr	'die'	100.0%
 qo'qo	xo:	'live, exist, be'	100.0%
 ma%	ma'	'2SG.NOM'	80.0%
 kew	kew	'this.SG.LOC'	80.0%
-him	[unknown]	'[unknown]'	0.0%
+him	hiyam	'already, now'	25.0%
 na	na'	'1SG.NOM'	50.0%
 lānhin	la:na	'hear'	100.0%
 min	min	'2SG.GEN'	100.0%
@@ -194,12 +195,12 @@ tran	tran	'that.SG.PRIM'	100.0%
 qajāhin	xaya:	'place, put'	100.0%
 'ama'	'ama'	'and'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
-wihmi	[unknown]	'[unknown]'	0.0%
+wihmi	wiyi	'say, do'	25.0%
 pohtron	bo:hutr'	'grow up'	100.0%
 mi%	ma'	'2SG.NOM'	100.0%
 hi'	hi'	'FUT'	100.0%
 'oho'm	'ohom	'NEG'	100.0%
-mi	[unknown]	'[unknown]'	0.0%
+mi	mihi'	'2SG.NOM FUT'	25.0%
 t`awtren	ta:wtra:	'kill tr'	100.0%
 wija'n	wiyi	'say, do'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
@@ -280,7 +281,7 @@ tr`an	tran	'that.SG.PRIM'	100.0%
 .	.	[punc]	100.0%
 'ama'	'ama'	'and'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
-wi`n	[unknown]	'[unknown]'	0.0%
+wi`n	wiyi	'say, do'	25.0%
 tr`awtr`ān	tawtra:	'kill tr'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
 noh'o'	noh'o'	'bear'	100.0%
@@ -340,7 +341,9 @@ tr'aniw	tr'aniw	'badger'	100.0%
 tr`asik	trasik'	'that.DU.NOM'	100.0%
 ponoj	bonoy	'have two, make two'	100.0%
 wilsin	wilshrin	'but, in spite of that'	100.0%
-hinamatran	[unknown]	'[unknown]'	0.0%
+hina%	hina'	'perhaps, maybe'	50.0%
+ma%	ma'	'2SG.NOM'	50.0%
+tran	tran	'that.SG.PRIM'	50.0%
 ts'ōwo	c'owo	'grasp'	100.0%
 ,	,	[punc]	100.0%
 nā%	na'	'1SG.NOM'	50.0%
@@ -362,7 +365,7 @@ min	min	'2SG.GEN'	100.0%
 khin	kin	'this.SG.PRIM'	100.0%
 pok'ó'n	bok'o	'find'	100.0%
 noh'o'in	noh'o'	'bear'	100.0%
-k`otsóhtsi	[unknown]	'[unknown]'	0.0%
+k`otsóhtsi	k'onc'o:c'i' 'small lizard'	25.0%
 ,	,	[punc]	100.0%
 'ama'	'ama'	'and'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
@@ -465,7 +468,8 @@ tran	tran	'that.SG.PRIM'	100.0%
 'ama'	'ama'	'and'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
 wīhin	wiyi	'say, do'	100.0%
-mi'na	[unknown]	'[unknown]'	0.0%
+mi'n%	mi'in	'soon'	50.0%
+a	na'	'1SG.NOM'	25.0%
 silten	shrilit'	'jump'	100.0%
 ts'imēkak'	c'imik'wiyi	'close the eyes'	100.0%
 hijam	hiyam	'already, now'	100.0%
@@ -474,7 +478,7 @@ qó'qo	xo:	'live, exist, be'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
 wiʃats	wishrac'	'arrow-straightener'	100.0%
 ,	,	[punc]	100.0%
-phisla	[unknown]	'[unknown]'	0.0%
+phisla	pe:shri 'perform shamanistic services'	25.0%
 na%	[unknown]	'[unknown]'	0.0%
 wáḵij	wakkiy	'very, very much'	100.0%
 ,	,	[punc]	100.0%
@@ -546,7 +550,7 @@ silítka	shrilit'	'jump'	100.0%
 tr`ānit	tra:nit	'that.SG.ABL'	100.0%
 wa'nit	wa'	'far'	100.0%
 ,	,	[punc]	100.0%
-hetnit	[unknown]	'[unknown]'	0.0%
+hetnit	hetnit	'there'	50.0%
 tr`ānit	tra:nit	'that.SG.ABL'	100.0%
 wa'nit	wa'	'far'	100.0%
 tr`ipinit	tripin	'on top of'	50.0%
@@ -596,7 +600,8 @@ tran	tran	'that.SG.PRIM'	100.0%
 hetsi	he:zhi'	'today'	100.0%
 ta'pa	da:ba'	'then, too'	100.0%
 wija'n	wiyi	'say, do'	100.0%
-mina%	[unknown]	'[unknown]'	0.0%
+min%	mi'in	'soon'	50.0%
+a%	na'	'1SG.NOM'	50.0%
 k`enit	ke:nit	'this.SG.ABL'	100.0%
 ʃílten	shrilit'	'jump'	100.0%
 ha'k	ha'uk	'what.NOM'	100.0%

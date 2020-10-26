@@ -80,7 +80,7 @@ na	[unknown]	'[unknown]'	0.0%
 ,	,	[punc]	100.0%
 waḵij	wakkiy	'very, very much'	100.0%
 na'	na'	'1SG.NOM'	100.0%
-'itel'an	[unknown]	'[unknown]'	0.0%
+'itel'an	'e:dil 'get hungry'	75.0%
 wija'n	wiyi	'say, do'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
 nōts`i	no:chro'	'friend'	100.0%
@@ -103,7 +103,7 @@ tr`an	tran	'that.SG.PRIM'	100.0%
 tr`ōkin	tro:k'o	'strike, hit'	100.0%
 mam	mam	'2SG.PRIM'	100.0%
 khi	ki	'this.SG.NOM'	100.0%
-ni'	[unknown]	'[unknown]'	0.0%
+ni'	nihi'	'1SG.NOM FUT'	50.0%
 mi'n	mi'in	'soon'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
 lókwen	logow	'pound into powder, pulverize'	100.0%
@@ -145,7 +145,7 @@ wijá'n	wiyi	'say, do'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
 ,	,	[punc]	100.0%
 'ama'	'ama'	'and'	100.0%
-'amaqin	[unknown]	'[unknown]'	0.0%
+'amaqin	ma:xa	'procure, get'	25.0%
 'amin	'amin	'3SG.GEN'	100.0%
 qāpal	xa:pal	'feathers'	100.0%
 'ama'	'ama'	'and'	100.0%
@@ -232,8 +232,10 @@ kúṯsun	guchrchrun	'[name]' 100.0%
 hitsījamaḵhi	[unknown]	'[unknown]'	0.0%
 hawj̄an	[unknown]	'[unknown]'	0.0%
 ,	,	[punc]	100.0%
-hitsímakhi	[unknown]	'[unknown]'	0.0%
-k'átlitsa	[unknown]	'[unknown]'	0.0%
+hitsí%	hi'zhri'	'tomorrow'	100.0%
+ma%	ma'	'2SG.NOM'	100.0%
+khi	ki	'this.SG.NOM'	100.0%
+k'átlitsa	k'adlizha	'[name]'	100.0%
 wijá'n	wiyi	'say, do'	100.0%
 k`útsun	guchrchrun	'[name]' 100.0%
 ,	,	[punc]	100.0%
@@ -244,10 +246,10 @@ wijá'n	wiyi	'say, do'	100.0%
 'ins	'insis'	'good'	100.0%
 wija'n	wiyi	'say, do'	100.0%
 ,	,	[punc]	100.0%
-hitsí	[unknown]	'[unknown]'	0.0%
+hitsí	hi'zhri'	'tomorrow'	50.0%
 ma%	ma'	'2SG.NOM'	50.0%
 khi	ki	'this.SG.NOM'	50.0%
-k'átlítsa	[unknown]	'[unknown]'	0.0%
+k'átlítsa	k'adlizha	'[name]'	100.0%
 ,	,	[punc]	100.0%
 hijam	hiyam	'already, now'	100.0%
 patr	batr	'as usual'	100.0%
@@ -255,9 +257,9 @@ k`i%	ki	'this.SG.NOM'	50.0%
 wīhin	wiyi	'say, do'	50.0%
 wija'n	wiyi	'say, do'	100.0%
 ,	,	[punc]	100.0%
-t`asin	[unknown]	'[unknown]'	0.0%
+t`asin	trasin	'that.PL.NOM'	50.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
-kajeni	[unknown]	'[unknown]'	0.0%
+kajeni	ga'e:ni	'women'	50.0%
 ,	,	[punc]	100.0%
 tr`āni	tra:ni	'that.SG.SEC'	100.0%
 hijam	hiyam	'already, now'	100.0%
@@ -354,7 +356,8 @@ wīhin	wiyi	'say, do'	100.0%
 kuṯsun	guchrchrun	'[name]' 100.0%
 'óhom	'ohom	'NEG'	100.0%
 kitaq	gidax	'unexpectedly'	100.0%
-nī́khin	[unknown]	'[unknown]'	0.0%
+nī́%	nihi'	'1SG.NOM FUT'	80.0%
+khin	kin	'this.SG.PRIM'	80.0%
 lolo	lo:l'o:	'leave behind, let go of, quit'	100.0%
 wijá'n	wiyi	'say, do'	100.0%
 ki	gi'	'Q.FOCUS'	50.0%
@@ -398,7 +401,7 @@ tr`ā%	tra	'that.SG.NOM'	80.0%
 minkin	'amingin	'3DU.GEN'	80.0%
 ʃiḻé'its'	shril'i	'see'	100.0%
 ʃílk'a%	shril'i	'see'	100.0%
-pəs	[unknown]	'[unknown]'	0.0%
+pəs	bis	'indirect question'	25.0%
 wijá'n	wiyi	'say, do'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
 k`isin	kisin	'this.PL.NOM'	100.0%
