@@ -445,7 +445,8 @@ khéqo'a	k'e:xa'	'money'	50.0%
 ,	,	[punc]	100.0%
 mí'n	mi'in	'soon'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
-'a'mts`elwas	'amac	'approach, go near'	25.0%
+'a'm%	[unknown]	'[unknown]'	0.0%
+ts`elwas	[unknown]	'[unknown]'	0.0%
 k'utsun	guchrchrun	'[name]' 100.0%
 jékhesta'	[unknown]	'[unknown]'	0.0%
 ,	,	[punc]	100.0%
