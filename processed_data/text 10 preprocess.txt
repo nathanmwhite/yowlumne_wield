@@ -4,7 +4,8 @@ trew	tri'	'house'	100.0%
 k`a'jiw	kay'iw	'coyote'	100.0%
 ,	,	[punc]	100.0%
 'eljiwu'n	'e:liw	'bloom'	25.0%
-'antr`i'	[unknown]	'[unknown]'	0.0%
+'an%	'amin	'3SG.GEN'	25.0%
+tr`i'	tri'	'house'	50.0%
 ,	,	[punc]	100.0%
 mi'n	mi'in	'soon'	100.0%
 pinēthen	bine:t	'ask'	100.0%
@@ -17,7 +18,7 @@ tr`ēqalqo'	tre:xal	'speak'	100.0%
 t`o'jne'in	toyon	'be night'	100.0%
 phanāhin	pana:	'arrive'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
-tr`kt'inmi	[unknown]	'[unknown]'	0.0%
+tr`ikt'inmi	[unknown]	'[unknown]'	0.0%
 .	.	[punc]	100.0%
 'ama'	'ama'	'and'	100.0%
 tha'n	tran	'that.SG.PRIM'	50.0%
