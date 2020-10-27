@@ -1,4 +1,4 @@
-kujama'in	[unknown]	'[unknown]'	0.0%
+kujama'in	kujama'in	'[name]'	25.0%
 hunots'u	xuno:chru	'thither, yonder'	80.0%
 tr`aw	traw	'that.SG.LOC'	100.0%
 jokhots'	yokoc'	'person, people'	100.0%
@@ -11,7 +11,7 @@ waḵij	wakkiy	'very much, be very much'	100.0%
 'ama'	'ama'	'and'	100.0%
 ponoj	bonoy	'have two, make two'	100.0%
 qo'qōhin	xo:	'live, exist, be'	100.0%
-nṓtsewas	[unknown]	'[unknown]'	0.0%
+nṓtsewas	no:chro'	'friend'	25.0%
 ,	,	[punc]	100.0%
 'ama'	'ama'	'and'	100.0%
 qōni	xo:	'live, exist, be'	100.0%
@@ -21,13 +21,13 @@ tr'awan'āhin	tr'aw'a	'win from'	80.0%
 qaja'liw	hay'al	'day'	100.0%
 ,	,	[punc]	100.0%
 'ama'	'ama'	'and'	100.0%
-hīm	[unknown]	'[unknown]'	0.0%
+hīm	hiyam	'already, now'	25.0%
 'aminkin	'amingin	'3DU.GEN'	100.0%
 'ohom	'ohom	'NEG'	100.0%
 há'uk	ha'uk	'what.NOM'	100.0%
 kojunalis	[unknown]	'[unknown]'	0.0%
 ,	,	[punc]	100.0%
-hū́trū́wsaqo'	[unknown]	'[unknown]'	0.0%
+hū́trū́wsaqo'	hutr'u 'cook bread in ashes'	25.0%
 ,	,	[punc]	100.0%
 'ama'	'ama'	'and'	100.0%
 ti	di'	'with a little doubt'	100.0%
@@ -66,14 +66,14 @@ kom̄wī́hin	gomwiyi	'make a loud noise, rumble, thunder'	100.0%
 'ama'	'ama'	'and'	100.0%
 mi'n	mi'in	'soon'	100.0%
 jokhots	yokoc'	'person, people'	100.0%
-jowek`la'	[unknown]	'[unknown]'	0.0%
+jowek`la'	yo'ke:	'return'	25.0%
 'amink`in	'amingin	'3DU.GEN'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
 tr'awnāhin	tr'aw'a	'win from'	80.0%
 ,	,	[punc]	100.0%
 'oho'm	'ohom	'NEG'	100.0%
 'amak	'amak'	'3DU.NOM'	100.0%
-ts'úphónan	zhu'upo:	'cause to divide'	50.0%
+ts'úphónan	co:pun	'consent'	100.0%
 ,	,	[punc]	100.0%
 'ama'	'ama'	'and'	100.0%
 tr`aw	traw	'that.SG.LOC'	100.0%
@@ -93,7 +93,8 @@ tis̱in	tisi	'come out'	100.0%
 ,	,	[punc]	100.0%
 hijuk	hiyuk	'where.NOM'	100.0%
 wija'n	wiyi	'say, do'	100.0%
-tá'ămin	[unknown]	'[unknown]'	0.0%
+tá%	tra	'that.SG.NOM'	25.0%
+'ămin	'amin	'3SG.GEN'	100.0%
 nōts`ē'in	no:chro'	'friend'	100.0%
 ,	,	[punc]	100.0%
 jah%	yah	'hey!'	100.0%
@@ -111,17 +112,18 @@ mi'nitʃ	me:nitr'	'nurse itr'	50.0%
 'amak	'amak'	'3DU.NOM'	100.0%
 thaná'an	ta:na	'go'	100.0%
 'ama'	'ama'	'and'	100.0%
-tr`aw	traw	'if'	100.0%
-patr'	batr	'as usual'	50.0%
-ínkin	[unknown]	'[unknown]'	0.0%
-tr`aw	traw	'if'	100.0%
+tr`aw	traw	'that.SG.LOC'	100.0%
+patr'&
+ín%	batr'in 'fall down'	75.0%
+kin	kin	'this.SG.PRIM'	25.0%
+tr`aw	traw	'that.SG.LOC'	100.0%
 t`ā́witr'in	ta:witr	'die'	100.0%
 p'umunhun	p'umu	'fill'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
 tr'ēsa'	tr'e:sa'	'bile'	100.0%
 ,	,	[punc]	100.0%
 'ama'	'ama'	'and'	100.0%
-jíts`a	[unknown]	'[unknown]'	0.0%
+jíts`a	yiy'ca	'alone'	100.0%
 thanhin	ta:na	'go'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
 nṓtṣi'	no:chro'	'friend'	100.0%
@@ -158,7 +160,7 @@ jok`ōts'i	yokoc'	'person, people'	100.0%
 'ama'	'ama'	'and'	100.0%
 hḗts`i'	he:zhi'	'today'	100.0%
 p'a'áʃi'	p'a'a:shri'	'lake'	100.0%
-k`i%	ki	'this.SG.NOM'	100.0% [relative clause]
+k`i%	ki	'this.SG.NOM'	100.0%
 tr`aw	traw	'that.SG.LOC'	100.0%
 lája'āhin	lay'a	'kick'	100.0%
 tr`aw	traw	'that.SG.LOC'	100.0%
