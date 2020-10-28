@@ -136,21 +136,22 @@ tap	dab	'next, on the other hand, then'	100.0%
 tr`āni	tra:ni	'that.SG.SEC'	100.0%
 qoj	xoy	'deer'	100.0%
 tr`ōken	tro:k'o	'strike, hit'	100.0%
-tr`anaʃ	[unknown]	'[unknown]'	0.0%
+tr`an%	tran	'that.SG.PRIM'	25.0%
+aʃ	'ashr	'actually, really'	25.0%
 mi'n	mi'in	'soon'	100.0%
 ts'owo	c'owo	'grasp'	100.0%
 ho'jli	hoy'le:	'hunt'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
 .	.	[punc]	100.0%
 'ama'	'ama'	'and'	100.0%
-tr`at	[unknown]	'[unknown]'	0.0%
+tr`at	tra:nit	'that.SG.ABL'	25.0%
 hija'm	hiyam'	'next morning'	100.0%
 ti'	di'	'with a little doubt'	100.0%
 thanhin	ta:na	'go'	100.0%
 mi'n	mi'in	'soon'	100.0%
 tr`aw	traw	'that.SG.LOC'	100.0%
 poken	bok'o	'find'	100.0%
-amin	amin	[foreign]	100.0%
+amin	'amin	'3SG.GEN'	100.0%
 nophōpho	nopop	'father'	100.0%
 ,	,	[punc]	100.0%
 mi'n	mi'in	'soon'	100.0%
@@ -169,8 +170,8 @@ mi'in	mi'in	'soon'	100.0%
 línts'en	linic'	'talk to, speak (see letsa)'	100.0%
 ,	,	[punc]	100.0%
 ma'	ma'	'2SG.NOM'	100.0%
-kitaq	gidax	'[unkown]'	0.0%
-witʃep	witeb	'child'	80.0%
+kitaq	gidax	'unexpectedly'	100.0%
+witʃep	wichreb	'offspring, child'	100.0%
 .	.	[punc]	100.0%
 nim	nim	'1SG.GEN'	100.0%
 wija'n	wiyi	'say, do'	100.0%
@@ -195,20 +196,20 @@ tisālāhin	tisi	'come out'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
 wiʃats'a	wishrac'	'arrow-straightener'	100.0%
 k`eni	ke:ni	'this.SG.SEC'	100.0%
-mi	[unknown]	'[unknown]'	0.0%
-than	ta:na	'go'	100.0%
+mi	mihi'	'2SG.NOM FUT'	25.0%
+than	tran	'that.SG.PRIM'	50.0%
 thawtr`a'	tawtra:	'kill tr'	100.0%
 wija'n	wala:'	'say, do'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
 .	.	[punc]	100.0%
 waʃki	wa'ashrgi	'therefore'	100.0%
-lī́mka	[unknown]	'[unknown]'	0.0%
+lī́mka	lihim	'run'	50.0%
 wijá'n	wiyi	'say, do'	100.0%
 ti%	di'	'with a little doubt'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
 ,	,	[punc]	100.0%
 hitsi'	he:zhi'	'today'	100.0%
-mī	[unknown]	'[unknown]'	0.0%
+mī	mihi'	'2SG.NOM FUT'	25.0%
 tr`aw	traw	'that.SG.LOC'	100.0%
 tháhan	ta:na	'go'	100.0%
 ,	,	[punc]	100.0%
@@ -241,8 +242,8 @@ tr`an	tran	'that.SG.PRIM'	100.0%
 pokhen	bok'o	'find'	100.0%
 noh'ó'in	noh'o'	'bear'	100.0%
 ,	,	[punc]	100.0%
-mi'%	[unknown]	'[unknown]'	0.0%
-na%	na'	'1SG.NOM'	100.0%
+mi'n%	mi'in	'soon'	25.0%
+a%	na'	'1SG.NOM'	25.0%
 mam	mam	'2SG.PRIM'	100.0%
 hētsi	he:zhi'	'today'	100.0%
 qat`en	xata	'eat'	100.0%
