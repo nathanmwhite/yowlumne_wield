@@ -434,8 +434,8 @@ qó'qohin	xo:	'live, exist, be'	100.0%
 tujujo'in	tuyuyu'	'[name]'	100.0%
 ts`apit	capit'	'gambling tray'	100.0%
 traw	traw	'that.SG.LOC'	100.0%
-qum	[unknown]	'[unknown]'	0.0%
-wīhin	wiyi	'say, do'	100.0%
+qum&
+wīhin	xumwiyi	'break, snap in two'	25.0%
 ,	,	[punc]	100.0%
 'ama'	'ama'	'and'	100.0%
 t`an	ta:na	'go'	100.0%
