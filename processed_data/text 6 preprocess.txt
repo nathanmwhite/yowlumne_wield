@@ -112,8 +112,8 @@ majek`	mayek	'big'	100.0%
 'ama'	'ama'	'and'	100.0%
 hawjuk	hawyuk	'what.kind.NOM'	100.0%
 tap	dab	'next, on the other hand, then'	100.0%
-ts'owi	[unknown]	'[unknown]'	0.0%
-hōshin	[unknown]	'[unknown]'	0.0%
+ts'owi&
+hōshin	c'owo	'grasp'	0.0%
 majek	mayek	'big'	100.0%
 tr'alap	tr'alap	'bow'	100.0%
 'ama	'ama'	'and'	100.0%
