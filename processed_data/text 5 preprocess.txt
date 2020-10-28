@@ -53,7 +53,8 @@ ki&
 taq	gidax	'unexpectedly'	100.0%
 limik'	limik'	'prairie falcon'	100.0%
 ,	,	[punc]	100.0%
-mi'na'k	[unknown]	'[unknown]'	0.0%
+mi'n%	mi'in	'soon'	25.0%
+a'k	na'ak'	'1DU.EXCL.NOM'	25.0%
 t`ah̯an	ta:na	'go'	100.0%
 .	.	[punc]	100.0%
 .	.	[punc]	100.0%
@@ -213,14 +214,15 @@ hamna'	hamna'	'greedy person'	100.0%
 ponoj	bonoy	'have two, make two'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
 witsipai	witeb	'child'	100.0%
-kajɛni	[unknown]	'[unknown]'	0.0%
+kajɛni	ga'e:ni	'women'	25.0%
 ,	,	[punc]	100.0%
 'ama	'ama'	'and'	100.0%
 mok	mak'	'1DU.INCL.NOM'	50.0%
 tra	tra	'that.SG.NOM'	100.0%
 paná'in	pana:	'arrive'	100.0%
 ,	,	[punc]	100.0%
-mí'namok	[unknown]	'[unknown]'	0.0%
+mí'n%	mi'in	'soon'	25.0%
+amok	'amak'	'3DU.NOM'	25.0%
 pojetsa	boy'e:tr'a:/	'become miserable'	50.0%
 ,	,	[punc]	100.0%
 p`ana'in	pana:	'arrive'	100.0%
@@ -232,8 +234,8 @@ wija'n	wiyi	'say, do'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
 hamna'	hamna'	'greedy person'	100.0%
 .	.	[punc]	100.0%
-mi'%	[unknown]	'[unknown]'	0.0%
-na	na'	'1SG.NOM'	100.0%
+mi'n%	mi'in	'soon'	25.0%
+a	na'	'1SG.NOM'	100.0%
 hētsi	he:zhi'	'today'	100.0%
 la'na'	la:na	'hear'	100.0%
 min	min	'2SG.GEN'	100.0%
@@ -262,9 +264,10 @@ kajinhe	ga:'ina	'woman'	100.0%
 hámna'in	hamna'	'greedy person'	100.0%
 witsiphaj	witeb	'child'	80.0%
 ,	,	[punc]	100.0%
-himthaw	[unknown]	'[unknown]'	0.0%
-in	[unknown]	'[unknown]'	0.0%
-thaw	[unknown]	'[unknown]'	0.0%
+him%	hiyam	'already, now'	25.0%
+thaw&
+in&
+thaw	tawin	'to become morning'	25.0%
 wo'jo	wo:'uy	'sleep'	80.0%
 'amam	'amam	'3SG.PRIM'	100.0%
 tr`ími	triymi	'right now'	100.0%
@@ -319,7 +322,8 @@ wo'jowjaw	wo:'uy	'fall asleep, sleep'	100.0%
 tr`a	tra	'that.SG.NOM'	100.0%
 tr`ēqalqohin	tre:xal	'speak'	100.0%
 ,	,	[punc]	100.0%
-himamak	[unknown]	'[unknown]'	0.0%
+him%	hiyam	'already, now'	25.0%
+amak	'amak'	'3DU.NOM'	25.0%
 wā%	wa'	'far'	80.0%
 thanhin	ta:na	'go'	100.0%
 ,	,	[punc]	100.0%
@@ -393,8 +397,8 @@ pilisin	bilishr	'finish'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
 k`inpa	kinip	'dress'	100.0%
 ,	,	[punc]	100.0%
-'ama'	'ama'	'and'	100.0%
-mik`wa	[unknown]	'[unknown]'	0.0%
+'ama'&
+mik`wa	'ama:mikwa	'3DU.PRIM'	50.0%
 tamnahin	damna:	'try'	100.0%
 hā́m&
 wijá'n	ham'wiyi	'cave in'	80.0%
@@ -410,7 +414,7 @@ khi	ki	'this.SG.NOM'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
 hāmwij̥	ham'wiyi	'cave in'	80.0%
 .	.	[punc]	100.0%
-pis%	[unknown]	'[unknown]'	0.0%
+pis%	bis	'indirect question'	100.0%
 na%	na'	'1SG.NOM'	100.0%
 mam	mam	'2SG.PRIM'	100.0%
 wija'āhin	wiyi	'say, do'	100.0%
@@ -435,7 +439,7 @@ makwa	ma:mikwa	'1DU.INCL.PRIM'	100.0%
 thisālahin	tisi	'come out'	100.0%
 limik	limik'	'prairie falcon'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
-'útr`ats'ḁ	[unknown]	'[unknown]'	0.0%
+'útr`ats'ḁ	'utru	'play music'	25.0%
 .	.	[punc]	100.0%
 'ama	'ama'	'and'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
@@ -576,12 +580,12 @@ hijām	hiyam	'already, now'	100.0%
 na	na'	'1SG.NOM'	100.0%
 kanōhohin	ganaw	'tangle, wrap around s.o.'	50.0%
 min	min	'2SG.GEN'	100.0%
-'útr`a	[unknown]	'[unknown]'	0.0%
+'útr`a	'utru	'play music'	25.0%
 ,	,	[punc]	100.0%
 mi'n	mi'in	'soon'	100.0%
 tap	dab	'next, on the other hand, then'	100.0%
 t`o'jnow	toyon	'be night'	100.0%
-'utr`on	[unknown]	'[unknown]'	0.0%
+'utr`on	'utru	'play music'	25.0%
 límik'	limik'	'prairie falcon'	100.0%
 ,	,	[punc]	100.0%
 jow	yow	'and, also, again'	100.0%
