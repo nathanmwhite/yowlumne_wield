@@ -513,7 +513,7 @@ tr`atr`a	tra'tra' 'ally'	80.0%
 tr'āqwíja'	tr'axya'	'dry'	25.0%
 ,	,	[punc]	100.0%
 tr`atr`a%	tra'tra' 'ally'	80.0%
-warʃta	wa'ashrta:/	'be more, be very much'	80.0%
+warʃta	wa'ashrta'	'very'	100.0%
 qitwa'	xitrwa'	'angry'	25.0%
 ,	,	[punc]	100.0%
 'ama'	'ama'	'and'	100.0%
