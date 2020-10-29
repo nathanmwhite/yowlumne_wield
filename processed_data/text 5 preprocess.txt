@@ -661,13 +661,15 @@ tran	tran	'that.SG.PRIM'	100.0%
 hijam	hiyam	'already, now'	100.0%
 'amak	'amak'	'3DU.NOM'	100.0%
 tap	dab	'next, on the other hand, then'	100.0%
-moklḗ'jits'	[unknown]	'[unknown]'	0.0%
+moklḗ'jits'	mokye:'	'take a wife'	25.0%
 .	.	[punc]	100.0%
-himamakwa	[unknown]	'[unknown]'	0.0%
+him%	hiyam	'already, now'	25.0%
+amakwa	'ama:mikwa	'3DU.PRIM'	25.0%
 k`a'ju	kay'iw	'coyote'	100.0%
 'apij	'abiy	'with.ACCOMP'	100.0%
 qó'qo	xo'	'live, exist, be'	100.0%
-hímaman	[unknown]	'[unknown]'	0.0%
+hím%	hiyam	'already, now'	25.0%
+aman	'aman	'3PL.NOM'	25.0%
 ʃṓpin	shro:pin	'three'	80.0%
 hijam	hiyam	'already, now'	100.0%
 patr	batr	'as usual'	100.0%
@@ -693,14 +695,14 @@ wīhi'	[unknown]	'[unknown]'	0.0%
 wijá'n	wiyi	'say, do'	100.0%
 ,	,	[punc]	100.0%
 'ama'	'ama'	'and'	100.0%
-mitna'	[unknown]	'[unknown]'	0.0%
+mitna'	mizhna'	'indeed, surely'	25.0%
 tho'jne'in	toyon	'be night'	100.0%
 phana'in	pana:	'arrive'	100.0%
 hijam	hiyam	'already, now'	100.0%
 'amínōkun	'amino:gun	'3PL.GEN'	100.0%
 wo'ithaw	wo:'uy	'fall asleep, sleep'	100.0%
 ,	,	[punc]	100.0%
-him	[unknown]	'[unknown]'	0.0%
+him	hiyam	'already, now'	25.0%
 'aminōkun	'amino:gun	'3PL.GEN'	100.0%
 wō'ithaw	wo:'uy	'fall asleep, sleep'	100.0%
 jow	yow	'and, also, again'	100.0%
@@ -724,7 +726,7 @@ k`a'juw	kay'iw	'coyote'	100.0%
 patr	batr	'as usual'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
 maqen	ma:xa	'procure, get'	100.0%
-t`ana%patr`an	[unknown]	'[unknown]'	0.0%
+t`anapatr`an	[unknown]	'[unknown]'	0.0%
 'amāmaw	'ama:maw	'3SG.LOC'	100.0%
 'ama	'ama'	'and'	100.0%
 patr	batr	'as usual'	100.0%
@@ -790,7 +792,7 @@ wākwākwija'n	wak'ak'wiyi	'open the mouth'	50.0%
 ,	,	[punc]	100.0%
 hijam	hiyam	'already, now'	100.0%
 'amak	'amak'	'3DU.NOM'	100.0%
-pojets'a'jin	[unknown]	'[unknown]'	0.0%
+pojets'a'jin	boy'e:tr'a:/	'become miserable'	25.0%
 hijam	hiyam	'already, now'	100.0%
 'amak	'amak'	'3DU.NOM'	100.0%
 'ohom	'ohom	'NEG'	100.0%
@@ -801,7 +803,7 @@ k`a'jiw	kay'iw	'coyote'	100.0%
 t`an	ta:na	'go'	80.0%
 hijam	hiyam	'already, now'	100.0%
 .	.	[punc]	100.0%
-pojētsáhin	[unknown]	'[unknown]'	0.0%
+pojētsáhin	boy'e:tr'a:/	'become miserable'	25.0%
 ,	,	[punc]	100.0%
 'ohom	'ohom	'NEG'	100.0%
 ki%	gi'	'Q.FOCUS'	100.0%
@@ -841,7 +843,7 @@ tap	dab	'next, on the other hand, then'	100.0%
 t`á'n	tran	'that.SG.PRIM'	80.0%
 ,	,	[punc]	100.0%
 soqotoq̄&
-'on	[unknown]	'[unknown]'	0.0%
+'on	shroxo	'exterminate, massacre'	25.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
 'ēman	'e:man	'to no avail'	100.0%
 'otr'ow	'otr'ow	'hair on head'	100.0%
@@ -888,7 +890,7 @@ taqnin	taxa:	'bring'	100.0%
 'ótr'ow	'otr'ow	'hair on head'	100.0%
 ,	,	[punc]	100.0%
 hijam	hiyam	'already, now'	100.0%
-amak	'amak'	[foreign]	100.0%
+amak	'amak'	'3DU.NOM'	100.0%
 tap	dab	'next, on the other hand, then'	100.0%
 kopin	go:bin	'enter'	100.0%
 qṓqow	xo'	'live, exist, be'	80.0%
