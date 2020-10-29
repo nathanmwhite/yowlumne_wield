@@ -785,7 +785,7 @@ wijá'n	wiyi	'say, do'	100.0%
 hānuk	ha:nuk	'what.PRIM'	100.0%
 p'atr%	batr	'as usual'	100.0%
 'as	'ashr	'actually, really'	100.0%
-wásta'	wa'ashrta:	'be more, be very much'	100.0%
+wásta'	wa'ashrta'	'very'	100.0%
 hot'ōneqo'	hot'o:ne:	'build a fire'	100.0%
 sitji'	sidi	'get ready'	80.0%
 wija'n	wiyi	'say, do'	100.0%
@@ -891,7 +891,7 @@ hā́men	[unknown]	'[unknown]'	0.0%
 hijam	hiyam	'already, now'	100.0%
 mak'	mak'	'1DU.INCL.NOM'	100.0%
 'as	'ashr	'actually, really'	100.0%
-waʃta	wa'ashrta:	'be more, be very much'	100.0%
+waʃta	wa'ashrta'	'very'	100.0%
 wa'	wa'	'far'	100.0%
 thanhin	ta:na	'go'	100.0%
 ʃalak'ik	sha:lak'	'wake up (itr)'	100.0%
@@ -930,7 +930,7 @@ wótoswin	wotro	'hit with a club'	50.0%
 ,	,	[punc]	100.0%
 hawijenok	hawye:no'uk	'what.kind.SEC'	100.0%
 na'ʃ	na'ashr	'dubitative'	100.0%
-waʃta	wa'ashrta:	'be more, be very much'	100.0%
+waʃta	wa'ashrta'	'very'	100.0%
 wó'jon	wo:'uy	'sleep'	100.0%
 wija'n	wiyi	'say, do'	100.0%
 ,	,	[punc]	100.0%

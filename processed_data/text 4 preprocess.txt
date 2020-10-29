@@ -29,7 +29,7 @@ qo'qōhin	xo:	'live, exist, be'	100.0%
 ,	,	[punc]	100.0%
 hats'	ha'zha:/	'keep on doing sth'	25.0%
 'ohom	'ohom	'NEG'	100.0%
-wa'ʃta	wa'ashrta:/	'be more, be very much'	100.0%
+wa'ʃta	wa'ashrta'	'very'	100.0%
 mōqilhin	mo:xol	'become old'	100.0%
 hijăm	hiyam	'already, now'	100.0%
 'ohóm	'ohom	'NEG'	100.0%
@@ -45,7 +45,7 @@ p'á'naw	p'a'an	'world'	100.0%
 ,	,	[punc]	100.0%
 'ama'	'ama'	'and'	100.0%
 hijam	hiyam	'already, now'	100.0%
-wá'ʃta	wa'ashrta:/	'be more, be very much'	100.0%
+wá'ʃta	wa'ashrta'	'very'	100.0%
 ti	di'	'with a little doubt'	100.0%
 moqlo	mo:xol	'become old'	80.0%
 ,	,	[punc]	100.0%

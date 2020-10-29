@@ -631,7 +631,7 @@ qó'qo	xo:	'live, exist, be'	100.0%
 'om	'ohom	'NEG'	100.0%
 'aman	'aman	'3PL.NOM'	100.0%
 aꞏ	[unknown]	'[unknown]'	100.0%
-wá'ʃta	wa'ashrta:/	'be more, be very much'	78.6%
+wá'ʃta	wa'ashrta'	'very'	100.0%
 'ipétratr	[unknown]	'[unknown]'	100.0%
 ,	,	[punc]	100.0%
 k`e	ki	'this.SG'	50.0%
