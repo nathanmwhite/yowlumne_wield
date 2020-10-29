@@ -147,7 +147,7 @@ hītiwluq'o	hiyt'iwla:'	'become happy'	100.0%
 ti'	di'	'with a little doubt'	100.0%
 waḵij	wakkiy	'very, very much'	100.0%
 .	.	[punc]	100.0%
-hím%	[unknown]	'[unknown]'	0.0%
+hím%	hiyam	'already, now'	25.0%
 kitah%	gidax	'unexpectedly'	50.0%
 mák	mak'	'1DU.INCL.NOM'	50.0%
 majṓwāhin	mayo:wa:/	'become experts'	80.0%
@@ -409,7 +409,7 @@ jokhots'	yokoc'	'person, people'	100.0%
 thaqnen	taxa:	'bring'	100.0%
 ,	,	[punc]	100.0%
 'ama'	'ama'	'and'	100.0%
-pis%	bis	'[unknown]'	100.0%
+pis%	bis	'indirect question'	100.0%
 tr`a	tra	'that.NOM'	100.0%
 phanahin	pana:	'arrive'	100.0%
 t`awtr`aho	tawtra:	'kill tr'	100.0%
