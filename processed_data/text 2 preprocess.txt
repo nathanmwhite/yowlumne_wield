@@ -380,7 +380,7 @@ wija'n	wiyi	'say, do'	100.0%
 ti	di'	'with a little doubt'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
 tsopnik	copnig	'[name]'	100.0%
-táʃ%	[unknown]	'[unknown]'	0.0%
+táʃ%	tra'ashr	'continuously'	25.0%
 'ins	'insis	'good'	25.0%
 'amā́%	'ama'	'and'	100.0%
 ma'	ma'	'2SG.NOM'	100.0%
@@ -389,7 +389,7 @@ jókhi'	yo'ke:	'return'	100.0%
 'ama'	'ama'	'3SG.NOM'	100.0%
 tr`ānit	tra:nit	'that.SG.ABL'	100.0%
 jókhēhin	yo'ke:	'return'	100.0%
-waʃta%	wa'ashrta:/	'be more, be very much'	100.0%
+waʃta%	wa'ashrta'	'very'	100.0%
 ʃ	'ashr	'actually, really'	100.0%
 p`anahin	pana:	'arrive'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
