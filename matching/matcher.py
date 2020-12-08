@@ -67,7 +67,7 @@ class Matcher:
         data = re.sub('#', '', data)
         data = re.sub('^', '', data)
         data = re.sub('\?', ' ?', data)
-	data = re.sub('"', ' " ', data)
+        data = re.sub('"', ' " ', data)
         return data.split(' ')
 
     # this could form the basis of a parser
