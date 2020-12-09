@@ -1,6 +1,6 @@
 limik'	limik'	'prairie falcon'	100.0%
 wak̄`i	wakkiy	'very, very much'	100.0%
-huwōtʃr`uts'	hutr'u	'cook bread in ashes'	0.0%
+huwōtʃr`uts'	[unknown]	'[unknown]'	0.0%
 ,	,	[punc]	100.0%
 'ohom	'ohom	'NEG'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
@@ -38,7 +38,7 @@ qo'qōhin	xo:	'live, exist, be'	100.0%
 kuti'	gude'	'small'	100.0%
 'ilik'	'ilik'	'water'	100.0%
 'ama'	'ama'	'and'	100.0%
-winejhin	[unknown]	'[unknown]'	0.0%
+winejhin	wine:y	'ascend'	100.0%
 tʃr`an	tran	'that.SG.PRIM'	100.0%
 puk'al	buk'k'al	'hill, knoll'	100.0%
 k`a'jiw	kay'iw	'coyote'	100.0%
@@ -68,248 +68,254 @@ patʃr	batr	'as usual'	100.0%
 tʃr`aw	traw	'that.SG.LOC'	100.0%
 mā'en	ma'a	'look down'	100.0%
 .	.	[punc]	100.0%
-wilʃrin	wilshrin	'but, in spite of that'	100.0% [continue here]
+wilʃrin	wilshrin	'but, in spite of that'	100.0%
 'ohom	'ohom	'NEG'	100.0%
-limēk'aqo'	liwe:c'a:	'get cold'	50.0%
-tʃr`a'ʃrtʃr`a	tra'tra'	'ally'	25.0%
-k`a'jiw	ga:'it	'young woman'	40.0%
+limēk'aqo'	lime:k'a:/	'become prairie falcon'	50.0%
+tʃr`a'ʃr%	tra'ashr	'continuously'	50.0%
+tʃr`a	tra'	'that.SG.NOM'	50.0%
+k`a'jiw	kay'iw	'coyote'	100.0%
 .	.	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
-jow	yo:w	'go home'	100.0%
+'ama'	'ama'	'and'	100.0%
+jow	yow	'and, also, again'	100.0%
 patʃr	batr	'as usual'	100.0%
-winejhin	wik'uy	'move, quake'	40.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
-jow	yo:w	'go home'	100.0%
+winejhin	wine:y	'ascend'	100.0%
+'ama'	'ama'	'and'	100.0%
+jow	yow	'and, also, again'	100.0%
 witinhin	widin	'roll sth'	100.0%
 .	.	[punc]	100.0%
-motʃrk'ana'	motrk'a'	'prairie falcon'	50.0%
-motʃrk'ana'	motrk'a'	'prairie falcon'	50.0%
-wija'an	wa:'al	'breakfast'	10.0%
+motʃrk'a%	motrk'a'	'prairie falcon'	100.0%
+na'	na'	'1SG.NOM'	100.0%
+motʃrk'a%	motrk'a'	'prairie falcon'	100.0%
+na'	na'	'1SG.NOM'	100.0%
+wija'an	wiyi	'say, do'	100.0%
 .	.	[punc]	100.0%
-'ama	'ama'	'3SG.NOM'	70.0%
+'ama	'ama'	'and'	100.0%
 patʃr	batr	'as usual'	100.0%
-p`ana'	pana:	'arrive'	62.5%
+p`ana'	pana:	'arrive'	100.0%
 tʃr`an	tran	'that.SG.PRIM'	100.0%
-'ilk'a	'e:k'a	'see, look at'	25.0%
+'ilk'a	'ilik'	'water'	100.0%
 .	.	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+'ama'	'ama'	'and'	100.0%
 patʃr	batr	'as usual'	100.0%
-tʃr`aw	traw	'if'	100.0%
-mā'en	ma'an	'2PL.NOM'	70.0%
+tʃr`aw	traw	'that.SG.LOC'	100.0%
+mā'en	ma'a	'look down'	100.0%
 .	.	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
-hāts`aqom	ha'zhaxom	'finally, at last'	81.2%
-'aʃr	'ashr	'actually, really'	50.0%
-ʃri'lhin	shri'e:l	'rain'	40.0%
-tsololwijā'in	c'ololwiyi	'turn white'	66.7%
+'ama'	'ama'	'and'	100.0%
+hāts`aqom	ha'zhaxom	'finally, at last'	100.0%
+'aʃr	'ashr	'actually, really'	100.0%
+ʃri'lhin	shril'i	'see'	100.0%
+tsololwijā'in	c'ololwiyi	'turn white'	100.0%
 'atil	'adil	'under'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
 sasā'in	sasa'	'eye'	100.0%
 naj	nay	'nearly, more than'	100.0%
-limk'in	limi	'file'	62.5%
+limk'in	limik'	'prairie falcon'	100.0%
 .	.	[punc]	100.0%
-'ama	'ama'	'3SG.NOM'	70.0%
+'ama	'ama'	'and'	100.0%
 patʃr`	batr	'as usual'	100.0%
-winējen	wik'uy	'move, quake'	40.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+winējen	wine:y	'ascend'	100.0%
+'ama'	'ama'	'and'	100.0%
 patʃr	batr	'as usual'	100.0%
-witnen	widin	'roll sth'	70.0%
+witnen	widin	'roll sth'	100.0%
 ,	,	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
-mā'en	ma'an	'2PL.NOM'	70.0%
-tʃr`aw	traw	'if'	100.0%
-'ilk'aw	'ile:	'fan'	62.5%
-'ama'	'ama'	'3SG.NOM'	100.0%
+'ama'	'ama'	'and'	100.0%
+mā'en	ma'a	'look down'	100.0%
+tʃr`aw	traw	'that.SG.LOC'	100.0%
+'ilk'aw	'ilik'	'water'	100.0%
+'ama'	'ama'	'and'	100.0%
 patʃr	batr	'as usual'	100.0%
-wihmi	wip'i	'jerk up quickly'	25.0%
-winējen	wik'uy	'move, quake'	40.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+wihmi	[unknown]	'[unknown]'	0.0%
+winējen	wine:y	'ascend'	100.0%
+'ama'	'ama'	'and'	100.0%
 patʃr`	batr	'as usual'	100.0%
-wit`nen	widin	'roll sth'	70.0%
+wit`nen	widin	'roll sth'	100.0%
 .	.	[punc]	100.0%
-hā'ts`aqom'aʃr	ha'zhaxom	'finally, at last'	25.0%
-limēk'āhin	liwe:c'a:	'get cold'	50.0%
+hā'ts`aqom%	ha'zhaxom	'finally, at last'	100.0%
+'aʃr	'ashr	'actually, really'	100.0%
+limēk'āhin	lime:k'a:/	'become prairie falcon'	50.0%
 .	.	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+'ama'	'ama'	'and'	100.0%
 tʃr`ānit	tra:nit	'that.SG.ABL'	100.0%
-t`anhin	ta:na	'go'	62.5%
-k`a'jiw	ga:'it	'young woman'	40.0%
+t`anhin	ta:na	'go'	100.0%
+k`a'jiw	kay'iw	'coyote'	100.0%
 hijam	hiyam	'already, now'	100.0%
 limēk'am	liwe:c'a:	'get cold'	25.0%
-li'mk'in	li'e:	'sink itr'	25.0%
-tʃr`ew	traw	'if'	50.0%
+li'mk'in	limik'	'prairie falcon'	100.0%
+tʃr`ew	tri'	'house'	100.0%
 .	.	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
-li'mk'in	li'e:	'sink itr'	25.0%
-mok`ji	mokye:/	'fornicate, take a wife'	70.0%
-'uq̔'uqum	'ugun	'drink'	0.0%
+'ama'	'ama'	'and'	100.0%
+li'mk'in	limik'	'prairie falcon'	100.0%
+mok`ji	mokiy'	'wife'	100.0%
+'uq̔'uqum	[unknown]	'[unknown]'	0.0%
 tap`	dab	'next, on the other hand, then'	100.0%
-limk'in	limi	'file'	62.5%
-mok`ji	mokye:/	'fornicate, take a wife'	70.0%
-k`a'jiw	ga:'it	'young woman'	40.0%
+limk'in	limik'	'prairie falcon'	100.0%
+mok`ji	mokiy'	'wife'	100.0%
+k`a'jiw	kay'iw	'coyote'	100.0%
 tʃr`an	tran	'that.SG.PRIM'	100.0%
-wijā'an	wa:'al	'breakfast'	10.0%
-t`aqak'	da'ak'	'shine (of sun)'	70.0%
+wijā'an	wiyi	'say, do'	100.0%
+t`aqak'	taxa:	'bring'	100.0%
 nim	nim	'1SG.GEN'	100.0%
-tok̄ojni	toyon	'be night'	10.0%
+tok̄ojni	dogoy	'dogoy'	100.0%
 .	.	[punc]	100.0%
 hijō'uk	hiyo'uk	'where.LOC'	100.0%
-qō'qo'	xo:	'live, exist, be'	25.0%
+qō'qo'	xo:	'live, exist, be'	100.0%
 min	min	'2SG.GEN'	100.0%
-tok̄ojin	do'o	'touch with the penis'	25.0%
-wijā'an	wa:'al	'breakfast'	10.0%
+tok̄ojin	dogoy	'dogoy'	100.0%
+wijā'an	wiyi	'say, do'	100.0%
 tʃr`an	tran	'that.SG.PRIM'	100.0%
-'uq'uqum	'ugun	'drink'	0.0%
+'uq'uqum	[unknown]	'[unknown]'	0.0%
 .	.	[punc]	100.0%
-tʃraw	traw	'if'	100.0%
-qō'qo'	xo:	'live, exist, be'	25.0%
-'otqow	'otr'ow	'hair on head'	40.0%
+tʃraw	traw	'that.SG.LOC'	100.0%
+qō'qo'	xo:	'live, exist, be'	100.0%
+'otqow	'otix	'pillow'	100.0%
 makin	ma:gin	'1DU.INCL.GEN'	100.0%
-wijā'an	wa:'al	'breakfast'	10.0%
-k`a'jiw	ga:'it	'young woman'	40.0%
+wijā'an	wiyi	'say, do'	100.0%
+k`a'jiw	kay'iw	'coyote'	100.0%
 .	.	[punc]	100.0%
 'ohom	'ohom	'NEG'	100.0%
 k`ew	kew	'this.SG.LOC'	100.0%
 hijō'uk`	hiyo'uk	'where.LOC'	100.0%
-qō'qo'	xo:	'live, exist, be'	25.0%
-wija'an	wa:'al	'breakfast'	10.0%
-'uq'uqum	'ugun	'drink'	0.0%
+qō'qo'	xo:	'live, exist, be'	100.0%
+wija'an	wiyi	'say, do'	100.0%
+'uq'uqum	[unknown]	'[unknown]'	0.0%
 .	.	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+'ama'	'ama'	'and'	100.0%
 majni	mayni	'AR.EMPH'	100.0%
-t`anhin	ta:na	'go'	62.5%
-tʃr`aw	traw	'if'	100.0%
-k`a'jiw	ga:'it	'young woman'	40.0%
+t`anhin	ta:na	'go'	100.0%
+tʃr`aw	traw	'that.SG.LOC'	100.0%
+k`a'jiw	kay'iw	'coyote'	100.0%
 .	.	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
-tʃr`aw	traw	'if'	100.0%
+'ama'	'ama'	'and'	100.0%
+tʃr`aw	traw	'that.SG.LOC'	100.0%
 'amak'	'amak'	'3DU.NOM'	100.0%
 'ohjōhin	'ohyo:	'want, look for (YT has root ?oyoxo)'	100.0%
-'ot`qow	'otr'ow	'hair on head'	40.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
-tʃraw	traw	'if'	100.0%
+'ot`qow	'otix	'pillow'	100.0%
+'ama'	'ama'	'and'	100.0%
+tʃraw	traw	'that.SG.LOC'	100.0%
 tʃran	tran	'that.SG.PRIM'	100.0%
-k`a'jiw	ga:'it	'young woman'	40.0%
+k`a'jiw	kay'iw	'coyote'	100.0%
 p`its`iwhin	pichriw	'catch, grasp'	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
-tʃraw	traw	'if'	100.0%
+'ama'	'ama'	'and'	100.0%
+tʃraw	traw	'that.SG.LOC'	100.0%
 tʃran	tran	'that.SG.PRIM'	100.0%
 mok`jēhin	mokye:/	'fornicate, take a wife'	100.0%
 .	.	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+'ama'	'ama'	'and'	100.0%
 'ohom	'ohom	'NEG'	100.0%
-wā'ā'in	wa:'al	'breakfast'	70.0%
-t`anmi	dama	'make suffocate'	25.0%
-'uq'uqum	'ugun	'drink'	0.0%
+wā'ā'in	[unknown]	'[unknown]'	0.0%
+t`anmi	ta:na	'go'	100.0%
+'uq'uqum	[unknown]	'[unknown]'	0.0%
 wits`ip`nāhin	wichribna:	'give birth to a child'	100.0%
-sujukhaj	shruyna:/	'buy'	10.0%
-k`a'jwa	k'ay'a	'urinate (animals)'	40.0%
+sujukhaj	[unknown]	'[unknown]'	0.0%
+k`a'jwa	kay'iw	'coyote'	100.0%
 .	.	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+'ama'	'ama'	'and'	100.0%
 'aman	'aman	'3PL.NOM'	100.0%
-t'a'wt'a'wit`	t'aw'wis	'throw oneself to the ground'	14.3%
-jētʃr'aw	ye:tr'aw	'all'	70.0%
-jet'	yit-'	'be one?'	50.0%
+t'a'wt'a'wit`	tr'aw'a	'win from'	50.0%
+jētʃr'aw	ye:tr'aw	'all'	100.0%
+jet'	yet'	'one'	100.0%
 wilsin	wilshrin	'but, in spite of that'	100.0%
-k`a'jiw	ga:'it	'young woman'	40.0%
+k`a'jiw	kay'iw	'coyote'	100.0%
 p`its`iwhin	pichriw	'catch, grasp'	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+'ama'	'ama'	'and'	100.0%
 tʃra	tra	'that.SG.NOM'	100.0%
 'ohom	'ohom	'NEG'	100.0%
-t`awtʃr`at`	datr'at	'track'	70.0%
+t`awtʃr`at`	tr'aw'a	'win from'	50.0%
 .	.	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+'ama'	'ama'	'and'	100.0%
 hijam	hiyam	'already, now'	100.0%
-lo'lmi	limi	'file'	0.0%
+lo'lmi	lo:l'o:	'leave behind, let go of, quit'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
 tʃran	tran	'that.SG.PRIM'	100.0%
-'uq'uqmu	'an'um'	'at any rate, at least'	14.3%
-ts'ō'wo	c'owo	'grasp'	62.5%
-wijā'an	wa:'al	'breakfast'	10.0%
+'uq'uqmu	[unknown]	'[unknown]'	0.0%
+ts'ō'wo	c'owo	'grasp'	100.0%
+wijā'an	wiyi	'say, do'	100.0%
 k`i`	ki	'when'	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+'ama'	'ama'	'and'	100.0%
 tʃr`a	tra	'that.SG.NOM'	100.0%
-tok̄ojin	do'o	'touch with the penis'	25.0%
+tok̄ojin	dogoy	'dogoy'	100.0%
 mākin	ma:gin	'1DU.INCL.GEN'	100.0%
-'otqow	'otr'ow	'hair on head'	40.0%
+'otqow	'otix	'pillow'	100.0%
 .	.	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+'ama'	'ama'	'and'	100.0%
 'ohjōhin	'ohyo:	'want, look for (YT has root ?oyoxo)'	100.0%
 tʃr`an	tran	'that.SG.PRIM'	100.0%
-'otqow	'otr'ow	'hair on head'	40.0%
+'otqow	'otix	'pillow'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
-tʃr`aw	traw	'if'	100.0%
+tʃr`aw	traw	'that.SG.LOC'	100.0%
 tʃr`an	tran	'that.SG.PRIM'	100.0%
-pok'hin	bok	'muscle, calf of leg'	100.0%
-tok̄ojni	toyon	'be night'	10.0%
+pok'hin	bok'o	'find'	100.0%
+tok̄ojni	dogoy	'dogoy'	100.0%
 wilṣin	wilshrin	'but, in spite of that'	100.0%
-tē'jaw	de'ya:	'haul away'	70.0%
+tē'jaw	de'ya:	'haul away'	80.0%
 'amin	'amin	'3SG.GEN'	100.0%
 tʃran	tran	'that.SG.PRIM'	100.0%
 'ohom	'ohom	'NEG'	100.0%
-wast`aqōhin	wasto	'be possible'	70.0%
-pok'	bok	'muscle, calf of leg'	100.0%
+wast`aqōhin	wasto	'be possible'	100.0%
+pok'	bok'o	'find'	100.0%
 .	.	[punc]	100.0%
-k`a'jiw	ga:'it	'young woman'	40.0%
-tʃraw	traw	'if'	100.0%
+k`a'jiw	kay'iw	'coyote'	100.0%
+tʃraw	traw	'that.SG.LOC'	100.0%
 tʃran	tran	'that.SG.PRIM'	100.0%
 qajahin	xaya:	'place, put'	100.0%
-tok̄ojni	toyon	'be night'	10.0%
-tʃrip`nāni	tripna'	'magic power'	50.0%
+tok̄ojni	dogoy	'dogoy'	100.0%
+tʃrip`nāni	tripna'	'magic power'	80.0%
 'amin	'amin	'3SG.GEN'	100.0%
 .	.	[punc]	100.0%
 tʃr`ānit	tra:nit	'that.SG.ABL'	100.0%
-t`anhin	ta:na	'go'	62.5%
-k`a'jiw	ga:'it	'young woman'	40.0%
-'inaw	'iná:	'FEAR'	62.5%
+t`anhin	ta:na	'go'	100.0%
+k`a'jiw	kay'iw	'coyote'	100.0%
+'inaw	[unknown]	'[unknown]'	0.0%
 k`i	ki	'when'	100.0%
 'aman	'aman	'3PL.NOM'	100.0%
-tʃraw	traw	'if'	100.0%
-huwtʃruwsaqo'	huwtruwus	'game name'	62.5%
-tʃraw	traw	'if'	100.0%
+tʃraw	traw	'that.SG.LOC'	100.0%
+huwtʃruwsaqo'	huwtruwus	'game name'	50.0%
+tʃraw	traw	'that.SG.LOC'	100.0%
 limik'	limik'	'prairie falcon'	100.0%
-kojīwnaqōhin	giwe:na:/	'pack on the back'	25.0%
+kojīwnaqōhin	goyow	'win back what one has lost'	80.0%
 .	.	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
-wijā'an	wa:'al	'breakfast'	10.0%
+'ama'	'ama'	'and'	100.0%
+wijā'an	wiyi	'say, do'	100.0%
 'amāminwa	'ama:minwa	'3PL.PRIM'	100.0%
-k`a'jiw	ga:'it	'young woman'	40.0%
+k`a'jiw	kay'iw	'coyote'	100.0%
 .	.	[punc]	100.0%
 ja	ya'	'go'	50.0%
 ,	,	[punc]	100.0%
-wit`iphats'	wichribna:	'give birth to a child'	35.7%
-kojīwnak'wil	go:lankil	'kingsnake'	0.0%
+wit`iphats'	witibha:chr'	'children'	100.0%
+kojīwnak'%	goyow	'win back what one has lost'	80.0%
+wil	wil	'PL.IMPER'	80.0%
 !	!	[punc]	100.0%
-tʃraw	traw	'if'	100.0%
+tʃraw	traw	'that.SG.LOC'	100.0%
 limik'	limik'	'prairie falcon'	100.0%
-jow	yo:w	'go home'	100.0%
-p'ohō'it'	p'oho:'itr'	'weasel'	78.6%
-huwtʃruwsāhin	huwtruwus	'game name'	62.5%
-'ama'	'ama'	'3SG.NOM'	100.0%
-p'ohō'it'	p'oho:'itr'	'weasel'	78.6%
+jow	yow	'and, also, again'	100.0%
+p'ohō'it'	p'oho:'itr'	'weasel'	100.0%
+huwtʃruwsāhin	huwtruwus	'game name'	50.0%
+'ama'	'ama'	'and'	100.0%
+p'ohō'it'	p'oho:'itr'	'weasel'	100.0%
 tʃran	tran	'that.SG.PRIM'	100.0%
-tʃr'a'wa'āhin	tr'aw'a	'win from'	10.0%
-ʃratʃran'aʃr	samaywas	'belt'	0.0%
-tʃr'a'wa'āhin	tr'aw'a	'win from'	10.0%
+tʃr'a'wa'āhin	tr'aw'a	'win from'	100.0%
+ʃratʃran%	[unknown]	'[unknown]'	0.0%
+'aʃr	'ashr	'actually, really'	100.0%
+tʃr'a'wa'āhin	tr'aw'a	'win from'	100.0%
 'ohom	'ohom	'NEG'	100.0%
 tʃran	tran	'that.SG.PRIM'	100.0%
 hawjo'uk`	hawyo'uk	'what.kind.PRIM'	100.0%
 limik'	limik'	'prairie falcon'	100.0%
-k`ojiwhin	goyow	'win back what one has lost'	70.0%
-jētʃr'aw	ye:tr'aw	'all'	70.0%
-tʃr'a'winhin	tra:'in	'that.SG.GEN'	40.0%
+k`ojiwhin	goyow	'win back what one has lost'	100.0%
+jētʃr'aw	ye:tr'aw	'all'	100.0%
+tʃr'a'winhin	tr'aw'a	'win from'	100.0%
 limik'	limik'	'prairie falcon'	100.0%
 wilsin	wilshrin	'but, in spite of that'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
-tʃr'alap`	tr'alap	'bow'	70.0%
+tʃr'alap`	tr'alap	'bow'	100.0%
 tʃrāni	tra:ni	'that.SG.SEC'	100.0%
 'ohom	'ohom	'NEG'	100.0%
-kojiwna	giwe:na:/	'pack on the back'	25.0%
+kojiwna	goyow	'win back what one has lost'	100.0%
 'ohjoqo'	'ohyo:	'want, look for (YT has root ?oyoxo)'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
-tʃr'alap`ni	tr'alap	'bow'	10.0%
+tʃr'alap`ni	tr'alap	'bow'	100.0%
 .	.	[punc]	100.0%
-mets'i	me:k'i	'swallow'	62.5%
+mets'i	me'zhi'	'because'	50.0%
 tʃra	tra	'that.SG.NOM'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
 tap	dab	'next, on the other hand, then'	100.0%
@@ -318,90 +324,88 @@ tʃr`ip`na'	tripna'	'magic power'	100.0%
 ja	ya'	'go'	50.0%
 hijam	hiyam	'already, now'	100.0%
 ma'an	ma'an	'2PL.NOM'	100.0%
-jētʃr'aw	ye:tr'aw	'all'	70.0%
+jētʃr'aw	ye:tr'aw	'all'	100.0%
 nim	nim	'1SG.GEN'	100.0%
-hā'nuk	ha'uk	'what.NOM'	70.0%
-tʃr'a'w	traw	'if'	0.0%
-hin	hi'	'FUT'	50.0%
-wija'an	wa:'al	'breakfast'	10.0%
+hā'nuk	ha:nuk	'what.PRIM'	100.0%
+tʃr'a'w&
+hin	tr'aw'a	'win from'	100.0%
+wija'an	wiyi	'say, do'	100.0%
 limik'	limik'	'prairie falcon'	100.0%
 hijam	hiyam	'already, now'	100.0%
 maj	may	'1PL.INCL.NOM'	100.0%
-lo'lhin	li'e:	'sink itr'	25.0%
+lo'lhin	lo:l'o:	'leave behind, let go of, quit'	100.0%
 .	.	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
-p'ohō'it'	p'oho:'itr'	'weasel'	78.6%
+'ama'	'ama'	'and'	100.0%
+p'ohō'it'	p'oho:'itr'	'weasel'	100.0%
 ki'ij	gi'iy	'oppose'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
-wijā'an	wa:'al	'breakfast'	10.0%
+wijā'an	wiyi	'say, do'	100.0%
 tʃran	tran	'that.SG.PRIM'	100.0%
-kojiwnak'	giwe:na:/	'pack on the back'	0.0%
+kojiwnak'	goyow	'win back what one has lost'	100.0%
 min	min	'2SG.GEN'	100.0%
-sasāni	sasa'	'eye'	40.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
-'insis	'insis'	'do well'	78.6%
-wīhin	widin	'roll sth'	70.0%
+sasāni	sasa'	'eye'	100.0%
+'ama'	'ama'	'and'	100.0%
+'insis	'insis'	'do well'	100.0%
+wīhin	wiyi	'say, do'	100.0%
 limik'	limik'	'prairie falcon'	100.0%
 .	.	[punc]	100.0%
 limik'	limik'	'prairie falcon'	100.0%
 tʃr`ip`ni'	tripni'	'one endowed with magic powers'	100.0%
-hut'ēqōhin	hudu	'recognize, know'	62.5%
-'inest`an	'ine:sa:	'be good'	50.0%
-hawjēnok`	hawye:no'uk	'what.kind.SEC'	70.0%
-tʃr'a'wanāhin	tr'aw'a	'win from'	0.0%
+hut'ēqōhin	hudu	'recognize, know'	100.0%
+'inest`an	'inestam	'well'	80.0%
+hawjēnok`	hawye:no'uk	'what.kind.SEC'	100.0%
+tʃr'a'wanāhin	tr'aw'a	'win from'	100.0%
 .	.	[punc]	100.0%
 limik'	limik'	'prairie falcon'	100.0%
-tʃr'a'winhin	tra:'in	'that.SG.GEN'	40.0%
-jet'	yit-'	'be one?'	50.0%
+tʃr'a'winhin	tr'aw'a	'win from'	100.0%
+jet'	yet'	'one'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
 sasā'in	sasa'	'eye'	100.0%
-tē'jaw	de'ya:	'haul away'	70.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
-jow	yo:w	'go home'	100.0%
-jet'	yit-'	'be one?'	50.0%
-wats'wishin	wabwis	'stretch the arms (when yawning)'	75.0%
+tē'jaw	de'ya:	'haul away'	80.0%
+'ama'	'ama'	'and'	100.0%
+jow	yow	'and, also, again'	100.0%
+jet'	yet'	'one'	100.0%
+wats'wishin	wats'wis	'bet'	80.0%
 'ama'	'ama'	'3SG.NOM'	100.0%
 tʃr`an	tran	'that.SG.PRIM'	100.0%
 jow	yo:w	'go home'	100.0%
-tʃr'a'winhin	tra:'in	'that.SG.GEN'	40.0%
+tʃr'a'winhin	tr'aw'a	'win from'	100.0%
 .	.	[punc]	100.0%
-		[punc]	100.0%
 "	"	[punc]	100.0%
 ja	ya'	'go'	50.0%
 "	"	[punc]	100.0%
-		[punc]	100.0%
 ,	,	[punc]	100.0%
-wijā'an	wa:'al	'breakfast'	10.0%
+wijā'an	wiyi	'say, do'	100.0%
 ,	,	[punc]	100.0%
 limik'	limik'	'prairie falcon'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
-ki'ja	gi'iy	'oppose'	40.0%
+ki'ja	gi'iy	'enemy'	100.0%
 ,	,	[punc]	100.0%
 hijam	hiyam	'already, now'	100.0%
 ma'	ma'	'2SG.NOM'	100.0%
 nan	nan	'1SG.PRIM'	100.0%
-tʃr'a'whin	traw	'if'	0.0%
-t`isālak'	da'ak'	'shine (of sun)'	10.0%
+tʃr'a'whin	tr'aw'a	'win from'	100.0%
+t`isālak'	tisi	'come out'	100.0%
 nim	nim	'1SG.GEN'	100.0%
 sasā'in	sasa'	'eye'	100.0%
 !	!	[punc]	100.0%
-		[punc]	100.0%
 "	"	[punc]	100.0%
 'ohom	'ohom	'NEG'	100.0%
-wijā'an	wa:'al	'breakfast'	10.0%
-p'ohō'it'	p'oho:'itr'	'weasel'	78.6%
-'insēqo'aʃr	'ine:sa:	'be good'	0.0%
-hawjaw	hawa	'do what?'	62.5%
-tʃr`aw'aʃr	tr'aw'a	'win from'	40.0%
+wijā'an	wiyi	'breakfast'	100.0%
+p'ohō'it'	p'oho:'itr'	'weasel'	100.0%
+'insēqo%	[unknown]	'[unknown]'	0.0%
+'aʃr	'ashr	'actually, really'	100.0%
+hawjaw	[unknown]	'[unknown]'	0.0%
+tʃr`aw'aʃr	[unknown]	'[unknown]'	0.0%
 hi'	hi'	'FUT'	100.0%
-qajnen	xaya:	'place, put'	62.5%
+qajnen	xaya:	'place, put'	100.0%
 min	min	'2SG.GEN'	100.0%
 k'ēqa'	k'e:xa'	'money'	100.0%
-'ama	'ama'	'3SG.NOM'	70.0%
+'ama	'ama'	'and'	100.0% [continue here]
 manan	ma'an	'2PL.NOM'	70.0%
 t`a'an	da'ak'	'shine (of sun)'	70.0%
 hi'	hi'	'FUT'	100.0%
-tʃr'a'wāla'	triy'xala'	'talker'	50.0%
+tʃr'a'wāla'	tr'aw'a	'win from'	100.0%
 .	.	[punc]	100.0%
 'ohom	'ohom	'NEG'	100.0%
 wijā'an	wa:'al	'breakfast'	10.0%
