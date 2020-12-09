@@ -1,74 +1,74 @@
 limik'	limik'	'prairie falcon'	100.0%
-wak̄`i	wik'	'2DU.VOC.IMPER'	0.0%
+wak̄`i	wakkiy	'very, very much'	100.0%
 huwōtʃr`uts'	hutr'u	'cook bread in ashes'	0.0%
 ,	,	[punc]	100.0%
 'ohom	'ohom	'NEG'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
-qo'qōhin	xo:	'live, exist, be'	25.0%
+qo'qōhin	xo:	'live, exist, be'	100.0%
 hijō'uk	hiyo'uk	'where.LOC'	100.0%
-ki'ij	gi'iy	'oppose'	100.0%
-tʃr`atʃran	tratray	'break'	70.0%
-tʃr'a'wa'āhin	tr'aw'a	'win from'	10.0%
+ki'ij	gi'iy	'enemy'	100.0%
+tʃr`atʃran	tra'tra'	'ally'	50.0%
+tʃr'a'wa'āhin	tr'aw'a	'win from'	100.0%
 .	.	[punc]	100.0%
 qōnow	xo:now	'always'	100.0%
-'aʃr	'ashr	'actually, really'	50.0%
-tʃr'a'wa'āhin	tr'aw'a	'win from'	10.0%
+'aʃr	'ashr	'actually, really'	100.0%
+tʃr'a'wa'āhin	tr'aw'a	'win from'	100.0%
 .	.	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
-k`a'jiw	ga:'it	'young woman'	40.0%
-wīhin	widin	'roll sth'	70.0%
-li'mk'in	li'e:	'sink itr'	25.0%
-kē'ajhi	ga:yal	'await?'	0.0%
+'ama'	'ama'	'and'	100.0%
+k`a'jiw	kay'iw	'coyote'	100.0%
+wīhin	widin	'say, do'	100.0%
+li'mk'in	limik'	'prairie falcon'	100.0%
+kē'ajhi	gi'iy	'enemy'	100.0%
 na'	na'	'1SG.NOM'	100.0%
-hut'ēqo'	hudu	'recognize, know'	62.5%
-hawa't`am'uk`	hawa'tamuk	'having done what? (interrogative)'	85.0%
+hut'ēqo'	hudu	'recognize, know'	100.0%
+hawa't`am'uk`	hawa'tamuk	'having done what? (interrogative)'	100.0%
 ma'an	ma'an	'2PL.NOM'	100.0%
-na'aʃr	na'ashr	'dubitative'	70.0%
+na'aʃr	na'ashr	'dubitative'	100.0%
 tʃr`an	tran	'that.SG.PRIM'	100.0%
-tʃr'a'wal	tra'ashr	'continuously'	10.0%
+tʃr'a'wal	tr'aw'a	'win from'	100.0%
 .	.	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
-k`a'jiw	ga:'it	'young woman'	40.0%
+'ama'	'ama'	'and'	100.0%
+k`a'jiw	kay'iw	'coyote'	100.0%
 tʃr`ānit	tra:nit	'that.SG.ABL'	100.0%
-t`anhin	ta:na	'go'	62.5%
-puk'aliw	buk'k'al	'hill, knoll'	75.0%
-tʃr`aw	traw	'if'	100.0%
+t`anhin	ta:na	'go'	100.0%
+puk'aliw	buk'k'al	'hill, knoll'	100.0%
+tʃr`aw	traw	'that.SG.LOC'	100.0%
 'atil	'adil	'under'	100.0%
-qo'qōhin	xo:	'live, exist, be'	25.0%
-kuti'	gude'	'small'	70.0%
-'ilik'	'ilik	'sing'	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
-winejhin	wik'uy	'move, quake'	40.0%
+qo'qōhin	xo:	'live, exist, be'	100.0%
+kuti'	gude'	'small'	100.0%
+'ilik'	'ilik'	'water'	100.0%
+'ama'	'ama'	'and'	100.0%
+winejhin	[unknown]	'[unknown]'	0.0%
 tʃr`an	tran	'that.SG.PRIM'	100.0%
-puk'al	buk'k'al	'hill, knoll'	75.0%
-k`a'jiw	ga:'it	'young woman'	40.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+puk'al	buk'k'al	'hill, knoll'	100.0%
+k`a'jiw	kay'iw	'coyote'	100.0%
+'ama'	'ama'	'and'	100.0%
 witinhin	widin	'roll sth'	100.0%
 tʃr`ānit	tra:nit	'that.SG.ABL'	100.0%
-tʃr`ip`in̄it`	tripin	'on top of'	40.0%
-tukoklam	dugogla:	'straighten'	78.6%
+tʃr`ip`in̄it`	tripin	'on top of'	100.0%
+tukoklam	dugogla:	'straighten'	100.0%
 tʃr`an	tran	'that.SG.PRIM'	100.0%
-'ilk'a	'e:k'a	'see, look at'	25.0%
+'ilk'a	'ilik'	'water'	100.0%
 .	.	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+'ama'	'ama'	'and'	100.0%
 limik'	limik'	'prairie falcon'	100.0%
 na'	na'	'1SG.NOM'	100.0%
 limik'	limik'	'prairie falcon'	100.0%
 na'	na'	'1SG.NOM'	100.0%
-wijā'an	wa:'al	'breakfast'	10.0%
-witinmi	widin	'roll sth'	40.0%
+wijā'an	wiyi	'say, do'	100.0%
+witinmi	widin	'roll sth'	100.0%
 .	.	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+'ama'	'ama'	'and'	100.0%
 patʃr	batr	'as usual'	100.0%
-p`ana'	pana:	'arrive'	62.5%
-tʃr`aw	traw	'if'	100.0%
-'ilk'aw	'ile:	'fan'	62.5%
-'ama'	'ama'	'3SG.NOM'	100.0%
+p`ana'	pana:	'arrive'	100.0%
+tʃr`aw	traw	'that.SG.LOC'	100.0%
+'ilk'aw	'ilik'	'water'	100.0%
+'ama'	'ama'	'and'	100.0%
 patʃr	batr	'as usual'	100.0%
-tʃr`aw	traw	'if'	100.0%
-mā'en	ma'an	'2PL.NOM'	70.0%
+tʃr`aw	traw	'that.SG.LOC'	100.0%
+mā'en	ma'a	'look down'	100.0%
 .	.	[punc]	100.0%
-wilʃrin	wilshrin	'but, in spite of that'	75.0%
+wilʃrin	wilshrin	'but, in spite of that'	100.0% [continue here]
 'ohom	'ohom	'NEG'	100.0%
 limēk'aqo'	liwe:c'a:	'get cold'	50.0%
 tʃr`a'ʃrtʃr`a	tra'tra'	'ally'	25.0%
