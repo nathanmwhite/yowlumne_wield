@@ -184,7 +184,7 @@ silhin	shril'i	'see'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
 pólta	po:lut	'body'	100.0%
 hijam	hiyam	'already, now'	100.0%
-mótʌkiwik	modrok'wiyi	'be black'	100.0%
+mótʌkiwik	modrk'iwik	'black'	25.0%
 hi'	hi'	'FUT'	100.0%
 mamak	[unknown]	'[unknown]'	0.0%
 t`anhin	ta:na	'go'	100.0%
