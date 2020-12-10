@@ -516,13 +516,13 @@ hā'uk`	ha'uk	'what.NOM'	100.0%
 tʃr`ānit	tra:nit	'that.SG.ABL'	100.0%
 t`ishin	tisi	'come out'	100.0%
 naj	nay	'nearly, more than'	100.0%
-moʃrk'iwik'	mogo:wic'	'dodger'	14.3%
+moʃrk'iwik'	modrk'iwik	'black'	25.0%
 'ilik'	'ilik'	'water'	100.0%
 ,	,	[punc]	100.0%
 'ama'	'ama'	'and'	100.0%
-loqinhin	lilin	'get dewy'	40.0%
+loqinhin	loxo	'pour, spill'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
-t`oqwow	to:xiw	'cheek'	40.0%
+t`oqwow	to:xiw	'cheek'	100.0%
 .	.	[punc]	100.0%
 tʃrāni	tra:ni	'that.SG.SEC'	100.0%
 hēts`i'	he:zhi'	'today'	100.0%
@@ -531,19 +531,19 @@ hilalqo'	hilal	'be visible, appear'	100.0%
 weqwas	wac'was	'stake in gambling'	50.0%
 tʃrā'in	tra:'in	'that.SG.GEN'	100.0%
 t`aqan'ijaw	tana:'iy	'footprints, tracks'	57.1%
-manālin	mala:pin/	'make a mistake'	57.1%
+manālin	manal	'tear'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
 .	.	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
-jētʃr'aw	ye:tr'aw	'all'	70.0%
+'ama'	'ama'	'and'	100.0%
+jētʃr'aw	ye:tr'aw	'all'	100.0%
 jok`ots'	yokoc'	'person, people'	100.0%
 tʃrānit	tra:nit	'that.SG.ABL'	100.0%
-t`anhin	ta:na	'go'	62.5%
-tʃraw	traw	'if'	100.0%
+t`anhin	ta:na	'go'	100.0%
+tʃraw	traw	'that.SG.LOC'	100.0%
 hētam	he:dam	'nearby'	100.0%
-'ip`tʃrit`	'ipitr	'throw off/out, pick off'	40.0%
+'ip`tʃrit`	'ipitr	'throw off/out, pick off'	100.0%
 limik'	limik'	'prairie falcon'	100.0%
-jow	yo:w	'go home'	100.0%
+jow	yow	'and, also, again'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
 nōts`i'	no:chro'	'friend'	70.0%
 'alwutʃr'	'alwutr'	'crow'	75.0%
