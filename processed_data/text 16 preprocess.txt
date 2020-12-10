@@ -512,7 +512,7 @@ wilʃrin	wilshrin	'but, in spite of that'	100.0%
 p`ājaq	pa:yax	'blood'	100.0%
 ,	,	[punc]	100.0%
 hā'uk`	ha'uk	'what.NOM'	100.0%
-'aqa'm	'ama'	'3SG.NOM'	40.0%
+'aqa'm	'axam'	'probably'	100.0%
 tʃr`ānit	tra:nit	'that.SG.ABL'	100.0%
 t`ishin	tisi	'come out'	100.0%
 naj	nay	'nearly, more than'	100.0%
@@ -528,9 +528,9 @@ tʃrāni	tra:ni	'that.SG.SEC'	100.0%
 hēts`i'	he:zhi'	'today'	100.0%
 hilalqo'	hilal	'be visible, appear'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
-weqwas	wac'was	'stake in gambling'	50.0%
+weqwas	[unknown]	'[unknown]'	0.0%
 tʃrā'in	tra:'in	'that.SG.GEN'	100.0%
-t`aqan'ijaw	tana:'iy	'footprints, tracks'	57.1%
+t`aqan'ijaw	taxa:	'bring'	100.0%
 manālin	manal	'tear'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
 .	.	[punc]	100.0%
@@ -545,70 +545,74 @@ hētam	he:dam	'nearby'	100.0%
 limik'	limik'	'prairie falcon'	100.0%
 jow	yow	'and, also, again'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
-nōts`i'	no:chro'	'friend'	70.0%
-'alwutʃr'	'alwutr'	'crow'	75.0%
+nōts`i'	no:chro'	'friend'	100.0%
+'alwutʃr'	'alwutr'	'crow'	100.0%
 .	.	[punc]	100.0%
-'alwutʃr'	'alwutr'	'crow'	75.0%
+'alwutʃr'	'alwutr'	'crow'	100.0%
 tʃran	tran	'that.SG.PRIM'	100.0%
-wijā'an	wa:'al	'breakfast'	10.0%
-'insis	'insis'	'do well'	78.6%
-namam	na:naw	'1SG.LOC'	40.0%
-'aʃr	'ashr	'actually, really'	50.0%
-t`ana'	ta:na	'go'	62.5%
+wijā'an	wiyi	'say, do'	100.0%
+'insis	'insis'	'do well'	100.0%
+na%	na'	'1SG.NOM'	80.0%
+mam	mam	'2SG.PRIM'	80.0%
+'aʃr	'ashr	'actually, really'	100.0%
+t`ana'	ta:na	'go'	80.0%
 min	min	'2SG.GEN'	100.0%
-tʃr`ew	traw	'if'	50.0%
+tʃr`ew	tri'	'house'	100.0%
 .	.	[punc]	100.0%
-wilʃrin	wilshrin	'but, in spite of that'	75.0%
-hut'ēqōhin	hudu	'recognize, know'	62.5%
+wilʃrin	wilshrin	'but, in spite of that'	100.0%
+hut'ēqōhin	hudu	'recognize, know'	100.0%
 limik'	limik'	'prairie falcon'	100.0%
 hawjēno'uk`	hawye:no'uk	'what.kind.SEC'	100.0%
-tʃr'a'winhin	tra:'in	'that.SG.GEN'	40.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+tʃr'a'winhin	tr'aw'a	'win from'	100.0%
+'ama'	'ama'	'and'	100.0%
 tʃrāni	tra:ni	'that.SG.SEC'	100.0%
 'ohom	'ohom	'NEG'	100.0%
-t`anhat`inqōhin	tana:'iy	'footprints, tracks'	35.7%
+t`anhat`inqōhin	ta:na	'go'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
-tʃr`ew	traw	'if'	50.0%
+tʃr`ew	tri'	'house'	100.0%
 .	.	[punc]	100.0%
 'ohom	'ohom	'NEG'	100.0%
 nihi'	nihi'	'1SG.NOM FUT'	100.0%
-t`ahan	daban	'lose what one has'	70.0%
+t`ahan	ta:na	'go'	100.0%
 nim	nim	'1SG.GEN'	100.0%
-tʃr`ew	traw	'if'	50.0%
+tʃr`ew	tri'	'house'	100.0%
 ,	,	[punc]	100.0%
-t`ank'a	ta:na	'go'	62.5%
-lo'lk'onan	lagan	'set a day for a feast'	0.0%
+t`ank'a	ta:na	'go'	100.0%
+lo'lk'o%	lo:l'o:	'leave behind, let go of, quit'	80.0%
+nan	nan	'1SG.PRIM'	80.0%
 !	!	[punc]	100.0%
-wijā'an	wa:'al	'breakfast'	10.0%
-'alwutʃr'	'alwutr'	'crow'	75.0%
-hijewtʃr`aw'aʃr	hiy'aw'tra:/	'become belligerent'	0.0%
+wijā'an	wiyi	'say, do'	100.0%
+'alwutʃr'	'alwutr'	'crow'	100.0%
+hijewtʃr`aw%	[unknown]	'[unknown]'	0.0%
+'aʃr	'ashr	'actually, really'	100.0%
 ma'	ma'	'2SG.NOM'	100.0%
-t`anā'an	tana:'ey	'footprint'	57.1%
-tʃraw	traw	'if'	100.0%
+t`anā'an	ta:na	'go'	100.0%
+tʃraw	traw	'that.SG.LOC'	100.0%
 na'	na'	'1SG.NOM'	100.0%
-t`a'an	da'ak'	'shine (of sun)'	70.0%
+t`a'an	ta'an'	'too'	100.0%
 hi'	hi'	'FUT'	100.0%
-t`ahan	daban	'lose what one has'	70.0%
-jow	yo:w	'go home'	100.0%
+t`ahan	ta:na	'go'	100.0%
+jow	yow	'and, also, again'	100.0%
 ma'	ma'	'2SG.NOM'	100.0%
 hi	hi'	'FUT'	50.0%
-na'aʃr	na'ashr	'dubitative'	70.0%
-hijewtʃr`aw'aʃr	hiy'aw'tra:/	'become belligerent'	0.0%
-t`awtʃr`en	ta:watr	'die'	70.0%
-tʃr`aw	traw	'if'	100.0%
+na'aʃr	na'ashr	'dubitative'	100.0%
+hijewtʃr`aw%	[unknown]	'[unknown]'	0.0%
+'aʃr	'ashr	'actually, really'	100.0%
+t`awtʃr`en	ta:watr	'die'	100.0%
+tʃr`aw	traw	'that.SG.LOC'	100.0%
 na'	na'	'1SG.NOM'	100.0%
-t`a'an	da'ak'	'shine (of sun)'	70.0%
+t`a'an	ta'an'	'too'	100.0%
 hi'	hi'	'FUT'	100.0%
-t`awtʃr`en	ta:watr	'die'	70.0%
+t`awtʃr`en	ta:watr	'die'	100.0%
 ,	,	[punc]	100.0%
 'ohom	'ohom	'NEG'	100.0%
-wijā'an	wa:'al	'breakfast'	10.0%
+wijā'an	wiyi	'say, do'	100.0%
 limik'	limik'	'prairie falcon'	100.0%
 ,	,	[punc]	100.0%
 hētam	he:dam	'nearby'	100.0%
 k`ew	kew	'this.SG.LOC'	100.0%
-qok'	xo:	'live, exist, be'	25.0%
-jāsk'a	ya'	'go'	0.0%
+qok'	xo:	'live, exist, be'	100.0%
+jāsk'a	ya'	'go'	25.0% [continue here]
 nim	nim	'1SG.GEN'	100.0%
 jī'ts`a	yiy'ca:/	'do sth alone'	75.0%
 t`an'as	da'ak'	'shine (of sun)'	40.0%
