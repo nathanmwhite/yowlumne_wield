@@ -114,7 +114,8 @@ qathin	xata	'eat'	100.0%
 thān	ta:na	'go'	80.0%
 ma'n	ma'an	'2PL.NOM'	80.0%
 hi'	hi'	'FUT'	100.0%
-qathenim	xata	'eat'	100.0%
+qathe%	xata	'eat'	80.0%
+nim	nim	'1SG.GEN'	80.0%
 qat`a	xat	'foot'	100.0%
 wija'n	wiyi	'say, do'	100.0%
 kha'jiw	kay'iw	'coyote'	100.0%
