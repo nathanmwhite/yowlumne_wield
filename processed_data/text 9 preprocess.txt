@@ -116,7 +116,8 @@ tr`aw	traw	'that.SG.LOC'	100.0%
 mam	mam	'2SG.PRIM'	100.0%
 'aman	'aman	'3PL.NOM'	100.0%
 t`aqinsiten	taxa:	'bring'	100.0%
-'amama%	[unknown]	'[unknown]'	0.0%
+'ama%	'ama'	'and'	80.0%
+ma%	ma'	'2SG.NOM'	80.0%
 k'o'sitnit	k'o'o	'throw at, throw'	100.0%
 tr`ani	tra:ni	'that.SG.SEC'	100.0%
 'aminōkun	'amino:gun	'3PL.GEN'	100.0%
