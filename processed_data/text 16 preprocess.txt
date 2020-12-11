@@ -612,32 +612,33 @@ limik'	limik'	'prairie falcon'	100.0%
 hētam	he:dam	'nearby'	100.0%
 k`ew	kew	'this.SG.LOC'	100.0%
 qok'	xo:	'live, exist, be'	100.0%
-jāsk'a	ya'	'go'	25.0% [continue here]
+jāsk'a	[unknown]	'[unknown]'	0.0%
 nim	nim	'1SG.GEN'	100.0%
 jī'ts`a	yiy'ca:/	'do sth alone'	75.0%
-t`an'as	da'ak'	'shine (of sun)'	40.0%
+t`an'as	ta:na	'go'	80.0%
 .	.	[punc]	100.0%
-t`ahan	daban	'lose what one has'	70.0%
-namam	na:naw	'1SG.LOC'	40.0%
+t`ahan	ta:na	'go'	100.0%
+na%	na'	'1SG.NOM'	80.0%
+mam	mam	'2SG.PRIM'	80.0%
 hi'	hi'	'FUT'	100.0%
 apij	apij	[foreign]	100.0%
-wijā'an	wa:'al	'breakfast'	10.0%
+wijā'an	wiyi	'say, do'	100.0%
 tʃr`an	tran	'that.SG.PRIM'	100.0%
-'alwutʃr'	'alwutr'	'crow'	75.0%
+'alwutʃr'	'alwutr'	'crow'	100.0%
 .	.	[punc]	100.0%
-'insis	'insis'	'do well'	78.6%
-wijā'an	wa:'al	'breakfast'	10.0%
+'insis	'insis'	'do well'	100.0%
+wijā'an	wiyi	'say, do'	100.0%
 limik'	limik'	'prairie falcon'	100.0%
 .	.	[punc]	100.0%
-tā'āk'in	da'ak'	'shine (of sun)'	100.0%
-kō'pint`aw	go:bin	'enter'	40.0%
+tā'āk'in	da:'ak'	'sun'	100.0%
+kō'pint`aw	go:bin	'enter'	100.0%
 'amak'	'amak'	'3DU.NOM'	100.0%
-t`anhin	ta:na	'go'	62.5%
+t`anhin	ta:na	'go'	100.0%
 .	.	[punc]	100.0%
-ts'owmi	c'o:mu	'destroy, devour'	25.0%
-li'mk'in	li'e:	'sink itr'	25.0%
-tʃr'alap`	tr'alap	'bow'	70.0%
-me'ts`i	me'zhi'	'because'	75.0%
+ts'owmi	c'o:mu	'destroy, devour'	100.0%
+li'mk'in	limik'	'prairie falcon'	100.0%
+tʃr'alap`	tr'alap	'bow'	100.0%
+me'ts`i	me'zhi'	'because'	100.0%
 tʃr`a	tra	'that.SG.NOM'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
 tap	dab	'next, on the other hand, then'	100.0%
@@ -645,62 +646,62 @@ tʃr`ip`na'	tripna'	'magic power'	100.0%
 .	.	[punc]	100.0%
 'ohom	'ohom	'NEG'	100.0%
 'aminkin	'amingin	'3DU.GEN'	100.0%
-mihnitʃr	mihnichr	'still, yet'	75.0%
-t`ant`aw	ta:na	'go'	62.5%
+mihnitʃr	mihnichr	'still, yet'	100.0%
+t`ant`aw	ta:na	'go'	100.0%
 limik'	limik'	'prairie falcon'	100.0%
-'illikhin	'ilik	'sing'	70.0%
-tos̄ō'on	toy'o:n	'come late'	50.0%
+'illikhin	'ilik	'sing'	100.0%
+tos̄ō'on	do:so	'report, tell about'	100.0%
 hijō'uk	hiyo'uk	'where.LOC'	100.0%
 'amak'	'amak'	'3DU.NOM'	100.0%
-t`anā'an	tana:'ey	'footprint'	57.1%
+t`anā'an	ta:na	'go'	100.0%
 .	.	[punc]	100.0%
-tʃraw	traw	'if'	100.0%
-t`o'jnē'in	dotr'e:(')	'break?'	10.0%
+tʃraw	traw	'that.SG.LOC'	100.0%
+t`o'jnē'in	toyon	'be night'	80.0%
 p`anāhin	pana:	'arrive'	100.0%
 'amak'	'amak'	'3DU.NOM'	100.0%
-tēlamnew	damna:	'try'	0.0%
+tēlamnew	de:lamni'	'[name]'	100.0%
 .	.	[punc]	100.0%
-t`o'jnē'in	dotr'e:(')	'break?'	10.0%
+t`o'jnē'in	toyon	'be night'	80.0%
 'amak'	'amak'	'3DU.NOM'	100.0%
-tʃraw	traw	'if'	100.0%
+tʃraw	traw	'that.SG.LOC'	100.0%
 p`anāhin	pana:	'arrive'	100.0%
 'ohom	'ohom	'NEG'	100.0%
 'amāmikwa	'ama:mikwa	'3DU.PRIM'	100.0%
 watuk`	watuk	'who.NOM'	100.0%
-ʃri'lhin	shri'e:l	'rain'	40.0%
+ʃri'lhin	shril'i	'see'	100.0%
 'aminkin	'amingin	'3DU.GEN'	100.0%
-p`anāt`aw	p'axa:t'	'mourn'	70.0%
+p`anāt`aw	pana:	'arrive'	100.0%
 .	.	[punc]	100.0%
 limik'	limik'	'prairie falcon'	100.0%
 tap	dab	'next, on the other hand, then'	100.0%
 'ohom	'ohom	'NEG'	100.0%
 wō'ujhun	wo:'uy	'fall asleep, sleep'	100.0%
-t`oj'now	toy'no'	'night'	78.6%
+t`oj'now	toy'no'	'night'	100.0%
 'ilikhin	'ilik	'sing'	100.0%
-hija'm	hiyam	'already, now'	70.0%
-tēlamnēnit`	damna:	'try'	0.0%
+hija'm	hiyam'	'next morning'	100.0%
+tēlamnēnit`	de:lamni'	'[name]'	100.0%
 limik'	limik'	'prairie falcon'	100.0%
-jow	yo:w	'go home'	100.0%
-'alwutʃr'	'alwutr'	'crow'	75.0%
-t`anhin	ta:na	'go'	62.5%
+jow	yow	'and, also, again'	100.0%
+'alwutʃr'	'alwutr'	'crow'	100.0%
+t`anhin	ta:na	'go'	100.0%
 .	.	[punc]	100.0%
 limik'	limik'	'prairie falcon'	100.0%
 'ohom	'ohom	'NEG'	100.0%
-wō'j'an	woyha:/	'miss s.o.'	10.0%
-jow	yo:w	'go home'	100.0%
+wō'j'an	wo:'uy	'fall asleep, sleep'	100.0%
+jow	yow	'and, also, again'	100.0%
 'ohom	'ohom	'NEG'	100.0%
-qat`ā'an	xal'a	'put a stick in a crack'	10.0%
+qat`ā'an	xata	'eat'	100.0%
 .	.	[punc]	100.0%
-t`o'jnow	do'o	'touch with the penis'	0.0%
-'ilek`'an	'ile:ma:/	'act mean toward, be feared'	25.0%
-jow	yo:w	'go home'	100.0%
-qat`ā'an	xal'a	'put a stick in a crack'	10.0%
-'ut̄al	'ada:l	'make sth lower'	70.0%
+t`o'jnow	toy'no'	'night'	100.0%
+'ilek`'an	'ilik	'sing'	100.0%
+jow	yow	'and, also, again'	100.0%
+qat`ā'an	xata	'eat'	100.0%
+'ut̄al	'ut't'al	'solely, nothing but'	100.0%
 sōk'on	so:gon	'Indian tobacco weed'	100.0%
-'alwutʃr'	'alwutr'	'crow'	75.0%
+'alwutʃr'	'alwutr'	'crow'	100.0%
 'ētilhin	'e:dil	'get hungry'	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
-limik'	limik'	'prairie falcon'	100.0%
+'ama'	'ama'	'and'	100.0%
+limik'	limik'	'prairie falcon'	100.0% [continue here]
 t'ujhun	duyu	'sting'	62.5%
 ʃru'nʃru'ntʃr'uw	shru'un	'granary'	0.0%
 jāwliw	yawa:l	'follow, pursue'	70.0%
