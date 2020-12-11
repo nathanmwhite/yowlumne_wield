@@ -96,7 +96,7 @@ wími	wiyi	'say, do'	100.0%
 'ilk'a	'ilik'	'water'	100.0%
 qajá'n	xaya:	'put, place'	100.0%
 ,	,	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+'ama'	'ama'	'and'	100.0%
 'aman	'aman	'3PL.NOM'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
 wī́mi	wiyi	'say, do'	100.0%
