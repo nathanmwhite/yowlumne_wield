@@ -701,89 +701,90 @@ sōk'on	so:gon	'Indian tobacco weed'	100.0%
 'alwutʃr'	'alwutr'	'crow'	100.0%
 'ētilhin	'e:dil	'get hungry'	100.0%
 'ama'	'ama'	'and'	100.0%
-limik'	limik'	'prairie falcon'	100.0% [continue here]
-t'ujhun	duyu	'sting'	62.5%
-ʃru'nʃru'ntʃr'uw	shru'un	'granary'	0.0%
-jāwliw	yawa:l	'follow, pursue'	70.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
-tʃrokhin	tre:kin	'fear, become exited [sic] with'	70.0%
+limik'	limik'	'prairie falcon'	100.0%
+t'ujhun	t'uyu	'shoot at, shoot'	100.0%
+ʃru'nʃru'ntʃr'uw	[unknown]	'[unknown]'	0.0%
+jāwliw	ya:wil	'grass'	100.0%
+'ama'	'ama'	'and'	100.0%
+tʃrokhin	tro:k'o	'strike, hit'	100.0%
 top̄ol	dobol	'large rabbit'	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+'ama'	'ama'	'and'	100.0%
 tʃr`an	tran	'that.SG.PRIM'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
-nōtsi'	no:chro'	'friend'	70.0%
+nōtsi'	no:chro'	'friend'	100.0%
 qat`hin	xat	'food'	100.0%
 .	.	[punc]	100.0%
 limik'	limik'	'prairie falcon'	100.0%
-wak̄`i	wik'	'2DU.VOC.IMPER'	0.0%
+wak̄`i	wakkiy	'very, very much'	100.0%
 tʃr`ip`ni'	tripni'	'one endowed with magic powers'	100.0%
 .	.	[punc]	100.0%
-tʃrok'ō'on	tro:k'o	'strike, hit'	0.0%
-tʃr`ok'hot`inmi	tr'ok'wiyi	'pop (like a cork)'	0.0%
-hā'in	hi'	'FUT'	50.0%
-tʃraw	traw	'if'	100.0%
-'aʃr	'ashr	'actually, really'	50.0%
-t`awtʃr`a'	tawtra:	'kill tr'	70.0%
+tʃrok'ō'on	tro:k'o	'strike, hit'	100.0%
+tʃr`ok'hot`inmi	tro:k'o	'strike, hit'	100.0%
+hā'in	hi'	'FUT'	100.0%
+tʃraw	traw	'that.SG.LOC'	100.0%
+'aʃr	'ashr	'actually, really'	100.0%
+t`awtʃr`a'	tawtra:	'kill tr'	100.0%
 'ohjoqo'	'ohyo:	'want, look for (YT has root ?oyoxo)'	100.0%
 ,	,	[punc]	100.0%
-jow	yo:w	'go home'	100.0%
+jow	yow	'and, also, again'	100.0%
 tap	dab	'next, on the other hand, then'	100.0%
 'ēman	'e:man	'to no avail'	100.0%
-tʃr'ā'ma'	tra'tra'	'ally'	50.0%
+tʃr'ā'ma'	tr'ama'	'blind'	50.0%
 .	.	[punc]	100.0%
-hawjaw	hawa	'do what?'	62.5%
-tʃr`aw	traw	'if'	100.0%
-'aʃr	'ashr	'actually, really'	50.0%
-'et`len	'e:dil	'get hungry'	70.0%
-'alwutʃr'	'alwutr'	'crow'	75.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+hawjaw	[unknown]	'[unknown]'	0.0%
+tʃr`aw	traw	'that.SG.LOC'	100.0%
+'aʃr	'ashr	'actually, really'	100.0%
+'et`len	'e:dil	'get hungry'	100.0%
+'alwutʃr'	'alwutr'	'crow'	100.0%
+'ama'	'ama'	'and'	100.0%
 tʃran	tran	'that.SG.PRIM'	100.0%
 limik'	limik'	'prairie falcon'	100.0%
-tʃr`ok'siten	trik'it'	'stench'	40.0%
+tʃr`ok'siten	tro:k'o	'strike, hit'	100.0%
 limik'	limik'	'prairie falcon'	100.0%
-jow	yo:w	'go home'	100.0%
-'alwutʃr'	'alwutr'	'crow'	75.0%
+jow	yow	'and, also, again'	100.0%
+'alwutʃr'	'alwutr'	'crow'	100.0%
 p`anāhin	pana:	'arrive'	100.0%
-jet'	yit-'	'be one?'	50.0%
+jet'	yet'	'one'	100.0%
 kā'inha	ga:'ina	'woman'	75.0%
-loko'wts'i	logow	'pound into powder, pulverize'	10.0%
+loko'wts'i	logow	'pound into powder, pulverize'	100.0%
 ,	,	[punc]	100.0%
-k'aʃrijna	gaswiyi	'spread through'	35.7%
+k'aʃrijna	k'ashryin	'black seed'	100.0%
 .	.	[punc]	100.0%
-wijā'an	wa:'al	'breakfast'	10.0%
-'alwutʃr'	'alwutr'	'crow'	75.0%
+wijā'an	wiyi	'say, do'	100.0%
+'alwutʃr'	'alwutr'	'crow'	100.0%
 mi'in	mi'in	'soon'	100.0%
 na'	na'	'1SG.NOM'	100.0%
 tʃran	tran	'that.SG.PRIM'	100.0%
-qip`len	xibil	'take away'	70.0%
-kutēni	ke:ni	'this.SG.SEC'	25.0%
-lok`wōni	lowon	'attend a feast'	40.0%
+qip`len	xibil	'take away'	80.0%
+kutēni	gude'	'small'	100.0%
+lok`wōni	logow	'pound into powder, pulverize'	100.0%
 'ohom	'ohom	'NEG'	100.0%
-wijā'an	wa:'al	'breakfast'	10.0%
+wijā'an	wiyi	'say, do'	100.0%
 tʃran	tran	'that.SG.PRIM'	100.0%
 limik'	limik'	'prairie falcon'	100.0%
 ,	,	[punc]	100.0%
 tʃr`ip`ni'	tripni'	'one endowed with magic powers'	100.0%
 ,	,	[punc]	100.0%
-t`awtʃra'mam	t'aw'a	'strike an animate object to the ground'	0.0%
+t`awtʃra'%	tawtra:	'kill tr'	100.0%
+mam	mam	'2SG.PRIM'	100.0%
 hi'	hi'	'FUT'	100.0%
-t`an'aʃr	da'ak'	'shine (of sun)'	10.0%
-'alwutʃr'	'alwutr'	'crow'	75.0%
-t`anhin	ta:na	'go'	62.5%
-tʃr`aw	traw	'if'	100.0%
-lokōwts'iw	logow	'pound into powder, pulverize'	70.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
-kapapwīhin	gababwiyi	'wave the hand once'	66.7%
-maqēnani	ma'an	'2PL.NOM'	0.0%
-lok`wo	lo:go:/	'crazy'	62.5%
-'ama'	'ama'	'3SG.NOM'	100.0%
-ʃratʃr'wījhin	sa:mwiyi	'diminish in size'	14.3%
+t`an'aʃr	ta:na	'go'	100.0%
+'alwutʃr'	'alwutr'	'crow'	100.0%
+t`anhin	ta:na	'go'	100.0%
+tʃr`aw	traw	'that.SG.LOC'	100.0%
+lokōwts'iw	logow	'pound into powder, pulverize'	100.0%
+'ama'	'ama'	'and'	100.0%
+kapapwīhin	gababwiyi	'wave the hand once'	100.0%
+maqēnani	ma:xa	'procure, get'	50.0%
+lok`wo	logow	'pound into powder, pulverize'	100.0%
+'ama'	'ama'	'and'	100.0%
+ʃratʃr'wījhin	[unknown]	'[unknown]'	0.0%
 tʃran	tran	'that.SG.PRIM'	100.0%
 tʃra	tra	'that.SG.NOM'	100.0%
-moqlo'	mo:xol	'become old'	40.0%
-kā'ina	ga:'ina	'woman'	100.0%
+moqlo'	moxlo'	'old person'	100.0%
+kā'ina	ga:'ina	'woman'	100.0% [continue here]
 p'unutʃr'k'aw	puhuk'	'survive'	10.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+'ama'	'ama'	'and'	100.0%
 tʃran	tran	'that.SG.PRIM'	100.0%
 tʃr`at`īhin	trit'i	'have sexual intercourse with'	62.5%
 'amin	'amin	'3SG.GEN'	100.0%
