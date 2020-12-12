@@ -782,23 +782,24 @@ lok`wo	logow	'pound into powder, pulverize'	100.0%
 tʃran	tran	'that.SG.PRIM'	100.0%
 tʃra	tra	'that.SG.NOM'	100.0%
 moqlo'	moxlo'	'old person'	100.0%
-kā'ina	ga:'ina	'woman'	100.0% [continue here]
-p'unutʃr'k'aw	puhuk'	'survive'	10.0%
+kā'ina	ga:'ina	'woman'	100.0%
+p'unutʃr'k'aw	[unknown]	'[unknown]'	0.0%
 'ama'	'ama'	'and'	100.0%
 tʃran	tran	'that.SG.PRIM'	100.0%
-tʃr`at`īhin	trit'i	'have sexual intercourse with'	62.5%
+tʃr`at`īhin	tratray	'break'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
-'ōkon	'ogol	'come to the surface'	70.0%
-'ama	'ama'	'3SG.NOM'	70.0%
+'ōkon	'o:kun	'neck'	100.0%
+'ama	'ama'	'and'	100.0%
 tʃran	tran	'that.SG.PRIM'	100.0%
-wīmi	wip'i	'jerk up quickly'	62.5%
-la'nt'ew	la'as	'fletch'	0.0%
+wīmi	wiyi	'say, do'	100.0%
+la'nt'ew	lan't'i'	'a side'	100.0%
 k`ew	kew	'this.SG.LOC'	100.0%
-k'ōhin	go:bin	'enter'	70.0%
+k'ōhin	k'o'o	'throw at, throw'	100.0%
 .	.	[punc]	100.0%
 'ohom	'ohom	'NEG'	100.0%
-t`āwilʃrhin	ta:witr	'die'	40.0%
-wilʃrin	wilshrin	'but, in spite of that'	75.0%
+t`ā%	tra	'that.SG.NOM'	50.0%
+wilʃrhin	wilshrin	'but, in spite of that'	100.0%
+wilʃrin	wilshrin	'but, in spite of that'	100.0% [continue here]
 limits	limi	'file'	62.5%
 wījhin	wik'	'2DU.VOC.IMPER'	50.0%
 limik'	limik'	'prairie falcon'	100.0%
