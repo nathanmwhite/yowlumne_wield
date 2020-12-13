@@ -808,7 +808,7 @@ maqhin	ma:xa	'procure, get'	100.0%
 ''ama'	'ama'	'and'	100.0%
 tʃran	tran	'that.SG.PRIM'	100.0%
 t`anāhin	ta:na	'go'	100.0%
-wa'	wa'	'far'	100.0%
+wa'	wa'	'far away'	100.0%
 'ama'	'ama'	'and'	100.0%
 tʃrānit	tra:nit	'that.SG.ABL'	100.0%
 tʃran	tran	'that.SG.PRIM'	100.0%
@@ -820,7 +820,7 @@ tʃrānit`	tra:nit	'that.SG.ABL'	100.0%
 'alwutʃr'	'alwutr'	'crow'	100.0%
 motʃrok'wījhin	modrok'wiyi	'be black'	100.0%
 ,	,	[punc]	100.0%
-tē'jaw	de:yi	'take the lead, get in front'	50.0%
+tē'jaw	de:yi	'take the lead, get in front'	100.0%
 tap`	dab	'next, on the other hand, then'	100.0%
 lak`li'	lagil	'different'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
@@ -830,77 +830,77 @@ lak`li'	lagil	'different'	100.0%
 tʃr`ānit`	tra:nit	'that.SG.ABL'	100.0%
 ta'ilmi	da'al	'come to life, escape'	100.0%
 'alwutʃr'	'alwutr'	'crow'	100.0%
-jo'wk`i	yo'ke:	'return'	40.0%
+jo'wk`i	yo'ke:	'return'	100.0%
 'ohjōqo'	'ohyo:	'want, look for (YT has root ?oyoxo)'	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+'ama'	'ama'	'and'	100.0%
 tʃran	tran	'that.SG.PRIM'	100.0%
-p`iwets'i	pic'i	'count'	25.0%
-t`awtʃra'	tawtra:	'kill tr'	70.0%
+p`iwets'i	piwe:shr'	'pound acorns'	100.0%
+t`awtʃra'	tawtra:	'kill tr'	100.0%
 hijam	hiyam	'already, now'	100.0%
 mak'	mak'	'1DU.INCL.NOM'	100.0%
-wak̄`i	wik'	'2DU.VOC.IMPER'	0.0%
-wa'	wa	'however'	25.0%
-qō'qo'	xo:	'live, exist, be'	25.0%
-wijā'an	wa:'al	'breakfast'	10.0%
+wak̄`i	wakkiy	'very, very much'	100.0%
+wa'	wa'	'far away'	100.0%
+qō'qo'	xo:	'live, exist, be'	100.0%
+wijā'an	wiyi	'say, do'	100.0%
 tʃran	tran	'that.SG.PRIM'	100.0%
 limik	limik'	'prairie falcon'	100.0%
 !	!	[punc]	100.0%
 tʃra	tra	'that.SG.NOM'	100.0%
-moqlȯ	mo:lu	'cheat'	25.0%
-p`iwēʃrits'	piwe:shr'	'pound acorns'	25.0%
-t'onōtʃrim	t'on'o:trim	'transvestite'	81.2%
-'ama'	'ama'	'3SG.NOM'	100.0%
+moqlȯ	moxlo'	'old person'	100.0%
+p`iwēʃrits'	piwe:shr'	'pound acorns'	100.0%
+t'onōtʃrim	t'on'o:trim	'transvestite'	100.0%
+'ama'	'ama'	'and'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
-lokiwmi	limi	'file'	0.0%
-ts'ija	c'iy'	'bone'	62.5%
-'ama'	'ama'	'3SG.NOM'	100.0%
-'ilek`'an	'ile:ma:/	'act mean toward, be feared'	25.0%
+lokiwmi	logow	'pound into powder, pulverize'	100.0%
+ts'ija	c'iy'	'bone'	100.0%
+'ama'	'ama'	'and'	100.0%
+'ilek`'an	'ilik	'sing'	100.0%
 .	.	[punc]	100.0%
 ha'ts`aqom	ha'zhaxom	'finally, at last'	100.0%
-'aʃr	'ashr	'actually, really'	50.0%
+'aʃr	'ashr	'actually, really'	100.0%
 'amak'	'amak'	'3DU.NOM'	100.0%
-wa'	wa	'however'	25.0%
+wa'	wa'	'far away'	100.0%
 p`anāhin	pana:	'arrive'	100.0%
-li'mk'in	li'e:	'sink itr'	25.0%
-nusōsun	nusos	'paternal aunt'	40.0%
-tʃr`ew	traw	'if'	50.0%
+li'mk'in	limik'	'prairie falcon'	100.0%
+nusōsun	nusos	'paternal aunt'	100.0%
+tʃr`ew	tri'	'house'	100.0%
 .	.	[punc]	100.0%
 mimjatʃr`	mimyatr	'thunder'	100.0%
-wāqilhin	wa:xal	'weep'	70.0%
-ʃri'lmi	shril'i	'see'	10.0%
-li'mk'in	li'e:	'sink itr'	25.0%
-sasāin	shra:pa	'burn'	62.5%
+wāqilhin	wa:xal	'weep'	100.0%
+ʃri'lmi	shril'i	'see'	100.0%
+li'mk'in	limik'	'prairie falcon'	100.0%
+sasāin	sasa'	'eye'	100.0%
 .	.	[punc]	100.0%
 mimjatʃr`	mimyatr	'thunder'	100.0%
-wijā'an	wa:'al	'breakfast'	10.0%
-limk'a	laga:	'spend the night'	25.0%
+wijā'an	wiyi	'say, do'	100.0%
+limk'a	limik'	'prairie falcon'	100.0%
 ,	,	[punc]	100.0%
 'ohom	'ohom	'NEG'	100.0%
 ma'	ma'	'2SG.NOM'	100.0%
-hut'ēqōhin	hudu	'recognize, know'	62.5%
-hā'nuk`	ha'uk	'what.NOM'	70.0%
+hut'ēqōhin	hudu	'recognize, know'	100.0%
+hā'nuk`	ha:nuk	'what.PRIM'	100.0%
 ,	,	[punc]	100.0%
-k`a'jiw	ga:'it	'young woman'	40.0%
+k`a'jiw	kay'iw	'coyote'	100.0%
 mam	mam	'2SG.PRIM'	100.0%
-t'otʃr'ējāhin	dotr'e:ya:	'spoil, cause to become bad'	75.0%
+t'otʃr'ējāhin	dotr'e:ya:	'spoil, cause to become bad'	100.0%
 .	.	[punc]	100.0%
 mimjatʃr`	mimyatr	'thunder'	100.0%
 tap`	dab	'next, on the other hand, then'	100.0%
 tʃr`ip`ni'	tripni'	'one endowed with magic powers'	100.0%
 ,	,	[punc]	100.0%
-hut'ēqōhin	hudu	'recognize, know'	62.5%
-jētʃr'aw	ye:tr'aw	'all'	70.0%
+hut'ēqōhin	hudu	'recognize, know'	100.0%
+jētʃr'aw	ye:tr'aw	'all'	100.0%
 .	.	[punc]	100.0%
-hṹhũ'	hubushr	'choose'	40.0%
-wijā'an	wa:'al	'breakfast'	10.0%
+hṹhũ'	hǫ:hǫ'	'yes'	100.0%
+wijā'an	wiyi	'say, do'	100.0%
 limik'	limik'	'prairie falcon'	100.0%
 ,	,	[punc]	100.0%
-hut'ēqōhin	hudu	'recognize, know'	62.5%
+hut'ēqōhin	hudu	'recognize, know'	100.0%
 na'	na'	'1SG.NOM'	100.0%
 tʃran	tran	'that.SG.PRIM'	100.0%
-jētʃr'aw	ye:tr'aw	'all'	70.0%
+jētʃr'aw	ye:tr'aw	'all'	100.0%
 .	.	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+'ama'	'ama'	'and'	100.0% [continue here]
 mimjatʃr`	mimyatr	'thunder'	100.0%
 ti'ʃrhin	ti'itr	'louse'	70.0%
 li'mk'in	li'e:	'sink itr'	25.0%
