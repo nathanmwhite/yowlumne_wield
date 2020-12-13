@@ -257,7 +257,7 @@ ts'awinin	tr'aw'a	'win from'	100.0%
 tsanum	canum	'immediately'	100.0%
 jet'am	[unknown]	'[unknown]'	0.0%
 sasá'in	sasa'	'eye'	100.0%
-teja'	de:y'a:	'haul, carry about'	50.0%
+teja'	de:yi	'take the lead, get in front'	100.0%
 ts'awinhin	tr'aw'a	'win from'	100.0%
 ,	,	[punc]	100.0%
 'ama'	'ama'	'and'	100.0%
