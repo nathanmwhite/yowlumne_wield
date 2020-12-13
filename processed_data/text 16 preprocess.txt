@@ -799,37 +799,37 @@ k'ōhin	k'o'o	'throw at, throw'	100.0%
 'ohom	'ohom	'NEG'	100.0%
 t`ā%	tra	'that.SG.NOM'	50.0%
 wilʃrhin	wilshrin	'but, in spite of that'	100.0%
-wilʃrin	wilshrin	'but, in spite of that'	100.0% [continue here]
-limits	limi	'file'	62.5%
-wījhin	wik'	'2DU.VOC.IMPER'	50.0%
+wilʃrin	wilshrin	'but, in spite of that'	100.0%
+limits	[unknown]	'[unknown]'	0.0%
+wījhin	wiyi	'say, do'	100.0%
 limik'	limik'	'prairie falcon'	100.0%
 tʃr`an	tran	'that.SG.PRIM'	100.0%
-maqhin	mak'	'1DU.INCL.NOM'	50.0%
-''ama'	'ama'	'3SG.NOM'	70.0%
+maqhin	ma:xa	'procure, get'	100.0%
+''ama'	'ama'	'and'	100.0%
 tʃran	tran	'that.SG.PRIM'	100.0%
 t`anāhin	ta:na	'go'	100.0%
-wa'	wa	'however'	25.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+wa'	wa'	'far'	100.0%
+'ama'	'ama'	'and'	100.0%
 tʃrānit	tra:nit	'that.SG.ABL'	100.0%
 tʃran	tran	'that.SG.PRIM'	100.0%
-ta'lēhin	da'a'le:	'bring to life'	57.1%
+ta'lēhin	da'a'le:	'bring to life'	100.0%
 .	.	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+'ama'	'ama'	'and'	100.0%
 tʃrānit`	tra:nit	'that.SG.ABL'	100.0%
-'aʃr	'ashr	'actually, really'	50.0%
-'alwutʃr'	'alwutr'	'crow'	75.0%
-motʃrok'wījhin	modrok'wiyi	'be black'	83.3%
+'aʃr	'ashr	'actually, really'	100.0%
+'alwutʃr'	'alwutr'	'crow'	100.0%
+motʃrok'wījhin	modrok'wiyi	'be black'	100.0%
 ,	,	[punc]	100.0%
-tē'jaw	de'ya:	'haul away'	70.0%
+tē'jaw	de:yi	'take the lead, get in front'	50.0%
 tap`	dab	'next, on the other hand, then'	100.0%
-lak`li'	lagil	'scatter in different places'	40.0%
+lak`li'	lagil	'different'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
 'ēman	'e:man	'to no avail'	100.0%
 'otsoj	'ozhoy	'sign, color'	100.0%
 .	.	[punc]	100.0%
 tʃr`ānit`	tra:nit	'that.SG.ABL'	100.0%
-ta'ilmi	da'al	'come to life, escape'	10.0%
-'alwutʃr'	'alwutr'	'crow'	75.0%
+ta'ilmi	da'al	'come to life, escape'	100.0%
+'alwutʃr'	'alwutr'	'crow'	100.0%
 jo'wk`i	yo'ke:	'return'	40.0%
 'ohjōqo'	'ohyo:	'want, look for (YT has root ?oyoxo)'	100.0%
 'ama'	'ama'	'3SG.NOM'	100.0%
