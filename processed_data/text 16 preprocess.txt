@@ -900,113 +900,113 @@ na'	na'	'1SG.NOM'	100.0%
 tʃran	tran	'that.SG.PRIM'	100.0%
 jētʃr'aw	ye:tr'aw	'all'	100.0%
 .	.	[punc]	100.0%
-'ama'	'ama'	'and'	100.0% [continue here]
+'ama'	'ama'	'and'	100.0%
 mimjatʃr`	mimyatr	'thunder'	100.0%
-ti'ʃrhin	ti'itr	'louse'	70.0%
-li'mk'in	li'e:	'sink itr'	25.0%
+ti'ʃrhin	di'ishr	'repair, make'	100.0%
+li'mk'in	limik'	'prairie falcon'	100.0%
 sasā'in	sasa'	'eye'	100.0%
-t'ap'a	da:ba:	'try again (after you or others have failed before)'	100.0%
+t'ap'a	t'ap'	't'ap''	100.0%
 .	.	[punc]	100.0%
-tē'jaw	de'ya:	'haul away'	70.0%
+tē'jaw	de:yi	'take the lead, get in front'	100.0%
 mimjātʃr`in	mimyatr	'thunder'	100.0%
-qajāt`aw	xaya:	'place, put'	62.5%
-t'ap'a	da:ba:	'try again (after you or others have failed before)'	100.0%
-sasaw	sasa'	'eye'	70.0%
-li'mk'in	li'e:	'sink itr'	25.0%
-wits`ip`aj	wichribna:	'give birth to a child'	57.1%
+qajāt`aw	xaya:	'place, put'	100.0%
+t'ap'a	t'ap'	't'ap''	100.0%
+sasaw	sasa'	'eye'	100.0%
+li'mk'in	limik'	'prairie falcon'	100.0%
+wits`ip`aj	wichribhay	'children'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
-kom̄wīhin	gomwiyi	'make a loud noise, rumble, thunder'	57.1%
-'ama'	'ama'	'3SG.NOM'	100.0%
+kom̄wīhin	gomwiyi	'make a loud noise, rumble, thunder'	100.0%
+'ama'	'ama'	'and'	100.0%
 tʃr`a	tra	'that.SG.NOM'	100.0%
-t'ap'	dab	'next, on the other hand, then'	100.0%
+t'ap'	t'ap'	't'ap''	100.0%
 kōninhin	go:nin	'go down'	100.0%
 .	.	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
-jow	yo:w	'go home'	100.0%
+'ama'	'ama'	'and'	100.0%
+jow	yow	'and, also, again'	100.0%
 tʃr`an	tran	'that.SG.PRIM'	100.0%
 qajāhin	xaya:	'place, put'	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
-jow	yo:w	'go home'	100.0%
-kom̄wīhin	gomwiyi	'make a loud noise, rumble, thunder'	57.1%
-wilʃrin	wilshrin	'but, in spite of that'	75.0%
+'ama'	'ama'	'and'	100.0%
+jow	yow	'and, also, again'	100.0%
+kom̄wīhin	gomwiyi	'make a loud noise, rumble, thunder'	100.0%
+wilʃrin	wilshrin	'but, in spite of that'	100.0%
 'ohom	'ohom	'NEG'	100.0%
-jow	yo:w	'go home'	100.0%
+jow	yow	'and, also, again'	100.0%
 kōninhin	go:nin	'go down'	100.0%
 .	.	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+'ama'	'ama'	'and'	100.0%
 tʃrānit	tra:nit	'that.SG.ABL'	100.0%
 limik'	limik'	'prairie falcon'	100.0%
-jo'wk`ēhin	yo'ke:	'return'	70.0%
+jo'wk`ēhin	yo'ke:	'return'	100.0%
 qāmi	xa:mi	'hither, this place'	100.0%
 .	.	[punc]	100.0%
 tʃr`ānit	tra:nit	'that.SG.ABL'	100.0%
-jo'wk`em	yo'ke:	'return'	40.0%
-wak̄`i	wik'	'2DU.VOC.IMPER'	0.0%
-hija'wtʃr`āhin	hiy'aw'tra:/	'become belligerent'	50.0%
+jo'wk`em	yo'ke:	'return'	100.0%
+wak̄`i	wakkiy	'very, very much'	100.0%
+hija'wtʃr`āhin	hiy'aw'tra:/	'become belligerent'	100.0%
 ,	,	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+'ama'	'ama'	'and'	100.0%
 tʃrāni	tra:ni	'that.SG.SEC'	100.0%
 hētsi'	he:zhi'	'today'	100.0%
-jētʃr'aw	ye:tr'aw	'all'	70.0%
+jētʃr'aw	ye:tr'aw	'all'	100.0%
 jok`ots'	yokoc'	'person, people'	100.0%
-wijā'an	wa:'al	'breakfast'	10.0%
-hija'wtʃr`a'	hiyt'iwla:'	'become happy'	50.0%
+wijā'an	wiyi	'say, do'	100.0%
+hija'wtʃr`a'	hiy'aw'tra:/	'become belligerent'	100.0%
 limik'	limik'	'prairie falcon'	100.0%
 .	.	[punc]	100.0%
 tʃrānit`	tra:nit	'that.SG.ABL'	100.0%
-t`aqnēni	taxa:	'bring'	62.5%
+t`aqnēni	taxa:	'bring'	100.0%
 'ohom	'ohom	'NEG'	100.0%
-jow	yo:w	'go home'	100.0%
+jow	yow	'and, also, again'	100.0%
 'ilikhin	'ilik	'sing'	100.0%
 limik	limik'	'prairie falcon'	100.0%
 .	.	[punc]	100.0%
-t`aqnēni	taxa:	'bring'	62.5%
+t`aqnēni	taxa:	'bring'	100.0%
 p`anāhin	pana:	'arrive'	100.0%
 limik'	limik'	'prairie falcon'	100.0%
-kut̄sōnun	guchrchrun	'name'	50.0%
-tʃr`ew	traw	'if'	50.0%
+kut̄sōnun	guchrchrun	'name'	100.0%
+tʃr`ew	tri'	'house'	100.0%
 .	.	[punc]	100.0%
-kut̄ṣun	guchrchrun	'name'	75.0%
-t`a'an	da'ak'	'shine (of sun)'	70.0%
-jet'	yit-'	'be one?'	50.0%
-jow	yo:w	'go home'	100.0%
-hija'wtʃra'	hiyt'iwla:'	'become happy'	50.0%
+kut̄ṣun	guchrchrun	'name'	100.0%
+t`a'an	ta'an'	'too'	100.0%
+jet'	yet'	'one'	100.0%
+jow	yow	'and, also, again'	100.0%
+hija'wtʃra'	hiy'aw'tra:/	'become belligerent'	100.0%
 ,	,	[punc]	100.0%
-wut`ūkwut`ukwi'ja'	wutru:kwiyi	'be smoky'	0.0%
-wilʃrin	wilshrin	'but, in spite of that'	75.0%
-wak̄`i	wik'	'2DU.VOC.IMPER'	0.0%
-qu'la'	xala'	'cane'	40.0%
+wut`ūkwut`ukwi'ja'	wutru:kwiyi	'be smoky'	80.0%
+wilʃrin	wilshrin	'but, in spite of that'	100.0%
+wak̄`i	wakkiy	'very, very much'	100.0%
+qu'la'	xul'u	'go ahead'	100.0%
 .	.	[punc]	100.0%
 qōnow	xo:now	'always'	100.0%
-k'at`lītsaqo'	gatr'la:	'fish with a hook and line'	10.0%
+k'at`lītsaqo'	[unknown]	'[unknown]'	0.0%
 ,	,	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
-tʃr'a'wā'an	tr'aw'a	'win from'	0.0%
+'ama'	'ama'	'and'	100.0%
+tʃr'a'wā'an	tr'aw'a	'win from'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
-kē'ajhi	ga:yal	'await?'	0.0%
+kē'ajhi	gi'iy	'enemy'	100.0%
 .	.	[punc]	100.0%
-kut̄sun	guchrchrun	'name'	75.0%
+kut̄sun	guchrchrun	'name'	100.0%
 k'at`lītsam	gada:y	'be unable to reach sth, give out'	0.0%
 tʃr'a'wā'an	tr'aw'a	'win from'	0.0%
 'amin	'amin	'3SG.GEN'	100.0%
-ke'ajhin	gada:y	'be unable to reach sth, give out'	40.0%
+ke'ajhin	gi'iy	'enemy'	100.0%
 k'ēqā'in	k'e:xa'	'money'	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+'ama'	'ama'	'and'	100.0%
 'amāminwa	'ama:minwa	'3PL.PRIM'	100.0%
-wīmi	wip'i	'jerk up quickly'	62.5%
+wīmi	wiyi	'say, do'	100.0%
 t`awtʃr`aqo'	tawtra:	'kill tr'	100.0%
-t'ulā'an	da'ak'	'shine (of sun)'	10.0%
+t'ulā'an	t'ulu	'burn tr'	100.0%
 'amāminwa	'ama:minwa	'3PL.PRIM'	100.0%
 .	.	[punc]	100.0%
-'ut̄al	'ada:l	'make sth lower'	70.0%
+'ut̄al	'ut't'al	'solely, nothing but'	100.0% [continue here]
 tʃr`uma'jnits'a	tr'uy'wiyi	'drip'	0.0%
 kā'ēni	gi'	'Q.FOCUS'	50.0%
 hēwinhin	he:xin	'get fat'	70.0%
 'apij	'abiy	'with.ACCOMP'	100.0%
 tʃr`an	tran	'that.SG.PRIM'	100.0%
 limik'	limik'	'prairie falcon'	100.0%
-p`anāhɛn	pana:	'arrive'	62.5%
-'ama'	'ama'	'3SG.NOM'	100.0%
+p`anāhɛn	pana:	'arrive'	100.0%
+'ama'	'ama'	'and'	100.0%
 tʃran	tran	'that.SG.PRIM'	100.0%
 k	ki	'when'	25.0%
 .	.	[punc]	100.0%
