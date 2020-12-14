@@ -999,107 +999,105 @@ t'ulā'an	t'ulu	'burn tr'	100.0%
 'amāminwa	'ama:minwa	'3PL.PRIM'	100.0%
 .	.	[punc]	100.0%
 'ut̄al	'ut't'al	'solely, nothing but'	100.0%
-tʃr`uma'jnits'a	[unknown]	'[unknown]'	0.0%
+tʃr`uma'jnits'a	trumoynac'	'widows'	100.0%
 kā'ēni	gi'iy	'enemy'	100.0%
-hēwinhin	he:xin	'get fat'	70.0%
+hēwinhin	[unknown]	'[unknown]'	0.0%
 'apij	'abiy	'with.ACCOMP'	100.0%
 tʃr`an	tran	'that.SG.PRIM'	100.0%
 limik'	limik'	'prairie falcon'	100.0%
 p`anāhɛn	pana:	'arrive'	100.0%
 'ama'	'ama'	'and'	100.0%
 tʃran	tran	'that.SG.PRIM'	100.0%
-k	ki	'when'	25.0%
-.	.	[punc]	100.0%
-wijā'an	wa:'al	'breakfast'	10.0%
-hitsīmak'	hilim	'slander the dead or helpless'	10.0%
-quwala'	xala'	'cane'	40.0%
+k`a'jiw	kay'iw	'coyote'	100.0%
+wijā'an	wiyi	'say, do'	100.0%
+hitsī%	hi'zhri'	'tomorrow'	100.0%
+mak'	mak'	'1DU.INCL.NOM'	100.0%
+quwala'	[unknown]	'[unknown]'	0.0%
 .	.	[punc]	100.0%
 "	"	[punc]	100.0%
-'insis	'insis'	'do well'	78.6%
+'insis	'insis'	'do well'	100.0%
 ,	,	[punc]	100.0%
 "	"	[punc]	100.0%
-wijhin	wik'	'2DU.VOC.IMPER'	50.0%
+wijhin	wiyi	'say, do'	100.0%
 limik'	limik'	'prairie falcon'	100.0%
 .	.	[punc]	100.0%
-'alwutʃr'	'alwutr'	'crow'	75.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
-hijā'mi'	hiyam'	'next morning'	50.0%
-hija'm	hiyam	'already, now'	70.0%
-'alwutʃr'	'alwutr'	'crow'	75.0%
-ts`awts`awhin	cawa	'shout'	25.0%
+'alwutʃr'	'alwutr'	'crow'	100.0%
+'ama'	'ama'	'and'	100.0%
+hijā'mi'	hiya:m'i'	'a long time ago'	50.0%
+hija'm	hiyam'	'next morning'	100.0%
+'alwutʃr'	'alwutr'	'crow'	100.0%
+ts`awts`awhin	cawa	'shout'	100.0%
 hētsi'	he:zhi'	'today'	100.0%
 k`ew	kew	'this.SG.LOC'	100.0%
-ha'jāliw	ha'traw	'what.supposed.NOM'	50.0%
+ha'jāliw	hay'al	'day'	100.0%
 mi'in	mi'in	'soon'	100.0%
-k'at`lītsa	gatr'la:	'fish with a hook and line'	10.0%
+k'at`lītsa	[unknown]	'[unknown]'	0.0%
 limik'	limik'	'prairie falcon'	100.0%
-jow	yo:w	'go home'	100.0%
-k	ki	'when'	25.0%
+jow	yow	'go home'	100.0%
+k`a'jiw	kay'iw	'coyote'	100.0%
 .	.	[punc]	100.0%
-k	ki	'when'	25.0%
-.	.	[punc]	100.0%
-wanā'an	wa:'al	'breakfast'	10.0%
-li'mk'a	laga:	'spend the night'	0.0%
+k`a'jiw	kay'iw	'coyote'	100.0%
+wanā'an	wa:na	'give'	100.0%
+li'mk'a	limik'	'prairie falcon'	100.0%
 'ēman	'e:man	'to no avail'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
-'ololni	'olol	'ball'	40.0%
+'ololni	'olol	'ball'	100.0%
 ,	,	[punc]	100.0%
-wilʃrin	wilshrin	'but, in spite of that'	75.0%
+wilʃrin	wilshrin	'but, in spite of that'	100.0%
 limik'	limik'	'prairie falcon'	100.0%
 'ohom	'ohom	'NEG'	100.0%
-ts`owp`unhun	co:pun	'consent'	70.0%
-qō'qo'	xo:	'live, exist, be'	25.0%
+ts`owp`unhun	co:pun	'consent'	100.0%
+qō'qo'	xo:	'live, exist, be'	100.0%
 nim	nim	'1SG.GEN'	100.0%
 'olol	'olol	'ball'	100.0%
-wījhin	wik'	'2DU.VOC.IMPER'	50.0%
+wījhin	wiyi	'say, do'	100.0%
 tʃr`an	tran	'that.SG.PRIM'	100.0%
 .	.	[punc]	100.0%
 limik'	limik'	'prairie falcon'	100.0%
-wak̄`i	wik'	'2DU.VOC.IMPER'	0.0%
+wak̄`i	wakkiy	'very, very much'	100.0%
 tʃr`ip`ni'	tripni'	'one endowed with magic powers'	100.0%
 hijō'uk`	hiyo'uk	'where.LOC'	100.0%
 tʃran	tran	'that.SG.PRIM'	100.0%
-maqhin	mak'	'1DU.INCL.NOM'	50.0%
+maqhin	ma:xa	'procure, get'	100.0%
 'olol	'olol	'ball'	100.0%
-jow	yo:w	'go home'	100.0%
+jow	yow	'and, also, again'	100.0%
 tap`	dab	'next, on the other hand, then'	100.0%
-jetʃr'aw	ye:tr'aw	'all'	70.0%
+jetʃr'aw	ye:tr'aw	'all'	100.0%
 'ēman	'e:man	'to no avail'	100.0%
-tʃr'a'wanāhin	tr'aw'a	'win from'	0.0%
+tʃr'a'wanāhin	tr'aw'a	'win from'	100.0%
 tʃr`an	tran	'that.SG.PRIM'	100.0%
-huwtʃruwsaw	huwtruwus	'game name'	81.2%
+huwtʃruwsaw	huwtruwus	'game name'	100.0%
 .	.	[punc]	100.0%
-		[punc]	100.0%
 "	"	[punc]	100.0%
-'insis	'insis'	'do well'	78.6%
+'insis	'insis'	'do well'	100.0%
 "	"	[punc]	100.0%
-		[punc]	100.0%
-wijā'an	wa:'al	'breakfast'	10.0%
-k	ki	'when'	25.0%
+wijā'an	wiyi	'say,  do'	100.0%
+k`a'jiw	kay'iw	'coyote'	100.0%
 .	.	[punc]	100.0%
-jētʃr'aw	ye:tr'aw	'all'	70.0%
-kā'ēni	gi'	'Q.FOCUS'	50.0%
-ʃri'lēqo'	shri'e:l	'rain'	10.0%
+jētʃr'aw	ye:tr'aw	'all'	100.0%
+kā'ēni	gi'iy	'enemy'	100.0%
+ʃri'lēqo'	shril'i	'see'	100.0%
+.	.	[punc]	100.0%
 hētsi'	he:zhi'	'today'	100.0%
 tāpa'	da:ba'	'then, too(?)'	100.0%
 ,	,	[punc]	100.0%
-sit`k'a	shridig	'pile up (similar objects in a stack)'	40.0%
+sit`k'a	sidi	'get ready'	100.0%
 wil	wil	'2PL.VOC.IMPER'	100.0%
-tʃrimi	tr'ik'i	'tie, imprison'	62.5%
-wija'an	wa:'al	'breakfast'	10.0%
-pajāsu'	p'a'a:shri'	'lake'	57.1%
+tʃrimi	triymi	'right now'	100.0%
+wija'an	wiyi	'say, do'	100.0%
+pajāsu'	paya:su'	'clown'	50.0%
 .	.	[punc]	100.0%
 limik'	limik'	'prairie falcon'	100.0%
 pinet`hin	bine:t	'ask'	100.0%
-kut̄ṣon	go:non	'alight'	40.0%
+kut̄ṣon	guchrchrun	'name'	100.0%
 hijō'uk`	hiyo'uk	'where.LOC'	100.0%
 mak'	mak'	'1DU.INCL.NOM'	100.0%
 hi'	hi'	'FUT'	100.0%
-kit`wen	gidiw	'surround'	70.0%
-wijā'an	wa:'al	'breakfast'	10.0%
+kit`wen	gidiw	'surround'	100.0%
+wijā'an	wiyi	'say, do'	100.0%
 tʃran	tran	'that.SG.PRIM'	100.0%
 .	.	[punc]	100.0%
-k	ki	'when'	25.0%
+k`a'jiw	kay'iw	'coyote'	100.0% [continue here]
 .	.	[punc]	100.0%
 wijā'an	wa:'al	'breakfast'	10.0%
 wak̄`i	wik'	'2DU.VOC.IMPER'	0.0%
