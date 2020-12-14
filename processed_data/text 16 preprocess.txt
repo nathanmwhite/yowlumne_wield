@@ -1097,50 +1097,50 @@ kit`wen	gidiw	'surround'	100.0%
 wijā'an	wiyi	'say, do'	100.0%
 tʃran	tran	'that.SG.PRIM'	100.0%
 .	.	[punc]	100.0%
-k`a'jiw	kay'iw	'coyote'	100.0% [continue here]
+k`a'jiw	kay'iw	'coyote'	100.0%
 .	.	[punc]	100.0%
-wijā'an	wa:'al	'breakfast'	10.0%
-wak̄`i	wik'	'2DU.VOC.IMPER'	0.0%
-wa'	wa	'however'	25.0%
+wijā'an	wiyi	'say, do'	100.0%
+wak̄`i	wakkiy	'very, very much'	100.0%
+wa'	wa'	'far away'	100.0%
 ,	,	[punc]	100.0%
-ts'umnaw	c'umun	'end'	70.0%
-p'a'nin	p'a'an	'world'	70.0%
+ts'umnaw	c'umun	'end'	100.0%
+p'a'nin	p'a'an	'world'	100.0%
 .	.	[punc]	100.0%
-t`anhin	ta:na	'go'	62.5%
+t`anhin	ta:na	'go'	100.0%
 'amak'	'amak'	'3DU.NOM'	100.0%
 .	.	[punc]	100.0%
-li'mk'in	li'e:	'sink itr'	25.0%
+li'mk'in	limik'	'prairie falcon'	100.0%
 'olol	'olol	'ball'	100.0%
-tejhin	de:yi	'take the lead, get in front'	62.5%
-'ama'	'ama'	'3SG.NOM'	100.0%
+tejhin	de:yi	'take the lead, get in front'	100.0%
+'ama'	'ama'	'and'	100.0%
 tʃr`ānit	tra:nit	'that.SG.ABL'	100.0%
-kut̄ṣōnun	guchrchrun	'name'	50.0%
+kut̄ṣōnun	guchrchrun	'name'	100.0%
 ,	,	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
-jow	yo:w	'go home'	100.0%
-tejhin	de:yi	'take the lead, get in front'	62.5%
-li'mk'in	li'e:	'sink itr'	25.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+'ama'	'ama'	'and'	100.0%
+jow	yow	'and, also, again'	100.0%
+tejhin	de:yi	'take the lead, get in front'	100.0%
+li'mk'in	limik'	'prairie falcon'	100.0%
+'ama'	'ama'	'and'	100.0%
 tʃrānit	tra:nit	'that.SG.ABL'	100.0%
-jow	yo:w	'go home'	100.0%
-kut̄sōnun	guchrchrun	'name'	50.0%
+jow	yow	'and, also, again'	100.0%
+kut̄sōnun	guchrchrun	'name'	100.0%
 .	.	[punc]	100.0%
-'it'itʃr	'ipitr	'throw off/out, pick off'	70.0%
-hulʃrēqōhin	ho:le:	'tell a story'	0.0%
+'it'itʃr	[unknown]	'[unknown]'	0.0%
+hulʃrēqōhin	hulo:shr	'sit down'	100.0%
 tʃr`ip`in	tripin	'on top of'	100.0%
-k'a'nliw	ga:yal	'await?'	40.0%
+k'a'nliw	k'anal	'fir tree'	100.0%
 tʃr`a	tra	'that.SG.NOM'	100.0%
 'aminkin	'amingin	'3DU.GEN'	100.0%
-kowos	k'oywos	'corn mortar'	75.0%
-waqal'an	wa:xal	'weep'	10.0%
+kowos	[unknown]	'[unknown]'	0.0%
+waqal'an	wa:xal	'weep'	100.0%
 tʃrānit`	tra:nit	'that.SG.ABL'	100.0%
-jow	yo:w	'go home'	100.0%
-'ilek`'an	'ile:ma:/	'act mean toward, be feared'	25.0%
+jow	yow	'and, also, again'	100.0%
+'ilek`'an	'ilik	'sing'	100.0%
 .	.	[punc]	100.0%
-waqal'āhin	wa:xal	'weep'	40.0%
+waqal'āhin	wa:xal	'weep'	100.0%
 mets'	mec'	'surely'	100.0%
 'ohom	'ohom	'NEG'	100.0%
-hut'ēqo'	hudu	'recognize, know'	62.5%
+hut'ēqo'	hudu	'recognize, know'	100.0%
 hawa't`ō'uk`	hawa'to'uk	'will be/is doing what? (interrogative)'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
 hi'	hi'	'FUT'	100.0%
@@ -1149,73 +1149,72 @@ limik'	limik'	'prairie falcon'	100.0%
 .	.	[punc]	100.0%
 jits'a'j	ya'	'go'	0.0%
 'aminkin	'amingin	'3DU.GEN'	100.0%
-kitiwt`aw	gidiw	'surround'	70.0%
+kitiwt`aw	gidiw	'surround'	100.0%
 h	hi'	'FUT'	0.0%
 .	.	[punc]	100.0%
 mit'ats`	mit'achr	'slightly, not much'	100.0%
-tij'ēqōhin	de:y'a:/	'haul, carry about'	40.0%
+tij'ēqōhin	de:yi	'take the lead, get in front'	100.0%
 .	.	[punc]	100.0%
-k	ki	'when'	25.0%
-.	.	[punc]	100.0%
-lihminaj	lihim	'run'	0.0%
-jik`jik`qo'	yiki	'fart'	25.0%
+k`a'jiw	kay'iw	'coyote'	100.0%
+lihminaj	lihim	'run'	100.0%
+jik`jik`qo'	yiki	'fart'	100.0%
 tʃra`	tra	'that.SG.NOM'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
 tʃr`ip`na'	tripna'	'magic power'	100.0%
 .	.	[punc]	100.0%
-jow	yo:w	'go home'	100.0%
+jow	yow	'and, also, again'	100.0%
 'aminkin	'amingin	'3DU.GEN'	100.0%
 hijam	hiyam	'already, now'	100.0%
-jotst`ow	yolo:w	'assemble tr'	40.0%
+jotst`ow	[unknown]	'[unknown]'	0.0%
 ,	,	[punc]	100.0%
-k`i`	ki	'when'	100.0%
+k`i`	ki	'this.SG.NOM'	100.0%
 tʃr`ip`na'	tripna'	'magic power'	100.0%
-kut̄sōnun	guchrchrun	'name'	50.0%
-tʃr'ihlāhin	tr'ala	'shatter'	0.0%
-limk'a	laga:	'spend the night'	25.0%
+kut̄sōnun	guchrchrun	'name'	100.0%
+tʃr'ihlāhin	t'ihe'	'get lean'	100.0%
+limk'a	limik'	'prairie falcon'	100.0%
 ,	,	[punc]	100.0%
-jow	yo:w	'go home'	100.0%
+jow	yow	'and, also, again'	100.0%
 tʃr`an	tran	'that.SG.PRIM'	100.0%
-tʃr`aqājēhin	draxa	'step over, take a step'	25.0%
-jow	yo:w	'go home'	100.0%
+tʃr`aqājēhin	tr'axya' 'dry'	50.0%
+jow	yow	'and, also, again'	100.0%
 tʃran	tran	'that.SG.PRIM'	100.0%
-t`iqī't`anhin	tixit	'painful, sick, ill'	10.0%
+t`iqī't`anhin	tixit	'painful, sick, ill'	50.0%
 .	.	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+'ama'	'ama'	'and'	100.0%
 limik'	limik'	'prairie falcon'	100.0%
-t`isālāhin	dala	'flatten (grass or brush on ground)'	25.0%
+t`isālāhin	tisi	'come out'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
-k'aljan	galan	'have a miscarriage, die in childbirth'	70.0%
+k'aljan	[unknown]	'[unknown]'	0.0%
 ,	,	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+'ama'	'ama'	'and'	100.0%
 tʃran	tran	'that.SG.PRIM'	100.0%
-tʃr'iwhin	tr'idiw	'shell (nuts)'	40.0%
+tʃr'iwhin	tr'iwi	'wet (sic)'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
-hēlawtʃr'ēni	hawa:'	'do what'	10.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+hēlawtʃr'ēni	[unknown]	'[unknown]'	0.0%
+'ama'	'ama'	'and'	100.0%
 tʃr`āni	tra:ni	'that.SG.SEC'	100.0%
-qoʃrhin	xoshro	'rub'	62.5%
+qoʃrhin	xoshro	'rub'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
 sasā'in	sasa'	'eye'	100.0%
-jow	yo:w	'go home'	100.0%
+jow	yow	'and, also, again'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
-p`e'es	bu'us	'dog'	40.0%
+p`e'es	[unknown]	'[unknown]'	0.0%
 .	.	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+'ama'	'ama'	'and'	100.0%
 tʃrānit	tra:nit	'that.SG.ABL'	100.0%
-jow	yo:w	'go home'	100.0%
+jow	yow	'and, also, again'	100.0%
 'inēsāhin	'ine:sa:	'be good'	100.0%
 naj	nay	'nearly, more than'	100.0%
 tʃra	tra	'that.SG.NOM'	100.0%
-tē'jaw	de'ya:	'haul away'	70.0%
+tē'jaw	de:yi	'take the lead, get in front'	100.0%
 .	.	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
-jow	yo:w	'go home'	100.0%
+'ama'	'ama'	'and'	100.0%
+jow	yow	'and, also, again'	100.0%
 limik'	limik'	'prairie falcon'	100.0%
-t`iqt`inhin	text-in/	'become ill, sore'	75.0%
+t`iqt`inhin	text-in/	'become ill, sore'	100.0%
 ,	,	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
-jow	yo:w	'go home'	100.0%
+'ama'	'ama'	'and'	100.0%
+jow	yow	'and, also, again'	100.0% [continue here]
 t`ojqīsāhin	to:xiw	'cheek'	10.0%
 .	.	[punc]	100.0%
 tʃra'aʃr	tra'ashr	'continuously'	70.0%
