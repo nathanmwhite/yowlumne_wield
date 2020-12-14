@@ -998,9 +998,9 @@ t`awtʃr`aqo'	tawtra:	'kill tr'	100.0%
 t'ulā'an	t'ulu	'burn tr'	100.0%
 'amāminwa	'ama:minwa	'3PL.PRIM'	100.0%
 .	.	[punc]	100.0%
-'ut̄al	'ut't'al	'solely, nothing but'	100.0% [continue here]
-tʃr`uma'jnits'a	tr'uy'wiyi	'drip'	0.0%
-kā'ēni	gi'	'Q.FOCUS'	50.0%
+'ut̄al	'ut't'al	'solely, nothing but'	100.0%
+tʃr`uma'jnits'a	[unknown]	'[unknown]'	0.0%
+kā'ēni	gi'iy	'enemy'	100.0%
 hēwinhin	he:xin	'get fat'	70.0%
 'apij	'abiy	'with.ACCOMP'	100.0%
 tʃr`an	tran	'that.SG.PRIM'	100.0%
@@ -1014,13 +1014,10 @@ wijā'an	wa:'al	'breakfast'	10.0%
 hitsīmak'	hilim	'slander the dead or helpless'	10.0%
 quwala'	xala'	'cane'	40.0%
 .	.	[punc]	100.0%
-		[punc]	100.0%
 "	"	[punc]	100.0%
 'insis	'insis'	'do well'	78.6%
 ,	,	[punc]	100.0%
-		[punc]	100.0%
 "	"	[punc]	100.0%
-		[punc]	100.0%
 wijhin	wik'	'2DU.VOC.IMPER'	50.0%
 limik'	limik'	'prairie falcon'	100.0%
 .	.	[punc]	100.0%
