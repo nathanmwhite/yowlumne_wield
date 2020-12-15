@@ -94,7 +94,7 @@ tap	dab	'next, on the other hand, then'	50.0%
 ts`anum	canum	'immediately'	100.0%
 'apij	'abiy	'with.ACCOMP'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
-p`ōlum	polum	'husband'	100.0%
+p`ōlum	po:lum	'husband'	100.0%
 ,	,	[punc]	100.0%
 'ohom	'ohom	'NEG'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
