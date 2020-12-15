@@ -1215,100 +1215,98 @@ t`iqt`inhin	text-in/	'become ill, sore'	100.0%
 ,	,	[punc]	100.0%
 'ama'	'ama'	'and'	100.0%
 jow	yow	'and, also, again'	100.0% [continue here]
-t`ojqīsāhin	to:xiw	'cheek'	10.0%
+t`ojqīsāhin	t'oyox	'doctor, give medicine'	100.0%
 .	.	[punc]	100.0%
-tʃra'aʃr	tra'ashr	'continuously'	70.0%
-wijā'jeqōhin	wa:'al	'breakfast'	0.0%
+tʃra'aʃr	tra'ashr	'continuously'	100.0%
+wijā'jeqōhin	wiyi	'say, do'	100.0%
 .	.	[punc]	100.0%
 ha'ts`aqom	ha'zhaxom	'finally, at last'	100.0%
-'aʃr	'ashr	'actually, really'	50.0%
+'aʃr	'ashr	'actually, really'	100.0%
 limik'	limik'	'prairie falcon'	100.0%
-p`oʃrhun	po:su	'blow on'	62.5%
-kut̄sōnun	guchrchrun	'name'	50.0%
+p`oʃrhun	po:su	'blow on'	100.0%
+kut̄sōnun	guchrchrun	'name'	100.0%
 'olol	'olol	'ball'	100.0%
-sōk'on̄i	so:gon	'Indian tobacco weed'	70.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
-qotʃr'jiw	xotr'oy	'ground, soil'	70.0%
+sōk'on̄i	so:gon	'Indian tobacco weed'	100.0%
+'ama'	'ama'	'and'	100.0%
+qotʃr'jiw	xotr'oy	'ground, soil'	100.0%
 kōninhin	go:nin	'go down'	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+'ama'	'ama'	'and'	100.0%
 tʃran	tran	'that.SG.PRIM'	100.0%
-tʃr'aniw	tr'aniw	'badger'	70.0%
-maqhin	mak'	'1DU.INCL.NOM'	50.0%
+tʃr'aniw	tr'aniw	'badger'	100.0%
+maqhin	ma:xa	'procure, get'	100.0%
 .	.	[punc]	100.0%
-tʃr'aniw	tr'aniw	'badger'	70.0%
-li'mk'in	li'e:	'sink itr'	25.0%
-nusus	nusos	'paternal aunt'	70.0%
+tʃr'aniw	tr'aniw	'badger'	100.0%
+li'mk'in	limik'	'prairie falcon'	100.0%
+nusus	nusos	'paternal aunt'	100.0%
 .	.	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+'ama'	'ama'	'and'	100.0%
 limik'	limik'	'prairie falcon'	100.0%
-tejhin	de:yi	'take the lead, get in front'	62.5%
-jow	yo:w	'go home'	100.0%
+tejhin	de:yi	'take the lead, get in front'	100.0%
+jow	yow	'and, also, again'	100.0%
 tap`	dab	'next, on the other hand, then'	100.0%
-k	ki	'when'	25.0%
-.	.	[punc]	100.0%
+k`a'jiw	kay'iw	'coyote'	100.0%
 hētam	he:dam	'nearby'	100.0%
 tʃraw	traw	'if'	100.0%
-he'wt`aqo'	he'ca:	'tease (Newman 1944:104 has hec.c.aa, cf. Gamble 1994:78 note 2)'	40.0%
+he'wt`aqo'	hew'ta:	'walk about, roam'	100.0%
 'ohjoqo'	'ohyo:	'want, look for (YT has root ?oyoxo)'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
 'olol	'olol	'ball'	100.0%
 .	.	[punc]	100.0%
 ha'ts`aqom	ha'zhaxom	'finally, at last'	100.0%
-'aʃr	'ashr	'actually, really'	50.0%
-la'jhin	la'as	'fletch'	40.0%
-qotʃr'oj	xotr'oy	'ground, soil'	70.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+'aʃr	'ashr	'actually, really'	100.0%
+la'jhin	lay'a	'kick'	100.0%
+qotʃr'oj	xotr'oy	'ground, soil'	100.0%
+'ama'	'ama'	'and'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
-p`ulwīhin	pulwiyi	'pop out'	57.1%
+p`ulwīhin	pulwiyi	'pop out'	100.0%
 tʃra	tra	'that.SG.NOM'	100.0%
 'olol	'olol	'ball'	100.0%
 .	.	[punc]	100.0%
-k	ki	'when'	25.0%
-.	.	[punc]	100.0%
+k`a'jiw	kay'iw	'coyote'	100.0%
 ts`anum	canum	'immediately'	100.0%
 jow	yo:w	'go home'	100.0%
-kotʃr'hin	go:tr'o	'overtake'	62.5%
-li'mk'a	laga:	'spend the night'	0.0%
+kotʃr'hin	go:tr'o	'overtake'	100.0%
+li'mk'a	limik'	'prairie falcon'	100.0%
 .	.	[punc]	100.0%
-tʃra'aʃr	tra'ashr	'continuously'	70.0%
+tʃra'aʃr	tra'ashr	'continuously'	100.0%
 'aminkin	'amingin	'3DU.GEN'	100.0%
-k'ap`inmi	go:bin	'enter'	10.0%
-t`aqhin	taxa:	'bring'	62.5%
-k'ontsō'wi'	k'onc'o:c'i'	'small lizard'	62.5%
-hulʃrēqōhin	ho:le:	'tell a story'	0.0%
+k'ap`inmi	[unknown]	'[unknown]'	0.0%
+t`aqhin	taxa:	'bring'	100.0%
+k'ontsō'wi'	k'onzho:'wi'	'[name]'	100.0%
+hulʃrēqōhin	hulo:shr	'sit down'	100.0%
 tapa'	da:ba'	'then, too(?)'	100.0%
 tʃr`ip`in	tripin	'on top of'	100.0%
-sil̄iw	shrilit'	'jump'	70.0%
+sil̄iw	silel	'rock'	100.0%
 'o'ts`aqo'	'o'chra:	'watch (as spectator)'	100.0%
 'amāmikwa	'ama:mikwa	'3DU.PRIM'	100.0%
 .	.	[punc]	100.0%
-k'ontsō'wi'	k'onc'o:c'i'	'small lizard'	62.5%
-ʃri'lā'an	shril'i	'see'	0.0%
-jētʃr'aw	ye:tr'aw	'all'	70.0%
-hā'nuk`	ha'uk	'what.NOM'	70.0%
+k'ontsō'wi'	k'onzho:'wi'	'[name]'	100.0%
+ʃri'lā'an	shril'i	'see'	100.0%
+jētʃr'aw	ye:tr'aw	'all'	100.0%
+hā'nuk`	ha:nuk	'what.PRIM'	100.0%
 .	.	[punc]	100.0%
-jētʃr'aw	ye:tr'aw	'all'	70.0%
+jētʃr'aw	ye:tr'aw	'all'	100.0%
 tʃran	tran	'that.SG.PRIM'	100.0%
 jok`ots'	yokoc'	'person, people'	100.0%
-pinet`'an	bine:t	'ask'	10.0%
-hē'	hi'	'FUT'	50.0%
+pinet`'an	bine:t	'ask'	100.0%
+hē'	[unknown]	'[unknown]'	0.0%
 hijuk`	hiyuk	'where.NOM'	100.0%
 'amak'	'amak'	'3DU.NOM'	100.0%
-tij'ēqo'	de:y'a:/	'haul, carry about'	40.0%
+tij'ēqo'	de:yi	'take the lead, get in front'	100.0%
 .	.	[punc]	100.0%
-wijā'an	wa:'al	'breakfast'	10.0%
-tē'jaw	de'ya:	'haul away'	70.0%
-t`aqan'an	ta'an'	'too'	25.0%
+wijā'an	wiyi	'say, do'	100.0%
+tē'jaw	de:yi	'take the lead, get in front'	100.0%
+t`aqan'an	taxa:	'bring'	100.0%
 limik'	limik'	'prairie falcon'	100.0%
-jow	yo:w	'go home'	100.0%
-kut̄sun	guchrchrun	'name'	75.0%
-t`a'an	da'ak'	'shine (of sun)'	70.0%
-nahni	nanni	'1SG.SEC'	70.0%
-tijā'an	diy'a'	'leader, captain'	50.0%
+jow	yow	'and, also, again'	100.0%
+kut̄sun	guchrchrun	'name'	100.0%
+t`a'an	ta'an'	'too'	100.0%
+nahni	na'ni	'sometimes'	100.0%
+tijā'an	de:yi	'take the lead, get in front'	100.0%
 .	.	[punc]	100.0%
 hijam	hiyam	'already, now'	100.0%
 'aminkin	'amingin	'3DU.GEN'	100.0%
-'amitst`aw	'amcaw	'close to'	50.0%
+'amitst`aw	'amac	'approach, go near'	100.0% [continue here]
 ,	,	[punc]	100.0%
 k'onts	go:bo	'put in, take in'	25.0%
 .	.	[punc]	100.0%
@@ -1321,8 +1319,7 @@ tʃr`asin	trasin	'that.PL.NOM'	100.0%
 kā'ēni	gi'	'Q.FOCUS'	50.0%
 hīt'iwlaqo'	hiyt'iwla:/	'be glad'	81.2%
 me'tsi	me'zhi'	'because'	75.0%
-k	ki	'when'	25.0%
-.	.	[punc]	100.0%
+k`a'jiw	kay'iw	'coyote'	100.0%
 t`awtʃr`āhin	tawtra:	'kill tr'	100.0%
 'aminōkun	'amino:gun	'3PL.GEN'	100.0%
 p`ulomha	pulo:mna:	'acquire a husband'	78.6%
@@ -1342,7 +1339,7 @@ tap`	dab	'next, on the other hand, then'	100.0%
 jow	yo:w	'go home'	100.0%
 kut̄sōnun	guchrchrun	'name'	50.0%
 tāpa'	da:ba'	'then, too(?)'	100.0%
-k`a'jiw	ga:'it	'young woman'	40.0%
+k`a'jiw	kay'iw	'coyote'	100.0%
 .	.	[punc]	100.0%
 jētʃr'aw	ye:tr'aw	'all'	70.0%
 'amak'	'amak'	'3DU.NOM'	100.0%
