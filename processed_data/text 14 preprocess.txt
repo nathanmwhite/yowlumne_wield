@@ -195,7 +195,7 @@ wijá'n	wiyi	'say, do'	100.0%
 'amak	'amak'	'3DU.NOM'	100.0%
 totr'i	dotr'i'	'bad'	100.0%
 nimkkin	nimgin	'1DU.EXCL.GEN'	100.0%
-phōlum	polum	'husband'	100.0%
+phōlum	po:lum	'husband'	100.0%
 ,	,	[punc]	100.0%
 wijá'n	wiyi	'say, do'	100.0%
 'amak	'amak'	'3DU.NOM'	100.0%
@@ -214,7 +214,7 @@ watuk	watuk	'who.NOM'	100.0%
 p`anan	pana:	'arrive'	100.0%
 totr'ī	dotr'i'	'bad'	100.0%
 nimkin	nimgin	'1DU.EXCL.GEN'	100.0%
-phṓlum	polum	'husband'	100.0%
+phṓlum	po:lum	'husband'	100.0%
 ts`anum	canum	'immediately'	100.0%
 t`awtr`aqo'	tawtra:	'kill tr'	100.0%
 .	.	[punc]	100.0%
