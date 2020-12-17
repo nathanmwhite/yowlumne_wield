@@ -1612,221 +1612,220 @@ t`aqan'an	taxa:	'bring'	100.0% [continue here]
 "	"	[punc]	100.0%
 tʃr`ew	tri'	'house'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
-hamnā'in	hamna'	'greedy person'	100.0%
-kopin	go:bin	'enter'	100.0%
-qo'qōhin	xo:	'live, exist, be'	25.0%
+hamnā'in	hamna'	'[name]'	100.0%
+kopin	go:bin	'inside'	100.0%
+qo'qōhin	xo:	'live, exist, be'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
-tʃr`inij	triniy	'spread sth out'	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
-tʃr'uliwhana'	driwigisna'	'elbow'	0.0%
+tʃr`inij	triniy	'spread sth out'	50.0%
+'ama'	'ama'	'and'	100.0%
+tʃr'uliwhana'	tr'olow	'dig'	100.0%
 tʃr`āni	tra:ni	'that.SG.SEC'	100.0%
-tʃr`om'īqo'	tromo	'cover up (entirely)'	25.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
-p`anāt`aw	p'axa:t'	'mourn'	70.0%
+tʃr`om'īqo'	tromo	'cover up (entirely)'	100.0%
+'ama'	'ama'	'and'	100.0%
+p`anāt`aw	pana:	'arrive'	100.0%
 jok`ōts'in	yokoc'	'person, people'	100.0%
-tʃraw	traw	'if'	100.0%
-huloʃrk'a	hulo:shr	'sit down'	10.0%
-wijā'an	wa:'al	'breakfast'	10.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
-tʃraw	traw	'if'	100.0%
-hulōʃrhun	hulo:shr	'sit down'	70.0%
-'ama	'ama'	'3SG.NOM'	70.0%
-patʃr'nen	batr'in	'fall down'	70.0%
-tʃr`aw	traw	'if'	100.0%
-hamnā'in	hamna'	'greedy person'	100.0%
-tʃr'olwow	tr'olow	'dig'	40.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
-tʃraw	traw	'if'	100.0%
+tʃraw	traw	'that.SG.LOC'	100.0%
+huloʃrk'a	hulo:shr	'sit down'	100.0%
+wijā'an	wiyi	'say, do'	100.0%
+'ama'	'ama'	'and'	100.0%
+tʃraw	traw	'that.SG.LOC'	100.0%
+hulōʃrhun	hulo:shr	'sit down'	100.0%
+'ama	'ama'	'and'	100.0%
+patʃr'nen	batr'in	'fall down'	100.0%
+tʃr`aw	traw	'that.SG.LOC'	100.0%
+hamnā'in	hamna'	'[name]'	100.0%
+tʃr'olwow	tr'olow	'dig'	50.0%
+'ama'	'ama'	'and'	100.0%
+tʃraw	traw	'that.SG.LOC'	100.0%
 tʃr`an	tran	'that.SG.PRIM'	100.0%
-t`awtʃr`a'	tawtra:	'kill tr'	70.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+t`awtʃr`a'	tawtra:	'kill tr'	100.0%
+'ama'	'ama'	'and'	100.0%
 tʃr`an	tran	'that.SG.PRIM'	100.0%
-qat`en	xata	'eat'	25.0%
+qat`en	xata	'eat'	100.0%
 .	.	[punc]	100.0%
-wilʃrin	wilshrin	'but, in spite of that'	75.0%
+wilʃrin	wilshrin	'but, in spite of that'	100.0%
 limik'	limik'	'prairie falcon'	100.0%
 tap`	dab	'next, on the other hand, then'	100.0%
 tʃr`ip`ni'	tripni'	'one endowed with magic powers'	100.0%
 hut'ēqōhin	hudu	'recognize, know'	100.0%
-hamnā'in	hamna'	'greedy person'	100.0%
+hamnā'in	hamna'	'[name]'	100.0%
 tʃr`an	tran	'that.SG.PRIM'	100.0%
-tʃr'olwo	tr'o:lo	'peel'	25.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+tʃr'olwo	tr'olow	'dig'	50.0%
+'ama'	'ama'	'and'	100.0%
 qajāhin	xaya:	'place, put'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
-tʃr`aw	traw	'if'	100.0%
-'utʃr`ats'	'a:dran	'be exited [sic]'	40.0%
-hawawlam	hawa'zhay	'with difficulty'	43.8%
-'ama'	'ama'	'3SG.NOM'	100.0%
-tʃraw	traw	'if'	100.0%
+tʃr`aw	traw	'that.SG.LOC'	100.0%
+'utʃr`ats'	'utru	'play music'	50.0%
+kawawlam	[unknown]	'[unknown]'	0.0%
+'ama'	'ama'	'and'	100.0%
+tʃraw	traw	'that.SG.LOC'	100.0%
 'amak'	'amak'	'3DU.NOM'	100.0%
-huloʃrhun	hulo:shr	'sit down'	70.0%
+huloʃrhun	hulo:shr	'sit down'	100.0%
 tʃr`ip`in	tripin	'on top of'	100.0%
-'alwutʃr'	'alwutr'	'crow'	75.0%
-jow	yo:w	'go home'	100.0%
+'alwutʃr'	'alwutr'	'crow'	100.0%
+jow	yow	'and, also, again'	100.0%
 limik'	limik'	'prairie falcon'	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+'ama'	'ama'	'and'	100.0%
 'amāmikwa	'ama:mikwa	'3DU.PRIM'	100.0%
-hamna'	hamna'	'greedy person'	100.0%
-wanhin	wa:na	'give'	62.5%
-qat`āni	xata	'eat'	25.0%
-jok`ots'ni	yokoc'	'person, people'	40.0%
+hamna'	hamna'	'[name]'	100.0%
+wanhin	wa:na	'give'	100.0%
+qat`āni	xata	'eat'	100.0%
+jok`ots'ni	yokoc'	'person, people'	100.0%
 .	.	[punc]	100.0%
 me'tṣ`i'	me'zhi'	'because'	100.0%
-jok`ōts'i	yokoc'	'person, people'	70.0%
-qat`'a'	xal'a	'put a stick in a crack'	40.0%
+jok`ōts'i	yokoc'	'person, people'	100.0%
+qat`'a'	xata	'eat'	100.0%
 .	.	[punc]	100.0%
 limik'	limik'	'prairie falcon'	100.0%
 tāpa'	da:ba'	'then, too(?)'	100.0%
-hut'ēqōhin	hudu	'recognize, know'	62.5%
-hā'no'uk`	ha:no'uk	'what.SEC'	78.6%
+hut'ēqōhin	hudu	'recognize, know'	100.0%
+hā'no'uk`	ha:no'uk	'what.SEC'	100.0%
 'amāmik`wa	'ama:mikwa	'3DU.PRIM'	100.0%
-wanā'an	wa:'al	'breakfast'	10.0%
+wanā'an	wiyi	'say, do'	100.0%
 ,	,	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+'ama'	'ama'	'and'	100.0%
 tʃran	tran	'that.SG.PRIM'	100.0%
 tap`	dab	'next, on the other hand, then'	100.0%
 'ohom	'ohom	'NEG'	100.0%
-mek'hin	mak'	'1DU.INCL.NOM'	50.0%
+mek'hin	me:k'i 	'swallow'	100.0%
 me'itsi'	me'zhi'	'because'	100.0%
 qo'qōhin	xo:	'live, exist, be'	100.0%
 ti'	di'	'with a little doubt'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
-sāk'at'	s(hr)alap'	'shave, whittle'	40.0%
+sāk'at'	[unknown]	'[unknown]'	0.0%
 samaw	sama'	'mouth'	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
-tʃr`aw	traw	'if'	100.0%
+'ama'	'ama'	'and'	100.0%
+tʃr`aw	traw	'that.SG.LOC'	100.0%
 tʃr`a	tra	'that.SG.NOM'	100.0%
-k'āhin	k'ac'	'obsidian'	50.0%
+k'āhin	k'a'a	'stick, adhere itr'	50.0%
 'amin	'amin	'3SG.GEN'	100.0%
-jētʃr'aw	ye:tr'aw	'all'	70.0%
-ts'amis	c'alis	'sweet smell'	70.0%
+jētʃr'aw	ye:tr'aw	'all'	100.0%
+ts'amis	c'amis	'chew'	50.0%
 .	.	[punc]	100.0%
-'alwutʃr'	'alwutr'	'crow'	75.0%
+'alwutʃr'	'alwutr'	'crow'	100.0%
 tāpa'	da:ba'	'then, too(?)'	100.0%
 'ohom	'ohom	'NEG'	100.0%
-hut'ēqōhun	hac'me:xo:	'become new'	35.7%
-hā'no'uk`	ha:no'uk	'what.SEC'	78.6%
+hut'ēqōhun	hudu	'recognize, know'	100.0%
+hā'no'uk`	ha:no'uk	'what.SEC'	100.0%
 'amāmik`wa	'ama:mikwa	'3DU.PRIM'	100.0%
-qat`laqo'	xata	'eat'	62.5%
-'ama'	'ama'	'3SG.NOM'	100.0%
+qat`laqo'	xata	'eat'	100.0%
+'ama'	'ama'	'and'	100.0%
 tap	dab	'next, on the other hand, then'	100.0%
 tʃran	tran	'that.SG.PRIM'	100.0%
-mek'hin	mak'	'1DU.INCL.NOM'	50.0%
+mek'hin	me:k'i 	'swallow'	100.0%
 .	.	[punc]	100.0%
-'ama	'ama'	'3SG.NOM'	70.0%
-lo'lmei	lalk'e:	'hang'	0.0%
+'ama	'ama'	'and'	100.0%
+lo'lmei	lo:l'o:	'leave behind, let go of, quit'	100.0%
 'amink'in	'amingin	'3DU.GEN'	100.0%
 qat`a	xata	'eat'	100.0%
 ,	,	[punc]	100.0%
 limik'	limik'	'prairie falcon'	100.0%
 jow	yo:w	'go home'	100.0%
-a	a	[foreign]	100.0%
-.	.	[punc]	100.0%
+'alwutʃr'	'alwutr'	'crow'	100.0%
 wō'ujhun	wo:'uy	'fall asleep, sleep'	100.0%
 'apij	'abiy	'with.ACCOMP'	100.0%
-hamnā'in	hamna'	'greedy person'	100.0%
-wits`ip`aj	wichribna:	'give birth to a child'	57.1%
+hamnā'in	hamna'	'[name]'	100.0%
+wits`ip`aj	wichribhay	'children'	100.0%
 .	.	[punc]	100.0%
-a	a	[foreign]	100.0%
-.	.	[punc]	100.0%
+'alwutʃr'	'alwutr'	'crow'	100.0%
 tap`	dab	'next, on the other hand, then'	100.0%
 tsanum	canum	'immediately'	100.0%
 wō'ujhun	wo:'uy	'fall asleep, sleep'	100.0%
 ,	,	[punc]	100.0%
-wilʃrin	wilshrin	'but, in spite of that'	75.0%
+wilʃrin	wilshrin	'but, in spite of that'	100.0%
 limik'	limik'	'prairie falcon'	100.0%
 tap`	dab	'next, on the other hand, then'	100.0%
 'ohom	'ohom	'NEG'	100.0%
 wō'ujhun	wo:'uy	'fall asleep, sleep'	100.0%
 ,	,	[punc]	100.0%
-me'itsi'	me'zhi'	'because'	75.0%
-hut'ēqōhin	hudu	'recognize, know'	62.5%
-hamna'	hamna'	'greedy person'	100.0%
+me'itsi'	me'zhi'	'because'	100.0%
+hut'ēqōhin	hudu	'recognize, know'	100.0%
+hamna'	hamna'	'[name]'	100.0%
 'amāmik`wa	'ama:mikwa	'3DU.PRIM'	100.0%
-t`awetʃr`ajqo'	diwe:tr'a:	'become hard (A-->V)'	50.0%
+t`awetʃr`ajqo'	tawtra:	'kill tr'	100.0%
 ,	,	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+'ama'	'ama'	'and'	100.0%
 tʃr`ānit`	tra:nit	'that.SG.ABL'	100.0%
-'aʃr	'ashr	'actually, really'	50.0%
-'utʃr`ā'an	'aman	'3PL.NOM'	10.0%
+'aʃr	'ashr	'actually, really'	100.0%
+'utʃr`ā'an	'utru	'play music'	50.0%
 .	.	[punc]	100.0%
-wo'oju	wo:'uy	'fall asleep, sleep'	40.0%
+wo'oju	wo:'uy	'fall asleep, sleep'	100.0%
 'ohjoqo'	'ohyo:	'want, look for (YT has root ?oyoxo)'	100.0%
 'ēman	'e:man	'to no avail'	100.0%
-hamnā'in	hamna'	'greedy person'	100.0%
-wa'aʃrt`a'aʃr	wa'ashrta'	'very'	25.0%
-pojō'mi	boy'o:me:	'become pretty'	35.7%
-wijā'an	wa:'al	'breakfast'	10.0%
-hamna'	hamna'	'greedy person'	100.0%
-wilʃrin	wilshrin	'but, in spite of that'	75.0%
+hamnā'in	hamna'	'[name]'	100.0%
+wa'aʃrt`a%	wa'ashrta'	'very'	100.0%
+'aʃr	'ashr	'actually, really'	100.0%
+pojō'mi	boy'o:me:	'become pretty'	50.0%
+wijā'an	wiyi	'say, do'	100.0%
+hamna'	hamna'	'[name]'	100.0%
+wilʃrin	wilshrin	'but, in spite of that'	100.0%
 'ohom	'ohom	'NEG'	100.0%
 wo'oj'an	wo:'uy	'fall asleep, sleep'	0.0%
 .	.	[punc]	100.0%
-limk'in	limi	'file'	62.5%
-qo'qōhin	xo:	'live, exist, be'	25.0%
-ts'ow	c'owo	'grasp'	62.5%
+limk'in	limik'	'prairie falcon'	100.0%
+qo'qōhin	xo:	'live, exist, be'	100.0%
+ts'ow	c'owo	'grasp'	50.0%
 'entʃr`am	'entram	'sleeping potion'	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+'ama'	'ama'	'and'	100.0%
 tʃran	tran	'that.SG.PRIM'	100.0%
-k'ō'hin	k'o'o	'throw at, throw'	62.5%
-'oʃrt`ow	'otr'ow	'hair on head'	40.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
-wo'jon	wo:yo	'be born'	25.0%
-hamna'	hamna'	'greedy person'	100.0%
+k'ō'hin	k'o'o	'throw at, throw'	100.0%
+'oʃrt`ow	'oshrit	'fire'	100.0%
+'ama'	'ama'	'and'	100.0%
+wo'jon	wo:'uy	'fall asleep, sleep'	100.0%
+hamna'	hamna'	'[name]'	100.0%
 .	.	[punc]	100.0%
-hā'nuk`	ha'uk	'what.NOM'	70.0%
-k'ō'hin	k'o'o	'throw at, throw'	62.5%
+hā'nuk`	ha:nuk	'what.PRIM'	100.0%
+k'ō'hin	k'o'o	'throw at, throw'	100.0%
 nim	nim	'1SG.GEN'	100.0%
 nap`āt`im	napa:tim	'sister's husband, husband's brother, son-in-law, son-in-law's brother'	100.0%
 ,	,	[punc]	100.0%
-wijā'an	wa:'al	'breakfast'	10.0%
-hamna'	hamna'	'greedy person'	100.0%
+wijā'an	wiyi	'say, do'	100.0%
+hamna'	hamna'	'[name]'	100.0%
 ,	,	[punc]	100.0%
-wilʃrin	wilshrin	'but, in spite of that'	75.0%
+wilʃrin	wilshrin	'but, in spite of that'	100.0%
 hijam	hiyam	'already, now'	100.0%
 ne'ts`aqōhin	ne'ca:	'be sleepy'	100.0%
 .	.	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
-jow	yo:w	'go home'	100.0%
+'ama'	'ama'	'and'	100.0%
+jow	yow	'and, also, again'	100.0%
 limik'	limik'	'prairie falcon'	100.0%
-k'ō'hin	k'o'o	'throw at, throw'	62.5%
+k'ō'hin	k'o'o	'throw at, throw'	100.0%
 patʃr`	batr	'as usual'	100.0%
-ma'jek`	ma'ak'	'2DU.NOM'	40.0%
+ma'jek`	may'e:k	'big'	100.0%
 mit'atṣ`	mit'achr	'slightly, not much'	100.0%
 'entʃr`am	'entram	'sleeping potion'	100.0%
-'oʃrt`ow	'otr'ow	'hair on head'	40.0%
+'oʃrt`ow	'oshrit	'fire'	100.0%
 .	.	[punc]	100.0%
-hā'nuk`	ha'uk	'what.NOM'	70.0%
-k'o'k'ilqo'	kelkil	'icicle'	50.0%
+hā'nuk`	ha:nuk	'what.PRIM'	100.0%
+k'o'k'ilqo'	k'o'o	'throw at, throw'	25.0%
 nim	nim	'1SG.GEN'	100.0%
 nap`āt`im	napa:tim	'sister's husband, husband's brother, son-in-law, son-in-law's brother'	100.0%
-'oʃrt`ow	'otr'ow	'hair on head'	40.0%
-wijā'an	wa:'al	'breakfast'	10.0%
-hamna'	hamna'	'greedy person'	100.0%
+'oʃrt`ow	'oshrit	'fire'	100.0%
+wijā'an	wiyi	'say, do'	100.0%
+hamna'	hamna'	'[name]'	100.0%
 .	.	[punc]	100.0%
 ha'ts`aqom	ha'zhaxom	'finally, at last'	100.0%
-'aʃr	'ashr	'actually, really'	50.0%
+'aʃr	'ashr	'actually, really'	100.0%
 qōk`qōk`wīhin	xo:now	'always'	0.0%
 .	.	[punc]	100.0%
-hamnā'in	hamna'	'greedy person'	100.0%
+hamnā'in	hamna'	'[name]'	100.0%
 tʃr`i'	tri'	'house'	100.0%
-jētʃr'aw	ye:tr'aw	'all'	70.0%
+jētʃr'aw	ye:tr'aw	'all'	100.0%
 hits'ja'	hic'ya'	'permanent, solid'	100.0%
-tʃr'ot`nōni	tr'o:t'wiyi	'fart'	14.3%
+tʃr'ot`nōni	tr'odin	'hide, strap'	50.0%
 'ohom	'ohom	'NEG'	100.0%
 hijo'uk	hiyo'uk	'where.LOC'	100.0%
 wāt`inuk`	wa:tinuk	'who.GEN'	100.0%
 wast`oqo'	wasto	'be possible'	100.0%
-t`is	tisi	'come out'	62.5%
+t`is	tisi	'come out'	100.0%
 .	.	[punc]	100.0%
-wilʃrin	wilshrin	'but, in spite of that'	75.0%
+wilʃrin	wilshrin	'but, in spite of that'	100.0%
 tap	dab	'next, on the other hand, then'	100.0%
 limik'	limik'	'prairie falcon'	100.0%
 hijam	hiyam	'already, now'	100.0%
 tap`	dab	'next, on the other hand, then'	100.0%
 ti'	di'	'with a little doubt'	100.0%
-p`uʃra'āhin	puhk'a'	'remainder'	25.0%
+p`uʃra'āhin	puhk'a'	'remainder'	25.0% [continue here]
 tʃr`an	tran	'that.SG.PRIM'	100.0%
 ts'ulo'jwa'jhi	c'ololwiyi	'turn white'	0.0%
 hamna'in	hamna'	'greedy person'	100.0%
