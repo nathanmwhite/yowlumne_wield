@@ -2121,108 +2121,108 @@ hamna'	hamna'	'[name]'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
 tʃr`an	tran	'that.SG.PRIM'	100.0%
 moqt`aw	ma:xa	'procure, get (116 has maxa)'	25.0%
-ts'ow	c'owo	'grasp'	62.5%
+ts'ow	c'owo	'grasp'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
-qo'qōhin	xo:	'live, exist, be'	25.0%
-hamna'in	hamna'	'greedy person'	100.0%
+qo'qōhin	xo:	'live, exist, be'	100.0%
+hamna'in	hamna'	'[name]'	100.0%
 samajwasiw	samaywas	'belt'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
-pā'jaw	pa'atr	'fight'	40.0%
+pā'jaw	[unknown]	'[unknown]'	0.0%
 'amin	'amin	'3SG.GEN'	100.0%
 .	.	[punc]	100.0%
-k`a'jiw	ga:'it	'young woman'	40.0%
+k`a'jiw	kay'iw	'coyote'	100.0%
 ,	,	[punc]	100.0%
-li'mk'in	li'e:	'sink itr'	25.0%
-'ākaʃr	'a:gashr	'mother's brother'	70.0%
+li'mk'in	limik'	'prairie falcon'	100.0%
+'ākaʃr	'a:gashr	'mother's brother'	100.0%
 ,	,	[punc]	100.0%
-qo'o'	xo'oc	'stay behind'	70.0%
-wa'	wa	'however'	25.0%
-wojlow	wo:yo	'be born'	25.0%
+qo'o'	xo:	'live, exist, be'	50.0%
+wa'	wa'	'far away'	100.0%
+wojlow	[unknown]	'[unknown]'	0.0%
 ,	,	[punc]	100.0%
-tos̄ithin	do:so	'report, tell about'	25.0%
+tos̄ithin	do:so	'report, tell about'	100.0%
 mimjatʃr`	mimyatr	'thunder'	100.0%
 ,	,	[punc]	100.0%
-li'mk'in	li'e:	'sink itr'	25.0%
-nusōsu	nusos	'paternal aunt'	70.0%
-hajts'wīk'a	ha:ywiyi	'answer'	35.7%
+li'mk'in	limik'	'prairie falcon'	100.0%
+nusōsu	nusos	'paternal aunt'	100.0%
+hajts'wīk'a	[unknown]	'[unknown]'	0.0%
 ,	,	[punc]	100.0%
-ts'ilēpak'	zhilab	'swift'	10.0%
+ts'ilēpak'	zhilab	'swift'	50.0%
 ,	,	[punc]	100.0%
-t`awtʃr`ānitʃr`	ta:watr	'die'	10.0%
+t`awtʃr`ānitʃr`	ta:watr	'die'	50.0%
 hi'	hi'	'FUT'	100.0%
 mākin	ma:gin	'1DU.INCL.GEN'	100.0%
 ts'ajaq	c'ayax	'man's sister's child'	100.0%
 hijam	hiyam	'already, now'	100.0%
 limik'	limik'	'prairie falcon'	100.0%
-waqal'an	wa:xal	'weep'	10.0%
+waqal'an	wa:xal	'weep'	100.0%
 .	.	[punc]	100.0%
 ha'ts`aqom	ha'zhaxom	'finally, at last'	100.0%
-'aʃr	'ashr	'actually, really'	50.0%
+'aʃr	'ashr	'actually, really'	100.0%
 mimjatʃr`	mimyatr	'thunder'	100.0%
 p`anāhin	pana:	'arrive'	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
-wak̄`i	wik'	'2DU.VOC.IMPER'	0.0%
-kom̄wīhin	gomwiyi	'make a loud noise, rumble, thunder'	57.1%
+'ama'	'ama'	'and'	100.0%
+wak̄`i	wakkiy	'very, very much'	100.0%
+kom̄wīhin	gomwiyi	'make a loud noise, rumble, thunder'	100.0%
 ,	,	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+'ama'	'ama'	'and'	100.0%
 t`awtʃr`āhin	tawtra:	'kill tr'	100.0%
-hamnā'in	hamna'	'greedy person'	100.0%
+hamnā'in	hamna'	'[name]'	100.0%
 .	.	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+'ama'	'ama'	'and'	100.0%
 limik'	limik'	'prairie falcon'	100.0%
-t`isālāhin	dala	'flatten (grass or brush on ground)'	25.0%
-'aluwtʃr'a	'adra	'chop'	0.0%
-hamnā'in	hamna'	'greedy person'	100.0%
-moqt`ānit`	ma:gin	'1DU.INCL.GEN'	0.0%
+t`isālāhin	tisi	'come out'	100.0%
+'aluwtʃr'a	'alwutr'	'crow'	100.0%
+hamnā'in	hamna'	'[name]'	100.0%
+moqt`ānit`	ma:xa	'procure, get'	50.0%
 .	.	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
-'alwutʃr'	'alwutr'	'crow'	75.0%
-ta'ilhin	da'al	'come to life, escape'	70.0%
+'ama'	'ama'	'and'	100.0%
+'alwutʃr'	'alwutr'	'crow'	100.0%
+ta'ilhin	da'al	'come to life, escape'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
-lima	limi	'file'	62.5%
-'ama	'ama'	'3SG.NOM'	70.0%
+lima	[unknown]	'[unknown]'	0.0%
+'ama	'ama'	'and'	100.0%
 pinet`hin	bine:t	'ask'	100.0%
-hi'juk`	hiyuk	'where.NOM'	70.0%
+hi'juk`	hiyuk	'where.NOM'	100.0%
 tʃr`a	tra	'that.SG.NOM'	100.0%
-moqlo'	mo:xol	'become old'	40.0%
-wijā'an	wa:'al	'breakfast'	10.0%
+moqlo'	moxlo'	'old person'	100.0%
+wijā'an	wiyi	'say, do'	100.0%
 .	.	[punc]	100.0%
 t`awtʃra	tawtra:	'kill tr'	100.0%
-natʃran	na'an	'1PL.EXCL.NOM'	70.0%
+na%	na'	'1SG.NOM'	80.0%
+tʃran	tran	'that.SG.PRIM'	80.0%
 'ohjoqo'	'ohyo:	'want, look for (YT has root ?oyoxo)'	100.0%
-wijā'an	wa:'al	'breakfast'	10.0%
-'alwutʃr'	'alwutr'	'crow'	75.0%
+wijā'an	wiyi	'say, do'	100.0%
+'alwutʃr'	'alwutr'	'crow'	100.0%
 .	.	[punc]	100.0%
-tʃr`ah	tr'ap	'bow used for hunting'	50.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
-māmaw	mam	'2SG.PRIM'	100.0%
-pananqo'	bana:na:/	'lie down'	75.0%
-wijā'an	wa:'al	'breakfast'	10.0%
+tʃr`ah	traw	'that.SG.LOC'	25.0%
+'ama'	'ama'	'and'	100.0%
+māmaw	ma:maw	'2SG.LOC'	100.0%
+pananqo'	bananwiyi	'lie down'	100.0%
+wijā'an	wiyi	'say, do'	100.0%
 tʃr`an	tran	'that.SG.PRIM'	100.0%
 limik'	limik'	'prairie falcon'	100.0%
 .	.	[punc]	100.0%
-a	a	[foreign]	100.0%
-.	.	[punc]	100.0%
-wak̄`i	wik'	'2DU.VOC.IMPER'	0.0%
-hunōts'um	hunoc'mo:/	'be brave'	57.1%
-me'its`i'	me'zhi'	'because'	75.0%
+'alwutʃr'	'alwutr'	'crow'	100.0%
+wak̄`i	wakkiy	'very, very much'	100.0%
+hunōts'um	hunoc'mo:/	'be brave'	100.0%
+me'its`i'	me'zhi'	'because'	100.0%
 hijam	hiyam	'already, now'	100.0%
-jētʃr'aw	ye:tr'aw	'all'	70.0%
+jētʃr'aw	ye:tr'aw	'all'	100.0%
 tap`	dab	'next, on the other hand, then'	100.0%
 walqoqōhin	walxo:	'pass'	100.0%
 .	.	[punc]	100.0%
 mimjatʃr`	mimyatr	'thunder'	100.0%
 tʃr`ānit`	tra:nit	'that.SG.ABL'	100.0%
 tap`	dab	'next, on the other hand, then'	100.0%
-jo'wk`ēhin	yo'ke:	'return'	70.0%
+jo'wk`ēhin	yo'ke:	'return'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
-tʃr`ew	traw	'if'	50.0%
-jow	yo:w	'go home'	100.0%
+tʃr`ew	tri'	'house'	100.0%
+jow	yow	'and, also, again'	100.0%
 limik'	limik'	'prairie falcon'	100.0%
-jow	yo:w	'go home'	100.0%
-'alwutʃr'	'alwutr'	'crow'	75.0%
+jow	yow	'and, also, again'	100.0%
+'alwutʃr'	'alwutr'	'crow'	100.0%
 t`ap	dab	'next, on the other hand, then'	100.0%
-t`anhin	ta:na	'go'	62.5%
+t`anhin	ta:na	'go'	100.0%
 tāpa'	da:ba'	'then, too(?)'	100.0%
 .	.	[punc]	100.0%
-		[punc]	100.0%
+
