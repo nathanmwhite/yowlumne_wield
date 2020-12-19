@@ -365,7 +365,7 @@ tʃr`asin	trasin	'that.PL.NOM'	100.0%
 no'nē'ij	no:n'o'	'man'	100.0%
 wīhin	wiyi	'say, do'	100.0%
 tumas	dumas	'[name]'	100.0%
-,	,	[punc]	100.0% [continue here]
+,	,	[punc]	100.0%
 hin	hi'	'FUT'	50.0%
 'amin	'amin	'3SG.GEN'	100.0%
 wits`ep	wichreb	'offspring, child'	100.0%
@@ -373,7 +373,7 @@ totʃr'i'	dotr'i'	'bad'	100.0%
 'ama'	'ama'	'and'	100.0%
 ma%	ma'	'2SG.NOM'	100.0%
 tʃran	tran	'that.SG.PRIM'	80.0%
-k'uṇon	go:non	'alight'	70.0%
+k'uṇon	[unknown]	'[unknown]'	0.0%
 ,	,	[punc]	100.0%
 'ama'	'ama'	'3SG.NOM'	100.0%
 ma'	ma'	'2SG.NOM'	100.0%
@@ -382,250 +382,251 @@ wits'ēta'	wic'e:ta	'turn into a log'	100.0%
 tʃr`an	tran	'that.SG.PRIM'	100.0%
 tumas	dumas	'[name]'	100.0%
 'ohom	'ohom	'NEG'	100.0%
-'insinhin	'insinxo	'like'	62.5%
+'insinhin	'insinxo	'like'	50.0%
 .	.	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
-hija'm	hiyam	'already, now'	70.0%
-jētʃr'aw	ye:tr'aw	'all'	70.0%
-t`ant`aw	ta:na	'go'	62.5%
+'ama'	'ama'	'and'	100.0%
+hija'm	hiyam'	'next morning'	100.0%
+jētʃr'aw	ye:tr'aw	'all'	100.0%
+t`ant`aw	ta:na	'go'	100.0%
 jok`ōts'in	yokoc'	'person, people'	100.0%
 hētam	he:dam	'nearby'	100.0%
 na'an	na'an	'1PL.EXCL.NOM'	100.0%
-tʃr`aw	traw	'if'	100.0%
-qōhin	xo:	'live, exist, be'	25.0%
+tʃr`aw	traw	'that.SG.LOC'	100.0%
+qōhin	xo:	'live, exist, be'	100.0%
 .	.	[punc]	100.0%
-k'ulumts'aj	gumo:y	'serve as midwife'	0.0%
-jow	yo:w	'go home'	100.0%
-kapulal	ga:yal	'await?'	10.0%
-qo'qōhin	xo:	'live, exist, be'	25.0%
+k'ulumts'aj	k'ulumc'ay	'[name]'	100.0%
+jow	yow	'and, also, again'	100.0%
+kapulal	kapulal	'[name]'	100.0%
+qo'qōhin	xo:	'live, exist, be'	100.0%
 'amak'	'amak'	'3DU.NOM'	100.0%
-t`a'an	da'ak'	'shine (of sun)'	70.0%
-tʃr`aw	traw	'if'	100.0%
+t`a'an	ta'an'	'too'	100.0%
+tʃr`aw	traw	'that.SG.LOC'	100.0%
 .	.	[punc]	100.0%
 'ohom	'ohom	'NEG'	100.0%
 'amak'	'amak'	'3DU.NOM'	100.0%
-jow	yo:w	'go home'	100.0%
-jo'wk`i	yo'ke:	'return'	40.0%
+jow	yow	'and, also, again'	100.0%
+jo'wk`i	yo'ke:	'return'	100.0%
 'ohjōhin	'ohyo:	'want, look for (YT has root ?oyoxo)'	100.0%
-tiqōnaw	dil'naw	'on the other side of'	57.1%
-me'itsi	me'zhi'	'because'	50.0%
+tiqōnaw	[unknown]	'[unknown]'	0.0%
+me'itsi	me'zhi'	'because'	100.0%
 'aminkin	'amingin	'3DU.GEN'	100.0%
-tʃr`aw	traw	'if'	100.0%
-wits`ip`aj	wichribhay	'children'	81.2%
-ʃroqit	shrilit'	'jump'	10.0%
+tʃr`aw	traw	'that.SG.LOC'	100.0%
+wits`ip`aj	wichribhay	'children'	100.0%
+ʃroqit	shroxo	'exterminate, massacre'	100.0%
 .	.	[punc]	100.0%
-jow	yo:w	'go home'	100.0%
-tumas	dama	'make suffocate'	25.0%
-t`a'an	da'ak'	'shine (of sun)'	70.0%
+jow	yow	'and, also, again'	100.0%
+tumas	dumas	'[name]'	100.0%
+t`a'an	ta'an'	'too'	100.0%
 'ohom	'ohom	'NEG'	100.0%
-jo'wk`i	yo'ke:	'return'	40.0%
+jo'wk`i	yo'ke:	'return'	100.0%
 'ohjōhin	'ohyo:	'want, look for (YT has root ?oyoxo)'	100.0%
-k'ulumts'aj	gumo:y	'serve as midwife'	0.0%
-wak̄`i	wik'	'2DU.VOC.IMPER'	0.0%
-totʃr'i'	dotr''in	'consider to be bad'	75.0%
-nō'no'	no:chro'	'friend'	40.0%
+k'ulumts'aj	k'ulumc'ay	'[name]'	100.0%
+wak̄`i	wakkiy	'very, very much'	100.0%
+totʃr'i'	dotr'i'	'bad'	100.0%
+nō'no'	no:n'o'	'man'	100.0%
 ,	,	[punc]	100.0%
-t`awetʃr`ajqōhin	diwe:tr'a:	'become hard (A-->V)'	50.0%
-jētʃr'aw	ye:tr'aw	'all'	70.0%
-melakānō'in	ma:gin	'1DU.INCL.GEN'	0.0%
+t`awetʃr`ajqōhin	tawtra:	'kill tr'	100.0%
+jētʃr'aw	ye:tr'aw	'all'	100.0%
+melakānō'in	melaka:nu'	'white American'	100.0%
 .	.	[punc]	100.0%
-wijā'an	wa:'al	'breakfast'	10.0%
+wijā'an	wiyi	'say, do'	100.0%
 nan	nan	'1SG.PRIM'	100.0%
-majni'	mayni	'AR.EMPH'	70.0%
+majni'	mayni	'AR.EMPH'	100.0%
 t`awtʃra	tawtra:	'kill tr'	100.0%
 na'	na'	'1SG.NOM'	100.0%
 'ohjoqo'	'ohyo:	'want, look for (YT has root ?oyoxo)'	100.0%
-jetʃr'aw	ye:tr'aw	'all'	70.0%
+jetʃr'aw	ye:tr'aw	'all'	100.0%
 k`isinwa	kisinwa	'this.PL.PRIM'	100.0%
-melakāno'in	ma:gin	'1DU.INCL.GEN'	0.0%
+melakāno'in	melaka:nu'	'white American'	100.0%
 .	.	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
-wisanaj	wa:na	'give'	0.0%
+'ama'	'ama'	'and'	100.0%
+wisa%	wisa	'not yet, after a while'	100.0%
+naj	nay	'nearly, more than'	100.0%
 t`awtʃr`āhin	tawtra:	'kill tr'	100.0%
-k'ulumts'aj	gumo:y	'serve as midwife'	0.0%
-jow	yo:w	'go home'	100.0%
-ponoj	bonoy	'have two, make two'	100.0%
+k'ulumts'aj	k'ulumc'ay	'[name]'	100.0%
+jow	yow	'and, also, again'	100.0%
+ponoj	bonoy	'have two, make two'	50.0%
 'amin	'amin	'3SG.GEN'	100.0%
-'injāna'	'ama'	'3SG.NOM'	0.0%
-tʃra'ētʃri	tr'e'et'in	'conjure, perform miracles'	35.7%
+'injāna'	'inya:na'	'Indian'	100.0%
+tʃra'ētʃri	[unknown]	'[unknown]'	0.0%
 jet'	ye:t'	'one'	100.0%
-melakanō'in	ma:gin	'1DU.INCL.GEN'	0.0%
-ka'inha	ga:'ina	'woman'	75.0%
+melakanō'in	melaka:nu'	'white American'	100.0%
+ka'inha	ga:'ina	'woman'	100.0%
 .	.	[punc]	100.0%
-k'ulumts'āj'in	gumumwiyi	'bend over slightly'	33.3%
-wojoj	wo:yo	'be born'	62.5%
-jētʃr'aw	ye:tr'aw	'all'	70.0%
+k'ulumts'āj'in	k'ulumc'ay	'[name]'	100.0%
+wojoj	[unknown]	'[unknown]'	0.0%
+jētʃr'aw	ye:tr'aw	'all'	100.0%
 tʃr`asikwin	trasikwin	'that.DU.GEN'	100.0%
 tap`	dab	'next, on the other hand, then'	100.0%
-ponjin	bonoy	'have two, make two'	70.0%
+ponjin	bonoy	'have two, make two'	50.0%
 'ohom	'ohom	'NEG'	100.0%
 .	.	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
-jolōwinhin	yolo:w	'assemble tr'	40.0%
-man'	ma'	'2SG.NOM'	50.0%
-melakānu'	ma:gin	'1DU.INCL.GEN'	0.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
-'ohjot`	'ohyo:	'want, look for (YT has root ?oyoxo)'	70.0%
-jētʃr'aw	ye:tr'aw	'all'	70.0%
+'ama'	'ama'	'and'	100.0%
+jolōwinhin	yolo:w	'assemble tr'	100.0%
+man'	[unknown]	'[unknown]'	0.0%
+melakānu'	melaka:nu'	'white American'	100.0%
+'ama'	'ama'	'and'	100.0%
+'ohjot`	'ohyo:	'want, look for (YT has root ?oyoxo)'	100.0%
+jētʃr'aw	ye:tr'aw	'all'	100.0%
 tʃr`a	tra	'that.SG.NOM'	100.0%
-lantṣelíja'	lage:l+ta:	'become different'	0.0%
+lantṣelíja'	[unknown]	'[unknown]'	0.0%
 ,	,	[punc]	100.0%
 'ohjōhin	'ohyo:	'want, look for (YT has root ?oyoxo)'	100.0%
 'aman	'aman	'3PL.NOM'	100.0%
 tʃrasinwa	trasinwa	'that.PL.PRIM'	100.0%
-t`awtʃrihnē'in	tawin	'to become morning'	0.0%
+t`awtʃrihnē'in	tawtra:	'kill tr'	100.0%
 .	.	[punc]	100.0%
 na'	na'	'1SG.NOM'	100.0%
 tap	dab	'next, on the other hand, then'	100.0%
-pananqōhin	bana:na:/	'lie down'	75.0%
-'aqts'iw	'a:xa	'stay overnight itr'	62.5%
-ʃropom	shroposhr	'gather the wild crops'	40.0%
+pananqōhin	bana:na:/	'lie down'	50.0%
+'aqts'iw	'axic'	'bed'	100.0%
+ʃropom	shropon	'blanket'	25.0%
 .	.	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+'ama'	'ama'	'and'	100.0%
 'aman	'aman	'3PL.NOM'	100.0%
-'atʃr`ilhin	'atral	'open'	70.0%
+'atʃr`ilhin	'atral	'open'	100.0%
 nim	nim	'1SG.GEN'	100.0%
-ʃrop`on	shropon	'blanket'	70.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+ʃrop`on	shropon	'blanket'	100.0%
+'ama'	'ama'	'and'	100.0%
 'aman	'aman	'3PL.NOM'	100.0%
-wijā'an	wa:'al	'breakfast'	10.0%
+wijā'an	wiyi	'say, do'	100.0%
 watuk`	watuk	'who.NOM'	100.0%
-k`i	ki	'when'	100.0%
+k`i	ki	'this.SG.NOM'	100.0%
 ?	?	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+'ama'	'ama'	'and'	100.0%
 nan	nan	'1SG.PRIM'	100.0%
 'aman	'aman	'3PL.NOM'	100.0%
-tos̄it`hin	do:so	'report, tell about'	25.0%
+tos̄it`hin	do:so	'report, tell about'	100.0%
 'ohjoqo'	'ohyo:	'want, look for (YT has root ?oyoxo)'	100.0%
 na'an	na'an	'1PL.EXCL.NOM'	100.0%
 tʃrasinwa	trasinwa	'that.PL.PRIM'	100.0%
-wojojō'in	wo:yo	'be born'	0.0%
+wojojō'in	woyoyo'	'criminal'	100.0%
 .	.	[punc]	100.0%
 'ama'	'ama'	'3SG.NOM'	100.0%
-tik`naw	dik'e:n	'stay behind'	70.0%
-pok'it`	bok'o	'find'	25.0%
+tik`naw	dik'naw	'behind'	100.0%
+pok'it`	bok'o	'find'	100.0%
 tʃrasin	trasin	'that.PL.NOM'	100.0%
-wojojo'	wo:yo	'be born'	0.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+wojojo'	woyoyo'	'criminal'	100.0%
+'ama'	'ama'	'and'	100.0%
 'aman	'aman	'3PL.NOM'	100.0%
-t`anat`	datr'at	'track'	70.0%
-wits't`iw	wic'et	'stick'	70.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
-tʃraw	traw	'if'	100.0%
+t`anat`	ta:na	'go'	100.0%
+wits't`iw	wic'et	'stick'	100.0%
+'ama'	'ama'	'and'	100.0%
+tʃraw	traw	'that.SG.LOC'	100.0%
 'aman	'aman	'3PL.NOM'	100.0%
 'ēman	'e:man	'to no avail'	100.0%
-lulā'atʃr	la'as	'fletch'	10.0%
-'ama	'ama'	'3SG.NOM'	70.0%
-ponoj	bonoy	'have two, make two'	100.0%
+lulā'atʃr	lo:lu	'lynch'	100.0%
+'ama	'ama'	'and'	100.0%
+ponoj	bonoy	'have two, make two'	50.0%
 tʃrasik	trasik'	'that.DU.NOM'	100.0%
-not'ē'ij	nowo:'iy	'stick for gathering nuts'	57.1%
-lōlut`	lo:l'o:	'leave behind, let go of, quit'	40.0%
+not'ē'ij	no:tr'o'	'boy, young man'	50.0%
+lōlut`	lo:lu	'lynch'	100.0%
 .	.	[punc]	100.0%
 jet'	ye:t'	'one'	100.0%
-melakānu'	ma:gin	'1DU.INCL.GEN'	0.0%
-t`aqinhin	tawin	'to become morning'	70.0%
-k'ulumts'ajiw	gumumwiyi	'bend over slightly'	33.3%
-'ama'	'ama'	'3SG.NOM'	100.0%
-ʃrot`hun	shrotrotr	'pull, drag'	40.0%
+melakānu'	melaka:nu'	'white American'	100.0%
+t`aqinhin	taxa:	'bring'	100.0%
+k'ulumts'ajiw	k'ulumc'ay	'[name]'	100.0%
+'ama'	'ama'	'and'	100.0%
+ʃrot`hun	[unknown]	'[unknown]'	0.0%
 'amin	'amin	'3SG.GEN'	100.0%
-tsikōtē'in	c'ige:y	'twist'	10.0%
-'ōkon̄ut	'o:kuc'	'depend upon, desire'	10.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+tsikōtē'in	[unknown]	'[unknown]'	0.0%
+'ōkon̄ut	'o:kun	'neck'	100.0%
+'ama'	'ama'	'and'	100.0%
 tʃran	tran	'that.SG.PRIM'	100.0%
-wīhin	widin	'roll sth'	70.0%
-lihimk'a	lihim	'run'	40.0%
+wīhin	wiyi	'say, do'	100.0%
+lihimk'a	lihim	'run'	100.0%
 !	!	[punc]	100.0%
 'ama'	'ama'	'3SG.NOM'	100.0%
-k'ulumts'aj	gumo:y	'serve as midwife'	0.0%
-t`anhin	ta:na	'go'	62.5%
+k'ulumts'aj	k'ulumc'ay	'[name]'	100.0%
+t`anhin	ta:na	'go'	100.0%
 .	.	[punc]	100.0%
 hijam	hiyam	'already, now'	100.0%
 nimōkun	nimo:gun	'1PL.EXCL.GEN'	100.0%
-tʃr`aw	traw	'if'	100.0%
-wā'a	wa:'al	'breakfast'	70.0%
+tʃr`aw	traw	'that.SG.LOC'	100.0%
+wā'a	[unknown]	'[unknown]'	0.0%
 qon	xo:	'live, exist, be'	25.0%
 ,	,	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
-melakānu	ma:gin	'1DU.INCL.GEN'	0.0%
-ti'ja'	de'ya:	'haul away'	40.0%
+'ama'	'ama'	'and'	100.0%
+melakānu	melaka:nu'	'white American'	100.0%
+ti'ja'	diy'a'	'leader, captain'	100.0%
 nāninwa	na:ninwa	'1PL.EXCL.PRIM'	100.0%
-wīhin	widin	'roll sth'	70.0%
-lomt`ow	logow	'pound into powder, pulverize'	40.0%
+wīhin	wiyi	'say, do'	100.0%
+lomt`ow	lomit	'mountain'	100.0%
 maj	may	'1PL.INCL.NOM'	100.0%
-t`ahan	daban	'lose what one has'	70.0%
+t`ahan	ta:na	'go'	100.0%
 !	!	[punc]	100.0%
-wīhin	widin	'roll sth'	70.0%
-tumas	dama	'make suffocate'	25.0%
-t`aqink'a	damna:	'try'	10.0%
-ts'uju'	c'uyo:	'urinate'	25.0%
-ma'aʃr	ma'ak'	'2DU.NOM'	40.0%
-tʃrilewqo'	tr'idiw	'shell (nuts)'	40.0%
-t`a'an	da'ak'	'shine (of sun)'	70.0%
+wīhin	wiyi	'say, do'	100.0%
+tumas	dumas	'[name]'	100.0%
+t`aqink'a	taxa:	'bring'	100.0%
+ts'uju'	c'uyo:	'urinate'	100.0%
+ma%	ma'	'2SG.NOM'	80.0%
+'aʃr	'ashr	'actually, really'	80.0%
+tʃrilewqo'	[unknown]	'[unknown]'	0.0%
+t`a'an	ta'an'	'too'	100.0%
 mihi'	mihi'	'2SG.NOM FUT'	100.0%
-ta'len	da'al	'come to life, escape'	70.0%
-lomt`ōnit	lomit	'mountain'	10.0%
+ta'len	da'al	'come to life, escape'	100.0%
+lomt`ōnit	lomit	'mountain'	100.0%
 .	.	[punc]	100.0%
-ti'ja'	de'ya:	'haul away'	40.0%
-ʃrujnāhin	shruyna:/	'buy'	70.0%
-p'a'na	pana:	'arrive'	62.5%
-lomt`ow	logow	'pound into powder, pulverize'	40.0%
+ti'ja'	diy'a'	'leader, captain'	100.0%
+ʃrujnāhin	shruyna:/	'buy'	100.0%
+p'a'na	p'a'an	'world'	100.0%
+lomt`ow	lomit	'mountain'	100.0%
 .	.	[punc]	100.0%
 tʃrasin	trasin	'that.PL.NOM'	100.0%
 tsu'pa'	zhu'ba'	'a part'	100.0%
-mel	me:li	'harrow, erase'	62.5%
-.	.	[punc]	100.0%
+melakānu'	melaka:nu'	'white American'	25.0%
 pinethin	bine:t	'ask'	100.0%
 tʃr`an	tran	'that.SG.PRIM'	100.0%
-melīkanō'in	me:li	'harrow, erase'	0.0%
+melīkanō'in	melaka:nu'	'white American'	100.0%
 hawjēno'uk`	hawye:no'uk	'what.kind.SEC'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
-ʃrok̄`an	so:gon	'Indian tobacco weed'	40.0%
+ʃrok̄`an	[unknown]	'[unknown]'	0.0%
 'ohjoqo	'ohyo:	'want, look for (YT has root ?oyoxo)'	100.0%
-p'a'na	pana:	'arrive'	62.5%
+p'a'na	p'a'an	'world'	100.0%
 .	.	[punc]	100.0%
-wilʃrin	wilshrin	'but, in spite of that'	75.0%
+wilʃrin	wilshrin	'but, in spite of that'	100.0%
 na'	na'	'1SG.NOM'	100.0%
-wijā'an	wa:'al	'breakfast'	10.0%
-ʃrok̄`an	so:gon	'Indian tobacco weed'	40.0%
-'ohojoqo'	'ohyo:	'want, look for (YT has root ?oyoxo)'	70.0%
+wijā'an	wiyi	'say, do'	100.0%
+ʃrok̄`an	[unknown]	'[unknown]'	0.0%
+'ohojoqo'	'ohyo:	'want, look for (YT has root ?oyoxo)'	100.0%
 .	.	[punc]	100.0%
-ti'ja'	de'ya:	'haul away'	40.0%
-ʃrujnāhin	shruyna:/	'buy'	70.0%
-jētʃr'aw	ye:tr'aw	'all'	70.0%
+ti'ja'	diy'a'	'leader, captain'	100.0%
+ʃrujnāhin	shruyna:/	'buy'	100.0%
+jētʃr'aw	ye:tr'aw	'all'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
-pākā'in	pak'a:tin	'remember'	78.6%
-ʃrujnāsithin	shruyna:/	'buy'	0.0%
+pākā'in	[unknown]	'[unknown]'	0.0%
+ʃrujnāsithin	shruyna:/	'buy'	100.0%
 tʃrāni	tra:ni	'that.SG.SEC'	100.0%
-'injanā'in	'ama'	'3SG.NOM'	0.0%
+'injanā'in	'inya:na'	'Indian'	100.0%
 .	.	[punc]	100.0%
 'ohom	'ohom	'NEG'	100.0%
 'aman	'aman	'3PL.NOM'	100.0%
 jēt'iw	ye:t'	'one'	100.0%
-t`aqinhin	tawin	'to become morning'	70.0%
-'injāna'	'ama'	'3SG.NOM'	0.0%
+t`aqinhin	taxa:	'bring'	100.0%
+'injāna'	'inya:na'	'Indian'	100.0%
 ,	,	[punc]	100.0%
 tsu'pa'	zhu'ba'	'a part'	100.0%
-t`aqinhin	tawin	'to become morning'	70.0%
+t`aqinhin	taxa:	'bring'	100.0%
 tsanum	canum	'immediately'	100.0%
 ,	,	[punc]	100.0%
-jow	yo:w	'go home'	100.0%
+jow	yow	'and, also, again'	100.0%
 tsu'pa'	zhu'ba'	'a part'	100.0%
-tik'naw	dik'e:n	'stay behind'	70.0%
+tik'naw	dik'naw	'behind'	100.0%
 .	.	[punc]	100.0%
-tumas	dama	'make suffocate'	25.0%
+tumas	dumas	'[name]'	100.0%
 wa'	wa'	'far away'	100.0%
 k`ew	kew	'this.SG.LOC'	100.0%
-qajinhin	xaya:	'place, put'	25.0%
+qajinhin	xaya:	'place, put'	100.0%
 jow	yo:w	'go home'	100.0%
 tsu'pa'	zhu'ba'	'a part'	100.0%
 wa'	wa'	'far away'	100.0%
 paluw	baluw	'downhill, west'	100.0%
 .	.	[punc]	100.0%
-tumas	dama	'make suffocate'	25.0%
+tumas	dumas	'[name]'	100.0%
 mani'	mani'	'much, many'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
 kawāju'	gawa:yu'	'horse'	100.0%
-jow	yo:w	'go home'	100.0%
+jow	yow	'and, also, again'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
 p'a'an	p'a'an	'world'	100.0%
 .	.	[punc]	100.0%
@@ -634,10 +635,10 @@ k`isin	kisin	'this.PL.NOM'	100.0%
 jok`ots'	yokoc'	'person, people'	100.0%
 'ohom	'ohom	'NEG'	100.0%
 'aman	'aman	'3PL.NOM'	100.0%
-'insinqo'	'insinxo	'like'	81.2%
-tumas	dama	'make suffocate'	25.0%
-me'itsi	me'zhi'	'because'	50.0%
+'insinqo'	'insinxo	'like'	100.0%
+tumas	dumas	'[name]'	100.0%
+me'itsi	me'zhi'	'because'	100.0%
 'aman	'aman	'3PL.NOM'	100.0%
-wijā'an	wa:'al	'breakfast'	10.0%
-k'iqum	k'inim	'acorn'	40.0%
+wijā'an	wiyi	'say, do'	100.0%
+k'iqum	[unknown]	'[unknown]'	0.0%
 .	.	[punc]	100.0%
