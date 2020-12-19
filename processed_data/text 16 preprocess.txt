@@ -2074,7 +2074,7 @@ hamna'	hamna'	'[name]'	100.0%
 t`aqan'an	taxa:	'bring'	100.0%
 wa'jsi	[unknown]	'[unknown]'	0.0%
 wak̄`i	wakkiy	'very, very much'	100.0%
-tiknaw	dik'e:n	'stay behind'	50.0%
+tiknaw	dik'naw	'behind'	100.0%
 'amāmik`wa	'ama:mikwa	'3DU.PRIM'	100.0%
 .	.	[punc]	100.0%
 limik'	limik'	'prairie falcon'	100.0%
