@@ -46,7 +46,7 @@ k`a'jiw	kay'iw	'coyote'	100.0%
 'ama'	'ama'	'and'	100.0%
 ti'	di'	'with a little doubt'	100.0%
 ts`anum	canum	'immediately'	100.0%
-jet'	yet'	'one'	100.0%
+jet'	ye:t'	'one'	100.0%
 wōwulhun	wo:wul	'stand'	100.0%
 'ama'	'ama'	'and'	100.0%
 k'o'sitit	k'o'o	'throw at, throw'	100.0%
@@ -87,7 +87,7 @@ k`a'jiw	kay'iw	'coyote'	100.0%
 mi'n	mi'in	'soon'	100.0%
 tr`āni	tra:ni	'that.SG.SEC'	100.0%
 wán̄it	wa:na	'give'	100.0%
-jet'ni	yet'	'one'	100.0%
+jet'ni	ye:t'	'one'	100.0%
 loptr`ōni	lopitr	'fish'	100.0%
 ,	,	[punc]	100.0%
 'ama'	'ama'	'and'	100.0%
@@ -154,7 +154,7 @@ sānats'	sa'nac'	'rattle'	100.0%
 ,	,	[punc]	100.0%
 'ama'	'ama'	'and'	100.0%
 maqin	ma:xa	'procure, get'	100.0%
-jet'	yet'	'one'	100.0%
+jet'	ye:t'	'one'	100.0%
 min%	min	'2SG.GEN'	50.0%
 than	tran	'that.SG.PRIM'	50.0%
 kha'jiw	kay'iw	'coyote'	100.0%
