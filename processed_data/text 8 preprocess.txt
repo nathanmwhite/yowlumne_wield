@@ -9,7 +9,7 @@ jokhots'	yokoc'	'person, people'	100.0%
 waḵij	wakkiy	'very much, be very much'	100.0%
 ,	,	[punc]	100.0%
 'ama'	'ama'	'and'	100.0%
-ponoj	bonoy	'have two, make two'	100.0%
+ponoj	bonoy	'two'	100.0%
 qo'qōhin	xo:	'live, exist, be'	100.0%
 nṓtsewas	no:chro'	'friend'	25.0%
 ,	,	[punc]	100.0%
@@ -35,7 +35,7 @@ ti	di'	'with a little doubt'	100.0%
 ni'wo	ni'e:w	'come late'	100.0%
 wīhin	wiyi	'say, do'	100.0%
 tr`a'aʃ	tra'ashr	'continuously'	100.0%
-'insis	'insis'	'do well'	100.0%
+'insis	'insis	'good'	100.0%
 'amā%	'ama'	'and'	50.0%
 mak	'amak'	'3DU.PRIM'	50.0%
 thahan	ta:na	'go'	100.0%
