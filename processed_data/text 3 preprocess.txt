@@ -15,7 +15,7 @@ hun	c'o:mu	'destroy, devour'	100.0%
 'aminōkun	'amino:gun	'3PL.GEN'	100.0%
 qat	xat	'food'	100.0%
 ,	,	[punc]	100.0%
-ponoj	bonoy	'have two, make two'	100.0%
+ponoj	bonoy	'two'	100.0%
 hōjet	ho:ye:	'send'	100.0%
 ,	,	[punc]	100.0%
 'ama'	'ama'	'and'	100.0%
