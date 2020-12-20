@@ -86,7 +86,7 @@ phanāhin	pana:	'arrive'	100.0%
 'oho'm	'ohom	'NEG'	100.0%
 tr`aw	traw	'that.SG.LOC'	100.0%
 ha'uk	ha'uk	'what.NOM'	100.0%
-'itrphīnits	'itrphīnits	'[name]'	0.0%
+'itrphīnits	'itrpi:nitr	'[name]'	0.0%
 .	.	[punc]	100.0%
 'ohom	'ohom	'NEG'	100.0%
 traw	traw	'that.SG.LOC'	100.0%
