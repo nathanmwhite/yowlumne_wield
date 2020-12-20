@@ -619,7 +619,7 @@ min	min	'2SG.GEN'	100.0%
 'aman	'aman	'3PL.NOM'	100.0%
 t`ahan	ta:na	'go'	100.0%
 'iphatr'	'ipitr	'throw off/out, pick off'	80.0%
-tam	dama	'make suffocate'	62.5%
+tam	[unknown]	'[unknown]'	0.0%
 'aminōkun	'amino:gun	'3PL.GEN'	100.0%
 wits`ḗp`a	wichre:b	'offspring'	100.0%
 .	.	[punc]	100.0%
@@ -630,9 +630,9 @@ qó'qo	xo:	'live, exist, be'	100.0%
 ,	,	[punc]	100.0%
 'om	'ohom	'NEG'	100.0%
 'aman	'aman	'3PL.NOM'	100.0%
-aꞏ	[unknown]	'[unknown]'	100.0%
+aꞏ	[unknown]	'[unknown]'	0.0%
 wá'ʃta	wa'ashrta'	'very'	100.0%
-'ipétratr	[unknown]	'[unknown]'	100.0%
+'ipétratr	'ipitr	'throw off/out, pick off'	80.0%
 ,	,	[punc]	100.0%
 k`e	ki	'this.SG'	50.0%
 'amin	'amin	'3SG.GEN'	100.0%
