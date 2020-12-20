@@ -558,8 +558,8 @@ kisik	kisik'	'this.DU.NOM'	100.0%
 patr	batr	'as usual'	100.0%
 wa'ʃta	wa'ashrta'	'very'	100.0%
 mamikwa	ma:mikwa	'2DU.PRIM'	100.0%
-tr`itr'ew	[unknown]	'[unknown]'	0.0%
-joq|o'	[unknown]	'[unknown]'	0.0%
+tr`itr'ew&
+joq|o'	tritreya:/	'be lonely for'	80.0%
 māmikwa'	ma:mikwa	'2DU.PRIM'	100.0%
 wija'n	wiyi	'say, do'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
@@ -570,7 +570,7 @@ he'ts`i	he:zhi'	'today'	100.0%
 t`ojnen	toyon	'be night'	100.0%
 ,	,	[punc]	100.0%
 ma'	ma'	'2SG.NOM'	100.0%
-'atran	'a:dran	'be exited [sic]'	100.0%
+'atran	[unknown]	'[unknown]'	0.0%
 'ama'	'ama'	'and'	100.0%
 na'	na'	'1SG.NOM'	100.0%
 lā́na'	la:na	'hear'	100.0%
