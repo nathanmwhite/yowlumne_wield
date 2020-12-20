@@ -47,8 +47,8 @@ t`anat`inqōhin	ta:na	'go'	100.0%
 .	.	[punc]	100.0%
 qo'qōhin	xo:	'live, exist, be'	100.0%
 nimōkun	nimo:gun	'1PL.EXCL.GEN'	100.0%
-'insis	'insis'	'do well'	50.0%
-wojil	[unknown]	'[unknown]'	0.0%
+'insis	'insis	'good'	100.0%
+wojil	woyil	'plant'	50.0%
 ,	,	[punc]	100.0%
 jow	yow	'and, also, again'	100.0%
 nimōkun	nimo:gun	'1PL.EXCL.GEN'	100.0%
@@ -427,7 +427,7 @@ nō'no'	no:n'o'	'man'	100.0%
 ,	,	[punc]	100.0%
 t`awetʃr`ajqōhin	tawtra:	'kill tr'	100.0%
 jētʃr'aw	ye:tr'aw	'all'	100.0%
-melakānō'in	melaka:nu'	'white American'	100.0%
+melakānō'in	melaga:nu'	'white American'	100.0%
 .	.	[punc]	100.0%
 wijā'an	wiyi	'say, do'	100.0%
 nan	nan	'1SG.PRIM'	100.0%
@@ -437,7 +437,7 @@ na'	na'	'1SG.NOM'	100.0%
 'ohjoqo'	'ohyo:	'want, look for (YT has root ?oyoxo)'	100.0%
 jetʃr'aw	ye:tr'aw	'all'	100.0%
 k`isinwa	kisinwa	'this.PL.PRIM'	100.0%
-melakāno'in	melaka:nu'	'white American'	100.0%
+melakāno'in	melaga:nu'	'white American'	100.0%
 .	.	[punc]	100.0%
 'ama'	'ama'	'and'	100.0%
 wisa%	wisa	'not yet, after a while'	100.0%
@@ -445,12 +445,12 @@ naj	nay	'nearly, more than'	100.0%
 t`awtʃr`āhin	tawtra:	'kill tr'	100.0%
 k'ulumts'aj	k'ulumc'ay	'[name]'	100.0%
 jow	yow	'and, also, again'	100.0%
-ponoj	bonoy	'have two, make two'	50.0%
+ponoj	bonoy	'two'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
 'injāna'	'inya:na'	'Indian'	100.0%
-tʃra'ētʃri	[unknown]	'[unknown]'	0.0%
+tʃra'ētʃri	tra'tra'	'ally'	100.0%
 jet'	ye:t'	'one'	100.0%
-melakanō'in	melaka:nu'	'white American'	100.0%
+melakanō'in	melaga:nu'	'white American'	100.0%
 ka'inha	ga:'ina	'woman'	100.0%
 .	.	[punc]	100.0%
 k'ulumts'āj'in	k'ulumc'ay	'[name]'	100.0%
@@ -458,13 +458,13 @@ wojoj	[unknown]	'[unknown]'	0.0%
 jētʃr'aw	ye:tr'aw	'all'	100.0%
 tʃr`asikwin	trasikwin	'that.DU.GEN'	100.0%
 tap`	dab	'next, on the other hand, then'	100.0%
-ponjin	bonoy	'have two, make two'	50.0%
+ponjin	bonoy	'two'	100.0%
 'ohom	'ohom	'NEG'	100.0%
 .	.	[punc]	100.0%
 'ama'	'ama'	'and'	100.0%
 jolōwinhin	yolo:w	'assemble tr'	100.0%
 man'	[unknown]	'[unknown]'	0.0%
-melakānu'	melaka:nu'	'white American'	100.0%
+melakānu'	melaga:nu'	'white American'	100.0%
 'ama'	'ama'	'and'	100.0%
 'ohjot`	'ohyo:	'want, look for (YT has root ?oyoxo)'	100.0%
 jētʃr'aw	ye:tr'aw	'all'	100.0%
@@ -517,13 +517,13 @@ tʃraw	traw	'that.SG.LOC'	100.0%
 'ēman	'e:man	'to no avail'	100.0%
 lulā'atʃr	lo:lu	'lynch'	100.0%
 'ama	'ama'	'and'	100.0%
-ponoj	bonoy	'have two, make two'	50.0%
+ponoj	bonoy	'two'	100.0%
 tʃrasik	trasik'	'that.DU.NOM'	100.0%
 not'ē'ij	no:tr'o'	'boy, young man'	50.0%
 lōlut`	lo:lu	'lynch'	100.0%
 .	.	[punc]	100.0%
 jet'	ye:t'	'one'	100.0%
-melakānu'	melaka:nu'	'white American'	100.0%
+melakānu'	melaga:nu'	'white American'	100.0%
 t`aqinhin	taxa:	'bring'	100.0%
 k'ulumts'ajiw	k'ulumc'ay	'[name]'	100.0%
 'ama'	'ama'	'and'	100.0%
@@ -547,7 +547,7 @@ wā'a	[unknown]	'[unknown]'	0.0%
 qon	xo:	'live, exist, be'	25.0%
 ,	,	[punc]	100.0%
 'ama'	'ama'	'and'	100.0%
-melakānu	melaka:nu'	'white American'	100.0%
+melakānu	melaga:nu'	'white American'	100.0%
 ti'ja'	diy'a'	'leader, captain'	100.0%
 nāninwa	na:ninwa	'1PL.EXCL.PRIM'	100.0%
 wīhin	wiyi	'say, do'	100.0%
@@ -574,10 +574,10 @@ lomt`ow	lomit	'mountain'	100.0%
 .	.	[punc]	100.0%
 tʃrasin	trasin	'that.PL.NOM'	100.0%
 tsu'pa'	zhu'ba'	'a part'	100.0%
-melakānu'	melaka:nu'	'white American'	25.0%
+melakānu'	melaga:nu'	'white American'	25.0%
 pinethin	bine:t	'ask'	100.0%
 tʃr`an	tran	'that.SG.PRIM'	100.0%
-melīkanō'in	melaka:nu'	'white American'	100.0%
+melīkanō'in	melaga:nu'	'white American'	100.0%
 hawjēno'uk`	hawye:no'uk	'what.kind.SEC'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
 ʃrok̄`an	[unknown]	'[unknown]'	0.0%
