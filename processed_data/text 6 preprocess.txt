@@ -252,7 +252,7 @@ wija'n	wiyi	'say, do'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
 noh'o'	noh'o'	'bear'	100.0%
 ,	,	[punc]	100.0%
-'insis	'insis'	'do well'	100.0%
+'insis	'insis	'good'	100.0%
 wīhin	wiyi	'say, do'	100.0%
 ti%	di'	'with a little doubt'	100.0%
 tap%	dab	'next, on the other hand, then'	100.0%	
