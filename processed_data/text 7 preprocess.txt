@@ -44,9 +44,9 @@ hijók	hiyo'uk	'where.LOC'	100.0%
 ,	,	[punc]	100.0%
 hijo'%	hiyo'uk	'where.LOC'	100.0%
 ki&
-taq%	gidax	'unexpectedly'	0.0%
+taq%	gidax	'unexpectedly'	80.0%
 maj	may	'1PL.INCL.NOM'	100.0%
-t`a'n	ta:na	'go'	80.0%
+t`a'n	ta:na	'go'	100.0%
 nṓt%	no'od	'younger sister'	100.0%
 am&
 nokum	'amino:gun	'3PL.GEN'	100.0%
@@ -54,7 +54,7 @@ tíkḗni	dik'e:n	'stay behind'	80.0%
 ,	,	[punc]	100.0%
 hijók	hiyo'uk	'where.LOC'	100.0%
 ki&
-taq%	gidax	'unexpectedly'	0.0%
+taq%	gidax	'unexpectedly'	50.0%
 maj	may	'1PL.INCL.NOM'	100.0%
 t`án	ta:na	'go'	100.0%
 wija'n	wiyi	'say, do'	100.0%
