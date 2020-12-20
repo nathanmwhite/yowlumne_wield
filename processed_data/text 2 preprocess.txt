@@ -1,7 +1,7 @@
 qo&
 qo&
 in	xo:	'live, exist, be'	100.0%
-jet'	yet'	'one'	100.0%
+jet'	ye:t'	'one'	100.0%
 nono'	no:n'o'	'man'	100.0%
 ,	,	[punc]	100.0%
 waʃta	wa'ashrta'	'very'	100.0%
@@ -313,7 +313,7 @@ ma'	ma'	'2SG.NOM'	100.0%
 hų́hų	hǫ:hǫ'	'yes'	100.0%
 wija'n	wiyi	'say, do'	100.0%
 ,	,	[punc]	100.0%
-jet'	yet'	'one'	100.0%
+jet'	ye:t'	'one'	100.0%
 k`i%	ki	'this.SG.NOM'	50.0%
 wilsin	wilshrin	'but'	50.0%
 thojnow	toyon	'be night'	100.0%
