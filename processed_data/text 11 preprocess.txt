@@ -719,7 +719,7 @@ wija'n	wiyi	'say, do'	100.0%
 mi'n	mi'in	'soon'	100.0%
 tap	dab	'next, on the other hand, then'	100.0%
 'ohóm	'ohom	'NEG'	100.0%
-wojon	wo:yo	'be born'	50.0%
+wojon	wo:'uy	'sleep'	80.0%
 limik	limik'	'prairie falcon'	100.0%
 ,	,	[punc]	100.0%
 mi'n	mi'in	'soon'	100.0%
@@ -732,7 +732,7 @@ tr`a	tra	'that.SG.NOM'	100.0%
 tr`ēmin	tre:min	'one who owns a house'	100.0%
 'ohóm	'ohom	'NEG'	100.0%
 t`a'n	ta'an'	'too'	50.0%
-wṓjon	wo:yo	'be born'	50.0%
+wṓjon	wo:'uy	'sleep'	80.0%
 ,	,	[punc]	100.0%
 p'umwa'n	p'umu	'fill'	75.0%
 'amin	'amin	'3SG.GEN'	100.0%
