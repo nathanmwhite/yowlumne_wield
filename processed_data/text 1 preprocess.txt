@@ -95,7 +95,7 @@ ts'oḻol	c'olol	'white'	100.0%
 jōkhots'	yokoc'	'person, people'	100.0%
 ,	,	[punc]	100.0%
 'uṯal	'ut't'al	'solely, nothing but'	100.0%
-'injāna'	'inja:na'	'Indian'	100.0%
+'injāna'	'inya:na'	'Indian'	100.0%
 .	.	[punc]	100.0%
 hijam	hiyam	'already, now'	100.0%
 'aqam	'axam'	'perhaps'	100.0%
@@ -114,7 +114,7 @@ tr`aw	traw	'that.LOC'	100.0%
 tr`anajtrmi	trana:yitr	'fear'	100.0%
 'amak'	'amak'	'3DU.NOM'	100.0%
 thanhin	ta:na	'go'	100.0%
-'injana'in	'inja:na'	'Indian'	100.0%
+'injana'in	'inya:na'	'Indian'	100.0%
 .	.	[punc]	100.0%
 kulal	[unknown]	[unknown]	0.0%
 na	na'	'1SG.NOM'	100.0%
@@ -144,7 +144,7 @@ tr`aw	traw	'that.LOC'	100.0%
 naʃ	na'ashr	'dubitative'	100.0%
 póhutr`un	bo:hutr'	'grow up'	100.0%
 ,	,	[punc]	100.0%
-kapulālin	kapulal	'caporal'	100.0%
+kapulālin	gabulal	'caporal'	100.0%
 p'a'n	p'a'an	'world'	100.0%
 ,	,	[punc]	100.0%
 jow	yow	'and'	100.0%
@@ -162,7 +162,7 @@ wa	wa	'however'	100.0%
 wilsin	wilshrin	'but, in spite of that'	100.0%
 na'	na'	'1SG.NOM'	100.0%
 pak'āthīnqo'	pak'a:tin	'remember'	100.0%
-moqelha'ja'n	mo:xolo	'old person'	100.0%
+moqelha'ja'n	moxlo'	'old person'	100.0%
 .	.	[punc]	100.0%
 'ama'	'ama'	'3SG.NOM'	100.0%
 lanmi	la:n'a:	'listen'	100.0%
@@ -240,7 +240,7 @@ tr`i'	tri'	'house'	100.0%
 ,	,	[punc]	100.0%
 mani	mani'	'much, many'	100.0%
 wakij	wakkiy	'very, very much'	100.0%
-'injāna'	'inja:na'	'Indian'	100.0%
+'injāna'	'inya:na'	'Indian'	100.0%
 t`inliw	tinel	'hole'	100.0%
 ,	,	[punc]	100.0% edited to here
 hija'mi'	hiya:m'i'	'a long time ago'	50.0%
@@ -277,7 +277,7 @@ wojlo	wo:yo	'be born'	50.0%
 'alālu	[unknown]	[unknown]	0.0%
 wija'n	wiyi	'say, do'	100.0%
 ,	,	[punc]	100.0%
-'ama'	'ama'	'3SG.NOM'	100.0%
+'ama'	'ama'	'and'	100.0%
 jḗtr'aw	ye:tr'aw	'all'	100.0%
 jokhōts'	yokoc'	'person, people'	100.0%
 wīhin	wiyi	'say, do'	100.0%
@@ -290,7 +290,7 @@ linets'an	linic'	'talk to, speak'	100.0%
 'ama'	'ama'	'3SG.NOM'	100.0%
 tap	dab	'next, on the other hand, then'	100.0%
 lēmontow	le:mondo'	'name of Tejon chief'	100.0%
-'injāna'in	'inja:na'	'Indian'	100.0%
+'injāna'in	'inya:na'	'Indian'	100.0%
 linets'an	linic'	'talk to, speak'	100.0%
 ,	,	[punc]	100.0%
 jetr'aw	ye:tr'aw	'all'	100.0%
@@ -328,7 +328,7 @@ kotsi	kozhi	'pig:cochino'	100.0%
 ,	,	[punc]	100.0%
 tsiwato'	zhiwato'	'young goat:chivato'	100.0%
 ,	,	[punc]	100.0%
-jet'	yet'	'one'	100.0%
+jet'	ye:t'	'one'	100.0%
 kalētā'in	kale:ta'	'cart'	100.0%
 ʃotrotron	shrotrotr	'pull, drag'	100.0%
 ponoj	bonoy	'two'	100.0%

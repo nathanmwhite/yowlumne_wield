@@ -713,7 +713,7 @@ phoson	po:shru	'blow the breath'	50.0%
 jet'iw	yet'	'one'	100.0%
 qajinka	xaya:	'place, put'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
-sókol	shrogol	'perforate'	50.0%
+sókol	shrogol	'hole'	80.0%
 wija'n	wiyi	'say, do'	100.0%
 ,	,	[punc]	100.0%
 mi'n	mi'in	'soon'	100.0%
