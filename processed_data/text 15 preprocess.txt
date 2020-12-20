@@ -1,4 +1,4 @@
-jet'	yet'	'one'	100.0%
+jet'	ye:t'	'one'	100.0%
 kā'ina	ga:'ina	'woman'	100.0%
 hijam	hiyam	'already, now'	100.0%
 mit'ats`	mit'achr	'slightly, not much'	100.0%
@@ -63,7 +63,7 @@ k`in	kin	'this.SG.PRIM'	100.0%
 'ilk'a	'ilik'	'water'	100.0%
 tʃraw	traw	'that.SG.LOC'	100.0%
 qō'qo'	xo:	'live, exist, be'	100.0%
-jet'	yet'	'one'	100.0%
+jet'	ye:t'	'one'	100.0%
 noh'o'	noh'o'	'bear'	100.0%
 la'nt'ew	lan't'i'	'side'	100.0%
 p`ila	pil	'road'	100.0%
