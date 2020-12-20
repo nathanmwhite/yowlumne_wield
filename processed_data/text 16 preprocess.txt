@@ -139,7 +139,7 @@ tʃr`ānit	tra:nit	'that.SG.ABL'	100.0%
 t`anhin	ta:na	'go'	100.0%
 k`a'jiw	kay'iw	'coyote'	100.0%
 hijam	hiyam	'already, now'	100.0%
-limēk'am	liwe:c'a:	'get cold'	25.0%
+limēk'am	[unknown]	'[unknown]'	0.0%
 li'mk'in	limik'	'prairie falcon'	100.0%
 tʃr`ew	tri'	'house'	100.0%
 .	.	[punc]	100.0%
@@ -247,7 +247,7 @@ tʃr`an	tran	'that.SG.PRIM'	100.0%
 pok'hin	bok'o	'find'	100.0%
 tok̄ojni	dogoy	'dogoy'	100.0%
 wilṣin	wilshrin	'but, in spite of that'	100.0%
-tē'jaw	de'ya:	'haul away'	80.0%
+tē'jaw	de:yaw	'ahead'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
 tʃran	tran	'that.SG.PRIM'	100.0%
 'ohom	'ohom	'NEG'	100.0%
@@ -345,7 +345,7 @@ kojiwnak'	goyow	'win back what one has lost'	100.0%
 min	min	'2SG.GEN'	100.0%
 sasāni	sasa'	'eye'	100.0%
 'ama'	'ama'	'and'	100.0%
-'insis	'insis'	'do well'	100.0%
+'insis	'insis	'good'	100.0%
 wīhin	wiyi	'say, do'	100.0%
 limik'	limik'	'prairie falcon'	100.0%
 .	.	[punc]	100.0%
@@ -361,7 +361,7 @@ tʃr'a'winhin	tr'aw'a	'win from'	100.0%
 jet'	yet'	'one'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
 sasā'in	sasa'	'eye'	100.0%
-tē'jaw	de'ya:	'haul away'	80.0%
+tē'jaw	de:yaw	'ahead'	100.0%
 'ama'	'ama'	'and'	100.0%
 jow	yow	'and, also, again'	100.0%
 jet'	yet'	'one'	100.0%
@@ -418,7 +418,7 @@ nim	nim	'1SG.GEN'	80.0%
 tʃr'a'whin	tr'aw'a	'win from'	100.0%
 sasā'in	sasa'	'eye'	100.0%
 'ama'	'ama'	'and'	100.0%
-'insis	'insis'	'do well'	80.0%
+'insis	'insis	'good'	100.0%
 ma'	ma'	'2SG.NOM'	100.0%
 tʃr`an	tran	'that.SG.PRIM'	100.0%
 'aʃr	'ashr	'actually, really'	100.0%
@@ -551,7 +551,7 @@ nōts`i'	no:chro'	'friend'	100.0%
 'alwutʃr'	'alwutr'	'crow'	100.0%
 tʃran	tran	'that.SG.PRIM'	100.0%
 wijā'an	wiyi	'say, do'	100.0%
-'insis	'insis'	'do well'	100.0%
+'insis	'insis	'good'	100.0%
 na%	na'	'1SG.NOM'	80.0%
 mam	mam	'2SG.PRIM'	80.0%
 'aʃr	'ashr	'actually, really'	100.0%
@@ -626,7 +626,7 @@ wijā'an	wiyi	'say, do'	100.0%
 tʃr`an	tran	'that.SG.PRIM'	100.0%
 'alwutʃr'	'alwutr'	'crow'	100.0%
 .	.	[punc]	100.0%
-'insis	'insis'	'do well'	100.0%
+'insis	'insis	'good'	100.0%
 wijā'an	wiyi	'say, do'	100.0%
 limik'	limik'	'prairie falcon'	100.0%
 .	.	[punc]	100.0%
@@ -820,7 +820,7 @@ tʃrānit`	tra:nit	'that.SG.ABL'	100.0%
 'alwutʃr'	'alwutr'	'crow'	100.0%
 motʃrok'wījhin	modrok'wiyi	'be black'	100.0%
 ,	,	[punc]	100.0%
-tē'jaw	de:yi	'take the lead, get in front'	100.0%
+tē'jaw	de:yaw	'ahead'	100.0%
 tap`	dab	'next, on the other hand, then'	100.0%
 lak`li'	lagil	'different'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
@@ -907,7 +907,7 @@ li'mk'in	limik'	'prairie falcon'	100.0%
 sasā'in	sasa'	'eye'	100.0%
 t'ap'a	t'ap'	't'ap''	100.0%
 .	.	[punc]	100.0%
-tē'jaw	de:yi	'take the lead, get in front'	100.0%
+tē'jaw	de:yaw	'ahead'	100.0%
 mimjātʃr`in	mimyatr	'thunder'	100.0%
 qajāt`aw	xaya:	'place, put'	100.0%
 t'ap'a	t'ap'	't'ap''	100.0%
@@ -1015,7 +1015,7 @@ mak'	mak'	'1DU.INCL.NOM'	100.0%
 quwala'	[unknown]	'[unknown]'	0.0%
 .	.	[punc]	100.0%
 "	"	[punc]	100.0%
-'insis	'insis'	'do well'	100.0%
+'insis	'insis	'good'	100.0%
 ,	,	[punc]	100.0%
 "	"	[punc]	100.0%
 wijhin	wiyi	'say, do'	100.0%
@@ -1069,7 +1069,7 @@ tʃr`an	tran	'that.SG.PRIM'	100.0%
 huwtʃruwsaw	huwtruwus	'game name'	100.0%
 .	.	[punc]	100.0%
 "	"	[punc]	100.0%
-'insis	'insis'	'do well'	100.0%
+'insis	'insis	'good'	100.0%
 "	"	[punc]	100.0%
 wijā'an	wiyi	'say,  do'	100.0%
 k`a'jiw	kay'iw	'coyote'	100.0%
@@ -1206,7 +1206,7 @@ jow	yow	'and, also, again'	100.0%
 'inēsāhin	'ine:sa:	'be good'	100.0%
 naj	nay	'nearly, more than'	100.0%
 tʃra	tra	'that.SG.NOM'	100.0%
-tē'jaw	de:yi	'take the lead, get in front'	100.0%
+tē'jaw	de:yaw	'ahead'	100.0%
 .	.	[punc]	100.0%
 'ama'	'ama'	'and'	100.0%
 jow	yow	'and, also, again'	100.0%
@@ -1295,7 +1295,7 @@ hijuk`	hiyuk	'where.NOM'	100.0%
 tij'ēqo'	de:yi	'take the lead, get in front'	100.0%
 .	.	[punc]	100.0%
 wijā'an	wiyi	'say, do'	100.0%
-tē'jaw	de:yi	'take the lead, get in front'	100.0%
+tē'jaw	de:yaw	'ahead'	100.0%
 t`aqan'an	taxa:	'bring'	100.0%
 limik'	limik'	'prairie falcon'	100.0%
 jow	yow	'and, also, again'	100.0%
@@ -1394,12 +1394,12 @@ tʃran	tran	'that.SG.PRIM'	100.0%
 k'at`litsaqo'	[unknown]	'[unknown]'	0.0%
 hija'wtʃrā'in	hiy'aw'tra:/	'become belligerent'	100.0%
 ?	?	[punc]	100.0%
-jet'	yet'	'one'	100.0%
+jet'	ye:t'	'one'	100.0%
 jow	yow	'and, also, again'	100.0%
 k`a'jiw	kay'iw	'coyote'	100.0%
 'amts`aw	'amcaw	'close to'	100.0%
 qō'o'	xo:	'live, exist, be'	100.0%
-wojlow	[unknown]	'[unknown]'	0.0%
+wojlow	woylow	'[name]'	100.0%
 li'mk'in	limik'	'prairie falcon'	100.0%
 'ākas	'a:gashr	'mother's brother'	100.0%
 ,	,	[punc]	100.0%
@@ -1418,7 +1418,7 @@ tʃr`ok'hin	tro:k'o	'strike, hit'	100.0%
 tʃr`an	tran	'that.SG.PRIM'	100.0%
 k'anal	k'anal	'fir tree'	100.0%
 kutṣēni	guchre'	'tiny'	100.0%
-tē'jaw	de:yi	'take the lead, get in front'	100.0%
+tē'jaw	de:yaw	'ahead'	100.0%
 kut̄ṣōnun	guchrchrun	'[name]'	100.0%
 'olol	'olol	'ball'	100.0%
 .	.	[punc]	100.0%
@@ -1966,7 +1966,7 @@ wast`oqo'	wasto	'be possible'	100.0%
 hētṣi'	he:zhi'	'today'	100.0%
 kotʃr'	go:tr'o	'overtake'	100.0%
 .	.	[punc]	100.0%
-'insis	'insis'	'do well'	50.0%
+'insis	'insis	'good'	100.0%
 ma'	ma'	'2SG.NOM'	100.0%
 tʃran	tran	'that.SG.PRIM'	100.0%
 'aʃr	'ashr	'actually, really'	100.0%
@@ -1982,7 +1982,7 @@ t`aqan'ijaw	ta:na	'go'	100.0%
 'ama'	'ama'	'and'	100.0%
 ʃrālikhin	sha:lak'	'wake up (itr)'	100.0%
 wak̄`i	wakkiy	'very, very much'	100.0%
-'insis	'insis'	'do well'	50.0%
+'insis	'insis	'good'	100.0%
 ,	,	[punc]	100.0%
 wijā'an	wiyi	'say, do'	100.0%
 hamna'	hamna'	'[name]'	100.0%
@@ -2137,7 +2137,7 @@ li'mk'in	limik'	'prairie falcon'	100.0%
 ,	,	[punc]	100.0%
 qo'o'	xo:	'live, exist, be'	50.0%
 wa'	wa'	'far away'	100.0%
-wojlow	[unknown]	'[unknown]'	0.0%
+wojlow	woylow	'[name]'	100.0%
 ,	,	[punc]	100.0%
 tos̄ithin	do:so	'report, tell about'	100.0%
 mimjatʃr`	mimyatr	'thunder'	100.0%
