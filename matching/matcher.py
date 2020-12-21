@@ -14,20 +14,6 @@ import WordSeries
 warnings.filterwarnings("ignore")
 logging.basicConfig(level=logging.DEBUG)
 
-def try_levenshtein(word, matched):
-    ws = WordSeries.WordSeries()
-    a = ws.get_series(word)
-    b = ws.get_series(matched)
-    out = levenshtein.levenshtein(a, b)
-    print(a, b, out)
-
-def test_cases():
-    try_levenshtein('waki', 'wakiy')
-    try_levenshtein('hiyuk', 'hiyuk')
-    try_levenshtein('hoho', 'hǫ:hǫ')
-    try_levenshtein('pānahin', 'pana')
-    try_levenshtein('pokhin', "bok'o")
-
 class Matcher:
     def __init__(self):
         temp_df = pd.read_csv('../raw_data/word_lists_csv/vocab.csv',
