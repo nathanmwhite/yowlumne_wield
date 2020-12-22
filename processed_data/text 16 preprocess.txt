@@ -368,7 +368,7 @@ jet'	ye:t'	'one'	100.0%
 wats'wishin	wats'wis	'bet'	80.0%
 'ama'	'ama'	'3SG.NOM'	100.0%
 tʃr`an	tran	'that.SG.PRIM'	100.0%
-jow	yo:w	'go home'	100.0%
+jow	yow	'and, also, again'	100.0%
 tʃr'a'winhin	tr'aw'a	'win from'	100.0%
 .	.	[punc]	100.0%
 "	"	[punc]	100.0%
