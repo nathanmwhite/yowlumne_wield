@@ -337,7 +337,7 @@ lo'lhin	lo:l'o:	'leave behind, let go of, quit'	100.0%
 .	.	[punc]	100.0%
 'ama'	'ama'	'and'	100.0%
 p'ohō'it'	p'oho:'itr'	'weasel'	100.0%
-ki'ij	gi'iy	'oppose'	100.0%
+ki'ij	gi'iy	'enemy'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
 wijā'an	wiyi	'say, do'	100.0%
 tʃran	tran	'that.SG.PRIM'	100.0%
