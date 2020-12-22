@@ -2054,7 +2054,7 @@ t`anqashin	ta:na	'go'	100.0%
 'ama'	'ama'	'and'	100.0%
 wīmi	wiyi	'say, do'	100.0%
 hut`hun	hudu	'recognize, know'	80.0%
-tʃraw	traw	'if'	100.0%
+tʃraw	traw	'that.SG.LOC'	100.0%
 t`anhin	ta:na	'go'	100.0%
 limik'	limik'	'prairie falcon'	100.0%
 jow	yow	'and, also, again'	100.0%
