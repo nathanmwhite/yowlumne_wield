@@ -337,7 +337,7 @@ lo'lhin	lo:l'o:	'leave behind, let go of, quit'	100.0%
 .	.	[punc]	100.0%
 'ama'	'ama'	'and'	100.0%
 p'ohō'it'	p'oho:'itr'	'weasel'	100.0%
-ki'ij	gi'iy	'oppose'	100.0%
+ki'ij	gi'iy	'enemy'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
 wijā'an	wiyi	'say, do'	100.0%
 tʃran	tran	'that.SG.PRIM'	100.0%
@@ -368,7 +368,7 @@ jet'	ye:t'	'one'	100.0%
 wats'wishin	wats'wis	'bet'	80.0%
 'ama'	'ama'	'3SG.NOM'	100.0%
 tʃr`an	tran	'that.SG.PRIM'	100.0%
-jow	yo:w	'go home'	100.0%
+jow	yow	'and, also, again'	100.0%
 tʃr'a'winhin	tr'aw'a	'win from'	100.0%
 .	.	[punc]	100.0%
 "	"	[punc]	100.0%
@@ -1033,7 +1033,7 @@ ha'jāliw	hay'al	'day'	100.0%
 mi'in	mi'in	'soon'	100.0%
 k'at`lītsa	[unknown]	'[unknown]'	0.0%
 limik'	limik'	'prairie falcon'	100.0%
-jow	yow	'go home'	100.0%
+jow	yow	'and, also, again'	100.0%
 k`a'jiw	kay'iw	'coyote'	100.0%
 .	.	[punc]	100.0%
 k`a'jiw	kay'iw	'coyote'	100.0%
@@ -1386,7 +1386,7 @@ jētʃr'aw	ye:tr'aw	'all'	100.0%
 'ama'	'ama'	'and'	100.0%
 majni	mayni	'AR.EMPH'	100.0%
 tʃr`ējiqla- &
-qo'	xo:	'live, exist, be'	25.0%
+qo'	[unknown]	'[unknown]'	0.0%
 wijā'an	wiyi	'say, do'	100.0%
 hawjēno'uk`	hawye:no'uk	'what.kind.SEC'	100.0%
 ma'	ma'	'2SG.NOM'	100.0%
@@ -2054,7 +2054,7 @@ t`anqashin	ta:na	'go'	100.0%
 'ama'	'ama'	'and'	100.0%
 wīmi	wiyi	'say, do'	100.0%
 hut`hun	hudu	'recognize, know'	80.0%
-tʃraw	traw	'if'	100.0%
+tʃraw	traw	'that.SG.LOC'	100.0%
 t`anhin	ta:na	'go'	100.0%
 limik'	limik'	'prairie falcon'	100.0%
 jow	yow	'and, also, again'	100.0%

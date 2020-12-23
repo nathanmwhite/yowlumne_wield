@@ -635,7 +635,7 @@ qo'qo'	xo:	'live, exist, be'	100.0%
 'ama'	'ama'	'and'	100.0%
 tr`aw	traw	'that.SG.LOC'	100.0%
 tran	tran	'that.SG.PRIM'	100.0%
-kawawlahin	[unknown]	'[unknown]'	0.0%
+kawawlahin	giw'iw'wiyi	'turn the side parallel'	80.0%
 tównow	[unknown]	'[unknown]'	0.0%
 tr`aw	traw	'that.SG.LOC'	100.0%
 'ama'	'ama'	'and'	100.0%
