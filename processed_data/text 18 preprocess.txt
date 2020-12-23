@@ -1,0 +1,385 @@
+mikit̄i	mikitti	'[name]'	100.0%
+moqlo'	moxlo'	'old person'	100.0%
+kā'ina	ga:'ina	'woman'	100.0%
+ʃrik'īt'īp'aw	shrik'iyt'iyp'aw	'[name]'	100.0%
+tʃr`ēmin	tre:min	'one who owns a house'	100.0%
+.	.	[punc]	100.0%
+noh'o'	noh'o'	'bear'	100.0%
+t`awtʃr`āhin	tawtra:	'kill tr'	100.0%
+mikit̄ē'in	mikitti	'[name]'	100.0%
+wits`epa	wichreb	'offspring, child'	100.0%
+hohlīlaw	hohliylaw	'[name]'	100.0%
+.	.	[punc]	100.0%
+mikit̄i	mikitti	'[name]'	100.0%
+wijā'an	wiyi	'say, do'	100.0%
+'amin	'amin	'3SG.GEN'	100.0%
+wits`ēpa	wichreb	'offspring, child'	100.0%
+tʃr`aw	traw	'that.SG.LOC'	100.0%
+mihi'	mihi'	'2SG.NOM FUT'	100.0%
+lapāhin	laba:y	'gather greens'	100.0%
+qolom	xolom	'clover'	100.0%
+'ama'	'ama'	'and'	100.0%
+ma'	ma'	'2SG.NOM'	100.0%
+tʃr`an	tran	'that.SG.PRIM'	100.0%
+'ohom	'ohom	'NEG'	100.0%
+qat`en	xata	'eat'	100.0%
+tʃrānit	tra:nit	'that.SG.ABL'	100.0%
+wilʃrin	wilshrin	'but, in spite of that'	100.0%
+ma'	ma'	'2SG.NOM'	100.0%
+tʃran	tran	'that.SG.PRIM'	100.0%
+t`aqa'	taxa:	'bring'	100.0%
+ma%	ma'	'2SG.NOM'	100.0%
+tʃran	tran	'that.SG.PRIM'	100.0%
+'ama	'ama'	'and'	100.0%
+ma%	ma'	'2SG.NOM'	100.0%
+tʃr`an	tran	'that.SG.PRIM'	100.0%
+k`ēnit	ke:nit	'this.SG.ABL'	100.0%
+ts'ēta'	c'e:da:	'gather greens, eat greens (N-->V) itr/tr?'	100.0%
+.	.	[punc]	100.0%
+mikit̄ē'in	mikitti	'[name]'	100.0%
+wits`ep'	wichreb	'offspring, child'	100.0%
+t`anhin	ta:na	'go'	100.0%
+lapjits'	laba:y	'gather greens'	100.0%
+'ama'	'ama'	'and'	100.0%
+tʃraw	traw	'that.SG.LOC'	100.0%
+lapajhin	laba:y	'gather greens'	100.0%
+manē'in	mani'	'much, many'	100.0%
+'ama'	'ama'	'3SG.NOM'	100.0%
+wīmi	wiyi	'say, do'	100.0%
+hētam	he:dam	'nearby'	100.0%
+tʃraw	traw	'that.SG.LOC'	100.0%
+huloʃrhun	hulo:shr	'sit down'	100.0%
+'ama'	'ama'	'3SG.NOM'	100.0%
+tʃr`ānit	tra:nit	'that.SG.ABL'	100.0%
+het`nit	hetnit	'right there'	100.0%
+ts'ētāhin	c'e:da:	'gather greens, eat greens (N-->V) itr/tr?'	100.0%
+.	.	[punc]	100.0%
+'ama'	'ama'	'and'	100.0%
+tʃraw	traw	'that.SG.LOC'	100.0%
+nohit	noh'o'	'eat (of bear)'	100.0%
+jētʃr'aw	ye:tr'aw	'all'	100.0%
+ts'ōmut`	c'o:mu	'destroy, devour'	100.0%
+'amin	'amin	'3SG.GEN'	100.0%
+pōlut`	po:lut	'body'	100.0%
+jow	yow	'and, also, again'	100.0%
+'amin	'amin	'3SG.GEN'	100.0%
+t`a'an	ta'an'	'too'	100.0%
+tʃra	tra	'that.SG.NOM'	100.0%
+qolom	xolom	'clover'	100.0%
+,	,	[punc]	100.0%
+jētʃr'aw	ye:tr'aw	'all'	100.0%
+qotʃr'oj	xotr'oy	'ground, soil'	100.0%
+natat&
+wālāhin	nadadwiyi	'become flat, become smooth'	100.0%
+.	.	[punc]	100.0%
+'ama'	'ama'	'and'	100.0%
+mikit̄i	mikitti	'[name]'	100.0%
+t`aqinhin	taxa:	'bring'	100.0%
+'ohjihni'	'ohyo:	'want, look for (YT has root ?oyoxo)'	100.0%
+'amin	'amin	'3SG.GEN'	100.0%
+wits`ēpa	wichreb	'offspring, child'	100.0%
+.	.	[punc]	100.0%
+tw̥tw̥tw̥tw̥	tw̥	'[sound]'	100.0%
+wijā'an	wiyi	'say, do'	100.0%
+mikit̄i	mikitti	'[name]'	100.0%
+.	.	[punc]	100.0%
+ha'ts`aqom	ha'zhaxom	'finally, at last'	100.0%
+mikit̄i	mikitti	'[name]'	100.0%
+pok'hin	bok'o	'find'	100.0%
+p`ājaq	pa:yax	'blood'	100.0%
+qolōmin	xolom	'clover'	100.0%
+t'ap't'ap'iw	t'ap't'ap'	'leaf'	100.0%
+.	.	[punc]	100.0%
+'ama'	'ama'	'and'	100.0%
+tʃran	tran	'that.SG.PRIM'	100.0%
+t`anāhin	ta:na	'go'	100.0%
+'amin	'amin	'3SG.GEN'	100.0%
+tʃr`ew	tri'	'house'	100.0%
+'ama'	'ama'	'and'	100.0%
+tʃran	tran	'that.SG.PRIM'	100.0%
+qajāhin	xaya:	'place, put'	100.0%
+k'a'wōtaʃriw	k'aw'o:dashr	'gourd; ladybug'	100.0%
+'ama'	'ama'	'and'	100.0%
+tʃran	tran	'that.SG.PRIM'	100.0%
+wīmi	wiyi	'say, do'	100.0%
+tʃromhin	tromo	'cover up (entirely)'	100.0%
+.	.	[punc]	100.0%
+t`awinmi	tawin	'to become morning'	100.0%
+hija'm	hiyam'	'next morning'	100.0%
+tʃr'aj&
+tʃr'aj	tr'aytr'ay	'bird sp.'	100.0%
+'ilikhin	'ilik	'sing'	100.0%
+,	,	[punc]	100.0%
+'ama'	'ama'	'and'	100.0%
+mikit̄i	mikitti	'[name]'	100.0%
+le'nts`aqo	lets'a	'talk to'	100.0%
+tʃran	tran	'that.SG.PRIM'	100.0%
+wit`ēpa	witeb	'child'	100.0%
+'ama'	'ama'	'and'	100.0%
+tʃran	tran	'that.SG.PRIM'	100.0%
+wijmi	wiyi	'say, do'	100.0%
+'atʃr`ilhin	'atral	'open'	100.0%
+'ama'	'ama'	'3SG.NOM'	100.0%
+hijam	hiyam	'already, now'	100.0%
+tʃraw	traw	'that.SG.LOC'	100.0%
+qo'qōhin	xo:	'live, exist, be'	100.0%
+wit`ep'	witeb	'child'	100.0%
+.	.	[punc]	100.0%
+'ama'	'ama'	'3SG.NOM'	100.0%
+pōhutʃr'hun	bo:hutr'	'grow up'	100.0%
+tʃra	tra	'that.SG.NOM'	100.0%
+nōt'o'	no:to'	'east'	100.0%
+.	.	[punc]	100.0%
+'ama	'ama'	'and'	100.0%
+nop`ōp`in	nopop	'father'	100.0%
+'amin	'amin	'3SG.GEN'	100.0%
+tʃr'alap`ni	tr'alap	'bow'	100.0%
+jow	yow	'and, also, again'	100.0%
+'amin	'amin	'3SG.GEN'	100.0%
+t'ujosnu	t'uyos	'arrow'	100.0%
+ho'jleqo'	hoy'le:	'hunt'	100.0%
+.	.	[punc]	100.0%
+hijam	hiyam	'already, now'	100.0%
+pōhutʃr'mo	bo:hutr'	'grow up'	100.0%
+pinethin	bine:t	'ask'	100.0%
+mikit̄ē'in	mikitti	'[name]'	100.0%
+watuk	watuk	'who.NOM'	100.0%
+'amin	'amin	'3SG.GEN'	100.0%
+nop`op	nopop	'father'	100.0%
+jow	yow	'and, also, again'	100.0%
+'amin	'amin	'3SG.GEN'	100.0%
+no'om	no'om	'mother'	100.0%
+.	.	[punc]	100.0%
+'ohom	'ohom	'NEG'	100.0%
+tʃran	tran	'that.SG.PRIM'	100.0%
+tē'jaw	de:yaw	'ahead'	100.0%
+tos̄ot	do:so	'report, tell about'	100.0%
+'ohjoqōhin	'ohyo:	'want, look for (YT has root ?oyoxo)'	100.0%
+wilʃrin	wilshrin	'but, in spite of that'	100.0%
+t`a'an	ta'an'	'too'	100.0%
+tʃran	tran	'that.SG.PRIM'	100.0%
+'aʃr	'ashr	'actually, really'	100.0%
+tik'naw	dik'naw	'behind'	100.0%
+tos̄ithin	do:so	'report, tell about'	100.0%
+.	.	[punc]	100.0%
+'ama'	'ama'	'and'	100.0%
+tʃrānit`	tra:nit	'that.SG.ABL'	100.0%
+tos̄ithin	do:so	'report, tell about'	100.0%
+mikit̄ē'in	mikitti	'[name]'	100.0%
+t`anhin	ta:na	'go'	100.0%
+t`awtʃrihni'	tawtra:	'kill tr'	100.0%
+noh'ō'in	noh'o'	'bear'	100.0%
+.	.	[punc]	100.0%
+t`anhin	ta:na	'go'	100.0%
+lomt`ow	lomit	'mountain'	100.0%
+'amts`aw	'amcaw	'close to'	100.0%
+telhol	delhol	'[name]'	25.0%
+.	.	[punc]	100.0%
+tʃr'elsi'	tr'elsi'	'bird sp.'	100.0%
+qo'qōhin	xo:	'live, exist, be'	100.0%
+tap`	dab	'next, on the other hand, then'	100.0%
+tʃr`ip`in	tripin	'on top of'	100.0%
+lomt`o	lomit	'mountain'	100.0%
+,	,	[punc]	100.0%
+tʃrānit	tra:nit	'that.SG.ABL'	100.0%
+wōsajnaqo'	wo:sayna:	'whistle'	100.0%
+'ama'	'ama'	'and'	100.0%
+pohotʃr'on	bo:hutr'	'grow up'	100.0%
+lomit`	lomit	'mountain'	100.0%
+'amin	'amin	'3SG.GEN'	100.0%
+wōsajnāt`aw	wo:sayna:	'whistle'	100.0%
+.	.	[punc]	100.0%
+mikit̄ē'in	mikitti	'[name]'	100.0%
+'ēnas	'e:nas	'grandfather, man's grandchild'	100.0%
+qo'qōhin	xo:	'live, exist, be'	100.0%
+p'ēp'at'iw	p'e:p'at'iw	'on top of'	100.0%
+tʃran	tran	'that.SG.PRIM'	100.0%
+lomt`o	lomit	'mountain'	100.0%
+.	.	[punc]	100.0%
+'ama'	'ama'	'and'	100.0%
+tʃra	tra	'that.SG.NOM'	100.0%
+noh'o'	noh'o'	'bear'	100.0%
+t`ishin	tisi	'come out'	100.0%
+'ama'	'ama'	'3SG.NOM'	100.0%
+tʃraw	traw	'that.SG.LOC'	100.0%
+kitewaqōhin	gidiw	'surround'	100.0%
+sil̄iw	silel	'rock'	100.0%
+.	.	[punc]	100.0%
+wak̄`i	wakkiy	'very, very much'	100.0%
+tʃrip`ni'	tripni'	'one endowed with magic powers'	100.0%
+tʃra	tra	'that.SG.NOM'	100.0%
+noh'o'	noh'o'	'bear'	100.0%
+.	.	[punc]	100.0%
+wakakwīk'a	wak'ak'wiyi	'open the mouth'	100.0%
+wijā'an	wiyi	'say, do'	100.0%
+tʃr`an	tran	'that.SG.PRIM'	100.0%
+mikit̄ē'in	mikitti	'[name]'	100.0%
+'ēnas	'e:nas	'grandfather, man's grandchild'	100.0%
+ʃri'lqan̄a'	shril'i	'see'	100.0%
+'anki	'angi'	'Q'	100.0%
+min	min	'2SG.GEN'	100.0%
+tʃr`ejijaw	tre:yiy	'teeth'	100.0%
+qō'qo'	xo:	'live, exist, be'	100.0%
+ʃriliʃr	shrilishr	'hair'	100.0%
+.	.	[punc]	100.0%
+'ama'	'ama'	'and'	100.0%
+wakakwīhin	wak'ak'wiyi	'open the mouth'	100.0%
+tʃra	tra	'that.SG.NOM'	100.0%
+noh'o'	noh'o'	'bear'	100.0%
+'ama'	'ama'	'and'	100.0%
+mikit̄ē'in	mikitti	'[name]'	100.0%
+'ēnas	'e:nas	'grandfather, man's grandchild'	100.0%
+wīhin	wiyi	'say, do'	100.0%
+ʃrilitk'a	shrilit'	'jump'	100.0%
+nim	nim	'1SG.GEN'	100.0%
+samaw	sama'	'mouth'	100.0%
+!	!	[punc]	100.0%
+'ama'	'ama'	'and'	100.0% [continue here]
+kōpinmi	go:bin	'enter'	40.0%
+hijam	hiyam	'already, now'	100.0%
+noh'ō'in	noh'o'	'bear'	100.0%
+kopin	go:bin	'enter'	100.0%
+t`otʃr`ow	do'o	'touch with the penis'	25.0%
+ts`ishin	chri'in	'waylay'	70.0%
+'amin	'amin	'3SG.GEN'	100.0%
+'uʃrk'a	'ushruk'	'heart'	40.0%
+,	,	[punc]	100.0%
+'ama'	'ama'	'3SG.NOM'	100.0%
+wīmi	wip'i	'jerk up quickly'	62.5%
+t`ishin	tisi	'come out'	62.5%
+'amin	'amin	'3SG.GEN'	100.0%
+tik'naw	dik'e:n	'stay behind'	70.0%
+'ama'	'ama'	'3SG.NOM'	100.0%
+tʃran	tran	'that.SG.PRIM'	100.0%
+t`awtʃram	tawtra:	'kill tr'	100.0%
+ts'ot`hun	c'o:du	'pull the hair, to skin'	62.5%
+'ama'	'ama'	'3SG.NOM'	100.0%
+tʃran	tran	'that.SG.PRIM'	100.0%
+wīmi	wip'i	'jerk up quickly'	62.5%
+pilenhin	bilen'	'make a bundle'	75.0%
+'amin	'amin	'3SG.GEN'	100.0%
+ts'u'lja	c'ala	'hatch'	0.0%
+'ama'	'ama'	'3SG.NOM'	100.0%
+tʃran	tran	'that.SG.PRIM'	100.0%
+t`a	dab	'next, on the other hand, then'	50.0%
+nāhin	na'	'1SG.NOM'	50.0%
+tʃr`ew	traw	'if'	50.0%
+'amin	'amin	'3SG.GEN'	100.0%
+,	,	[punc]	100.0%
+'ama'	'ama'	'3SG.NOM'	100.0%
+tʃr`an	tran	'that.SG.PRIM'	100.0%
+qajāhin	xaya:	'place, put'	100.0%
+mikit̄ē'in	mokye:'	'take a wife'	25.0%
+hipij'ijaw	hik'ey'iy	'playground'	62.5%
+.	.	[punc]	100.0%
+'ama'	'ama'	'3SG.NOM'	100.0%
+wīmi	wip'i	'jerk up quickly'	62.5%
+t`anhin	ta:na	'go'	62.5%
+tʃr`ew	traw	'if'	50.0%
+'ama'	'ama'	'3SG.NOM'	100.0%
+wīhin	widin	'roll sth'	70.0%
+mikit̄ē'in	mokye:'	'take a wife'	25.0%
+haʃrāk'inqo'na'	hashra:k'in	'be thirsty'	0.0%
+.	.	[punc]	100.0%
+'ama'	'ama'	'3SG.NOM'	100.0%
+tʃran	tran	'that.SG.PRIM'	100.0%
+wanhin	wa:na	'give'	62.5%
+'ilk'āni	'i:lwiyi	'blow on (as wind)'	35.7%
+'ats'niw	'ac'	'container'	50.0%
+'amin	'amin	'3SG.GEN'	100.0%
+qo'o'ni	xo'oc	'stay behind'	10.0%
+wilʃrin	wilshrin	'but, in spite of that'	75.0%
+mikit̄i	midi	'sprinkle'	25.0%
+wijā'an	wa:'al	'breakfast'	10.0%
+k`i	ki	'when'	100.0%
+tap`	dab	'next, on the other hand, then'	100.0%
+totʃr'i	dotr''in	'consider to be bad'	75.0%
+.	.	[punc]	100.0%
+'ama	'ama'	'3SG.NOM'	70.0%
+tʃrānit`	tra:nit	'that.SG.ABL'	100.0%
+t`ishin	tisi	'come out'	62.5%
+mikit̄i	midi	'sprinkle'	25.0%
+'ama'	'ama'	'3SG.NOM'	100.0%
+ipitʃrhin	ipitʃrhin	[foreign]	100.0%
+tʃran	tran	'that.SG.PRIM'	100.0%
+'ilk'a	'e:k'a	'see, look at'	25.0%
+'ama	'ama'	'3SG.NOM'	70.0%
+tʃraw	traw	'if'	100.0%
+ts'ujōhun	c'uyo:	'urinate'	100.0%
+'ats'iw	'ac'	'container'	100.0%
+.	.	[punc]	100.0%
+'ama	'ama'	'3SG.NOM'	70.0%
+tʃrāni	tra:ni	'that.SG.SEC'	100.0%
+tʃran	tran	'that.SG.PRIM'	100.0%
+t`aqāsithin	datr'at	'track'	10.0%
+.	.	[punc]	100.0%
+wilʃrin	wilshrin	'but, in spite of that'	75.0%
+tʃran	tran	'that.SG.PRIM'	100.0%
+'awatʃrhin	'awa:tr	'dislike'	100.0%
+.	.	[punc]	100.0%
+līmk'a	laga:	'spend the night'	25.0%
+t`ank'a	ta:na	'go'	62.5%
+,	,	[punc]	100.0%
+hipejk'a	hibe:y	'bring water'	40.0%
+'inis̄a	'ine:sa:	'be good'	75.0%
+'ilk'a	'e:k'a	'see, look at'	25.0%
+!	!	[punc]	100.0%
+k`i	ki	'when'	100.0%
+tap`	dab	'next, on the other hand, then'	100.0%
+totʃr'i'	dotr''in	'consider to be bad'	75.0%
+.	.	[punc]	100.0%
+'ama'	'ama'	'3SG.NOM'	100.0%
+t`ishin	tisi	'come out'	62.5%
+mikit̄i	midi	'sprinkle'	25.0%
+'ama'	'ama'	'3SG.NOM'	100.0%
+jow	yo:w	'go home'	100.0%
+tʃraw	traw	'if'	100.0%
+ts'ujōhun	c'uyo:	'urinate'	100.0%
+'ama'	'ama'	'3SG.NOM'	100.0%
+patʃr	batr	'as usual'	100.0%
+tʃran	tran	'that.SG.PRIM'	100.0%
+t`aqāhin	taxa:	'bring'	100.0%
+.	.	[punc]	100.0%
+totʃr'i'	dotr''in	'consider to be bad'	75.0%
+tap	dab	'next, on the other hand, then'	100.0%
+k`i	ki	'when'	100.0%
+līmk'a	laga:	'spend the night'	25.0%
+!	!	[punc]	100.0%
+hipejk'a	hibe:y	'bring water'	40.0%
+'inisha	'ine:sa:	'be good'	75.0%
+wijā'an	wa:'al	'breakfast'	10.0%
+tʃran	tran	'that.SG.PRIM'	100.0%
+.	.	[punc]	100.0%
+'ama'	'ama'	'3SG.NOM'	100.0%
+t`anhin	ta:na	'go'	62.5%
+kip`jits'	kiyi	'touch'	25.0%
+mikit̄i	midi	'sprinkle'	25.0%
+'ilk'aw	'ile:	'fan'	62.5%
+'ama'	'ama'	'3SG.NOM'	100.0%
+tʃraw	traw	'if'	100.0%
+ʃri'lhin	shri'e:l	'rain'	40.0%
+tʃrā'in	tra:'in	'that.SG.GEN'	100.0%
+noh'ō'in	noh'o'	'bear'	100.0%
+ts'u'jlja	c'ala	'hatch'	0.0%
+.	.	[punc]	100.0%
+'ama'	'ama'	'3SG.NOM'	100.0%
+hut`hun	hudu	'recognize, know'	62.5%
+wāt`inuk`	wa:tinuk	'who.GEN'	100.0%
+ts'uluj	c'uluy	'hide, skin'	100.0%
+'ama'	'ama'	'3SG.NOM'	100.0%
+wak̄`i	wik'	'2DU.VOC.IMPER'	0.0%
+hit'iwlāhin	hiyt'iwla:/	'be glad'	81.2%
+.	.	[punc]	100.0%
+hit'iwlāhin	hiyt'iwla:/	'be glad'	81.2%
+me'its`i	me'zhi'	'because'	50.0%
+'amin	'amin	'3SG.GEN'	100.0%
+'ēnas	'e:nas	'grandfather, man's grandchild'	100.0%
+t`awtʃr`āhin	tawtra:	'kill tr'	100.0%
+noh'ō'in	noh'o'	'bear'	100.0%
+k`i	ki	'when'	100.0%
+'amin	'amin	'3SG.GEN'	100.0%
+tʃra	tra	'that.SG.NOM'	100.0%
+no'ōmu	no'om	'mother'	70.0%
+t`awtʃr`aqōhin	tawtra:	'kill tr'	100.0%
+.	.	[punc]	100.0%
+		[punc]	100.0%
