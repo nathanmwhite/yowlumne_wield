@@ -1,5 +1,6 @@
-#! /usr/bin/python3
+#!/usr/bin/python3
 
+import os
 import sys
 
 import logging
@@ -12,9 +13,9 @@ class WordSeries:
 
     def populate_symbols(self):
         '''instantiate dictionary of symbol_series'''
-        filename = "symbol_series.txt"
+        filepath = os.path.join(os.path.dirname(__file__), 'symbol_series.txt')
         self._symbol_dict = {}
-        with open(filename, 'r') as f:
+        with open(filepath, 'r') as f:
             for line in f.readlines():
                 data = line.strip().split(' ')
                 for item in data:
