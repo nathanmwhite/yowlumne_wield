@@ -202,7 +202,7 @@ mok`jēhin	mokye:/	'fornicate, take a wife'	100.0%
 .	.	[punc]	100.0%
 'ama'	'ama'	'and'	100.0%
 'ohom	'ohom	'NEG'	100.0%
-wā'ā'in	[unknown]	'[unknown]'	0.0%
+wā'ā'in	wa'a:'in	'be a long time'	50.0%
 t`anmi	ta:na	'go'	100.0%
 'uq'uqum	[unknown]	'[unknown]'	0.0%
 wits`ip`nāhin	wichribna:	'give birth to a child'	100.0%
