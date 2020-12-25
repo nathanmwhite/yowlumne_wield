@@ -1,4 +1,5 @@
 import logging
+import os
 import re
 import string
 import sys
@@ -16,7 +17,8 @@ logging.basicConfig(level=logging.DEBUG)
 
 class Matcher:
     def __init__(self):
-        temp_df = pd.read_csv('../raw_data/word_lists_csv/vocab.csv',
+        vocab_file = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'raw_data', 'word_lists_csv', 'vocab.csv')
+        temp_df = pd.read_csv(vocab_file,
                      sep='\t',
                      index_col=0,
                      keep_default_na=False,
@@ -34,7 +36,8 @@ class Matcher:
             return word
 
     def file_prep(self, filename):
-        f = open('../raw_data/training_text/' + filename, 'r')
+        filepath = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'raw_data', 'training_text', filename)
+        f = open(filepath, 'r')
         lines = f.readlines()
         f.close()
         data = ' '.join(l.strip() for l in lines[2:])
@@ -45,8 +48,8 @@ class Matcher:
         data = re.sub('\)', ' )', data)
         data = re.sub('=', ' = ', data)
         data = re.sub('!', ' !', data)
-#        data = re.sub(':', ' : ', data) # this is possible because Harrington doesn't use : for length; it fails for Newman
-        data = re.sub(':', '', data)
+        data = re.sub(':', ' : ', data) # this is possible because Harrington doesn't use : for length; it fails for Newman
+        #data = re.sub(':', '', data)
         data = re.sub(';', ' ; ', data)
         data = re.sub('  ', ' ', data)
         data = re.sub('  ', ' ', data)
@@ -162,7 +165,8 @@ class Matcher:
             else:
                 results.append(self.match_word(word))
         product = zip(data, results)
-        f = open('../processed_data/' + filename, 'w')
+        processed_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'processed_data', filename)
+        f = open(processed_path, 'w')
         for line in product:
             f.write('\t'.join(line) + '\n')
         f.close()
