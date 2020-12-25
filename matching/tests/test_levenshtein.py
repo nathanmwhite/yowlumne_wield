@@ -1,7 +1,12 @@
+#!/usr/bin/python3
+# This script tests the code containing the Levenshtein distance calculations.
+# As with the contents of the "tests" folder, $PYTHONPATH must be set to the parent folder
+#  (i.e., the repository "yowlumne_wield" main folder)
+
 import unittest
 
-import WordSeries
-import levenshtein
+from matching import WordSeries
+from matching import levenshtein
 
 class TestLevenshtein(unittest.TestCase):
     def setUp(self):
