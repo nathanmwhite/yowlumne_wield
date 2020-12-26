@@ -566,7 +566,7 @@
 564	no:mno:mwiyi	'pucker in and out'	()	VB
 565	non'o	'fornicate with a woman'	()	VB
 566	non'wos'	'sleep'	(Newman book 1 story 3)	VB
-567	nowochr	'befriend'	()	VB
+567	nowochr	'befriend'	(Newman 1944: 15)	VB
 568	nuko:m'	'bend, double over'	()	VB
 569	num'u	'hold with the anus'	()	VB
 570	p'a:xan	'be afraid'	()	VB
@@ -944,671 +944,679 @@
 942	gidax	'unexpectedly'	(Newman notebook 2)	RB
 943	yiy'ca	'alone'	(Newman notebook 3)	RB
 944	na'ni	'sometimes'	(Vera & Clark 2002: 358)	RB
-945	'a:wuw	'across, on the other side of, to the shore'	(Newman 1944: 238 and elsewhere)	PP
-946	'abiy	'with.ACCOMP'	(Newman 1944: 238)	PP
-947	yidwas	'with.ACCOMP'	(Newman 1944: 238)	PP
-948	'amcaw	'close to'	(Gamble 1994: 99)	PP
-949	p'e:p'at'iw	'on top of'	(Gamble 1994: 62)	PP
-950	dil'naw	'on the other side of'	(Newman 1944: 239)	PP
-951	tripin	'on top of'	(Kroeber 1906: 301)	PP
-952	'adil	'under'	(Kroeber 1906: 301)	PP
-953	go:bin	'inside'	(Kroeber 1906: 306)	PP
-954	'a:cay	'mahogany'	(Shipley; based on Newman)	NN
-955	'a:c'ec'	'large wild artichoke'	(Shipley; based on Newman)	NN
-956	'a:dra'	'ax'	(Shipley; based on Newman)	NN
-957	'a:gashr	'mother's brother'	(Shipley; based on Newman)	NN
-958	'ac'	'container'	(Shipley; based on Newman)	NN
-959	'adre:yas	'twin'	(Newman 1944)	NN
-960	'allewas	'handgame, guessing game'	(Shipley; based on Newman)	NN
-961	'alwutr'	'crow'	(Shipley; based on Newman)	NN
-962	'anas	'large pack-basket'	(Newman 1944)	NN
-963	'antruw	'shaman'	(Newman 1944)	NN
-964	'aptruw	'manzanita'	(Shipley; based on Newman)	NN
-965	'aw'ashr	'chin'	(Shipley; based on Newman)	NN
-966	'axic'	'bed'	(Shipley; based on Newman)	NN
-967	'ayab	'magnesium-like mineral'	(Shipley; based on Newman)	NN
-968	'azhr'a:zhruk'	'mole (animal)'	(Shipley; based on Newman)	NN
-969	baba'	'paternal aunt'	(Newman 1944)	NN
-970	bal'aw	'hole, cave under a rock'	(Shipley; based on Newman)	NN
-971	balik'	'belly'	(Shipley; based on Newman)	NN
-972	baluw	'downhill, west'	(Shipley; Newman 1944: 220)	NN
-973	ban'itr'	'intestines'	(Shipley; based on Newman)	NN
-974	ba'o:nay	'wasp'	(Newman 1944)	NN
-975	bashr	'marrow'	(Shipley; based on Newman)	NN
-976	bay'a'	'right side, right hand'	(Shipley; based on Newman)	NN
-977	be:mamguc'	'hummingbird'	(Newman 1944)	NN
-978	ben	'food buried under ashes'	(Newman notebook 3)	NN
-979	be:na'	'comb'	(Newman 1944)	NN
-980	bidik'	'excrement'	(Shipley; based on Newman)	NN
-981	bim'tran'a'	'stump (of tree)'	(Shipley; based on Newman)	NN
-982	bo:do'	'penis'	(Shipley; based on Newman)	NN
-983	bo:ga'	'poker'	(Newman 1944)	NN
-984	bodo:diywe:'ichr'	'stinkbug'	(Shipley; based on Newman)	NN
-985	bogogbil	'weed species with cactus-like stickers'	(Shipley; based on Newman)	NN
-986	bok	'muscle, calf of leg'	(Shipley; based on Newman)	NN
-987	bowon'ey	'trap'	(Newman 1944)	NN
-988	buhuk'	'juniper tree'	(Shipley; based on Newman)	NN
-989	buk'k'al	'hill, knoll'	(Newman 1944)	NN
-990	bumutr'	'beak'	(Shipley; based on Newman)	NN
-991	bu'us	'dog'	(Newman 1944)	NN
-992	c'abix	'nest'	(Newman 1944)	NN
-993	c'abix	'nest'	(Shipley; based on Newman)	NN
-994	c'agas	'wiregrass'	(Newman 1944)	NN
-995	c'agas	'wire-grass, used in making baskets'	(Shipley; based on Newman)	NN
-996	c'ak'	'blackbird'	(Newman 1944)	NN
-997	c'ak'	'blackbird'	(Shipley; based on Newman)	NN
-998	c'ak'o:man	'small lake trout'	(Shipley; based on Newman)	NN
-999	c'alis	'sweet smell'	(Shipley; based on Newman)	NN
-1000	capit'	'gambling tray'	(Newman 1944)	NN
-1001	c'ayax	'man's sister's child'	(Newman 1944)	NN
-1002	c'ayax	'man's sister's child'	(Shipley; based on Newman)	NN
-1003	c'aydas	'star'	(Shipley; based on Newman)	NN
-1004	c'e:da'	'greens'	(Newman 1944)	NN
-1005	c'e:la:lun	'bridge'	(Newman 1944)	NN
-1006	chri'in	'waylaying place'	(Shipley; based on Newman)	NN
-1007	chri'iw	'cottontail rabbit'	(Shipley; based on Newman)	NN
-1008	chrimex	'twilight'	(Shipley; based on Newman)	NN
-1009	c'ic'ew	'weasel (?)'	(Shipley; based on Newman)	NN
-1010	c'idiy	'live oak'	(Shipley; based on Newman)	NN
-1011	c'igey	'string'	(Shipley; based on Newman)	NN
-1012	c'igey'iy	'bush with bark used to make twine'	(Shipley; based on Newman)	NN
-1013	c'iliwxay	'kidneys'	(Shipley; based on Newman)	NN
-1014	c'im'c'im'	'bat (animal)'	(Shipley; based on Newman)	NN
-1015	c'iwik'	'poison oak'	(Shipley; based on Newman)	NN
-1016	c'iwil'i'	'chipmunk'	(Shipley; based on Newman)	NN
-1017	c'ixil	'meat'	(Shipley; based on Newman)	NN
-1018	c'iy'	'bone'	(Newman 1944)	NN
-1019	c'o:kay	'offspring, new generation, green shoots of tree'	(Shipley; based on Newman)	NN
-1020	c'o:mis	'cage for wild pigeons'	(Shipley; based on Newman)	NN
-1021	c'olo:win	'plains, flat open place'	(Shipley; based on Newman)	NN
-1022	c'onis	'apron'	(Shipley; based on Newman)	NN
-1023	'cono:xis	'sugar pine'	(Shipley; based on Newman)	NN
-1024	cox	'skunk'	(Shipley; based on Newman)	NN
-1025	c'uluy	'hide, skin'	(Shipley; based on Newman)	NN
-1026	c'umun	'end'	(Shipley; based on Newman)	NN
-1027	c'utus	'navel'	(Shipley; based on Newman)	NN
-1028	da:'ak'	'sun'	(Shipley; based on Newman)	NN
-1029	da:m'otr	'beard'	(Newman 1944)	NN
-1030	da:nay	'jimson weed'	(Shipley; based on Newman)	NN
-1031	dal'im	'trout'	(Shipley; based on Newman)	NN
-1032	datr'atr'	'foot'	(Shipley; based on Newman)	NN
-1033	dey'asi	'leader, chief'	(Newman 1944)	NN
-1034	dibin	'well'	(Shipley; based on Newman)	NN
-1035	dik'e:ni'	'one who is behind'	(Shipley; based on Newman)	NN
-1036	dil'la:l	'slope'	(Newman 1944)	NN
-1037	dillal	'slope'	(Shipley; based on Newman)	NN
-1038	dimaha'	'quiver'	(Shipley; based on Newman)	NN
-1039	dina:ga'	'oak mountain'	(Newman 1944)	NN
-1040	dip	'liver'	(Newman 1944)	NN
-1041	dip	'liver'	(Shipley; based on Newman)	NN
-1042	diy'a'	'leader, captain'	(Shipley; based on Newman)	NN
-1043	diyac'	'goal'	(Newman 1944)	NN
-1044	diy'ac'	'goal'	(Shipley; based on Newman)	NN
-1045	dobol	'large rabbit'	(Shipley; based on Newman)	NN
-1046	dopin	'buckeye'	(Shipley; based on Newman)	NN
-1047	driba:gu'	'cane arrow'	(Shipley; based on Newman)	NN
-1048	drim	'condor'	(Shipley; based on Newman)	NN
-1049	driwigisna'	'elbow'	(Newman 1944)	NN
-1050	duda'	'maternal grandmother, woman's daughter's child'	(Newman 1944)	NN
-1051	duda'	'woman's grandchild'	(Shipley; based on Newman)	NN
-1052	dutr'utr'	'hoof'	(Shipley; based on Newman)	NN
-1053	duwwe:'itr'	'butcher-bird'	(Newman 1944)	NN
-1054	'e:law	'flower'	(Shipley; based on Newman)	NN
-1055	'e:nas	'grandfather, man's grandchild'	(Newman 1944)	NN
-1056	'e:nitr	'jimsonweed power'	(Shipley; based on Newman)	NN
-1057	'e:nitr	'magic power'	(Shipley; based on Newman)	NN
-1058	'entram	'sleeping potion'	(Newman 1944: 91)	NN
-1059	'e:p'ishr	'lake-trout'	(Newman 1944)	NN
-1060	'e:shrin'	'black oak'	(Newman 1944)	NN
-1061	'e:shrin'	'black oak'	(Shipley; based on Newman)	NN
-1062	'e'chri'	'large type of basket'	(Shipley; based on Newman)	NN
-1063	'entram	'gummy, sandy substance in rocks used to induce sleep'	(Shipley; based on Newman)	NN
-1064	ga:du'	'cat'	(Newman 1944)	NN
-1065	ga:'ina	'woman'	(Newman 1944)	NN
-1066	ga:'it	'young woman'	(Newman 1944)	NN
-1067	ga:'ita	'girl'	(Shipley; based on Newman)	NN
-1068	gac'ap	'niece'	(Shipley; based on Newman)	NN
-1069	gac'ap	'sibling's daughter'	(Newman 1944)	NN
-1070	galni'	'meat'	(Newman 1944)	NN
-1071	gawa:yu'	'horse'	(Newman 1944)	NN
-1072	gaxo:n/	'box'	(Newman 1944)	NN
-1073	gaxon	'box'	(Shipley; based on Newman)	NN
-1074	gi'iy	'enemy'	(Shipley; based on Newman)	NN
-1075	gitr'ennel	'armpit'	(Newman 1944)	NN
-1076	gi'ya:'in	'lance'	(Newman 1944)	NN
-1077	go:dri'	'pig'	(Shipley; based on Newman)	NN
-1078	go:lankil	'kingsnake'	(Shipley; based on Newman)	NN
-1079	go:tro:nitr	'gopher snake'	(Shipley; based on Newman)	NN
-1080	guchrchrun	'name'	(Shipley; based on Newman)	NN
-1081	gumun	'fog, mist'	(Shipley; based on Newman)	NN
-1082	ha'he:c'aw	'great grandchild, invisible thing'	(Shipley; based on Newman)	NN
-1083	ha'he:tr'aw	'animal'	(Shipley; based on Newman)	NN
-1084	hamna'	'greedy person'	(Shipley; based on Newman)	NN
-1085	hanhas	'hunter, beast of prey (mountain lion)'	(Shipley; based on Newman)	NN
-1086	hapa:lis	'chimney, heater'	(Shipley; based on Newman)	NN
-1087	hapoy	'sugar'	(Shipley; based on Newman)	NN
-1088	hapoy	'sweet'	(Shipley; based on Newman)	NN
-1089	hasbay'al	'lungs'	(Shipley; based on Newman)	NN
-1090	hashra:k'an	'thirst'	(Shipley; based on Newman)	NN
-1091	hashrak'	'thirst'	(Shipley; based on Newman)	NN
-1092	hashrkiywe:'ic'	'gopher'	(Newman 1944)	NN
-1093	hay'al	'day'	(Newman 1944)	NN
-1094	hay'na'	'duck'	(Newman 1944)	NN
-1095	hay'na'	'duck'	(Shipley; based on Newman)	NN
-1096	he:tr'ik'	'lie'	(Shipley; based on Newman)	NN
-1097	he:xa'	'fat, grease'	(Newman 1944)	NN
-1098	hides	'wood'	(Newman 1944)	NN
-1099	hidsic'	'woodrat'	(Newman 1944)	NN
-1100	hidsic'	'woodrat'	(Shipley; based on Newman)	NN
-1101	hik'e:yic'	'player'	(Newman 1944)	NN
-1102	hik'ey'iy	'playground'	(Shipley; based on Newman)	NN
-1103	histaha'	'ten cents (formerly a measure of shell beads)'	(Shipley; based on Newman)	NN
-1104	hit'el	'ashes'	(Shipley; based on Newman)	NN
-1105	hitr'kiy	'liar'	(Shipley; based on Newman)	NN
-1106	hitr'wa:yu'	'devil'	(Shipley; based on Newman)	NN
-1107	hixna'	'fat one'	(Shipley; based on Newman)	NN
-1108	hiy'aw'tra'	'warrior, fighter'	(Newman 1944)	NN
-1109	ho:nak'honak'	'inchworm'	(Shipley; based on Newman)	NN
-1110	ho:pul	'root'	(Shipley; based on Newman)	NN
-1111	holic'	'term for characters in myths'	(Shipley; based on Newman)	NN
-1112	hon	'egg'	(Shipley; based on Newman)	NN
-1113	honac'honac'	'milkweed'	(Shipley; based on Newman)	NN
-1114	honotr'	'testicles'	(Shipley; based on Newman)	NN
-1115	hoshril	'windpipe'	(Shipley; based on Newman)	NN
-1116	hot'o:ne:lis	'fireplace'	(Newman 1944)	NN
-1117	hot'o:ne:lis	'fireplace'	(Shipley; based on Newman)	NN
-1118	hoy'iw	'tree whose bark is used for making twine'	(Shipley; based on Newman)	NN
-1119	hoyo:wos	'name'	(Newman 1944)	NN
-1120	huddulu'	'owl'	(Newman 1944)	NN
-1121	hugo:yus	'sibling of opposite sex'	(Shipley; based on Newman)	NN
-1122	huguy	'mixture'	(Shipley; based on Newman)	NN
-1123	humnul	'quail'	(Shipley; based on Newman)	NN
-1124	hup'	'brain'	(Shipley; based on Newman)	NN
-1125	huwtruwus	'game name'	(Shipley; based on Newman)	NN
-1126	'ikit	'glans penis'	(Shipley; based on Newman)	NN
-1127	'ilik'	'water'	(Newman 1944)	NN
-1128	'ip'in	'acorn flour'	(Shipley; based on Newman)	NN
-1129	'isel	'outdoors'	(Shipley; based on Newman)	NN
-1130	'ishrel	'horn'	(Newman 1944)	NN
-1131	'ishril'	'animal horn'	(Shipley; based on Newman)	NN
-1132	'isla:lu'	'dragonfly'	(Shipley; based on Newman)	NN
-1133	'it'ichr	'sparrow hawk'	(Shipley; based on Newman)	NN
-1134	'it'wop'	'husband's sister, woman's brother's wife'	(Newman 1944)	NN
-1135	k'a:hutrway	'red lizard'	(Shipley; based on Newman)	NN
-1136	k'a:ma:shra'	'bottle fly'	(Shipley; based on Newman)	NN
-1137	ka:tr'na'	'fish inhabiting Yowlumne Styx'	(Shipley; based on Newman)	NN
-1138	ka:wiy	'wigwam, tent'	(Shipley; based on Newman)	NN
-1139	k'absay	'shoulder'	(Shipley; based on Newman)	NN
-1140	k'ac'	'obsidian'	(Shipley; based on Newman)	NN
-1141	k'ak'aw	'large red ant'	(Shipley; based on Newman)	NN
-1142	k'alassa'	'leg'	(Shipley; based on Newman)	NN
-1143	k'anal	'fir tree'	(Newman 1944)	NN
-1144	k'ashrup'	'mosquito'	(Shipley; based on Newman)	NN
-1145	k'ashryin	'black seed'	(Shipley; based on Newman)	NN
-1146	k'atr'a:nat'	'salamander'	(Shipley; based on Newman)	NN
-1147	k'awo:dashr	'ladybug'	(Shipley; based on Newman)	NN
-1148	k'awo:dashr	'large yellow bottle gourd'	(Shipley; based on Newman)	NN
-1149	kay'iw	'coyote'	(Newman 1944)	NN
-1150	ke:mitr'	'meanness'	(Shipley; based on Newman)	NN
-1151	k'e:nic'	'red ant'	(Newman 1944)	NN
-1152	k'e:tra'	'smegma'	(Shipley; based on Newman)	NN
-1153	k'e:xa'	'money'	(Newman 1944)	NN
-1154	kelkil	'icicle'	(Shipley; based on Newman)	NN
-1155	k'elshri'	'Mikitti's birthplace'	(Shipley; based on Newman)	NN
-1156	kenkin	'porcupine'	(Shipley; based on Newman)	NN
-1157	k'iley	'cloud'	(Shipley; based on Newman)	NN
-1158	kim'triy	'mean person, scold'	(Shipley; based on Newman)	NN
-1159	k'inim	'acorn'	(Shipley; based on Newman)	NN
-1160	k'inim	'valley oak'	(Shipley; based on Newman)	NN
-1161	kinip	'dress'	(Newman 1944)	NN
-1162	k'ishrdana'	'circumcised man'	(Shipley; based on Newman)	NN
-1163	kitwinic'	'husband's sister'	(Shipley; based on Newman)	NN
-1164	k'o:p'a'	'perch, sunfish'	(Shipley; based on Newman)	NN
-1165	k'o:yotr'	'water duck'	(Shipley; based on Newman)	NN
-1166	k'olpo:po'	'wild gourd'	(Shipley; based on Newman)	NN
-1167	kom'o:yis	'paternal uncle, stepfather'	(Shipley; based on Newman)	NN
-1168	kom'o:yis	'stepfather, father's brother'	(Shipley; based on Newman)	NN
-1169	k'onc'o:c'i'	'small lizard'	(Shipley; based on Newman)	NN
-1170	k'otr'	'tule'	(Newman 1944)	NN
-1171	k'o'tre:ya'	'buzzard'	(Shipley; based on Newman)	NN
-1172	k'o'tre:ya:/	'buzzard'	(Newman 1944)	NN
-1173	k'owiy	'thigh'	(Shipley; based on Newman)	NN
-1174	k'oyotr'	'venereal disease'	(Shipley; based on Newman)	NN
-1175	k'oyotwotr'	'frog'	(Shipley; based on Newman)	NN
-1176	k'oywos	'corn mortar'	(Shipley; based on Newman)	NN
-1177	k'umayha'	'clothes'	(Shipley; based on Newman)	NN
-1178	k'umunyutr	'hornets'	(Shipley; based on Newman)	NN
-1179	k'ut'oshr	'tail'	(Newman 1944)	NN
-1180	k'ut'ushr	'tail'	(Shipley; based on Newman)	NN
-1181	kuyu'	'ankle'	(Shipley; based on Newman)	NN
-1182	kuyu'	'salt'	(Shipley; based on Newman)	NN
-1183	k'uyutr'	'knee'	(Shipley; based on Newman)	NN
-1184	la:na:/	'wool'	(Newman 1944)	NN
-1185	lagelwas	'different kinds of things'	(Newman 1944)	NN
-1186	la'la'	'wild goose'	(Shipley; based on Newman)	NN
-1187	lame:sa'	'table'	(Shipley; based on Newman)	NN
-1188	lan't'i'	'a side'	(Shipley; based on Newman)	NN
-1189	lap'a:lip'itr'	'whipper snake, razor snake'	(Shipley; based on Newman)	NN
-1190	latraw'	'hillside'	(Shipley; based on Newman)	NN
-1191	le:mondo'	'name of Tejon chief'	(Shipley; based on Newman)	NN
-1192	lil'na'	'money, bead, general term'	(Shipley; based on Newman)	NN
-1193	limik'	'prairie falcon'	()	NN
-1194	liwe:shrip'	'mountain sheep'	(Shipley; based on Newman)	NN
-1195	lo:go:/	'crazy'	(Newman 1944)	NN
-1196	lomit	'mountain'	(Newman 1944)	NN
-1197	lopitr	'fish'	(Newman 1944)	NN
-1198	lopitr	'fish'	(Shipley; based on Newman)	NN
-1199	lowo:yitr'	'pitiful one'	(Newman 1944)	NN
-1200	lowo:yitr'	'pitiful one, poor'	(Shipley; based on Newman)	NN
-1201	lowo:yitr'	'poor, pitiful one'	(Shipley; based on Newman)	NN
-1202	lo'wos	'war'	(Shipley; based on Newman)	NN
-1203	ma:n'a'	'gnat'	(Shipley; based on Newman)	NN
-1204	ma:wo:lus	'musical bow'	(Newman 1944)	NN
-1205	masse:/	'corn'	(Newman 1944)	NN
-1206	massi'	'maize'	(Shipley; based on Newman)	NN
-1207	mimyatr	'thunder'	(Shipley; based on Newman)	NN
-1208	minc'ix	'milk'	(Shipley; based on Newman)	NN
-1209	mitr'iw	'comb of feathers on quail'	(Shipley; based on Newman)	NN
-1210	miye:l/	'bee, honey'	(Newman 1944)	NN
-1211	mo:koy	'mother's sister, stepmother'	(Shipley; based on Newman)	NN
-1212	mo:n'ay	'fly'	(Shipley; based on Newman)	NN
-1213	mo:tr'ak'	'smoke'	(Shipley; based on Newman)	NN
-1214	mo:'yak'	'whirlwind'	(Shipley; based on Newman)	NN
-1215	mogo:wic'	'dodger'	(Shipley; based on Newman)	NN
-1216	mogoyoc'	'great grandparents'	(Shipley; based on Newman)	NN
-1217	mokiy'	'wife'	(Newman 1944)	NN
-1218	mokoy	'stepmother, maternal aunt'	(Newman 1944)	NN
-1219	mononhol	'things, property, all one's different possessions'	(Shipley; based on Newman)	NN
-1220	moshr	'sweathouse'	(Newman 1944)	NN
-1221	motrk'a'	'prairie falcon'	(Shipley; based on Newman)	NN
-1222	moxe:max	'Pleiades'	(Shipley; based on Newman)	NN
-1223	moyo'chri'	'great grandmother'	(Shipley; based on Newman)	NN
-1224	mozhrok'o'	'larger dark beads'	(Shipley; based on Newman)	NN
-1225	muhugyal	'female lake trout, large variety'	(Shipley; based on Newman)	NN
-1226	na'ad	'elder sister'	(Shipley; based on Newman)	NN
-1227	na'ad	'older sister'	(Newman 1944)	NN
-1228	naddal	'very level place'	(Shipley; based on Newman)	NN
-1229	naha:'itr'	'beaver'	(Shipley; based on Newman)	NN
-1230	napa:tim	'sister's husband, husband's brother, son-in-law, son-in-law's brother'	(Newman 1944)	NN
-1231	napas	'woman's brother's child'	(Shipley; based on Newman)	NN
-1232	natritr	'rattlesnake'	(Newman 1944)	NN
-1233	natritr	'rattlesnake'	(Shipley; based on Newman)	NN
-1234	naxa:mis	'father-in-law'	(Newman 1944)	NN
-1235	nay'watra'	'dog with one side red, other white'	(Shipley; based on Newman)	NN
-1236	ne'eshr	'younger brother'	(Newman 1944)	NN
-1237	nibec'	'older brother'	(Newman 1944)	NN
-1238	niked	'maternal aunt'	(Newman 1944)	NN
-1239	niked	'maternal aunt'	(Newman 1944)	NN
-1240	no:chro'	'friend'	(Newman 1944)	NN
-1241	no:c'o'	'clever fellow'	(Shipley; based on Newman)	NN
-1242	no:mitr'	'big toe'	(Shipley; based on Newman)	NN
-1243	no:n'o'	'man'	(Newman 1944)	NN
-1244	no:to'	'east'	(Shipley; based on Newman)	NN
-1245	no:tro'	'young man'	(Newman 1944)	NN
-1246	no:tr'o'	'boy, young man'	(*Harrington, Reel 89, Slide 460; community dict; Newman 1944; cf. Chukchansi)	NN
-1247	noh'o'	'bear'	(Newman 1944)	NN
-1248	no'od	'younger sister'	(Newman 1944)	NN
-1249	no'om	'mother'	(Newman 1944)	NN
-1250	nopop	'father'	(Newman 1944)	NN
-1251	now	'hook'	(Shipley; based on Newman)	NN
-1252	nowo:'iy	'stick for gathering nuts'	(Shipley; based on Newman)	NN
-1253	nowoc'	'stick for gathering nuts'	(Shipley; based on Newman)	NN
-1254	nusos	'paternal aunt'	(Newman 1944)	NN
-1255	'o:xiy	'tree whose bark is used for making twine'	(Shipley; based on Newman)	NN
-1256	'obo'bishr	'oak balls'	(Shipley; based on Newman)	NN
-1257	'oc'uc'	'magpie'	(Shipley; based on Newman)	NN
-1258	'o:kun	'neck'	(Vera & Clark 2002: 246)	NN
-1259	'olol	'ball'	(Shipley; based on Newman)	NN
-1260	'onboy	'wife's sister, man's brother's wife'	(Shipley; based on Newman)	NN
-1261	'onmil	'daughter-in-law'	(Newman 1944)	NN
-1262	'onmil	'daughter-in-law'	(Shipley; based on Newman)	NN
-1263	'ontip	'mother-in-law'	(Newman 1944)	NN
-1264	'ontip	'mother-in-law'	(Shipley; based on Newman)	NN
-1265	'op	'moon, a watch'	(Shipley; based on Newman)	NN
-1266	'oshrit	'fire'	(Newman 1944)	NN
-1267	'otix	'pillow'	(Shipley; based on Newman)	NN
-1268	'otix?	'pillow'	(Newman 1944)	NN
-1269	'otr'ow	'hair on head'	(Shipley; based on Newman)	NN
-1270	'owon	'boat'	(Shipley; based on Newman)	NN
-1271	'oy'uy	'roadrunner'	(Shipley; based on Newman)	NN
-1272	'ozhoy	'sign, color'	(Shipley; based on Newman)	NN
-1273	'ozhri'yewas	'picture'	(Shipley; based on Newman)	NN
-1274	p'a:k'il	'???'	(Shipley; based on Newman)	NN
-1275	p'a:w'uk	'awl'	(Shipley; based on Newman)	NN
-1276	p'aw'ko...	'awl'	(Newman 1944)	NN
-1277	pa:yax	'blood'	(Newman 1944)	NN
-1278	p'a'a:shri'	'lake'	(Shipley; based on Newman)	NN
-1279	p'a'an	'world'	(Newman 1944)	NN
-1280	pala:k'ak'	'woodpecker'	(Shipley; based on Newman)	NN
-1281	palin	'slate rock'	(Shipley; based on Newman)	NN
-1282	pe:na'	'edge, border'	(Shipley; based on Newman)	NN
-1283	p'e:p'et'	'summit'	(Shipley; based on Newman)	NN
-1284	pespis	'chicks'	(Shipley; based on Newman)	NN
-1285	pi'is	'chest'	(Shipley; based on Newman)	NN
-1286	pikel	'sinew'	(Newman 1944)	NN
-1287	pikil	'sinew'	(Shipley; based on Newman)	NN
-1288	pil	'road'	(Newman 1944)	NN
-1289	p'islu'	'mouse'	(Newman 1944)	NN
-1290	pispasa'	'hen with chicks'	(Shipley; based on Newman)	NN
-1291	pit'iw	'forehead'	(Shipley; based on Newman)	NN
-1292	po:hal	'squirrel'	(Shipley; based on Newman)	NN
-1293	po:lay	'small beads'	(Shipley; based on Newman)	NN
-1294	po:lut	'body'	(Newman 1944)	NN
-1295	p'oho:'itr'	'weasel'	(Shipley; based on Newman)	NN
-1296	pohulhay	'parent'	(Shipley; based on Newman)	NN
-1297	pohyon	'sparrow hawk'	(Shipley; based on Newman)	NN
-1298	po:lum	'husband'	(Newman 1944: 198)	NN
-1299	polwoy	'corn pestle'	(Shipley; based on Newman)	NN
-1300	polxoy	'sucker fish'	(Shipley; based on Newman)	NN
-1301	ponpon	'snow'	(Shipley; based on Newman)	NN
-1302	pospolo'	'match'	(Shipley; based on Newman)	NN
-1303	p'ot'o:lo'	'piles'	(Shipley; based on Newman)	NN
-1304	p'ow	'gall bladder'	(Shipley; based on Newman)	NN
-1305	puhk'a'	'remainder'	(Newman 1944: 196)	NN
-1306	puk'aha'	'hat'	(Shipley; based on Newman)	NN
-1307	puk'k'al	'hill'	(Shipley; based on Newman)	NN
-1308	p'utr'wiy	'semen'	(Shipley; based on Newman)	NN
-1309	sa:luw	'charcoal'	(Shipley; based on Newman)	NN
-1310	sa:xal	'pitch, wax'	(Shipley; based on Newman)	NN
-1311	salam	'willow tree'	(Shipley; based on Newman)	NN
-1312	sam'a'	'door, gate'	(Shipley; based on Newman)	NN
-1313	sama'	'mouth'	(Newman 1944)	NN
-1314	samaywas	'belt'	(Shipley; based on Newman)	NN
-1315	sa'nac'	'rattle'	(Shipley; based on Newman)	NN
-1316	sanli:ya'	'watermelon'	(Shipley; based on Newman)	NN
-1317	sapsapic'	'mouse'	(Shipley; based on Newman)	NN
-1318	sasa'	'eye'	(Newman 1944)	NN
-1319	shra:yip'	'rainbow'	(Shipley; based on Newman)	NN
-1320	shraxatr	'willow tree'	(Shipley; based on Newman)	NN
-1321	shre:ma'	'headdress'	(Shipley; based on Newman)	NN
-1322	shrikil'	'arrow'	(Shipley; based on Newman)	NN
-1323	shrilel	'stone'	(Newman 1944)	NN
-1324	shrilishr	'hair'	(Shipley; based on Newman)	NN
-1325	shroglon'o'	'hole'	(Shipley; based on Newman)	NN
-1326	shrogol	'hole'	(Shipley; based on Newman)	NN
-1327	shrokiw	'wind'	(Shipley; based on Newman)	NN
-1328	shrop'ix	'stomach, paunch'	(Shipley; based on Newman)	NN
-1329	shropon	'blanket'	(Shipley; based on Newman)	NN
-1330	shroyol	'antelope'	(Shipley; based on Newman)	NN
-1331	shrugutr'	'hole in the penis'	(Shipley; based on Newman)	NN
-1332	shruto:sul	'shirt'	(Newman 1944)	NN
-1333	shru'un	'granary'	(Shipley; based on Newman)	NN
-1334	shruxup'	'large hawk'	(Shipley; based on Newman)	NN
-1335	silel	'rock'	(Shipley; based on Newman)	NN
-1336	simix	'dried tears (mixed with face dirt)'	(Shipley; based on Newman)	NN
-1337	so:gon	'Indian tobacco weed'	(Shipley; based on Newman)	NN
-1338	so:win	'wild dove'	(Shipley; based on Newman)	NN
-1339	sohgoy	'elk'	(Shipley; based on Newman)	NN
-1340	sohow	'Indian tobacco'	(Shipley; based on Newman)	NN
-1341	son'lic'	'pack strap'	(Shipley; based on Newman)	NN
-1342	sono:dip	'wild grapes'	(Shipley; based on Newman)	NN
-1343	soxsox	'hawk, fish hawk'	(Shipley; based on Newman)	NN
-1344	suxsay	'sand'	(Shipley; based on Newman)	NN
-1345	t'a:ca'	'left side'	(Shipley; based on Newman)	NN
-1346	t'a:nawutr	'grasshopper'	(Shipley; based on Newman)	NN
-1347	t'acnaya	'left-handed person'	(Shipley; based on Newman)	NN
-1348	tam'ay	'sandal'	(Shipley; based on Newman)	NN
-1349	tana:'ey	'footprint'	(Newman 1944)	NN
-1350	tana:'iy	'footprints, tracks'	(Shipley; based on Newman)	NN
-1351	t'ayak	'the little finger'	(Shipley; based on Newman)	NN
-1352	t'aywan'	'type of basket'	(Shipley; based on Newman)	NN
-1353	t'e:bik'	'seal (animal)'	(Shipley; based on Newman)	NN
-1354	t'e:pin	'acorn mush'	(Newman 1944)	NN
-1355	t'e:pin	'acorn mush'	(Shipley; based on Newman)	NN
-1356	t'e:wichr	'basket in hole for acorns'	(Shipley; based on Newman)	NN
-1357	teshhpan'yishr	'sequoia'	(Shipley; based on Newman)	NN
-1358	ti'itr	'louse'	(Shipley; based on Newman)	NN
-1359	t'imitr	'eyebrow'	(Shipley; based on Newman)	NN
-1360	tinel	'hole'	(Newman 1944)	NN
-1361	t'inew	'notch'	(Shipley; based on Newman)	NN
-1362	tin'lin'in	'Tejon tribe'	(Shipley; based on Newman)	NN
-1363	tipik'	'tick'	(Shipley; based on Newman)	NN
-1364	tis'a'	'sucker fish (first to come out after winter)'	(Shipley; based on Newman)	NN
-1365	tismay'a'	'springtime'	(Shipley; based on Newman)	NN
-1366	to:nas	'digger pine tree'	(Shipley; based on Newman)	NN
-1367	to:wixit	'white oak'	(Shipley; based on Newman)	NN
-1368	to:wixit	'white oak, small mountain oak'	(Shipley; based on Newman)	NN
-1369	to:xiw	'cheek'	(Shipley; based on Newman)	NN
-1370	t'on'o:trim	'transvestite'	(Newman 1944)	NN
-1371	totr	'belly'	(Newman 1944)	NN
-1372	toxil	'west'	(Shipley; based on Newman)	NN
-1373	toy'ni'	'middle one'	(Shipley; based on Newman)	NN
-1374	toy'no'	'night'	(Newman 1944)	NN
-1375	toy'no'	'night'	(Shipley; based on Newman)	NN
-1376	tr'a:y'ak'	'filth'	(Shipley; based on Newman)	NN
-1377	tra:y'i'	'down (on bird)'	(Shipley; based on Newman)	NN
-1378	tr'alap	'bow'	(Newman 1944)	NN
-1379	tr'aniw	'badger'	(Newman 1944)	NN
-1380	tran'k'a'	'buzzard'	(Shipley; based on Newman)	NN
-1381	tr'ap	'bow used for hunting'	(Shipley; based on Newman)	NN
-1382	tra'tra'	'ally'	(Newman 1944)	NN
-1383	traw'ni'	'same kind, previously mentioned number'	(Shipley; based on Newman)	NN
-1384	tr'e:'itr'	'conjurer'	(Shipley; based on Newman)	NN
-1385	tre:lis	'yellow seed plant, made into beverage'	(Shipley; based on Newman)	NN
-1386	tr'e:sa'	'bile'	(Shipley; based on Newman)	NN
-1387	tre:yey	'tooth'	(Newman 1944)	NN
-1388	tre:yiy	'teeth'	(Shipley; based on Newman)	NN
-1389	tri'	'house'	(Newman 1944)	NN
-1390	tr'ibe:k'il	'mud'	(Shipley; based on Newman)	NN
-1391	trik'it'	'stench'	(Shipley; based on Newman)	NN
-1392	tr'ilil	'gizzard'	(Shipley; based on Newman)	NN
-1393	trinik'	'nose'	(Shipley; based on Newman)	NN
-1394	tripis	'tribe'	(Newman 1944)	NN
-1395	tripna'	'magic power'	(Shipley; based on Newman)	NN
-1396	tripnasa'	'power'	(Shipley; based on Newman)	NN
-1397	tripni'	'one endowed with magic powers'	(Newman 1944)	NN
-1398	tr'it'et'	'anus'	(Newman 1944)	NN
-1399	tr'it't'iyin	'raccoon'	(Newman 1944)	NN
-1400	tr'iwissa'	'yellowhammer'	(Shipley; based on Newman)	NN
-1401	triy'lum	'medicine man, snake charmer'	(Shipley; based on Newman)	NN
-1402	triy'lum	'snake charmer, medicine man'	(Shipley; based on Newman)	NN
-1403	triy'xala'	'talker'	(Shipley; based on Newman)	NN
-1404	tr'o:dod	'bark, skin of fruit'	(Shipley; based on Newman)	NN
-1405	tro:litr	'canyon'	(Shipley; based on Newman)	NN
-1406	tro:litr	'ravine, river, canyon'	(Shipley; based on Newman)	NN
-1407	tro:pox	'sweat'	(Shipley; based on Newman)	NN
-1408	tro:xon'	'belt-skirt used in ceremonial dances'	(Shipley; based on Newman)	NN
-1409	tr'odin	'hide, strap'	(Shipley; based on Newman)	NN
-1410	tr'odo'	'turtle'	(Newman 1944)	NN
-1411	tron'op'	'nose mucus, snot'	(Shipley; based on Newman)	NN
-1412	tron'op'	'snot'	(Shipley; based on Newman)	NN
-1413	tr'opno'	'mountain quail'	(Shipley; based on Newman)	NN
-1414	tropol	'frost, ice, icicle'	(Shipley; based on Newman)	NN
-1415	trot'oy	'penis'	(Shipley; based on Newman)	NN
-1416	tr'oxil'	'bald eagle'	(Shipley; based on Newman)	NN
-1417	tr'oxil	'eagle'	(Newman 1944)	NN
-1418	troxotr	'soaproot plant'	(Shipley; based on Newman)	NN
-1419	trumut	'pubic hair'	(Shipley; based on Newman)	NN
-1420	trumyun	'widow, widower'	(Newman 1944)	NN
-1421	tr'un	'anal hair'	(Shipley; based on Newman)	NN
-1422	trunowsol	'door'	(Newman 1944)	NN
-1423	tr'unul	'wildcat'	(Shipley; based on Newman)	NN
-1424	tuk'	'ear'	(Newman 1944)	NN
-1425	tuk'	'ear'	(Newman 1944)	NN
-1426	tuk'uyun	'jackrabbit'	(Newman 1944)	NN
-1427	tulay'is	'an impossible place'	(Shipley; based on Newman)	NN
-1428	tun	'mountain pine'	(Shipley; based on Newman)	NN
-1429	tupwas	'joint of body'	(Shipley; based on Newman)	NN
-1430	tuyatr'	'unhandy person, person who doesn't do things well'	(Shipley; based on Newman)	NN
-1431	t'uyos	'arrow'	(Newman 1944)	NN
-1432	'uguggu'	'frog'	(Shipley; based on Newman)	NN
-1433	'uhuy	'a cold, mucus'	(Shipley; based on Newman)	NN
-1434	'ulusk'uy	'meadowlark'	(Shipley; based on Newman)	NN
-1435	'umutr	'clitoris'	(Shipley; based on Newman)	NN
-1436	'uplalli'	'wild dove'	(Newman 1944)	NN
-1437	'ushruk'	'heart'	(Newman 1944)	NN
-1438	'ushruk'	'heart'	(Shipley; based on Newman)	NN
-1439	'uwas	'grass'	(Shipley; based on Newman)	NN
-1440	wa:xatr'	'crane'	(Shipley; based on Newman)	NN
-1441	wa:yu'	'buckskin'	(Shipley; based on Newman)	NN
-1442	wa:yu'	'yellow; buckskin'	(Shipley; based on Newman)	NN
-1443	wac'as	'cradle'	(Shipley; based on Newman)	NN
-1444	wac'was	'stake in gambling'	(Shipley; based on Newman)	NN
-1445	wagtral	'orphan'	(Newman 1944)	NN
-1446	wagtral	'orphan'	(Shipley; based on Newman)	NN
-1447	wahay'i'	'poison arrow'	(Shipley; based on Newman)	NN
-1448	wakay	'gap, swale'	(Shipley; based on Newman)	NN
-1449	walatr	'neck ornament, incl. necklace or tie'	(Shipley; based on Newman)	NN
-1450	wallal	'open, bare place'	(Shipley; based on Newman)	NN
-1451	wasat	'scar'	(Shipley; based on Newman)	NN
-1452	watak'	'pine nut'	(Shipley; based on Newman)	NN
-1453	wat'im	'back'	(Shipley; based on Newman)	NN
-1454	wazham'	'feather ornament used in healing ceremony'	(Shipley; based on Newman)	NN
-1455	we:chr'iyip'	'sapling oak'	(Shipley; based on Newman)	NN
-1456	wehe:sit	'mountain lion'	(Newman 1944)	NN
-1457	wek'wek'	'worm'	(Shipley; based on Newman)	NN
-1458	wew'coy	'wild bird'	(Shipley; based on Newman)	NN
-1459	wic'et	'stick'	(Shipley; based on Newman)	NN
-1460	wichr'	'condor'	(Newman 1944)	NN
-1461	wichr'	'large eagle (condor?)'	(Shipley; based on Newman)	NN
-1462	wichr'il	'stick used in playing allewas'	(Shipley; based on Newman)	NN
-1463	wile:li'	'long spotted lizard'	(Shipley; based on Newman)	NN
-1464	wina:t'um	'crier, messenger'	(Shipley; based on Newman)	NN
-1465	wishrac'	'arrow-straightener'	(Newman 1944)	NN
-1466	wishre:ta'	'elder'	(Shipley; based on Newman)	NN
-1467	witeb	'child'	(Newman 1944)	NN
-1468	wo:gaygichr	'butterfly'	(Shipley; based on Newman)	NN
-1469	wo:kumchriyna'	'bird sp.'	(Shipley; based on Newman)	NN
-1470	wodo:dishr	'heel'	(Shipley; based on Newman)	NN
-1471	wosok'	'belt'	(Shipley; based on Newman)	NN
-1472	wule:wu'	'sheep'	(Shipley; based on Newman)	NN
-1473	xa:lay	'seed beater'	(Shipley; based on Newman)	NN
-1474	xa:matr'	'rib'	(Shipley; based on Newman)	NN
-1475	xa:pal	'feathers'	(Shipley; based on Newman)	NN
-1476	xa:pal	'wings, feathers'	(Shipley; based on Newman)	NN
-1477	xala'	'cane'	(Shipley; based on Newman)	NN
-1478	xala'	'swordgrass, cane'	(Shipley; based on Newman)	NN
-1479	xappa:l	'finger'	(Newman 1944)	NN
-1480	xappal	'finger'	(Shipley; based on Newman)	NN
-1481	xat	'food'	(Newman 1944)	NN
-1482	xatac'	'seed'	(Newman 1944)	NN
-1483	xe:six	'claw'	(Shipley; based on Newman)	NN
-1484	xinic'	'nape of neck'	(Shipley; based on Newman)	NN
-1485	xisewsil	'scales of fish'	(Shipley; based on Newman)	NN
-1486	xo:lanitr	'small weed with fuzzy leaves and small purple blossoms'	(Shipley; based on Newman)	NN
-1487	xo:witr	'hail, sleet'	(Shipley; based on Newman)	NN
-1488	xo:witr	'sleet, hail'	(Shipley; based on Newman)	NN
-1489	xo'itr'	'afterbirth'	(Shipley; based on Newman)	NN
-1490	xolom	'clover'	(Shipley; based on Newman)	NN
-1491	xolpo:yi'	'large lizard sp.'	(Shipley; based on Newman)	NN
-1492	xolpo:yi'	'lizard'	(Newman 1944)	NN
-1493	xontol	'roe'	(Shipley; based on Newman)	NN
-1494	xot'o'	'rain prophet'	(Shipley; based on Newman)	NN
-1495	xotr'oy	'ground, soil'	(Shipley; based on Newman)	NN
-1496	xoy	'deer'	(Newman 1944)	NN
-1497	xul'a'	'swift one'	(Shipley; based on Newman)	NN
-1498	xum'na'	'long bone beads; anything brittle'	(Shipley; based on Newman)	NN
-1499	ya:wil	'grass'	(Newman 1944)	NN
-1500	yaw'lic'	'wolf'	(Newman 1944)	NN
-1501	yax	'reptile, snake (general term)'	(Shipley; based on Newman)	NN
-1502	ye:bitr'	'lip'	(Shipley; based on Newman)	NN
-1503	yime:itr'	'water duck'	(Newman notes book 1 story 3)	NN
-1504	yiy'ca	'only (one), alone'	(Newman 1944)	NN
-1505	yokoc'	'person, people'	(Newman 1944: 196)	NN
-1506	yo:kic'a	'relatives'	(Shipley; based on Newman)	NN
-1507	yonxo'	'gray squirrel'	(Shipley; based on Newman)	NN
-1508	zhriwig(?)	'elbow'	(Shipley; based on Newman)	NN
-1509	zhu'ba'	'a part'	(Shipley; based on Newman)	NN
-1510	zhu'ban'a'	'a half'	(Shipley; based on Newman)	NN
-1511	zhux	'headdress worn by shamans and dancers'	(Shipley; based on Newman)	NN
-1512	wichreb	'offspring, child'	(Newman 1944: 226)	NN
-1513	manal	'tear'	(Newman 1944: 16)	NN
-1514	wichribhay	'children'	(Newman 1944: 198)	NN
-1515	trumoynac'	'widows'	(Newman 1944: 209)	NN
-1516	xomo:ti'	'south'	(Newman 1944: 220)	NN
-1517	xosim	'north'	(Newman 1944: 220)	NN
-1518	'i'	'or'	(Newman 1944: 238)	CC
-1519	'o'	'or'	(Newman 1944: 238)	CC
-1520	ki	'when'	(Newman 1944: 237)	CC
-1521	me'zhi'	'because'	(Newman 1944: 237)	CC
-1522	traw	'if'	(Newman 1944: 238)	CC
-1523	wa	'however'	(Newman 1944: 238)	CC
-1524	wilshrin	'but, in spite of that'	(Newman 1944: 238)	CC
-1525	yow	'and, also, again'	(Newman 1944: 238)	CC
-1526	'ama'	'and, then'	(Newman 1944: 238)	CC
-1527	ki	'this.SG.NOM'	(Newman 1944:228)	DT
-1528	tra	'that.SG.NOM'	(Newman 1944:228)	DT
-1529	ke:'in	'this.SG.GEN'	(Newman 1944:228)	DT
-1530	tra:'in	'that.SG.GEN'	(Newman 1944:228)	DT
-1531	kin	'this.SG.PRIM'	(Newman 1944:228)	DT
-1532	tran	'that.SG.PRIM'	(Newman 1944:228)	DT
-1533	ke:ni	'this.SG.SEC'	(Newman 1944:228)	DT
-1534	tra:ni	'that.SG.SEC'	(Newman 1944:228)	DT
-1535	ke:nit	'this.SG.ABL'	(Newman 1944:229)	DT
-1536	tra:nit	'that.SG.ABL'	(Newman 1944:229)	DT
-1537	kew	'this.SG.LOC'	(Newman 1944:229)	DT
-1538	traw	'that.SG.LOC'	(Newman 1944:229)	DT
-1539	kisik'	'this.DU.NOM'	(Newman 1944:229)	DT
-1540	trasik'	'that.DU.NOM'	(Newman 1944:229)	DT
-1541	kisikwin	'this.DU.GEN'	(Newman 1944:229)	DT
-1542	trasikwin	'that.DU.GEN'	(Newman 1944:229)	DT
-1543	kisikwa	'this.DU.PRIM'	(Newman 1944:229)	DT
-1544	trasikwa	'that.DU.PRIM'	(Newman 1944:229)	DT
-1545	kisikwa:ni	'this.DU.SEC'	(Newman 1944:229)	DT
-1546	trasikwa:ni	'that.DU.SEC'	(Newman 1944:229)	DT
-1547	kisikwa:nit	'this.DU.ABL'	(Newman 1944:229)	DT
-1548	trasikwa:nit	'that.DU.ABL'	(Newman 1944:229)	DT
-1549	kisikwaw	'this.DU.LOC'	(Newman 1944:229)	DT
-1550	trasikwaw	'that.DU.LOC'	(Newman 1944:229)	DT
-1551	kisin	'this.PL.NOM'	(Newman 1944:229)	DT
-1552	trasin	'that.PL.NOM'	(Newman 1944:229)	DT
-1553	kisinwin	'this.PL.GEN'	(Newman 1944:229)	DT
-1554	trasinwin	'that.PL.GEN'	(Newman 1944:229)	DT
-1555	kisinwa	'this.PL.PRIM'	(Newman 1944:229)	DT
-1556	trasinwa	'that.PL.PRIM'	(Newman 1944:229)	DT
-1557	kisinwa:ni	'this.PL.SEC'	(Newman 1944:229)	DT
-1558	trasinwa:ni	'that.PL.SEC'	(Newman 1944:229)	DT
-1559	kisinwa:nit	'this.PL.ABL'	(Newman 1944:229)	DT
-1560	trasinwa:nit	'that.PL.ABL'	(Newman 1944:229)	DT
-1561	kisinwaw	'this.PL.LOC'	(Newman 1944:229)	DT
-1562	trasinwaw	'that.PL.LOC'	(Newman 1944:229)	DT
-1563	dotr'bishrin	'ugly, homely'	(Shipley; based on Newman)	JJ
-1564	dotr'i'	'bad'	(Newman 1944: 223)	JJ
-1565	gude'	'small'	(Newman 1944: 38)	JJ
-1566	guchre'	'tiny'	(Newman 1944: 38)	JJ
-1567	hac'a:mi'	'new'	(Shipley; based on Newman)	JJ
-1568	hap'ic'	'sofy (sic)'	(Shipley; based on Newman)	JJ
-1569	hawchrin	'a few'	(Shipley; based on Newman)	JJ
-1570	k'idet'	'short'	(Shipley; based on Newman)	JJ
-1571	k'it'trin	'stingy'	(Shipley; based on Newman)	JJ
-1572	lagil	'different'	(Newman 1944)	JJ
-1573	shrin'a'	'lean, consumptive'	(Shipley; based on Newman)	JJ
-1574	tiw'as	'strong'	(Newman 1944: 223)	JJ
-1575	tixit	'painful, sick, ill'	(Shipley; based on Newman)	JJ
-1576	toc'o:hoy	'unimportant'	(Shipley; based on Newman)	JJ
-1577	trum'uk'	'warm, lukewarm'	(Shipley; based on Newman)	JJ
-1578	tulay'is	'difficult'	(Shipley; based on Newman)	JJ
-1579	wa'atr'	'long'	(Newman 1944)	JJ
-1580	wa'atr'	'long, tall'	(Shipley; based on Newman)	JJ
-1581	zhilab	'swift'	(Newman 1944)	JJ
-1582	c'iyugay	'green'	(Shipley; based on Newman)	JJ
-1583	dindinitr'	'thick'	(Shipley; based on Newman)	JJ
-1584	diwitr'	'hard, tough'	(Newman 1944: 223)	JJ
-1585	hic'ya'	'permanent, solid'	(Shipley; based on Newman)	JJ
-1586	homhomik'	'generous, liberal'	(Shipley; based on Newman)	JJ
-1587	k'abit'	'warm'	(Newman 1944: 223)	JJ
-1588	mutr'k'an'a'	'smoky'	(Shipley; based on Newman)	JJ
-1589	tr'axya'	'dry'	(*Harrington, Reel 89, Slide 255, community dict)	JJ
-1590	mani'	'much, many'	(Newman 1944)	JJ
-1591	may'e:k	'big'	(Newman 1944: 216)	JJ
-1592	ye:t'	'one'	(Newman 1944: 55)	JJ
-1593	bonoy	'two'	(Newman 1944: 55)	JJ
-1594	shro:pe:n	'three'	(Newman 1944: 55)	JJ
-1595	hodbonoy	'four'	(Newman 1944: 55)	JJ
-1596	yit'sinil	'five'	(Newman 1944: 55)	JJ
-1597	c'olip'e:y	'six'	(Newman 1944: 55)	JJ
-1598	nomc'e:l	'seven'	(Newman 1944: 55)	JJ
-1599	mun'o:s	'eight'	(Newman 1944: 55)	JJ
-1600	soponho:d	'nine'	(Newman 1944: 55)	JJ
-1601	tr'iy'e:w	'ten'	(Newman 1944: 55)	JJ
-1602	tr'ama'	'blind'	(Vera & Clark 2002: 36)	JJ
-1603	wa'	'far away'	(Newman 1944: 125)	JJ
-1604	pac'ikin	'red'	(Vera & Clark 2002: 305; cf. Newman 1944: 106; exact form unknown)	JJ
-1605	hǫ:hǫ'	'yes'	(Newman 1944: 238)	UH
-1606	hiydege'	'DOUBT/SURPRISE'	(Newman 1944: 238)	UH
-1607	hiyuk	'hello'	(Newman 1944: 238)	UH
-1608	wi:	'ANNOYANCE'	(Newman 1944: 239)	UH
-1609	yah	'hey!'	(Newman 1944: 239)	UH
-1610	'ąh	'oh!'	(Newman 1944: 239)	UH
-1611	'e:	'AMAZEMENT'	(Newman 1944: 239)	UH
-1612	'iná:	'FEAR'	(Newman 1944: 239)	UH
+945	'o:ma	'first (in series)'	(Vera & Clark 2002: 132)	RB
+946	de:yaw	'ahead'	(Newman 1944: 116; cf. Vera & Clark 2002: 6)	RB
+947	'a:wuw	'across, on the other side of, to the shore'	(Newman 1944: 238 and elsewhere)	PP
+948	'abiy	'with.ACCOMP'	(Newman 1944: 238)	PP
+949	yidwas	'with.ACCOMP'	(Newman 1944: 238)	PP
+950	'amcaw	'close to'	(Gamble 1994: 99)	PP
+951	p'e:p'at'iw	'on top of'	(Gamble 1994: 62)	PP
+952	dil'naw	'on the other side of'	(Newman 1944: 239)	PP
+953	tripin	'on top of'	(Kroeber 1906: 301)	PP
+954	'adil	'under'	(Kroeber 1906: 301)	PP
+955	go:bin	'inside'	(Kroeber 1906: 306)	PP
+956	dik'naw	'behind'	(cf. Vera & Clark 2002: 30)	PP
+957	'a:cay	'mahogany'	(Shipley; based on Newman)	NN
+958	'a:c'ec'	'large wild artichoke'	(Shipley; based on Newman)	NN
+959	'a:dra'	'ax'	(Shipley; based on Newman)	NN
+960	'a:gashr	'mother's brother'	(Shipley; based on Newman)	NN
+961	'ac'	'container'	(Shipley; based on Newman)	NN
+962	'adre:yas	'twin'	(Newman 1944)	NN
+963	'allewas	'handgame, guessing game'	(Shipley; based on Newman)	NN
+964	'alwutr'	'crow'	(Shipley; based on Newman)	NN
+965	'anas	'large pack-basket'	(Newman 1944)	NN
+966	'antruw	'shaman'	(Newman 1944)	NN
+967	'aptruw	'manzanita'	(Shipley; based on Newman)	NN
+968	'aw'ashr	'chin'	(Shipley; based on Newman)	NN
+969	'axic'	'bed'	(Shipley; based on Newman)	NN
+970	'ayab	'magnesium-like mineral'	(Shipley; based on Newman)	NN
+971	'azhr'a:zhruk'	'mole (animal)'	(Shipley; based on Newman)	NN
+972	baba'	'paternal aunt'	(Newman 1944)	NN
+973	bal'aw	'hole, cave under a rock'	(Shipley; based on Newman)	NN
+974	balik'	'belly'	(Shipley; based on Newman)	NN
+975	baluw	'downhill, west'	(Shipley; Newman 1944: 220)	NN
+976	ban'itr'	'intestines'	(Shipley; based on Newman)	NN
+977	ba'o:nay	'wasp'	(Newman 1944)	NN
+978	bashr	'marrow'	(Shipley; based on Newman)	NN
+979	bay'a'	'right side, right hand'	(Shipley; based on Newman)	NN
+980	be:mamguc'	'hummingbird'	(Newman 1944)	NN
+981	ben	'food buried under ashes'	(Newman notebook 3)	NN
+982	be:na'	'comb'	(Newman 1944)	NN
+983	bidik'	'excrement'	(Shipley; based on Newman)	NN
+984	bim'tran'a'	'stump (of tree)'	(Shipley; based on Newman)	NN
+985	bo:do'	'penis'	(Shipley; based on Newman)	NN
+986	bo:ga'	'poker'	(Newman 1944)	NN
+987	bodo:diywe:'ichr'	'stinkbug'	(Shipley; based on Newman)	NN
+988	bogogbil	'weed species with cactus-like stickers'	(Shipley; based on Newman)	NN
+989	bok	'muscle, calf of leg'	(Shipley; based on Newman)	NN
+990	bowon'ey	'trap'	(Newman 1944)	NN
+991	buhuk'	'juniper tree'	(Shipley; based on Newman)	NN
+992	buk'k'al	'hill, knoll'	(Newman 1944)	NN
+993	bumutr'	'beak'	(Shipley; based on Newman)	NN
+994	bu'us	'dog'	(Newman 1944)	NN
+995	c'abix	'nest'	(Newman 1944)	NN
+996	c'abix	'nest'	(Shipley; based on Newman)	NN
+997	c'agas	'wiregrass'	(Newman 1944)	NN
+998	c'agas	'wire-grass, used in making baskets'	(Shipley; based on Newman)	NN
+999	c'ak'	'blackbird'	(Newman 1944)	NN
+1000	c'ak'	'blackbird'	(Shipley; based on Newman)	NN
+1001	c'ak'o:man	'small lake trout'	(Shipley; based on Newman)	NN
+1002	c'alis	'sweet smell'	(Shipley; based on Newman)	NN
+1003	capit'	'gambling tray'	(Newman 1944)	NN
+1004	c'ayax	'man's sister's child'	(Newman 1944)	NN
+1005	c'ayax	'man's sister's child'	(Shipley; based on Newman)	NN
+1006	c'aydas	'star'	(Shipley; based on Newman)	NN
+1007	c'e:da'	'greens'	(Newman 1944)	NN
+1008	c'e:la:lun	'bridge'	(Newman 1944)	NN
+1009	chri'in	'waylaying place'	(Shipley; based on Newman)	NN
+1010	chri'iw	'cottontail rabbit'	(Shipley; based on Newman)	NN
+1011	chrimex	'twilight'	(Shipley; based on Newman)	NN
+1012	c'ic'ew	'weasel (?)'	(Shipley; based on Newman)	NN
+1013	c'idiy	'live oak'	(Shipley; based on Newman)	NN
+1014	c'igey	'string'	(Shipley; based on Newman)	NN
+1015	c'igey'iy	'bush with bark used to make twine'	(Shipley; based on Newman)	NN
+1016	c'iliwxay	'kidneys'	(Shipley; based on Newman)	NN
+1017	c'im'c'im'	'bat (animal)'	(Shipley; based on Newman)	NN
+1018	c'iwik'	'poison oak'	(Shipley; based on Newman)	NN
+1019	c'iwil'i'	'chipmunk'	(Shipley; based on Newman)	NN
+1020	c'ixil	'meat'	(Shipley; based on Newman)	NN
+1021	c'iy'	'bone'	(Newman 1944)	NN
+1022	c'o:kay	'offspring, new generation, green shoots of tree'	(Shipley; based on Newman)	NN
+1023	c'o:mis	'cage for wild pigeons'	(Shipley; based on Newman)	NN
+1024	c'olo:win	'plains, flat open place'	(Shipley; based on Newman)	NN
+1025	c'onis	'apron'	(Shipley; based on Newman)	NN
+1026	'cono:xis	'sugar pine'	(Shipley; based on Newman)	NN
+1027	cox	'skunk'	(Shipley; based on Newman)	NN
+1028	c'uluy	'hide, skin'	(Shipley; based on Newman)	NN
+1029	c'umun	'end'	(Shipley; based on Newman)	NN
+1030	c'utus	'navel'	(Shipley; based on Newman)	NN
+1031	da:'ak'	'sun'	(Shipley; based on Newman)	NN
+1032	da:m'otr	'beard'	(Newman 1944)	NN
+1033	da:nay	'jimson weed'	(Shipley; based on Newman)	NN
+1034	dal'im	'trout'	(Shipley; based on Newman)	NN
+1035	datr'atr'	'foot'	(Shipley; based on Newman)	NN
+1036	dey'asi	'leader, chief'	(Newman 1944)	NN
+1037	dibin	'well'	(Shipley; based on Newman)	NN
+1038	dik'e:ni'	'one who is behind'	(Shipley; based on Newman)	NN
+1039	dil'la:l	'slope'	(Newman 1944)	NN
+1040	dillal	'slope'	(Shipley; based on Newman)	NN
+1041	dimaha'	'quiver'	(Shipley; based on Newman)	NN
+1042	dina:ga'	'oak mountain'	(Newman 1944)	NN
+1043	dip	'liver'	(Newman 1944)	NN
+1044	dip	'liver'	(Shipley; based on Newman)	NN
+1045	diy'a'	'leader, captain'	(Shipley; based on Newman)	NN
+1046	diyac'	'goal'	(Newman 1944)	NN
+1047	diy'ac'	'goal'	(Shipley; based on Newman)	NN
+1048	dobol	'large rabbit'	(Shipley; based on Newman)	NN
+1049	dopin	'buckeye'	(Shipley; based on Newman)	NN
+1050	driba:gu'	'cane arrow'	(Shipley; based on Newman)	NN
+1051	drim	'condor'	(Shipley; based on Newman)	NN
+1052	driwigisna'	'elbow'	(Newman 1944)	NN
+1053	duda'	'maternal grandmother, woman's daughter's child'	(Newman 1944)	NN
+1054	duda'	'woman's grandchild'	(Shipley; based on Newman)	NN
+1055	dutr'utr'	'hoof'	(Shipley; based on Newman)	NN
+1056	duwwe:'itr'	'butcher-bird'	(Newman 1944)	NN
+1057	'e:law	'flower'	(Shipley; based on Newman)	NN
+1058	'e:nas	'grandfather, man's grandchild'	(Newman 1944)	NN
+1059	'e:nitr	'jimsonweed power'	(Shipley; based on Newman)	NN
+1060	'e:nitr	'magic power'	(Shipley; based on Newman)	NN
+1061	'entram	'sleeping potion'	(Newman 1944: 91)	NN
+1062	'e:p'ishr	'lake-trout'	(Newman 1944)	NN
+1063	'e:shrin'	'black oak'	(Newman 1944)	NN
+1064	'e:shrin'	'black oak'	(Shipley; based on Newman)	NN
+1065	'e'chri'	'large type of basket'	(Shipley; based on Newman)	NN
+1066	'entram	'gummy, sandy substance in rocks used to induce sleep'	(Shipley; based on Newman)	NN
+1067	ga:du'	'cat'	(Newman 1944)	NN
+1068	ga:'ina	'woman'	(Newman 1944)	NN
+1069	ga:'it	'young woman'	(Newman 1944)	NN
+1070	ga:'ita	'girl'	(Shipley; based on Newman)	NN
+1071	gac'ap	'niece'	(Shipley; based on Newman)	NN
+1072	gac'ap	'sibling's daughter'	(Newman 1944)	NN
+1073	galni'	'meat'	(Newman 1944)	NN
+1074	gawa:yu'	'horse'	(Newman 1944)	NN
+1075	gaxo:n/	'box'	(Newman 1944)	NN
+1076	gaxon	'box'	(Shipley; based on Newman)	NN
+1077	gi'iy	'enemy'	(Shipley; based on Newman)	NN
+1078	gitr'ennel	'armpit'	(Newman 1944)	NN
+1079	gi'ya:'in	'lance'	(Newman 1944)	NN
+1080	go:dri'	'pig'	(Shipley; based on Newman)	NN
+1081	go:lankil	'kingsnake'	(Shipley; based on Newman)	NN
+1082	go:tro:nitr	'gopher snake'	(Shipley; based on Newman)	NN
+1083	guchrchrun	'name'	(Shipley; based on Newman)	NN
+1084	gumun	'fog, mist'	(Shipley; based on Newman)	NN
+1085	ha'he:c'aw	'great grandchild, invisible thing'	(Shipley; based on Newman)	NN
+1086	ha'he:tr'aw	'animal'	(Shipley; based on Newman)	NN
+1087	hamna'	'greedy person'	(Shipley; based on Newman)	NN
+1088	hanhas	'hunter, beast of prey (mountain lion)'	(Shipley; based on Newman)	NN
+1089	hapa:lis	'chimney, heater'	(Shipley; based on Newman)	NN
+1090	hapoy	'sugar'	(Shipley; based on Newman)	NN
+1091	hapoy	'sweet'	(Shipley; based on Newman)	NN
+1092	hasbay'al	'lungs'	(Shipley; based on Newman)	NN
+1093	hashra:k'an	'thirst'	(Shipley; based on Newman)	NN
+1094	hashrak'	'thirst'	(Shipley; based on Newman)	NN
+1095	hashrkiywe:'ic'	'gopher'	(Newman 1944)	NN
+1096	hay'al	'day'	(Newman 1944)	NN
+1097	hay'na'	'duck'	(Newman 1944)	NN
+1098	hay'na'	'duck'	(Shipley; based on Newman)	NN
+1099	he:tr'ik'	'lie'	(Shipley; based on Newman)	NN
+1100	he:xa'	'fat, grease'	(Newman 1944)	NN
+1101	hides	'wood'	(Newman 1944)	NN
+1102	hidsic'	'woodrat'	(Newman 1944)	NN
+1103	hidsic'	'woodrat'	(Shipley; based on Newman)	NN
+1104	hik'e:yic'	'player'	(Newman 1944)	NN
+1105	hik'ey'iy	'playground'	(Shipley; based on Newman)	NN
+1106	histaha'	'ten cents (formerly a measure of shell beads)'	(Shipley; based on Newman)	NN
+1107	hit'el	'ashes'	(Shipley; based on Newman)	NN
+1108	hitr'kiy	'liar'	(Shipley; based on Newman)	NN
+1109	hitr'wa:yu'	'devil'	(Shipley; based on Newman)	NN
+1110	hixna'	'fat one'	(Shipley; based on Newman)	NN
+1111	hiy'aw'tra'	'warrior, fighter'	(Newman 1944)	NN
+1112	ho:nak'honak'	'inchworm'	(Shipley; based on Newman)	NN
+1113	ho:pul	'root'	(Shipley; based on Newman)	NN
+1114	holic'	'term for characters in myths'	(Shipley; based on Newman)	NN
+1115	hon	'egg'	(Shipley; based on Newman)	NN
+1116	honac'honac'	'milkweed'	(Shipley; based on Newman)	NN
+1117	honotr'	'testicles'	(Shipley; based on Newman)	NN
+1118	hoshril	'windpipe'	(Shipley; based on Newman)	NN
+1119	hot'o:ne:lis	'fireplace'	(Newman 1944)	NN
+1120	hot'o:ne:lis	'fireplace'	(Shipley; based on Newman)	NN
+1121	hoy'iw	'tree whose bark is used for making twine'	(Shipley; based on Newman)	NN
+1122	hoyo:wos	'name'	(Newman 1944)	NN
+1123	huddulu'	'owl'	(Newman 1944)	NN
+1124	hugo:yus	'sibling of opposite sex'	(Shipley; based on Newman)	NN
+1125	huguy	'mixture'	(Shipley; based on Newman)	NN
+1126	humnul	'quail'	(Shipley; based on Newman)	NN
+1127	hup'	'brain'	(Shipley; based on Newman)	NN
+1128	huwtruwus	'game name'	(Shipley; based on Newman)	NN
+1129	'ikit	'glans penis'	(Shipley; based on Newman)	NN
+1130	'ilik'	'water'	(Newman 1944)	NN
+1131	'ip'in	'acorn flour'	(Shipley; based on Newman)	NN
+1132	'isel	'outdoors'	(Shipley; based on Newman)	NN
+1133	'ishrel	'horn'	(Newman 1944)	NN
+1134	'ishril'	'animal horn'	(Shipley; based on Newman)	NN
+1135	'isla:lu'	'dragonfly'	(Shipley; based on Newman)	NN
+1136	'it'ichr	'sparrow hawk'	(Shipley; based on Newman)	NN
+1137	'it'wop'	'husband's sister, woman's brother's wife'	(Newman 1944)	NN
+1138	k'a:hutrway	'red lizard'	(Shipley; based on Newman)	NN
+1139	k'a:ma:shra'	'bottle fly'	(Shipley; based on Newman)	NN
+1140	ka:tr'na'	'fish inhabiting Yowlumne Styx'	(Shipley; based on Newman)	NN
+1141	ka:wiy	'wigwam, tent'	(Shipley; based on Newman)	NN
+1142	k'absay	'shoulder'	(Shipley; based on Newman)	NN
+1143	k'ac'	'obsidian'	(Shipley; based on Newman)	NN
+1144	k'ak'aw	'large red ant'	(Shipley; based on Newman)	NN
+1145	k'alassa'	'leg'	(Shipley; based on Newman)	NN
+1146	k'anal	'fir tree'	(Newman 1944)	NN
+1147	k'ashrup'	'mosquito'	(Shipley; based on Newman)	NN
+1148	k'ashryin	'black seed'	(Shipley; based on Newman)	NN
+1149	k'atr'a:nat'	'salamander'	(Shipley; based on Newman)	NN
+1150	k'awo:dashr	'ladybug'	(Shipley; based on Newman)	NN
+1151	k'awo:dashr	'large yellow bottle gourd'	(Shipley; based on Newman)	NN
+1152	kay'iw	'coyote'	(Newman 1944)	NN
+1153	ke:mitr'	'meanness'	(Shipley; based on Newman)	NN
+1154	k'e:nic'	'red ant'	(Newman 1944)	NN
+1155	k'e:tra'	'smegma'	(Shipley; based on Newman)	NN
+1156	k'e:xa'	'money'	(Newman 1944)	NN
+1157	kelkil	'icicle'	(Shipley; based on Newman)	NN
+1158	k'elshri'	'Mikitti's birthplace'	(Shipley; based on Newman)	NN
+1159	kenkin	'porcupine'	(Shipley; based on Newman)	NN
+1160	k'iley	'cloud'	(Shipley; based on Newman)	NN
+1161	kim'triy	'mean person, scold'	(Shipley; based on Newman)	NN
+1162	k'inim	'acorn'	(Shipley; based on Newman)	NN
+1163	k'inim	'valley oak'	(Shipley; based on Newman)	NN
+1164	kinip	'dress'	(Newman 1944)	NN
+1165	k'ishrdana'	'circumcised man'	(Shipley; based on Newman)	NN
+1166	kitwinic'	'husband's sister'	(Shipley; based on Newman)	NN
+1167	k'o:p'a'	'perch, sunfish'	(Shipley; based on Newman)	NN
+1168	k'o:yotr'	'water duck'	(Shipley; based on Newman)	NN
+1169	k'olpo:po'	'wild gourd'	(Shipley; based on Newman)	NN
+1170	kom'o:yis	'paternal uncle, stepfather'	(Shipley; based on Newman)	NN
+1171	kom'o:yis	'stepfather, father's brother'	(Shipley; based on Newman)	NN
+1172	k'onc'o:c'i'	'small lizard'	(Shipley; based on Newman)	NN
+1173	k'otr'	'tule'	(Newman 1944)	NN
+1174	k'o'tre:ya'	'buzzard'	(Shipley; based on Newman)	NN
+1175	k'o'tre:ya:/	'buzzard'	(Newman 1944)	NN
+1176	k'owiy	'thigh'	(Shipley; based on Newman)	NN
+1177	k'oyotr'	'venereal disease'	(Shipley; based on Newman)	NN
+1178	k'oyotwotr'	'frog'	(Shipley; based on Newman)	NN
+1179	k'oywos	'corn mortar'	(Shipley; based on Newman)	NN
+1180	k'umayha'	'clothes'	(Shipley; based on Newman)	NN
+1181	k'umunyutr	'hornets'	(Shipley; based on Newman)	NN
+1182	k'ut'oshr	'tail'	(Newman 1944)	NN
+1183	k'ut'ushr	'tail'	(Shipley; based on Newman)	NN
+1184	kuyu'	'ankle'	(Shipley; based on Newman)	NN
+1185	kuyu'	'salt'	(Shipley; based on Newman)	NN
+1186	k'uyutr'	'knee'	(Shipley; based on Newman)	NN
+1187	la:na:/	'wool'	(Newman 1944)	NN
+1188	lagelwas	'different kinds of things'	(Newman 1944)	NN
+1189	la'la'	'wild goose'	(Shipley; based on Newman)	NN
+1190	lame:sa'	'table'	(Shipley; based on Newman)	NN
+1191	lan't'i'	'a side'	(Shipley; based on Newman)	NN
+1192	lap'a:lip'itr'	'whipper snake, razor snake'	(Shipley; based on Newman)	NN
+1193	latraw'	'hillside'	(Shipley; based on Newman)	NN
+1194	le:mondo'	'name of Tejon chief'	(Shipley; based on Newman)	NN
+1195	lil'na'	'money, bead, general term'	(Shipley; based on Newman)	NN
+1196	limik'	'prairie falcon'	()	NN
+1197	liwe:shrip'	'mountain sheep'	(Shipley; based on Newman)	NN
+1198	lo:go:/	'crazy'	(Newman 1944)	NN
+1199	lomit	'mountain'	(Newman 1944)	NN
+1200	lopitr	'fish'	(Newman 1944)	NN
+1201	lopitr	'fish'	(Shipley; based on Newman)	NN
+1202	lowo:yitr'	'pitiful one'	(Newman 1944)	NN
+1203	lowo:yitr'	'pitiful one, poor'	(Shipley; based on Newman)	NN
+1204	lowo:yitr'	'poor, pitiful one'	(Shipley; based on Newman)	NN
+1205	lo'wos	'war'	(Shipley; based on Newman)	NN
+1206	ma:n'a'	'gnat'	(Shipley; based on Newman)	NN
+1207	ma:wo:lus	'musical bow'	(Newman 1944)	NN
+1208	masse:/	'corn'	(Newman 1944)	NN
+1209	massi'	'maize'	(Shipley; based on Newman)	NN
+1210	mimyatr	'thunder'	(Shipley; based on Newman)	NN
+1211	minc'ix	'milk'	(Shipley; based on Newman)	NN
+1212	mitr'iw	'comb of feathers on quail'	(Shipley; based on Newman)	NN
+1213	miye:l/	'bee, honey'	(Newman 1944)	NN
+1214	mo:koy	'mother's sister, stepmother'	(Shipley; based on Newman)	NN
+1215	mo:n'ay	'fly'	(Shipley; based on Newman)	NN
+1216	mo:tr'ak'	'smoke'	(Shipley; based on Newman)	NN
+1217	mo:'yak'	'whirlwind'	(Shipley; based on Newman)	NN
+1218	mogo:wic'	'dodger'	(Shipley; based on Newman)	NN
+1219	mogoyoc'	'great grandparents'	(Shipley; based on Newman)	NN
+1220	mokiy'	'wife'	(Newman 1944)	NN
+1221	mokoy	'stepmother, maternal aunt'	(Newman 1944)	NN
+1222	mononhol	'things, property, all one's different possessions'	(Shipley; based on Newman)	NN
+1223	moshr	'sweathouse'	(Newman 1944)	NN
+1224	motrk'a'	'prairie falcon'	(Shipley; based on Newman)	NN
+1225	moxe:max	'Pleiades'	(Shipley; based on Newman)	NN
+1226	moyo'chri'	'great grandmother'	(Shipley; based on Newman)	NN
+1227	mozhrok'o'	'larger dark beads'	(Shipley; based on Newman)	NN
+1228	muhugyal	'female lake trout, large variety'	(Shipley; based on Newman)	NN
+1229	na'ad	'elder sister'	(Shipley; based on Newman)	NN
+1230	na'ad	'older sister'	(Newman 1944)	NN
+1231	naddal	'very level place'	(Shipley; based on Newman)	NN
+1232	naha:'itr'	'beaver'	(Shipley; based on Newman)	NN
+1233	napa:tim	'sister's husband, husband's brother, son-in-law, son-in-law's brother'	(Newman 1944)	NN
+1234	napas	'woman's brother's child'	(Shipley; based on Newman)	NN
+1235	natritr	'rattlesnake'	(Newman 1944)	NN
+1236	natritr	'rattlesnake'	(Shipley; based on Newman)	NN
+1237	naxa:mis	'father-in-law'	(Newman 1944)	NN
+1238	nay'watra'	'dog with one side red, other white'	(Shipley; based on Newman)	NN
+1239	ne'eshr	'younger brother'	(Newman 1944)	NN
+1240	nibec'	'older brother'	(Newman 1944)	NN
+1241	niked	'maternal aunt'	(Newman 1944)	NN
+1242	niked	'maternal aunt'	(Newman 1944)	NN
+1243	no:chro'	'friend'	(Newman 1944)	NN
+1244	no:c'o'	'clever fellow'	(Shipley; based on Newman)	NN
+1245	no:mitr'	'big toe'	(Shipley; based on Newman)	NN
+1246	no:n'o'	'man'	(Newman 1944)	NN
+1247	no:to'	'east'	(Shipley; based on Newman)	NN
+1248	no:tro'	'young man'	(Newman 1944)	NN
+1249	no:tr'o'	'boy, young man'	(*Harrington, Reel 89, Slide 460; community dict; Newman 1944; cf. Chukchansi)	NN
+1250	noh'o'	'bear'	(Newman 1944)	NN
+1251	no'od	'younger sister'	(Newman 1944)	NN
+1252	no'om	'mother'	(Newman 1944)	NN
+1253	nopop	'father'	(Newman 1944)	NN
+1254	now	'hook'	(Shipley; based on Newman)	NN
+1255	nowo:'iy	'stick for gathering nuts'	(Shipley; based on Newman)	NN
+1256	nowoc'	'stick for gathering nuts'	(Shipley; based on Newman)	NN
+1257	nusos	'paternal aunt'	(Newman 1944)	NN
+1258	'o:xiy	'tree whose bark is used for making twine'	(Shipley; based on Newman)	NN
+1259	'obo'bishr	'oak balls'	(Shipley; based on Newman)	NN
+1260	'oc'uc'	'magpie'	(Shipley; based on Newman)	NN
+1261	'o:kun	'neck'	(Vera & Clark 2002: 246)	NN
+1262	'olol	'ball'	(Shipley; based on Newman)	NN
+1263	'onboy	'wife's sister, man's brother's wife'	(Shipley; based on Newman)	NN
+1264	'onmil	'daughter-in-law'	(Newman 1944)	NN
+1265	'onmil	'daughter-in-law'	(Shipley; based on Newman)	NN
+1266	'ontip	'mother-in-law'	(Newman 1944)	NN
+1267	'ontip	'mother-in-law'	(Shipley; based on Newman)	NN
+1268	'op	'moon, a watch'	(Shipley; based on Newman)	NN
+1269	'oshrit	'fire'	(Newman 1944)	NN
+1270	'otix	'pillow'	(Shipley; based on Newman)	NN
+1271	'otix?	'pillow'	(Newman 1944)	NN
+1272	'otr'ow	'hair on head'	(Shipley; based on Newman)	NN
+1273	'owon	'boat'	(Shipley; based on Newman)	NN
+1274	'oy'uy	'roadrunner'	(Shipley; based on Newman)	NN
+1275	'ozhoy	'sign, color'	(Shipley; based on Newman)	NN
+1276	'ozhri'yewas	'picture'	(Shipley; based on Newman)	NN
+1277	p'a:k'il	'???'	(Shipley; based on Newman)	NN
+1278	p'a:w'uk	'awl'	(Shipley; based on Newman)	NN
+1279	p'aw'ko...	'awl'	(Newman 1944)	NN
+1280	pa:yax	'blood'	(Newman 1944)	NN
+1281	p'a'a:shri'	'lake'	(Shipley; based on Newman)	NN
+1282	p'a'an	'world'	(Newman 1944)	NN
+1283	pala:k'ak'	'woodpecker'	(Shipley; based on Newman)	NN
+1284	palin	'slate rock'	(Shipley; based on Newman)	NN
+1285	pe:na'	'edge, border'	(Shipley; based on Newman)	NN
+1286	p'e:p'et'	'summit'	(Shipley; based on Newman)	NN
+1287	pespis	'chicks'	(Shipley; based on Newman)	NN
+1288	pi'is	'chest'	(Shipley; based on Newman)	NN
+1289	pikel	'sinew'	(Newman 1944)	NN
+1290	pikil	'sinew'	(Shipley; based on Newman)	NN
+1291	pil	'road'	(Newman 1944)	NN
+1292	p'islu'	'mouse'	(Newman 1944)	NN
+1293	pispasa'	'hen with chicks'	(Shipley; based on Newman)	NN
+1294	pit'iw	'forehead'	(Shipley; based on Newman)	NN
+1295	po:hal	'squirrel'	(Shipley; based on Newman)	NN
+1296	po:lay	'small beads'	(Shipley; based on Newman)	NN
+1297	po:lut	'body'	(Newman 1944)	NN
+1298	p'oho:'itr'	'weasel'	(Shipley; based on Newman)	NN
+1299	pohulhay	'parent'	(Shipley; based on Newman)	NN
+1300	pohyon	'sparrow hawk'	(Shipley; based on Newman)	NN
+1301	po:lum	'husband'	(Newman 1944: 198)	NN
+1302	polwoy	'corn pestle'	(Shipley; based on Newman)	NN
+1303	polxoy	'sucker fish'	(Shipley; based on Newman)	NN
+1304	ponpon	'snow'	(Shipley; based on Newman)	NN
+1305	pospolo'	'match'	(Shipley; based on Newman)	NN
+1306	p'ot'o:lo'	'piles'	(Shipley; based on Newman)	NN
+1307	p'ow	'gall bladder'	(Shipley; based on Newman)	NN
+1308	puhk'a'	'remainder'	(Newman 1944: 196)	NN
+1309	puk'aha'	'hat'	(Shipley; based on Newman)	NN
+1310	puk'k'al	'hill'	(Shipley; based on Newman)	NN
+1311	p'utr'wiy	'semen'	(Shipley; based on Newman)	NN
+1312	sa:luw	'charcoal'	(Shipley; based on Newman)	NN
+1313	sa:xal	'pitch, wax'	(Shipley; based on Newman)	NN
+1314	salam	'willow tree'	(Shipley; based on Newman)	NN
+1315	sam'a'	'door, gate'	(Shipley; based on Newman)	NN
+1316	sama'	'mouth'	(Newman 1944)	NN
+1317	samaywas	'belt'	(Shipley; based on Newman)	NN
+1318	sa'nac'	'rattle'	(Shipley; based on Newman)	NN
+1319	sanli:ya'	'watermelon'	(Shipley; based on Newman)	NN
+1320	sapsapic'	'mouse'	(Shipley; based on Newman)	NN
+1321	sasa'	'eye'	(Newman 1944)	NN
+1322	shra:yip'	'rainbow'	(Shipley; based on Newman)	NN
+1323	shraxatr	'willow tree'	(Shipley; based on Newman)	NN
+1324	shre:ma'	'headdress'	(Shipley; based on Newman)	NN
+1325	shrikil'	'arrow'	(Shipley; based on Newman)	NN
+1326	shrilel	'stone'	(Newman 1944)	NN
+1327	shrilishr	'hair'	(Shipley; based on Newman)	NN
+1328	shroglon'o'	'hole'	(Shipley; based on Newman)	NN
+1329	shrogol	'hole'	(Shipley; based on Newman)	NN
+1330	shrokiw	'wind'	(Shipley; based on Newman)	NN
+1331	shrop'ix	'stomach, paunch'	(Shipley; based on Newman)	NN
+1332	shropon	'blanket'	(Shipley; based on Newman)	NN
+1333	shroyol	'antelope'	(Shipley; based on Newman)	NN
+1334	shrugutr'	'hole in the penis'	(Shipley; based on Newman)	NN
+1335	shruto:sul	'shirt'	(Newman 1944)	NN
+1336	shru'un	'granary'	(Shipley; based on Newman)	NN
+1337	shruxup'	'large hawk'	(Shipley; based on Newman)	NN
+1338	silel	'rock'	(Shipley; based on Newman)	NN
+1339	simix	'dried tears (mixed with face dirt)'	(Shipley; based on Newman)	NN
+1340	so:gon	'Indian tobacco weed'	(Shipley; based on Newman)	NN
+1341	so:win	'wild dove'	(Shipley; based on Newman)	NN
+1342	sohgoy	'elk'	(Shipley; based on Newman)	NN
+1343	sohow	'Indian tobacco'	(Shipley; based on Newman)	NN
+1344	son'lic'	'pack strap'	(Shipley; based on Newman)	NN
+1345	sono:dip	'wild grapes'	(Shipley; based on Newman)	NN
+1346	soxsox	'hawk, fish hawk'	(Shipley; based on Newman)	NN
+1347	suxsay	'sand'	(Shipley; based on Newman)	NN
+1348	t'a:ca'	'left side'	(Shipley; based on Newman)	NN
+1349	t'a:nawutr	'grasshopper'	(Shipley; based on Newman)	NN
+1350	t'acnaya	'left-handed person'	(Shipley; based on Newman)	NN
+1351	tam'ay	'sandal'	(Shipley; based on Newman)	NN
+1352	tana:'ey	'footprint'	(Newman 1944)	NN
+1353	tana:'iy	'footprints, tracks'	(Shipley; based on Newman)	NN
+1354	t'ayak	'the little finger'	(Shipley; based on Newman)	NN
+1355	t'aywan'	'type of basket'	(Shipley; based on Newman)	NN
+1356	t'e:bik'	'seal (animal)'	(Shipley; based on Newman)	NN
+1357	t'e:pin	'acorn mush'	(Newman 1944)	NN
+1358	t'e:pin	'acorn mush'	(Shipley; based on Newman)	NN
+1359	t'e:wichr	'basket in hole for acorns'	(Shipley; based on Newman)	NN
+1360	teshhpan'yishr	'sequoia'	(Shipley; based on Newman)	NN
+1361	ti'itr	'louse'	(Shipley; based on Newman)	NN
+1362	t'imitr	'eyebrow'	(Shipley; based on Newman)	NN
+1363	tinel	'hole'	(Newman 1944)	NN
+1364	t'inew	'notch'	(Shipley; based on Newman)	NN
+1365	tin'lin'in	'Tejon tribe'	(Shipley; based on Newman)	NN
+1366	tipik'	'tick'	(Shipley; based on Newman)	NN
+1367	tis'a'	'sucker fish (first to come out after winter)'	(Shipley; based on Newman)	NN
+1368	tismay'a'	'springtime'	(Shipley; based on Newman)	NN
+1369	to:nas	'digger pine tree'	(Shipley; based on Newman)	NN
+1370	to:wixit	'white oak'	(Shipley; based on Newman)	NN
+1371	to:wixit	'white oak, small mountain oak'	(Shipley; based on Newman)	NN
+1372	to:xiw	'cheek'	(Shipley; based on Newman)	NN
+1373	t'on'o:trim	'transvestite'	(Newman 1944)	NN
+1374	totr	'belly'	(Newman 1944)	NN
+1375	toxil	'west'	(Shipley; based on Newman)	NN
+1376	toy'ni'	'middle one'	(Shipley; based on Newman)	NN
+1377	toy'no'	'night'	(Newman 1944)	NN
+1378	toy'no'	'night'	(Shipley; based on Newman)	NN
+1379	tr'a:y'ak'	'filth'	(Shipley; based on Newman)	NN
+1380	tra:y'i'	'down (on bird)'	(Shipley; based on Newman)	NN
+1381	tr'alap	'bow'	(Newman 1944)	NN
+1382	tr'aniw	'badger'	(Newman 1944)	NN
+1383	tran'k'a'	'buzzard'	(Shipley; based on Newman)	NN
+1384	tr'ap	'bow used for hunting'	(Shipley; based on Newman)	NN
+1385	tra'tra'	'ally'	(Newman 1944)	NN
+1386	traw'ni'	'same kind, previously mentioned number'	(Shipley; based on Newman)	NN
+1387	tr'e:'itr'	'conjurer'	(Shipley; based on Newman)	NN
+1388	tre:lis	'yellow seed plant, made into beverage'	(Shipley; based on Newman)	NN
+1389	tr'e:sa'	'bile'	(Shipley; based on Newman)	NN
+1390	tre:yey	'tooth'	(Newman 1944)	NN
+1391	tre:yiy	'teeth'	(Shipley; based on Newman)	NN
+1392	tri'	'house'	(Newman 1944)	NN
+1393	tr'ibe:k'il	'mud'	(Shipley; based on Newman)	NN
+1394	trik'it'	'stench'	(Shipley; based on Newman)	NN
+1395	tr'ilil	'gizzard'	(Shipley; based on Newman)	NN
+1396	trinik'	'nose'	(Shipley; based on Newman)	NN
+1397	tripis	'tribe'	(Newman 1944)	NN
+1398	tripna'	'magic power'	(Shipley; based on Newman)	NN
+1399	tripnasa'	'power'	(Shipley; based on Newman)	NN
+1400	tripni'	'one endowed with magic powers'	(Newman 1944)	NN
+1401	tr'it'et'	'anus'	(Newman 1944)	NN
+1402	tr'it't'iyin	'raccoon'	(Newman 1944)	NN
+1403	tr'iwissa'	'yellowhammer'	(Shipley; based on Newman)	NN
+1404	triy'lum	'medicine man, snake charmer'	(Shipley; based on Newman)	NN
+1405	triy'lum	'snake charmer, medicine man'	(Shipley; based on Newman)	NN
+1406	triy'xala'	'talker'	(Shipley; based on Newman)	NN
+1407	tr'o:dod	'bark, skin of fruit'	(Shipley; based on Newman)	NN
+1408	tro:litr	'canyon'	(Shipley; based on Newman)	NN
+1409	tro:litr	'ravine, river, canyon'	(Shipley; based on Newman)	NN
+1410	tro:pox	'sweat'	(Shipley; based on Newman)	NN
+1411	tro:xon'	'belt-skirt used in ceremonial dances'	(Shipley; based on Newman)	NN
+1412	tr'odin	'hide, strap'	(Shipley; based on Newman)	NN
+1413	tr'odo'	'turtle'	(Newman 1944)	NN
+1414	tron'op'	'nose mucus, snot'	(Shipley; based on Newman)	NN
+1415	tron'op'	'snot'	(Shipley; based on Newman)	NN
+1416	tr'opno'	'mountain quail'	(Shipley; based on Newman)	NN
+1417	tropol	'frost, ice, icicle'	(Shipley; based on Newman)	NN
+1418	trot'oy	'penis'	(Shipley; based on Newman)	NN
+1419	tr'oxil'	'bald eagle'	(Shipley; based on Newman)	NN
+1420	tr'oxil	'eagle'	(Newman 1944)	NN
+1421	troxotr	'soaproot plant'	(Shipley; based on Newman)	NN
+1422	trumut	'pubic hair'	(Shipley; based on Newman)	NN
+1423	trumyun	'widow, widower'	(Newman 1944)	NN
+1424	tr'un	'anal hair'	(Shipley; based on Newman)	NN
+1425	trunowsol	'door'	(Newman 1944)	NN
+1426	tr'unul	'wildcat'	(Shipley; based on Newman)	NN
+1427	tuk'	'ear'	(Newman 1944)	NN
+1428	tuk'	'ear'	(Newman 1944)	NN
+1429	tuk'uyun	'jackrabbit'	(Newman 1944)	NN
+1430	tulay'is	'an impossible place'	(Shipley; based on Newman)	NN
+1431	tun	'mountain pine'	(Shipley; based on Newman)	NN
+1432	tupwas	'joint of body'	(Shipley; based on Newman)	NN
+1433	tuyatr'	'unhandy person, person who doesn't do things well'	(Shipley; based on Newman)	NN
+1434	t'uyos	'arrow'	(Newman 1944)	NN
+1435	'uguggu'	'frog'	(Shipley; based on Newman)	NN
+1436	'uhuy	'a cold, mucus'	(Shipley; based on Newman)	NN
+1437	'ulusk'uy	'meadowlark'	(Shipley; based on Newman)	NN
+1438	'umutr	'clitoris'	(Shipley; based on Newman)	NN
+1439	'uplalli'	'wild dove'	(Newman 1944)	NN
+1440	'ushruk'	'heart'	(Newman 1944)	NN
+1441	'ushruk'	'heart'	(Shipley; based on Newman)	NN
+1442	'uwas	'grass'	(Shipley; based on Newman)	NN
+1443	wa:xatr'	'crane'	(Shipley; based on Newman)	NN
+1444	wa:yu'	'buckskin'	(Shipley; based on Newman)	NN
+1445	wa:yu'	'yellow; buckskin'	(Shipley; based on Newman)	NN
+1446	wac'as	'cradle'	(Shipley; based on Newman)	NN
+1447	wac'was	'stake in gambling'	(Shipley; based on Newman)	NN
+1448	wagtral	'orphan'	(Newman 1944)	NN
+1449	wagtral	'orphan'	(Shipley; based on Newman)	NN
+1450	wahay'i'	'poison arrow'	(Shipley; based on Newman)	NN
+1451	wakay	'gap, swale'	(Shipley; based on Newman)	NN
+1452	walatr	'neck ornament, incl. necklace or tie'	(Shipley; based on Newman)	NN
+1453	wallal	'open, bare place'	(Shipley; based on Newman)	NN
+1454	wasat	'scar'	(Shipley; based on Newman)	NN
+1455	watak'	'pine nut'	(Shipley; based on Newman)	NN
+1456	wat'im	'back'	(Shipley; based on Newman)	NN
+1457	wazham'	'feather ornament used in healing ceremony'	(Shipley; based on Newman)	NN
+1458	we:chr'iyip'	'sapling oak'	(Shipley; based on Newman)	NN
+1459	wehe:sit	'mountain lion'	(Newman 1944)	NN
+1460	wek'wek'	'worm'	(Shipley; based on Newman)	NN
+1461	wew'coy	'wild bird'	(Shipley; based on Newman)	NN
+1462	wic'et	'stick'	(Shipley; based on Newman)	NN
+1463	wichr'	'condor'	(Newman 1944)	NN
+1464	wichr'	'large eagle (condor?)'	(Shipley; based on Newman)	NN
+1465	wichr'il	'stick used in playing allewas'	(Shipley; based on Newman)	NN
+1466	wile:li'	'long spotted lizard'	(Shipley; based on Newman)	NN
+1467	wina:t'um	'crier, messenger'	(Shipley; based on Newman)	NN
+1468	wishrac'	'arrow-straightener'	(Newman 1944)	NN
+1469	wishre:ta'	'elder'	(Shipley; based on Newman)	NN
+1470	witeb	'child'	(Newman 1944)	NN
+1471	wo:gaygichr	'butterfly'	(Shipley; based on Newman)	NN
+1472	wo:kumchriyna'	'bird sp.'	(Shipley; based on Newman)	NN
+1473	wodo:dishr	'heel'	(Shipley; based on Newman)	NN
+1474	wosok'	'belt'	(Shipley; based on Newman)	NN
+1475	wule:wu'	'sheep'	(Shipley; based on Newman)	NN
+1476	xa:lay	'seed beater'	(Shipley; based on Newman)	NN
+1477	xa:matr'	'rib'	(Shipley; based on Newman)	NN
+1478	xa:pal	'feathers'	(Shipley; based on Newman)	NN
+1479	xa:pal	'wings, feathers'	(Shipley; based on Newman)	NN
+1480	xala'	'cane'	(Shipley; based on Newman)	NN
+1481	xala'	'swordgrass, cane'	(Shipley; based on Newman)	NN
+1482	xappa:l	'finger'	(Newman 1944)	NN
+1483	xappal	'finger'	(Shipley; based on Newman)	NN
+1484	xat	'food'	(Newman 1944)	NN
+1485	xatac'	'seed'	(Newman 1944)	NN
+1486	xe:six	'claw'	(Shipley; based on Newman)	NN
+1487	xinic'	'nape of neck'	(Shipley; based on Newman)	NN
+1488	xisewsil	'scales of fish'	(Shipley; based on Newman)	NN
+1489	xo:lanitr	'small weed with fuzzy leaves and small purple blossoms'	(Shipley; based on Newman)	NN
+1490	xo:witr	'hail, sleet'	(Shipley; based on Newman)	NN
+1491	xo:witr	'sleet, hail'	(Shipley; based on Newman)	NN
+1492	xo'itr'	'afterbirth'	(Shipley; based on Newman)	NN
+1493	xolom	'clover'	(Shipley; based on Newman)	NN
+1494	xolpo:yi'	'large lizard sp.'	(Shipley; based on Newman)	NN
+1495	xolpo:yi'	'lizard'	(Newman 1944)	NN
+1496	xontol	'roe'	(Shipley; based on Newman)	NN
+1497	xot'o'	'rain prophet'	(Shipley; based on Newman)	NN
+1498	xotr'oy	'ground, soil'	(Shipley; based on Newman)	NN
+1499	xoy	'deer'	(Newman 1944)	NN
+1500	xul'a'	'swift one'	(Shipley; based on Newman)	NN
+1501	xum'na'	'long bone beads; anything brittle'	(Shipley; based on Newman)	NN
+1502	ya:wil	'grass'	(Newman 1944)	NN
+1503	yaw'lic'	'wolf'	(Newman 1944)	NN
+1504	yax	'reptile, snake (general term)'	(Shipley; based on Newman)	NN
+1505	ye:bitr'	'lip'	(Shipley; based on Newman)	NN
+1506	yime:itr'	'water duck'	(Newman notes book 1 story 3)	NN
+1507	yiy'ca	'only (one), alone'	(Newman 1944)	NN
+1508	yokoc'	'person, people'	(Newman 1944: 196)	NN
+1509	yo:kic'a	'relatives'	(Shipley; based on Newman)	NN
+1510	yonxo'	'gray squirrel'	(Shipley; based on Newman)	NN
+1511	zhriwig(?)	'elbow'	(Shipley; based on Newman)	NN
+1512	zhu'ba'	'a part'	(Shipley; based on Newman)	NN
+1513	zhu'ban'a'	'a half'	(Shipley; based on Newman)	NN
+1514	zhux	'headdress worn by shamans and dancers'	(Shipley; based on Newman)	NN
+1515	wichreb	'offspring, child'	(Newman 1944: 226)	NN
+1516	manal	'tear'	(Newman 1944: 16)	NN
+1517	wichribhay	'children'	(Newman 1944: 198)	NN
+1518	trumoynac'	'widows'	(Newman 1944: 209)	NN
+1519	xomo:ti'	'south'	(Newman 1944: 220)	NN
+1520	xosim	'north'	(Newman 1944: 220)	NN
+1521	'a:lit	'salt-grass'	(Newman 1944: 220)	NN
+1522	ni'wow	'(in) evening'	(Newman 1944: 197)	NN
+1523	woyil	'plant'	(Vera & Clark 2002: 284)	NN
+1524	baga'	'cow'	(Vera & Clark 2002: 81, form uncertain)	NN
+1525	'i'	'or'	(Newman 1944: 238)	CC
+1526	'o'	'or'	(Newman 1944: 238)	CC
+1527	ki	'when'	(Newman 1944: 237)	CC
+1528	me'zhi'	'because'	(Newman 1944: 237)	CC
+1529	traw	'if'	(Newman 1944: 238)	CC
+1530	wa	'however'	(Newman 1944: 238)	CC
+1531	wilshrin	'but, in spite of that'	(Newman 1944: 238)	CC
+1532	yow	'and, also, again'	(Newman 1944: 238)	CC
+1533	'ama'	'and, then'	(Newman 1944: 238)	CC
+1534	ki	'this.SG.NOM'	(Newman 1944:228)	DT
+1535	tra	'that.SG.NOM'	(Newman 1944:228)	DT
+1536	ke:'in	'this.SG.GEN'	(Newman 1944:228)	DT
+1537	tra:'in	'that.SG.GEN'	(Newman 1944:228)	DT
+1538	kin	'this.SG.PRIM'	(Newman 1944:228)	DT
+1539	tran	'that.SG.PRIM'	(Newman 1944:228)	DT
+1540	ke:ni	'this.SG.SEC'	(Newman 1944:228)	DT
+1541	tra:ni	'that.SG.SEC'	(Newman 1944:228)	DT
+1542	ke:nit	'this.SG.ABL'	(Newman 1944:229)	DT
+1543	tra:nit	'that.SG.ABL'	(Newman 1944:229)	DT
+1544	kew	'this.SG.LOC'	(Newman 1944:229)	DT
+1545	traw	'that.SG.LOC'	(Newman 1944:229)	DT
+1546	kisik'	'this.DU.NOM'	(Newman 1944:229)	DT
+1547	trasik'	'that.DU.NOM'	(Newman 1944:229)	DT
+1548	kisikwin	'this.DU.GEN'	(Newman 1944:229)	DT
+1549	trasikwin	'that.DU.GEN'	(Newman 1944:229)	DT
+1550	kisikwa	'this.DU.PRIM'	(Newman 1944:229)	DT
+1551	trasikwa	'that.DU.PRIM'	(Newman 1944:229)	DT
+1552	kisikwa:ni	'this.DU.SEC'	(Newman 1944:229)	DT
+1553	trasikwa:ni	'that.DU.SEC'	(Newman 1944:229)	DT
+1554	kisikwa:nit	'this.DU.ABL'	(Newman 1944:229)	DT
+1555	trasikwa:nit	'that.DU.ABL'	(Newman 1944:229)	DT
+1556	kisikwaw	'this.DU.LOC'	(Newman 1944:229)	DT
+1557	trasikwaw	'that.DU.LOC'	(Newman 1944:229)	DT
+1558	kisin	'this.PL.NOM'	(Newman 1944:229)	DT
+1559	trasin	'that.PL.NOM'	(Newman 1944:229)	DT
+1560	kisinwin	'this.PL.GEN'	(Newman 1944:229)	DT
+1561	trasinwin	'that.PL.GEN'	(Newman 1944:229)	DT
+1562	kisinwa	'this.PL.PRIM'	(Newman 1944:229)	DT
+1563	trasinwa	'that.PL.PRIM'	(Newman 1944:229)	DT
+1564	kisinwa:ni	'this.PL.SEC'	(Newman 1944:229)	DT
+1565	trasinwa:ni	'that.PL.SEC'	(Newman 1944:229)	DT
+1566	kisinwa:nit	'this.PL.ABL'	(Newman 1944:229)	DT
+1567	trasinwa:nit	'that.PL.ABL'	(Newman 1944:229)	DT
+1568	kisinwaw	'this.PL.LOC'	(Newman 1944:229)	DT
+1569	trasinwaw	'that.PL.LOC'	(Newman 1944:229)	DT
+1570	dotr'bishrin	'ugly, homely'	(Shipley; based on Newman)	JJ
+1571	dotr'i'	'bad'	(Newman 1944: 223)	JJ
+1572	gude'	'small'	(Newman 1944: 38)	JJ
+1573	guchre'	'tiny'	(Newman 1944: 38)	JJ
+1574	hac'a:mi'	'new'	(Shipley; based on Newman)	JJ
+1575	hap'ic'	'sofy (sic)'	(Shipley; based on Newman)	JJ
+1576	hawchrin	'a few'	(Shipley; based on Newman)	JJ
+1577	k'idet'	'short'	(Shipley; based on Newman)	JJ
+1578	k'it'trin	'stingy'	(Shipley; based on Newman)	JJ
+1579	lagil	'different'	(Newman 1944)	JJ
+1580	shrin'a'	'lean, consumptive'	(Shipley; based on Newman)	JJ
+1581	tiw'as	'strong'	(Newman 1944: 223)	JJ
+1582	tixit	'painful, sick, ill'	(Shipley; based on Newman)	JJ
+1583	toc'o:hoy	'unimportant'	(Shipley; based on Newman)	JJ
+1584	trum'uk'	'warm, lukewarm'	(Shipley; based on Newman)	JJ
+1585	tulay'is	'difficult'	(Shipley; based on Newman)	JJ
+1586	wa'atr'	'long'	(Newman 1944)	JJ
+1587	wa'atr'	'long, tall'	(Shipley; based on Newman)	JJ
+1588	zhilab	'swift'	(Newman 1944)	JJ
+1589	c'iyugay	'green'	(Shipley; based on Newman)	JJ
+1590	dindinitr'	'thick'	(Shipley; based on Newman)	JJ
+1591	diwitr'	'hard, tough'	(Newman 1944: 223)	JJ
+1592	hic'ya'	'permanent, solid'	(Shipley; based on Newman)	JJ
+1593	homhomik'	'generous, liberal'	(Shipley; based on Newman)	JJ
+1594	k'abit'	'warm'	(Newman 1944: 223)	JJ
+1595	mutr'k'an'a'	'smoky'	(Shipley; based on Newman)	JJ
+1596	tr'axya'	'dry'	(*Harrington, Reel 89, Slide 255, community dict)	JJ
+1597	mani'	'much, many'	(Newman 1944)	JJ
+1598	may'e:k	'big'	(Newman 1944: 216)	JJ
+1599	ye:t'	'one'	(Newman 1944: 55)	JJ
+1600	bonoy	'two'	(Newman 1944: 55)	JJ
+1601	shro:pe:n	'three'	(Newman 1944: 55)	JJ
+1602	hodbonoy	'four'	(Newman 1944: 55)	JJ
+1603	yit'sinil	'five'	(Newman 1944: 55)	JJ
+1604	c'olip'e:y	'six'	(Newman 1944: 55)	JJ
+1605	nomc'e:l	'seven'	(Newman 1944: 55)	JJ
+1606	mun'o:s	'eight'	(Newman 1944: 55)	JJ
+1607	soponho:d	'nine'	(Newman 1944: 55)	JJ
+1608	tr'iy'e:w	'ten'	(Newman 1944: 55)	JJ
+1609	tr'ama'	'blind'	(Vera & Clark 2002: 36)	JJ
+1610	wa'	'far away'	(Newman 1944: 125)	JJ
+1611	pac'ikin	'red'	(Vera & Clark 2002: 305; cf. Newman 1944: 106; exact form unknown)	JJ
+1612	'insis	'good'	(Newman 1944: 116)	JJ
+1613	hǫ:hǫ'	'yes'	(Newman 1944: 238)	UH
+1614	hiydege'	'DOUBT/SURPRISE'	(Newman 1944: 238)	UH
+1615	hiyuk	'hello'	(Newman 1944: 238)	UH
+1616	wi:	'ANNOYANCE'	(Newman 1944: 239)	UH
+1617	yah	'hey!'	(Newman 1944: 239)	UH
+1618	'ąh	'oh!'	(Newman 1944: 239)	UH
+1619	'e:	'AMAZEMENT'	(Newman 1944: 239)	UH
+1620	'iná:	'FEAR'	(Newman 1944: 239)	UH
