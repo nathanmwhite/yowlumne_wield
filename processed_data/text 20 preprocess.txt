@@ -1,0 +1,114 @@
+ts'apqa	c'abix	'nest'	100.0%
+'amak	'amak'	'3DU.NOM'	100.0%
+hewtoqohin	hew'ta:	'walk about, roam'	100.0%
+,	,	[punc]	100.0%
+tr`ānit	tra:nit	'that.SG.ABL'	100.0%
+'amak	'amak'	'3DU.NOM'	100.0%
+jowkhēts`āhin	yowke:c'a:	'become human'	100.0%
+,	,	[punc]	100.0%
+kitaq	gidax	'unexpectedly'	100.0%
+tr'oqil	tr'oxil	'eagle'	100.0%
+jow	yo:w	'go home'	100.0%
+limik'	limik'	'prairie falcon'	100.0%
+,	,	[punc]	100.0%
+mi'n	mi'in	'soon'	100.0%
+.	.	[punc]	100.0%
+'amak'	'amak'	'3DU.NOM'	100.0%
+hi'	hi'	'FUT'	100.0%
+ti'sen	di'ishr	'repair, make'	100.0%
+jáwílts'a	yaw'lic'	'wolf'	100.0%
+,	,	[punc]	100.0%
+mi'n	mi'in	'soon'	100.0%
+tap	dab	'next, on the other hand, then'	100.0%
+p'a'na	p'a'an	'world'	100.0%
+ti'sen	di'ishr	'repair, make'	100.0%
+jawlits'i	yaw'lic'	'wolf'	100.0%
+,	,	[punc]	100.0%
+tr`a	tra	'that.SG.NOM'	100.0%
+tap	dab	'next, on the other hand, then'	100.0%
+mi'n	mi'in	'soon'	100.0%
+khin	kin	'this.SG.PRIM'	100.0%
+qotr'ohin	xotr'oy	'ground, soil'	50.0%
+tēs'ahin	di'ishr	'repair, make'	100.0%
+,	,	[punc]	100.0%
+'ama'	'ama'	'and'	100.0%
+tr`an	tran	'that.SG.PRIM'	100.0%
+pilismi	bilishr	'finish'	100.0%
+pinethin	bine:t	'ask'	100.0%
+tr'oqli	tr'oxil	'eagle'	100.0%
+'anki	'angi'	'Q'	100.0%
+hija'm	hiyam'	'next morning'	100.0%
+'inēsāhin	'ine:sa:	'be good'	100.0%
+wija'n	wiyi	'say, do'	100.0%
+ti'%	di'	'with a little doubt'	100.0%
+tr`an	tran	'that.SG.PRIM'	100.0%
+,	,	[punc]	100.0%
+'ama'	'ama'	'and'	100.0%
+ta	dab	'next, on the other hand, then'	100.0%
+'ohó'm	'ohom	'NEG'	100.0%
+wīhin	wiyi	'say, do'	100.0%
+,	,	[punc]	100.0%
+mi'n	mi'in	'soon'	100.0%
+ti	di'	'with a little doubt'	100.0%
+ma'%	ma'	'2SG.NOM'	100.0%
+hētsi	he:zhi'	'today'	100.0%
+silen	shril'i	'see'	100.0%
+wija'n	wiyi	'say, do'	100.0%
+ti	di'	'with a little doubt'	100.0%
+tr`an	tran	'that.SG.PRIM'	100.0%
+,	,	[punc]	100.0%
+'ama'	'ama'	'and'	100.0%
+'ōwīhin	'o:wiyi	'crow'	100.0%
+,	,	[punc]	100.0%
+'ama'	'ama'	'and'	100.0%
+jow	yow	'and, also, again'	100.0%
+jūqwen	yu:xwiyi	'melt away'	100.0%
+patr	batr	'as usual'	100.0%
+qótr'oj	xotr'oy	'ground, soil'	100.0%
+.	.	[punc]	100.0%
+'ama'	'ama'	'and'	100.0%
+jow	yow	'and, also, again'	100.0%
+laklen	lagil	'different'	100.0%
+patr	batr	'as usual'	100.0%
+tī'shin	di'ishr	'repair, make'	100.0%
+.	.	[punc]	100.0%
+mi'n	mi'in	'soon'	100.0%
+tap	dab	'next, on the other hand, then'	100.0%
+ti'witr'	diwitr'	'hard, tough'	100.0%
+,	,	[punc]	100.0%
+'ama'	'ama'	'and'	100.0%
+jow	yow	'and, also, again'	100.0%
+tr`ēqalhin	tre:xal	'speak'	100.0%
+'ama'	'ama'	'and'	100.0%
+'ohom	'ohom	'NEG'	100.0%
+jūqwīhin	yu:xwiyi	'melt away'	100.0%
+,	,	[punc]	100.0%
+hijam	hiyam	'already, now'	100.0%
+tiwētr'āhin	diwe:tr'a:	'become hard (A-->V)'	100.0%
+hijam	hiyam	'already, now'	100.0%
+'inēsāhin	'ine:sa:	'be good'	100.0%
+,	,	[punc]	100.0%
+tr`á	tra	'that.SG.NOM'	100.0%
+tā́men	damna:	'try'	50.0%
+tíjĭs	di'ishr	'repair, make'	80.0%
+jáwí'ltsin	yaw'lic'	'wolf'	100.0%
+.	.	[punc]	100.0%
+tr`ēlisni	tre:lis	'yellow seed plant, made into beverage'	100.0%
+p'a'na	p'a'an	'world'	100.0%
+ti'sin	di'ishr	'repair, make'	100.0%
+jawlits'	yaw'lic'	'wolf'	100.0%
+,	,	[punc]	100.0%
+joqun	yo:mu	'dispossess; cuckold s.o.'	25.0%
+trēlis	tre:lis	'yellow seed plant, made into beverage'	100.0%
+'ilk'aw	'ilik'	'water'	100.0%
+'ama'	'ama'	'and'	100.0%
+tiwētr'āhin	diwe:tr'a:	'become hard (A-->V)'	100.0%
+khi	ki	'this.SG.NOM'	100.0%
+'ilik'	'ilik	'sing'	100.0%
+,	,	[punc]	100.0%
+'ama'	'ama'	'and'	100.0%
+tr`a	tra	'that.SG.NOM'	100.0%
+hijam	hiyam	'already, now'	100.0%
+p'a'an	p'a'an	'world'	100.0%
+.	.	[punc]	100.0%
+		[punc]	100.0%
