@@ -77,7 +77,7 @@ taptap'iw	t'ap't'ap'	'leaf'	100.0%
 qolomin	xolom	'clover'	100.0%
 kōninhin	go:nin	'go down'	100.0%
 'ama'	'ama'	'and'	100.0%
-khosinhin	koshron 'be unable to find, miss'	100.0%
+khosinhin	koshron	'be unable to find, miss'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
 tr`a	tra	'that.SG.NOM'	100.0%
@@ -365,7 +365,7 @@ min	min	'2SG.GEN'	100.0%
 khin	kin	'this.SG.PRIM'	100.0%
 pok'ó'n	bok'o	'find'	100.0%
 noh'o'in	noh'o'	'bear'	100.0%
-k`otsóhtsi	k'onc'o:c'i' 'small lizard'	25.0%
+k`otsóhtsi	k'onc'o:c'i'	'small lizard'	25.0%
 ,	,	[punc]	100.0%
 'ama'	'ama'	'and'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
@@ -478,7 +478,7 @@ qó'qo	xo:	'live, exist, be'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
 wiʃats	wishrac'	'arrow-straightener'	100.0%
 ,	,	[punc]	100.0%
-phisla	pe:shri 'perform shamanistic services'	25.0%
+phisla	pe:shri	'perform shamanistic services'	25.0%
 na%	[unknown]	'[unknown]'	0.0%
 wáḵij	wakkiy	'very, very much'	100.0%
 ,	,	[punc]	100.0%
