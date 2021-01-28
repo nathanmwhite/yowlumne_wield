@@ -84,7 +84,7 @@ tr'ā&
 má'in	tr'ama'	'blind'	50.0%
 ,	,	[punc]	100.0%
 'ama	'ama'	'and'	100.0%
-'utr'ān	'utru 'play music'	100.0%
+'utr'ān	'utru	'play music'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
 jotr'ow	[unknown]	'[unknown]'	0.0%
 liḿik'	limik'	'prairie falcon'	100.0%
