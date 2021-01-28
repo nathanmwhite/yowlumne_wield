@@ -1175,7 +1175,7 @@ limk'a	limik'	'prairie falcon'	100.0%
 ,	,	[punc]	100.0%
 jow	yow	'and, also, again'	100.0%
 tʃr`an	tran	'that.SG.PRIM'	100.0%
-tʃr`aqājēhin	tr'axya' 'dry'	50.0%
+tʃr`aqājēhin	tr'axya'	'dry'	50.0%
 jow	yow	'and, also, again'	100.0%
 tʃran	tran	'that.SG.PRIM'	100.0%
 t`iqī't`anhin	tixit	'painful, sick, ill'	50.0%
@@ -1553,7 +1553,7 @@ k`ut̄son	guchrchrun	'[name]'	40.0%
 .	.	[punc]	100.0%
 k`i	ki	'this.SG.NOM'	100.0%
 tʃr`aw	traw	'that.SG.LOC'	100.0%
-hulʃrēqōhin	hulo:shr 'sit down'	100.0%
+hulʃrēqōhin	hulo:shr	'sit down'	100.0%
 naj	nay	'nearly, more than'	100.0%
 ti	di'	'with a little doubt'	75.0%
 'aʃr	'ashr	'actually, really'	100.0%
