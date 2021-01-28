@@ -67,3 +67,4 @@ if __name__ == '__main__':
     # the output on the run was texts 1, 4, 12, 17, 18; 13708/67835 characters (20.21%)
     # the output on a fairer run was texts 5, 14, 19, 20; 13334/67835 characters (19.66%)
     # even better: 5, 10, 17, 18; 13544/67835 characters (19.97%)
+    # this produces the result: 283/1421 phrases (19.92%)
