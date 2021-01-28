@@ -188,7 +188,7 @@ wihin	wiyi	'say, do'	100.0%
 tá'pa'	da:ba'	'then, too(?)'	100.0%
 .	.	[punc]	100.0%
 wa%	wa	'however'	25.0%
-hitsi	hi'zhri' 'tomorrow'	25.0%
+hitsi	hi'zhri'	'tomorrow'	25.0%
 míhi'	mihi'	'2SG.NOM FUT'	100.0%
 thahan	ta:na	'go'	100.0%
 min	min	'2SG.GEN'	100.0%
@@ -509,10 +509,10 @@ mimatr	mimyatr	'thunder'	100.0%
 t`a	tra	'that.NOM'	80.0%
 kuti'	gude'	'small'	100.0%
 ,	,	[punc]	100.0%
-tr`atr`a	tra'tra' 'ally'	80.0%
+tr`atr`a	tra'tra'	'ally'	80.0%
 tr'āqwíja'	tr'axya'	'dry'	25.0%
 ,	,	[punc]	100.0%
-tr`atr`a%	tra'tra' 'ally'	80.0%
+tr`atr`a%	tra'tra'	'ally'	80.0%
 warʃta	wa'ashrta'	'very'	100.0%
 qitwa'	xitrwa'	'angry'	25.0%
 ,	,	[punc]	100.0%
