@@ -171,7 +171,7 @@ kijámak	[unknown]	'[unknown]'	0.0%
 tr`aw	traw	'that.SG.LOC'	100.0%
 qo'qo'	xo:	'live, exist, be'	100.0%
 ,	,	[punc]	100.0%
-li'lna'	lil'na' 'money, bead, general term'	0.0%
+li'lna'	lil'na'	'money, bead, general term'	0.0%
 ,	,	[punc]	100.0%
 'ama'	'ama'	'and'	100.0%
 hāwjuk	hawyuk	'what.kind.NOM'	100.0%
@@ -206,7 +206,7 @@ tr`āni	tra:ni	'that.SG.SEC'	100.0%
 na'k	na'ak	'1DU.EXCL.NOM'	100.0%
 mam	mam	'2SG.PRIM'	100.0%
 'oho'm	'ohom	'NEG'	100.0%
-'atrilsitqo	'atral 'open'	100.0%
+'atrilsitqo	'atral	'open'	100.0%
 'oho'm	'ohom	'NEG'	100.0%
 nānikwa	na:nikwa	'1DU.EXCL.PRIM'	100.0%
 hawjo'uk	hawyo'uk	'what.kind.PRIM'	100.0%
@@ -332,7 +332,7 @@ joho'wsen	yolo:w	'assemble tr'	10.0%
 hitsi	hi'zhri'	'tomorrow'	100.0%
 mak%	mak'	'1DU.INCL.NOM'	100.0%
 i	hi'	'FUT'	50.0%
-johowsen	'ohyo: 'want, look for (YT has root ?oyoxo)'	50.0%
+johowsen	'ohyo:	'want, look for (YT has root ?oyoxo)'	50.0%
 hej	hi'	'FUT'	50.0%
 hijuk	hiyuk	'where.NOM'	100.0%
 tí%	di'	'with a little doubt'	25.0%
@@ -348,7 +348,7 @@ wija'n	wiyi	'say, do'	100.0%
 hits`i̱	hi'zhri'	'tomorrow'	100.0%
 mak	mak'	'1DU.INCL.NOM'	100.0%
 hi'	hi'	'FUT'	100.0%
-johówsen	'ohyo: 'want, look for (YT has root ?oyoxo)'	25.0%
+johówsen	'ohyo:	'want, look for (YT has root ?oyoxo)'	25.0%
 ,	,	[punc]	100.0%
 wá'ski	wa'ashrgi	'therefore'	100.0%
 wijá'n%	wiyi	'say, do'	100.0%
@@ -363,7 +363,7 @@ k'ál̄a	[unknown]	'[unknown]'	0.0%
 wijá'ni	wiyi	'say, do'	100.0%
 .	.	[punc]	100.0%
 wa'ʃki	wa'ashrgi	'therefore'	100.0%
-lohoswisen	'ohyo: 'want, look for (YT has root ?oyoxo)'	25.0%
+lohoswisen	'ohyo:	'want, look for (YT has root ?oyoxo)'	25.0%
 mak%	mak'	'1DU.INCL.NOM'	100.0%
 `i	hi'	'FUT'	100.0%
 wija'n	wiyi	'say, do'	100.0%
@@ -371,7 +371,7 @@ tran	tran	'that.SG.PRIM'	100.0%
 ,	,	[punc]	100.0%
 lohos&
 wis&
-qa'	'ohyo: 'want, look for (YT has root ?oyoxo)'	25.0%
+qa'	'ohyo:	'want, look for (YT has root ?oyoxo)'	25.0%
 mak	mak'	'1DU.INCL.NOM'	100.0%
 ,	,	[punc]	100.0%
 wá'	wa'	'far'	100.0%
@@ -398,7 +398,7 @@ joṯsin	[unknown]	'[unknown]'	0.0%
 'ama	'ama'	'and'	100.0%
 hijam	hiyam	'already, now'	100.0%
 traw	traw	'that.SG.LOC'	100.0%
-joqó'qo'	'ohyo: 'want, look for (YT has root ?oyoxo)'	25.0%
+joqó'qo'	'ohyo:	'want, look for (YT has root ?oyoxo)'	25.0%
 ,	,	[punc]	100.0%
 'ama'	'ama'	'and'	100.0%
 hawínuk	hawiynuk	'what.kind.SEC'	100.0%
@@ -413,7 +413,7 @@ sik	sik'i	'stick sth into the ground'	50.0%
 hijam%	hiyam	'already, now'	100.0%
 na	na'	'1SG.NOM'	100.0%
 khew	kew	'this.SG.LOC'	100.0%
-joqo'qo	'ohyo: 'want, look for (YT has root ?oyoxo)'	25.0%
+joqo'qo	'ohyo:	'want, look for (YT has root ?oyoxo)'	25.0%
 ,	,	[punc]	100.0%
 wij'eqōhin	wiyi	'say, do'	100.0%
 nim	nim	'1SG.GEN'	100.0%
@@ -468,7 +468,7 @@ maqhin	ma:xa	'procure, get'	100.0%
 traw	traw	'that.SG.LOC'	100.0%
 hupúʃmu	hubushr	'choose'	100.0%
 ,	,	[punc]	100.0%
-tī́tskaw	di'ichr 'sane (up), hoard'	25.0%
+tī́tskaw	di'ichr	'sane (up), hoard'	25.0%
 wija'n	wiyi	'say, do'	100.0%
 tran	tran	'that.SG.PRIM'	100.0%
 mets	mec'	'surely'	100.0%
@@ -698,7 +698,7 @@ k`á'jiw	kay'iw	'coyote'	100.0%
 t`aw	traw	'that.SG.LOC'	75.0%
 'aman	'aman	'3PL.NOM'	100.0%
 moṣlawisqo'	moshrla:wis/	'take a sweat bath'	100.0%
-pi'lsin	bilishr 'finish'	50.0%
+pi'lsin	bilishr	'finish'	50.0%
 t`aw&
 tr`ā'in	tawtra:	'kill tr'	100.0%
 'aminōkun	'amino:gun	'3PL.GEN'	100.0%
