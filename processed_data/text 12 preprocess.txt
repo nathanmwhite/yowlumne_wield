@@ -76,11 +76,11 @@ lokowon	logow	'pound into powder, pulverize'	75.0%
 kin	kin	'this.SG.PRIM'	100.0%
 há'in	[unknown]	'[unknown]'	0.0%
 k'así&
-na	k'ashryin 'black seed'	75.0%
+na	k'ashryin	'black seed'	75.0%
 ,	,	[punc]	100.0%
 waḵij	wakkiy	'very, very much'	100.0%
 na'	na'	'1SG.NOM'	100.0%
-'itel'an	'e:dil 'get hungry'	75.0%
+'itel'an	'e:dil	'get hungry'	75.0%
 wija'n	wiyi	'say, do'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
 nōts`i	no:chro'	'friend'	100.0%
@@ -113,7 +113,7 @@ pholwojni	polwoy	'corn pestle'	100.0%
 qip&
 'altoqō	xip'il	'take from s.o. by force, deprive'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
-k'aʃínān	k'ashryin 'black seed'	50.0%
+k'aʃínān	k'ashryin	'black seed'	50.0%
 'amin	'amin	'3SG.GEN'	100.0%
 ,	,	[punc]	100.0%
 qáṯhā́n	xata	'eat'	100.0%
@@ -205,7 +205,7 @@ ma'k	ma'ak'	'2DU.NOM'	100.0%
 t`aqhinhin	taxa:	'bring'	100.0%
 wijá'tr	[unknown]	'[unknown]'	0.0%
 'amak	'amak'	'3DU.NOM'	100.0%
-t`asinwen	trasinwin 'that.PL.GEN'	75.0%
+t`asinwen	trasinwin	'that.PL.GEN'	75.0%
 ka'énhin	ga'e:ni	'women'	75.0%
 ,	,	[punc]	100.0%
 jow	yow	'and, also, again'	100.0%
@@ -234,7 +234,7 @@ hits%	hi'zhri'	'tomorrow'	100.0%
 ījam%	hiyam	'already, now'	25.0%
 a%	ma'	'2SG.NOM'	25.0%
 ḵhi	ki	'this.SG.NOM'	25.0%
-hawj̄an	haway 'do what'	25.0%
+hawj̄an	haway	'do what'	25.0%
 ,	,	[punc]	100.0%
 hitsí%	hi'zhri'	'tomorrow'	100.0%
 ma%	ma'	'2SG.NOM'	100.0%
