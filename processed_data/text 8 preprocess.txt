@@ -27,7 +27,7 @@ hīm	hiyam	'already, now'	25.0%
 há'uk	ha'uk	'what.NOM'	100.0%
 kojunalis	[unknown]	'[unknown]'	0.0%
 ,	,	[punc]	100.0%
-hū́trū́wsaqo'	hutr'u 'cook bread in ashes'	25.0%
+hū́trū́wsaqo'	hutr'u	'cook bread in ashes'	25.0%
 ,	,	[punc]	100.0%
 'ama'	'ama'	'and'	100.0%
 ti	di'	'with a little doubt'	100.0%
@@ -114,7 +114,7 @@ thaná'an	ta:na	'go'	100.0%
 'ama'	'ama'	'and'	100.0%
 tr`aw	traw	'that.SG.LOC'	100.0%
 patr'&
-ín%	batr'in 'fall down'	75.0%
+ín%	batr'in	'fall down'	75.0%
 kin	kin	'this.SG.PRIM'	25.0%
 tr`aw	traw	'that.SG.LOC'	100.0%
 t`ā́witr'in	ta:witr	'die'	100.0%
