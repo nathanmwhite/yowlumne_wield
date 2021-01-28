@@ -234,7 +234,7 @@ kitaq	gidax	'uncertain'	100.0%
 pi'm&
 tr`an&
 na'in&	bim'tran'a'	'stump (of tree)'	100.0%
-hak'lḗqo	'ak'al 'put ones arms around s.o.s head'	100.0%
+hak'lḗqo	'ak'al	'put ones arms around s.o.s head'	100.0%
 ,	,	[punc]	100%
 hijuk	hiyuk	'where.NOM'	100.0%
 wija'n	wiyi	'say, do'	100.0%
@@ -297,7 +297,7 @@ patr	batr	'as usual'	100.0%
 pimtran&
 a&
 hin	bim'tran'a'	'stump (of tree)'	100.0%
-'aklēqo'	'ak'al 'put ones arms around s.o.s head'	100.0%
+'aklēqo'	'ak'al	'put ones arms around s.o.s head'	100.0%
 ,	,	[punc]	100.0%
 hija'm	hiyam	'already, now'	100.0%
 paṯṟ%&	batr	'as usual'	100.0%
@@ -357,7 +357,7 @@ wojo	wo:'uy	'sleep'	100.0%
 t`aw	taw	'that.SG.LOC'	100.0%
 patr	batr	'as usual'	100.0%
 pimtr`anahin	bim'tran'a'	'stump (of tree)'	100.0%
-háklḗqo'	'ak'al 'put ones arms around s.o.s head'	100.0%
+háklḗqo'	'ak'al	'put ones arms around s.o.s head'	100.0%
 ,	,	[punc]	100.0%
 'ama	'ama'	'and'	100.0%
 patr	batr	'as usual'	100.0%
