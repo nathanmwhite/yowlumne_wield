@@ -241,7 +241,7 @@ mi'n	mi'in	'soon'	100.0%
 qat`en	xata	'eat'	100.0%
 ,	,	[punc]	100.0%
 'ama'	'ama'	'and'	100.0%
-palik'mi	balak' 'be sated (with food)'	100.0%
+palik'mi	balak'	'be sated (with food)'	100.0%
 mi'n	mi'in	'soon'	100.0%
 'aman	'aman	'3PL.NOM'	100.0%
 'utron	'utru	'play music'	100.0%
