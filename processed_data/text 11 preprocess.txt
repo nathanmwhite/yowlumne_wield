@@ -455,7 +455,7 @@ hanop	ha:nuk	'what.PRIM'	50.0%
 q̓at`a'n	xata	'eat'	100.0%
 ,	,	[punc]	100.0%
 'úṯal	'ut't'al	'solely, nothing but'	100.0%
-sowkun	so:gon 'Indian tobacco weed'	25.0%
+sowkun	so:gon	'Indian tobacco weed'	25.0%
 tíwitr'	diwitr'	'hard, tough'	100.0%
 'ama'	'ama'	'and'	100.0%
 tra'aʃ	tra'ashr	'continuously'	100.0%
