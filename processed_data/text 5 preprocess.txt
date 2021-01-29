@@ -56,9 +56,7 @@ limik'	limik'	'prairie falcon'	100.0%
 mi'n%	mi'in	'soon'	25.0%
 a'k	na'ak'	'1DU.EXCL.NOM'	25.0%
 t`ah̯an	ta:na	'go'	100.0%
-.	.	[punc]	100.0%
-.	.	[punc]	100.0%
-.	.	[punc]	100.0%
+…	…	[punc]	100.0%
 .	.	[punc]	100.0%
 'ama	'ama'	'and'	100.0%
 'amak	'amak'	'3DU.NOM'	100.0%
