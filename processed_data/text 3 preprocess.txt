@@ -57,8 +57,8 @@ jow	yow	'and, also, again'	100.0%
 'ēnas	'e:nas	'grandfather, man's grandchild'	100.0%
 .	.	[punc]	100.0%
 hētam	he:dam	'nearby'	100.0%
-'aman	'aman	'3PL.NOM'	100.0%
-%traw	traw	'that.LOC'	100.0%
+'aman%	'aman	'3PL.NOM'	100.0%
+traw	traw	'that.LOC'	100.0%
 'iptrit	'ipitr	'throw off/out, pick off'	100.0%
 .	.	[punc]	100.0%
 'ohom	'ohom	'NEG'	100.0%
