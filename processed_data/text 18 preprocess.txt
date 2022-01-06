@@ -234,7 +234,7 @@ wīhin	wiyi	'say, do'	100.0%
 nim	nim	'1SG.GEN'	100.0%
 samaw	sama'	'mouth'	100.0%
 !	!	[punc]	100.0%
-'ama'	'ama'	'and'	100.0% [continue here]
+'ama'	'ama'	'and'	100.0%
 kōpinmi	go:bin	'enter'	100.0%
 hijam	hiyam	'already, now'	100.0%
 noh'ō'in	noh'o'	'bear'	100.0%
