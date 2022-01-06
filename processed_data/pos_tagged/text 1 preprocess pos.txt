@@ -1,0 +1,352 @@
+tr`au	traw	'that.LOC'	100.0%	DT
+na'	na'	'1SG.NOM'	100.0%	PN
+wójhin	wo:yo	'be born'	100.0%	VB
+kas`waw	gaswaw	'[location]'	100.0%	NP
+,	,	[punc]	100.0%	PU
+hijam	hiyam	'already, now'	100.0%	RB
+na'	na'	'1SG.NOM'	100.0%	PN
+huteqōhin	hudu	'recognize, know'	100.0%	VB
+jow	yow	'and, also, again'	100.0%	CC
+tap	dab	'next, on the other hand, then'	100.0%	RB
+jokhots'	yokoc'	'person, people'	100.0%	NN
+wolqoqōhin	walxo:	'pass'	100.0%	VB
+'ithapnitr`a	'ithapnitr`a	'[name]'	100.0%	UN
+sonorēñu	sonorēñu	[foreign]	100.0%	FW
+,	,	[punc]	100.0%	PU
+wowlu	wo:wul	'stand'	100.0%	VB
+'amnōkun	'amino:gun	'3PL.GEN'	100.0%	PN
+jow	yow	'also'	100.0%	CC
+tsu'pa	zhu'ba'	'a part'	100.0%	NN
+hiwetqas	hiwe:t	'walk, travel'	100.0%	VB
+jow	yow	'also'	100.0%	CC
+'amnōkun	'amino:gun	'3PL.GEN'	100.0%	PN
+qo'qo	xo:	'exist'	100.0%	VB
+ta'maj	tam'ay	'sandal'	100.0%	NN
+,	,	[punc]	100.0%	PU
+hi	hi'	'FUT'	100.0%	RB
+maqam	ma:xa	'procure, get'	62.5%	VB
+nim	nim	'1SG.GEN'	100.0%	PN
+tr`aw	traw	'that.LOC'	100.0%	DT
+'alit	'alid	'some time ago'	100.0%	RB
+munos	muno:shr	'eight'	100.0%	CD
+p'á'n	p'a'an	'year'	100.0%	NN
+,	,	[punc]	100.0%	PU
+tr`aw	traw	'that.SG.LOC'	100.0%	DT
+na'n	nan	'1SG.PRIM'	100.0%	PN
+t`aqan'āhin	taxa:	'bring'	100.0%	VB
+qā́mi	xa:mi	'hither, this place'	100.0%	RB
+,	,	[punc]	100.0%	PU
+'uṯal	'ut't'al	'solely, nothing but'	100.0%	RB
+lomit	lomit	'mountain'	100.0%	NN
+'ohom	'ohom	'NEG'	100.0%	RB
+traw	traw	'that.SG.LOC'	100.0%	DT
+kalētā'in	galēta'	'cart'	100.0%	FW
+phil	pil	'road'	100.0%	NN
+,	,	[punc]	100.0%	PU
+'as	'ashr	'actually, really'	100.0%	RB
+'aqa'm	'axam'	'probably'	100.0%	RB
+hawsinuk	hawshrinuk	'how.many.NOM'	81.2%	PN
+qa'jal	hay'al	'day'	100.0%	NN
+nimōkun	nimo:gun	'1PL.EXCL.GEN'	100.0%	PN
+t`aqin	taxa:	'bring'	100.0%	VB
+,	,	[punc]	100.0%	PU
+'aʃ	'ashr	'actually, really'	100.0%	RB
+hotponoj	hodbonoy	'four'	100.0%	JJ
+'aqá'm	'axam'	'probably'	100.0%	RB
+qá'jal	hay'al	'day'	100.0%	NN
+,	,	[punc]	100.0%	PU
+'ama'	'ama'	'and'	100.0%	PN
+na'n	na'an	'1PL.EXCL.NOM'	100.0%	PN
+tr`aw	traw	'that.LOC'	100.0%	DT
+phanāhin	pana:	'arrive'	100.0%	VB
+t'ujt'ujhañaw	t'uyu	'shoot'	100.0%	VB
+tr`unaw	tr'un	'anal hair'	100.0%	NN
+'ama'	'ama'	'3SG.NOM'	100.0%	PN
+na'n	na'an	'1PL.EXCL.NOM'	100.0%	PN
+tr`ānit	tra:nit	'that.SG.ABL'	100.0%	DT
+'op`now	[unknown]	[unknown]	50.0%	UN
+phanāhin	pana:	'arrive'	100.0%	VB
+,	,	[punc]	100.0%	PU
+mani'	mani'	'much, many'	100.0%	JJ
+jokhots'	yokoc'	'person, people'	100.0%	NN
+wáth'ak'ilits'	[unknown]	[unknown]	0.0%	UN
+,	,	[punc]	100.0%	PU
+'ama'	'ama'	'3SG.NOM'	100.0%	PN
+na'n	na'an	'1PL.EXCL.NOM'	100.0%	PN
+ts'ōmunthaw	c'o:mu	'destroy, devour'	100.0%	VB
+wathākin	watak'	'pine nut'	100.0%	NN
+t`aqhinhin	taxa:	'bring'	100.0%	VB
+t`inliw	tinel	'hole'	100.0%	NN
+,	,	[punc]	100.0%	PU
+'ama'	'ama'	'3SG.NOM'	100.0%	PN
+na'n	na'an	'1PL.EXCL.NOM'	100.0%	PN
+tr`aw	traw	'that.SG.LOC'	100.0%	DT
+phanāhin	pana:	'arrive'	100.0%	VB
+.	.	[punc]	100.0%	PU
+'oho'm	'ohom	'NEG'	100.0%	RB
+tr`aw	traw	'that.SG.LOC'	100.0%	DT
+ha'uk	ha'uk	'what.NOM'	100.0%	PN
+'itrphīnits	'itrpi:nitr	'[name]'	0.0%	UN
+.	.	[punc]	100.0%	PU
+'ohom	'ohom	'NEG'	100.0%	RB
+traw	traw	'that.SG.LOC'	100.0%	DT
+ha'uk	ha'uk	'what.NOM'	100.0%	PN
+ts'oḻol	c'olol	'white'	100.0%	JJ
+jōkhots'	yokoc'	'person, people'	100.0%	NN
+,	,	[punc]	100.0%	PU
+'uṯal	'ut't'al	'solely, nothing but'	100.0%	RB
+'injāna'	'inya:na'	'Indian'	100.0%	FW
+.	.	[punc]	100.0%	PU
+hijam	hiyam	'already, now'	100.0%	RB
+'aqam	'axam'	'perhaps'	100.0%	RB
+tr`ásin	trasin	'that.PL.NOM'	100.0%	DT
+'itapnitra	'itapnitra	'[name]'	0.0%	UN
+t`ana'āhin	ta:na	'go'	100.0%	VB
+,	,	[punc]	100.0%	PU
+Del	Del	[foreign]	100.0%	FW
+Valle	Valle	[foreign]	100.0%	FW
+jow	yow	'and'	100.0%	CC
+Aguirre	Aguirre	[foreign]	100.0%	FW
+hijam	hiyam	'already, now'	100.0%	RB
+'amak	'amak'	'3DU.NOM'	100.0%	PN
+'ohmeqohun	'ohe:m	'be not'	100.0%	VB
+tr`aw	traw	'that.LOC'	100.0%	DT
+tr`anajtrmi	trana:yitr	'fear'	100.0%	VB
+'amak'	'amak'	'3DU.NOM'	100.0%	PN
+thanhin	ta:na	'go'	100.0%	VB
+'injana'in	'inya:na'	'Indian'	100.0%	FW
+.	.	[punc]	100.0%	PU
+kulal	[unknown]	[unknown]	0.0%	UN
+na	na'	'1SG.NOM'	100.0%	PN
+wilsin	wilshrin	'but, in spite of that'	100.0%	CC
+ʃilhin	shril'i	'see'	100.0%	VB
+'oho'm	'ohom	'NEG'	100.0%	RB
+tr`aw	traw	'that.LOC'	100.0%	DT
+tr`i'	tri'	'house'	100.0%	NN
+,	,	[punc]	100.0%	PU
+jawliw	ya:wil	'grass'	100.0%	NN
+de	de	[foreign]	100.0%	FW
+Vicente	Vicente	[foreign]	100.0%	FW
+(	(	[punc]	100.0%	PU
+Vicente	Vicente	[foreign]	100.0%	FW
+tinōki	[unknown]	[unknown]	0.0%	UN
+&	&	[punc]	100.0%	PU
+Francisco	Francisco	[foreign]	100.0%	FW
+tinōki	[unknown]	[unknown]	0.0%	UN
+)	)	[punc]	100.0%	PU
+kutew	gude'	'small'	100.0%	JJ
+jawliw	ya:wil	'grass'	100.0%	NN
+tr`aw	traw	'that.LOC'	100.0%	DT
+na'	na'	'1SG.NOM'	100.0%	PN
+qó'o'	xo:	'live, exist, be'	100.0%	VB
+,	,	[punc]	100.0%	PU
+tr`aw	traw	'that.LOC'	100.0%	DT
+naʃ	na'ashr	'dubitative'	100.0%	RB
+póhutr`un	bo:hutr'	'grow up'	100.0%	VB
+,	,	[punc]	100.0%	PU
+kapulālin	gabulal	'caporal'	100.0%	FW
+p'a'n	p'a'an	'world'	100.0%	NN
+,	,	[punc]	100.0%	PU
+jow	yow	'and'	100.0%	CC
+ts'ik	[unknown]	[unknown]	0.0%	UN
+k`alinjow	[unknown]	[unknown]	0.0%	UN
+,	,	[punc]	100.0%	PU
+jow	yow	'and'	100.0%	CC
+wáḵhán	[unknown]	[unknown]	0.0%	UN
+jow	yow	'and'	100.0%	CC
+.	.	[punc]	100.0%	PU
+wasāp`ajow	[unknown]	[unknown]	0.0%	UN
+,	,	[punc]	100.0%	PU
+tr`asin	trasin	'that.PL.NOM'	100.0%	DT
+wa	wa	'however'	100.0%	CC
+wilsin	wilshrin	'but, in spite of that'	100.0%	CC
+na'	na'	'1SG.NOM'	100.0%	PN
+pak'āthīnqo'	pak'a:tin	'remember'	100.0%	VB
+moqelha'ja'n	moxlo'	'old person'	100.0%	NN
+.	.	[punc]	100.0%	PU
+'ama'	'ama'	'3SG.NOM'	100.0%	PN
+lanmi	la:n'a:	'listen'	100.0%	VB
+jokhots'	yokoc'	'person, people'	100.0%	NN
+mi'n	mi'in	'soon'	100.0%	RB
+'aman	'aman	'3PL.NOM'	100.0%	PN
+jolōnin	yolo:w	'assemble tr'	100.0%	VB
+tho'jnē'in	toyon	'be night'	100.0%	VB
+,	,	[punc]	100.0%	PU
+timaha'	dimaha'	'quiver'	100.0%	NN
+jokhots'in	yokoc'	'person, people'	100.0%	NN
+mani'	mani'	'much, many'	100.0%	JJ
+,	,	[punc]	100.0%	PU
+mani'	mani'	'much, many'	100.0%	JJ
+waha'ji'	wahay'i'	'poison arrow'	100.0%	NN
+,	,	[punc]	100.0%	PU
+'ama'	'ama'	'3SG.NOM'	100.0%	PN
+thawnēni	tawin	'become morning'	100.0%	VB
+jokhots'	yokoc'	'person, people'	100.0%	NN
+phanāhin	pana:	'arrive'	100.0%	VB
+Beale	Beale	[foreign]	100.0%	FW
+,	,	[punc]	100.0%	PU
+Alejandro	Alejandro	[foreign]	100.0%	FW
+,	,	[punc]	100.0%	PU
+Biʃip	Biʃip	[foreign]	100.0%	FW
+,	,	[punc]	100.0%	PU
+jow	yow	'and'	100.0%	CC
+'itapnitra	'itapnitra	'[name]'	0.0%	UN
+,	,	[punc]	100.0%	PU
+ts'owini'	c'owo	'grasp'	50.0%	VB
+'aminōkun	'amino:gun	'3PL.GEN'	100.0%	PN
+.	.	[punc]	100.0%	PU
+Jesus	Jesus	[foreign]	100.0%	FW
+Cordova	Cordova	[foreign]	100.0%	FW
+,	,	[punc]	100.0%	PU
+Ramon	Ramon	[foreign]	100.0%	FW
+Huaquíla	Huaquíla	[foreign]	100.0%	FW
+,	,	[punc]	100.0%	PU
+Jesus	Jesus	[foreign]	100.0%	FW
+Téyes	Téyes	[foreign]	100.0%	FW
+,	,	[punc]	100.0%	PU
+Chihuahua	Chihuahua	[foreign]	100.0%	FW
+ts'awsila	[unknown]	[unknown]	0.0%	UN
+(	(	[punc]	100.0%	PU
+tr`ānit	tra:nit	'that.SG.ABL'	100.0%	DT
+)	)	[punc]	100.0%	PU
+'aman	'aman	'3PL.NOM'	100.0%	PN
+t`aqanáhin	taxa:	'bring'	100.0%	VB
+,	,	[punc]	100.0%	PU
+Rio	Rio	[foreign]	100.0%	FW
+San	San	[foreign]	100.0%	FW
+Joaquin	Joaquin	[foreign]	100.0%	FW
+,	,	[punc]	100.0%	PU
+Antonio	Antonio	[foreign]	100.0%	FW
+Zapatero	Zapatero	[foreign]	100.0%	FW
+tra'in	tra:'in	'that.SG.GEN'	100.0%	DT
+qo'qohin	xo:	'live, exist, be'	100.0%	VB
+'olōwis	'olōwis	'adobes'	100.0%	FW
+t`i'	tri'	'house'	100.0%	NN
+,	,	[punc]	100.0%	PU
+tr`aw	traw	'that.LOC'	100.0%	DT
+'aman	'aman	'3PL.NOM'	100.0%	PN
+phanāhin	pana:	'arrive'	100.0%	VB
+,	,	[punc]	100.0%	PU
+t`inliw	tinel	'hole'	100.0%	NN
+,	,	[punc]	100.0%	PU
+Zapatelo'in	Zapatelo'	[foreign]	100.0%	FW
+majek	may'e:k	'big'	0.0%	JJ
+tr`í'	tri'	'house'	100.0%	NN
+,	,	[punc]	100.0%	PU
+'olowis	'olōwis	'adobes'	100.0%	FW
+,	,	[punc]	100.0%	PU
+'olōwis	'olōwis	'adobes'	100.0%	FW
+tr`i'	tri'	'house'	100.0%	NN
+,	,	[punc]	100.0%	PU
+mani	mani'	'much, many'	100.0%	JJ
+wakij	wakkiy	'very, very much'	100.0%	RB
+'injāna'	'inya:na'	'Indian'	100.0%	FW
+t`inliw	tinel	'hole'	100.0%	NN
+,	,	[punc]	100.0% edited to here	PU
+hija'mi'	hiya:m'i'	'a long time ago'	50.0%	RB
+,	,	[punc]	100.0%	PU
+jitsinlaw	jit'sinil	'five'	100.0%	CD
+tr'ijewo'	tr'iyew	'ten'	100.0%	CD
+jow	yow	'and'	100.0%	CC
+ponjow	bonoy	'two'	100.0%	VB
+,	,	[punc]	100.0%	PU
+'ama'	'ama'	'3SG.NOM'	100.0%	PN
+t`awinmi	tawin	'to become morning'	100.0%	VB
+jolowin	yolo:w	'assemble tr'	100.0%	VB
+jētr'aw	ye:tr'aw	'all'	100.0%	RB
+jokhōts'i	yokoc'	'person, people'	100.0%	NN
+,	,	[punc]	100.0% edited to here	PU
+mi'n	mi'in	'soon'	100.0%	RB
+jokhots'	yokoc'	'person, people'	100.0%	NN
+lāna	la:na	'hear'	100.0%	VB
+treqal	tre:xal	'speak'	100.0%	VB
+bīlin	bil	'Beale'	100.0%	FW
+,	,	[punc]	100.0%	PU
+zapatīlo'in	Zapatīlo'	[foreign]	100.0%	FW
+tr`ew	tri'	'house'	100.0%	NN
+,	,	[punc]	100.0%	PU
+na'	na'	'1SG.NOM'	100.0%	PN
+t`aqan'an	taxa:	'bring'	100.0%	VB
+māminwa	ma:minwa	'2PL.PRIM'	100.0%	PN
+pitelsi'ni	pitelse:	'teach, advise'	100.0%	VB
+ts'owōni	c'owo	'grasp'	25.0%	VB
+,	,	[punc]	100.0%	PU
+mi'n	mi'in	'soon'	100.0%	RB
+maj	may	'1PL.INCL.NOM'	100.0%	PN
+wojlo	wo:yo	'be born'	50.0%	VB
+'alālu	[unknown]	[unknown]	0.0%	UN
+wija'n	wiyi	'say, do'	100.0%	VB
+,	,	[punc]	100.0%	PU
+'ama'	'ama'	'and'	100.0%	PN
+jḗtr'aw	ye:tr'aw	'all'	100.0%	RB
+jokhōts'	yokoc'	'person, people'	100.0%	NN
+wīhin	wiyi	'say, do'	100.0%	VB
+'insis	'insis	'good'	100.0%	JJ
+,	,	[punc]	100.0%	PU
+Alejandro	Alejandro	[foreign]	100.0%	FW
+lēmonton	le:mondo'	'name of Tejon chief'	100.0%	NN
+linets'an	linic'	'talk to, speak'	100.0%	VB
+'ipintriw	[unknown]	[unknown]	0.0%	UN
+'ama'	'ama'	'3SG.NOM'	100.0%	PN
+tap	dab	'next, on the other hand, then'	100.0%	RB
+lēmontow	le:mondo'	'name of Tejon chief'	100.0%	NN
+'injāna'in	'inya:na'	'Indian'	100.0%	FW
+linets'an	linic'	'talk to, speak'	100.0%	VB
+,	,	[punc]	100.0%	PU
+jetr'aw	ye:tr'aw	'all'	100.0%	RB
+'amnōkun	'amino:gun	'3PL.GEN'	83.3%	PN
+tr`ēqal	tre:xal	'speak'	100.0%	VB
+toso'n	do:so	'report, tell about'	100.0%	VB
+lēmunto	le:mondo'	'name of Tejon chief'	100.0%	NN
+,	,	[punc]	100.0%	PU
+jow	yo:w	'go home'	100.0%	VB
+tap	dab	'next, on the other hand, then'	100.0%	RB
+'aleqandro	Alejandro	[foreign]	100.0%	FW
+'itpintriw	[unknown]	[unknown]	0.0%	UN
+.	.	[punc]	100.0%	PU
+posōlēt	[unknown]	[unknown]	0.0%	UN
+mani'	mani'	'much, many'	100.0%	JJ
+tikí'wu'	[unknown]	[unknown]	0.0%	UN
+majahjiw	may'e:k	'big'	0.0%	JJ
+k`ewsiw	[unknown]	[unknown]	100.0%	UN
+jow	yow	'and'	100.0%	CC
+kā́lni'	galni'	'meat'	100.0%	NN
+,	,	[punc]	100.0%	PU
+mi'n	min	'2SG.GEN'	50.0%	PN
+jokhots'	yokoc'	'person, people'	100.0%	NN
+tap	dab	'next, on the other hand, then'	100.0%	RB
+qoten	xata	'eat'	100.0%	VB
+.	.	[punc]	100.0%	PU
+mani'	mani'	'much, many'	100.0%	JJ
+'am	[unknown]	[unknown]	0.0%	UN
+t`aqan	taxa:	'bring'	100.0%	VB
+kalēta'	kale:ta'	'cart:carreta'	100.0%	FW
+,	,	[punc]	100.0%	PU
+molowa'ji	mulo:	'mule'	100.0%	FW
+,	,	[punc]	100.0%	PU
+kotsi	kozhi	'pig:cochino'	100.0%	FW
+,	,	[punc]	100.0%	PU
+tsiwato'	zhiwato'	'young goat:chivato'	100.0%	FW
+,	,	[punc]	100.0%	PU
+jet'	ye:t'	'one'	100.0%	JJ
+kalētā'in	kale:ta'	'cart'	100.0%	FW
+ʃotrotron	shrotrotr	'pull, drag'	100.0%	VB
+ponoj	bonoy	'two'	100.0%	VB
+tr'ijaw	tr'iyew	'ten'	100.0%	CD
+mulowa'ji	mulo:	'mule:mulo'	100.0%	FW
+,	,	[punc]	100.0%	PU
+pitelsel	pitelse:	'act of advising, teach, advise'	100.0%	VB
+na	na'	'1SG.NOM'	100.0%	PN
+man	[unknown]	'[unknown]'	0.0%	UN
+jokhots'	yokoc'	'person, people'	100.0%	NN
+;	;	[punc]	100.0%	PU
+ts'ōwōni	c'owo	'grasp'	100.0%	VB
+.	.	[punc]	100.0%	PU
+'alalono	[unknown]	[unknown]	0.0%	UN
+.	.	[punc]	100.0%	PU
+'ínestam	'ine:sa:	'be good'	100.0%	VB
+lāninwa	na:ninwa	'1PL.EXCL.PRIM'	100.0%	PN
+qōnow	xo:now	'always'	100.0%	RB
+ʃila'āhin	shril'i	'see'	100.0%	VB
+Beale	Beale	[foreign]	100.0%	FW
+,	,	[punc]	100.0%	PU

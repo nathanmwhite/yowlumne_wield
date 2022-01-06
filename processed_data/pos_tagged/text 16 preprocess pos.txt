@@ -1,0 +1,2227 @@
+limik'	limik'	'prairie falcon'	100.0%	NN
+wak̄`i	wakkiy	'very, very much'	100.0%	RB
+huwōtʃr`uts'	[unknown]	'[unknown]'	0.0%	UN
+,	,	[punc]	100.0%	PU
+'ohom	'ohom	'NEG'	100.0%	RB
+'amin	'amin	'3SG.GEN'	100.0%	PN
+qo'qōhin	xo:	'live, exist, be'	100.0%	VB
+hijō'uk	hiyo'uk	'where.LOC'	100.0%	PN
+ki'ij	gi'iy	'enemy'	100.0%	VB
+tʃr`atʃran	tra'tra'	'ally'	50.0%	NN
+tʃr'a'wa'āhin	tr'aw'a	'win from'	100.0%	VB
+.	.	[punc]	100.0%	PU
+qōnow	xo:now	'always'	100.0%	RB
+'aʃr	'ashr	'actually, really'	100.0%	RB
+tʃr'a'wa'āhin	tr'aw'a	'win from'	100.0%	VB
+.	.	[punc]	100.0%	PU
+'ama'	'ama'	'and'	100.0%	PN
+k`a'jiw	kay'iw	'coyote'	100.0%	NN
+wīhin	widin	'say, do'	100.0%	VB
+li'mk'in	limik'	'prairie falcon'	100.0%	NN
+kē'ajhi	gi'iy	'enemy'	100.0%	VB
+na'	na'	'1SG.NOM'	100.0%	PN
+hut'ēqo'	hudu	'recognize, know'	100.0%	VB
+hawa't`am'uk`	hawa'tamuk	'having done what? (interrogative)'	100.0%	VB
+ma'an	ma'an	'2PL.NOM'	100.0%	PN
+na'aʃr	na'ashr	'dubitative'	100.0%	RB
+tʃr`an	tran	'that.SG.PRIM'	100.0%	DT
+tʃr'a'wal	tr'aw'a	'win from'	100.0%	VB
+.	.	[punc]	100.0%	PU
+'ama'	'ama'	'and'	100.0%	PN
+k`a'jiw	kay'iw	'coyote'	100.0%	NN
+tʃr`ānit	tra:nit	'that.SG.ABL'	100.0%	DT
+t`anhin	ta:na	'go'	100.0%	VB
+puk'aliw	buk'k'al	'hill, knoll'	100.0%	NN
+tʃr`aw	traw	'that.SG.LOC'	100.0%	DT
+'atil	'adil	'under'	100.0%	PP
+qo'qōhin	xo:	'live, exist, be'	100.0%	VB
+kuti'	gude'	'small'	100.0%	JJ
+'ilik'	'ilik'	'water'	100.0%	NN
+'ama'	'ama'	'and'	100.0%	PN
+winejhin	wine:y	'ascend'	100.0%	VB
+tʃr`an	tran	'that.SG.PRIM'	100.0%	DT
+puk'al	buk'k'al	'hill, knoll'	100.0%	NN
+k`a'jiw	kay'iw	'coyote'	100.0%	NN
+'ama'	'ama'	'and'	100.0%	PN
+witinhin	widin	'roll sth'	100.0%	VB
+tʃr`ānit	tra:nit	'that.SG.ABL'	100.0%	DT
+tʃr`ip`in̄it`	tripin	'on top of'	100.0%	PP
+tukoklam	dugogla:	'straighten'	100.0%	VB
+tʃr`an	tran	'that.SG.PRIM'	100.0%	DT
+'ilk'a	'ilik'	'water'	100.0%	NN
+.	.	[punc]	100.0%	PU
+'ama'	'ama'	'and'	100.0%	PN
+limik'	limik'	'prairie falcon'	100.0%	NN
+na'	na'	'1SG.NOM'	100.0%	PN
+limik'	limik'	'prairie falcon'	100.0%	NN
+na'	na'	'1SG.NOM'	100.0%	PN
+wijā'an	wiyi	'say, do'	100.0%	VB
+witinmi	widin	'roll sth'	100.0%	VB
+.	.	[punc]	100.0%	PU
+'ama'	'ama'	'and'	100.0%	PN
+patʃr	batr	'as usual'	100.0%	RB
+p`ana'	pana:	'arrive'	100.0%	VB
+tʃr`aw	traw	'that.SG.LOC'	100.0%	DT
+'ilk'aw	'ilik'	'water'	100.0%	NN
+'ama'	'ama'	'and'	100.0%	PN
+patʃr	batr	'as usual'	100.0%	RB
+tʃr`aw	traw	'that.SG.LOC'	100.0%	DT
+mā'en	ma'a	'look down'	100.0%	VB
+.	.	[punc]	100.0%	PU
+wilʃrin	wilshrin	'but, in spite of that'	100.0%	CC
+'ohom	'ohom	'NEG'	100.0%	RB
+limēk'aqo'	lime:k'a:/	'become prairie falcon'	50.0%	VB
+tʃr`a'ʃr%	tra'ashr	'continuously'	50.0%	RB
+tʃr`a	tra'	'that.SG.NOM'	50.0%	DT
+k`a'jiw	kay'iw	'coyote'	100.0%	NN
+.	.	[punc]	100.0%	PU
+'ama'	'ama'	'and'	100.0%	PN
+jow	yow	'and, also, again'	100.0%	CC
+patʃr	batr	'as usual'	100.0%	RB
+winejhin	wine:y	'ascend'	100.0%	VB
+'ama'	'ama'	'and'	100.0%	PN
+jow	yow	'and, also, again'	100.0%	CC
+witinhin	widin	'roll sth'	100.0%	VB
+.	.	[punc]	100.0%	PU
+motʃrk'a%	motrk'a'	'prairie falcon'	100.0%	NN
+na'	na'	'1SG.NOM'	100.0%	PN
+motʃrk'a%	motrk'a'	'prairie falcon'	100.0%	NN
+na'	na'	'1SG.NOM'	100.0%	PN
+wija'an	wiyi	'say, do'	100.0%	VB
+.	.	[punc]	100.0%	PU
+'ama	'ama'	'and'	100.0%	PN
+patʃr	batr	'as usual'	100.0%	RB
+p`ana'	pana:	'arrive'	100.0%	VB
+tʃr`an	tran	'that.SG.PRIM'	100.0%	DT
+'ilk'a	'ilik'	'water'	100.0%	NN
+.	.	[punc]	100.0%	PU
+'ama'	'ama'	'and'	100.0%	PN
+patʃr	batr	'as usual'	100.0%	RB
+tʃr`aw	traw	'that.SG.LOC'	100.0%	DT
+mā'en	ma'a	'look down'	100.0%	VB
+.	.	[punc]	100.0%	PU
+'ama'	'ama'	'and'	100.0%	PN
+hāts`aqom	ha'zhaxom	'finally, at last'	100.0%	RB
+'aʃr	'ashr	'actually, really'	100.0%	RB
+ʃri'lhin	shril'i	'see'	100.0%	VB
+tsololwijā'in	c'ololwiyi	'turn white'	100.0%	VB
+'atil	'adil	'under'	100.0%	PP
+'amin	'amin	'3SG.GEN'	100.0%	PN
+sasā'in	sasa'	'eye'	100.0%	NN
+naj	nay	'nearly, more than'	100.0%	RB
+limk'in	limik'	'prairie falcon'	100.0%	NN
+.	.	[punc]	100.0%	PU
+'ama	'ama'	'and'	100.0%	PN
+patʃr`	batr	'as usual'	100.0%	RB
+winējen	wine:y	'ascend'	100.0%	VB
+'ama'	'ama'	'and'	100.0%	PN
+patʃr	batr	'as usual'	100.0%	RB
+witnen	widin	'roll sth'	100.0%	VB
+,	,	[punc]	100.0%	PU
+'ama'	'ama'	'and'	100.0%	PN
+mā'en	ma'a	'look down'	100.0%	VB
+tʃr`aw	traw	'that.SG.LOC'	100.0%	DT
+'ilk'aw	'ilik'	'water'	100.0%	NN
+'ama'	'ama'	'and'	100.0%	PN
+patʃr	batr	'as usual'	100.0%	RB
+wihmi	[unknown]	'[unknown]'	0.0%	UN
+winējen	wine:y	'ascend'	100.0%	VB
+'ama'	'ama'	'and'	100.0%	PN
+patʃr`	batr	'as usual'	100.0%	RB
+wit`nen	widin	'roll sth'	100.0%	VB
+.	.	[punc]	100.0%	PU
+hā'ts`aqom%	ha'zhaxom	'finally, at last'	100.0%	RB
+'aʃr	'ashr	'actually, really'	100.0%	RB
+limēk'āhin	lime:k'a:/	'become prairie falcon'	50.0%	VB
+.	.	[punc]	100.0%	PU
+'ama'	'ama'	'and'	100.0%	PN
+tʃr`ānit	tra:nit	'that.SG.ABL'	100.0%	DT
+t`anhin	ta:na	'go'	100.0%	VB
+k`a'jiw	kay'iw	'coyote'	100.0%	NN
+hijam	hiyam	'already, now'	100.0%	RB
+limēk'am	[unknown]	'[unknown]'	0.0%	UN
+li'mk'in	limik'	'prairie falcon'	100.0%	NN
+tʃr`ew	tri'	'house'	100.0%	NN
+.	.	[punc]	100.0%	PU
+'ama'	'ama'	'and'	100.0%	PN
+li'mk'in	limik'	'prairie falcon'	100.0%	NN
+mok`ji	mokiy'	'wife'	100.0%	NN
+'uq̔'uqum	[unknown]	'[unknown]'	0.0%	UN
+tap`	dab	'next, on the other hand, then'	100.0%	RB
+limk'in	limik'	'prairie falcon'	100.0%	NN
+mok`ji	mokiy'	'wife'	100.0%	NN
+k`a'jiw	kay'iw	'coyote'	100.0%	NN
+tʃr`an	tran	'that.SG.PRIM'	100.0%	DT
+wijā'an	wiyi	'say, do'	100.0%	VB
+t`aqak'	taxa:	'bring'	100.0%	VB
+nim	nim	'1SG.GEN'	100.0%	PN
+tok̄ojni	dogoy	'dogoy'	100.0%	NN
+.	.	[punc]	100.0%	PU
+hijō'uk	hiyo'uk	'where.LOC'	100.0%	PN
+qō'qo'	xo:	'live, exist, be'	100.0%	VB
+min	min	'2SG.GEN'	100.0%	PN
+tok̄ojin	dogoy	'dogoy'	100.0%	NN
+wijā'an	wiyi	'say, do'	100.0%	VB
+tʃr`an	tran	'that.SG.PRIM'	100.0%	DT
+'uq'uqum	[unknown]	'[unknown]'	0.0%	UN
+.	.	[punc]	100.0%	PU
+tʃraw	traw	'that.SG.LOC'	100.0%	DT
+qō'qo'	xo:	'live, exist, be'	100.0%	VB
+'otqow	'otix	'pillow'	100.0%	NN
+makin	ma:gin	'1DU.INCL.GEN'	100.0%	PN
+wijā'an	wiyi	'say, do'	100.0%	VB
+k`a'jiw	kay'iw	'coyote'	100.0%	NN
+.	.	[punc]	100.0%	PU
+'ohom	'ohom	'NEG'	100.0%	RB
+k`ew	kew	'this.SG.LOC'	100.0%	DT
+hijō'uk`	hiyo'uk	'where.LOC'	100.0%	PN
+qō'qo'	xo:	'live, exist, be'	100.0%	VB
+wija'an	wiyi	'say, do'	100.0%	VB
+'uq'uqum	[unknown]	'[unknown]'	0.0%	UN
+.	.	[punc]	100.0%	PU
+'ama'	'ama'	'and'	100.0%	PN
+majni	mayni	'AR.EMPH'	100.0%	RB
+t`anhin	ta:na	'go'	100.0%	VB
+tʃr`aw	traw	'that.SG.LOC'	100.0%	DT
+k`a'jiw	kay'iw	'coyote'	100.0%	NN
+.	.	[punc]	100.0%	PU
+'ama'	'ama'	'and'	100.0%	PN
+tʃr`aw	traw	'that.SG.LOC'	100.0%	DT
+'amak'	'amak'	'3DU.NOM'	100.0%	PN
+'ohjōhin	'ohyo:	'want, look for (YT has root ?oyoxo)'	100.0%	VB
+'ot`qow	'otix	'pillow'	100.0%	NN
+'ama'	'ama'	'and'	100.0%	PN
+tʃraw	traw	'that.SG.LOC'	100.0%	DT
+tʃran	tran	'that.SG.PRIM'	100.0%	DT
+k`a'jiw	kay'iw	'coyote'	100.0%	NN
+p`its`iwhin	pichriw	'catch, grasp'	100.0%	VB
+'ama'	'ama'	'and'	100.0%	PN
+tʃraw	traw	'that.SG.LOC'	100.0%	DT
+tʃran	tran	'that.SG.PRIM'	100.0%	DT
+mok`jēhin	mokye:/	'fornicate, take a wife'	100.0%	VB
+.	.	[punc]	100.0%	PU
+'ama'	'ama'	'and'	100.0%	PN
+'ohom	'ohom	'NEG'	100.0%	RB
+wā'ā'in	wa'a:'in	'be a long time'	50.0%	VB
+t`anmi	ta:na	'go'	100.0%	VB
+'uq'uqum	[unknown]	'[unknown]'	0.0%	UN
+wits`ip`nāhin	wichribna:	'give birth to a child'	100.0%	VB
+sujukhaj	[unknown]	'[unknown]'	0.0%	UN
+k`a'jwa	kay'iw	'coyote'	100.0%	NN
+.	.	[punc]	100.0%	PU
+'ama'	'ama'	'and'	100.0%	PN
+'aman	'aman	'3PL.NOM'	100.0%	PN
+t'a'wt'a'wit`	tr'aw'a	'win from'	50.0%	VB
+jētʃr'aw	ye:tr'aw	'all'	100.0%	RB
+jet'	ye:t'	'one'	100.0%	JJ
+wilsin	wilshrin	'but, in spite of that'	100.0%	CC
+k`a'jiw	kay'iw	'coyote'	100.0%	NN
+p`its`iwhin	pichriw	'catch, grasp'	100.0%	VB
+'ama'	'ama'	'and'	100.0%	PN
+tʃra	tra	'that.SG.NOM'	100.0%	DT
+'ohom	'ohom	'NEG'	100.0%	RB
+t`awtʃr`at`	tr'aw'a	'win from'	50.0%	VB
+.	.	[punc]	100.0%	PU
+'ama'	'ama'	'and'	100.0%	PN
+hijam	hiyam	'already, now'	100.0%	RB
+lo'lmi	lo:l'o:	'leave behind, let go of, quit'	100.0%	VB
+'amin	'amin	'3SG.GEN'	100.0%	PN
+tʃran	tran	'that.SG.PRIM'	100.0%	DT
+'uq'uqmu	[unknown]	'[unknown]'	0.0%	UN
+ts'ō'wo	c'owo	'grasp'	100.0%	VB
+wijā'an	wiyi	'say, do'	100.0%	VB
+k`i`	ki	'this.SG.LOC'	100.0%	CC
+'ama'	'ama'	'and'	100.0%	PN
+tʃr`a	tra	'that.SG.NOM'	100.0%	DT
+tok̄ojin	dogoy	'dogoy'	100.0%	NN
+mākin	ma:gin	'1DU.INCL.GEN'	100.0%	PN
+'otqow	'otix	'pillow'	100.0%	NN
+.	.	[punc]	100.0%	PU
+'ama'	'ama'	'and'	100.0%	PN
+'ohjōhin	'ohyo:	'want, look for (YT has root ?oyoxo)'	100.0%	VB
+tʃr`an	tran	'that.SG.PRIM'	100.0%	DT
+'otqow	'otix	'pillow'	100.0%	NN
+'amin	'amin	'3SG.GEN'	100.0%	PN
+tʃr`aw	traw	'that.SG.LOC'	100.0%	DT
+tʃr`an	tran	'that.SG.PRIM'	100.0%	DT
+pok'hin	bok'o	'find'	100.0%	VB
+tok̄ojni	dogoy	'dogoy'	100.0%	NN
+wilṣin	wilshrin	'but, in spite of that'	100.0%	CC
+tē'jaw	de:yaw	'ahead'	100.0%	RB
+'amin	'amin	'3SG.GEN'	100.0%	PN
+tʃran	tran	'that.SG.PRIM'	100.0%	DT
+'ohom	'ohom	'NEG'	100.0%	RB
+wast`aqōhin	wasto	'be possible'	100.0%	VB
+pok'	bok'o	'find'	100.0%	VB
+.	.	[punc]	100.0%	PU
+k`a'jiw	kay'iw	'coyote'	100.0%	NN
+tʃraw	traw	'that.SG.LOC'	100.0%	DT
+tʃran	tran	'that.SG.PRIM'	100.0%	DT
+qajahin	xaya:	'place, put'	100.0%	VB
+tok̄ojni	dogoy	'dogoy'	100.0%	NN
+tʃrip`nāni	tripna'	'magic power'	80.0%	NN
+'amin	'amin	'3SG.GEN'	100.0%	PN
+.	.	[punc]	100.0%	PU
+tʃr`ānit	tra:nit	'that.SG.ABL'	100.0%	DT
+t`anhin	ta:na	'go'	100.0%	VB
+k`a'jiw	kay'iw	'coyote'	100.0%	NN
+'inaw	[unknown]	'[unknown]'	0.0%	UN
+k`i	ki	'when'	100.0%	CC
+'aman	'aman	'3PL.NOM'	100.0%	PN
+tʃraw	traw	'that.SG.LOC'	100.0%	DT
+huwtʃruwsaqo'	huwtruwus	'game name'	50.0%	NN
+tʃraw	traw	'that.SG.LOC'	100.0%	DT
+limik'	limik'	'prairie falcon'	100.0%	NN
+kojīwnaqōhin	goyow	'win back what one has lost'	80.0%	VB
+.	.	[punc]	100.0%	PU
+'ama'	'ama'	'and'	100.0%	PN
+wijā'an	wiyi	'say, do'	100.0%	VB
+'amāminwa	'ama:minwa	'3PL.PRIM'	100.0%	PN
+k`a'jiw	kay'iw	'coyote'	100.0%	NN
+.	.	[punc]	100.0%	PU
+ja	ya'	'go'	50.0%	VB
+,	,	[punc]	100.0%	PU
+wit`iphats'	witibha:chr'	'children'	100.0%	NN
+kojīwnak'%	goyow	'win back what one has lost'	80.0%	VB
+wil	wil	'PL.IMPER'	80.0%	PN
+!	!	[punc]	100.0%	PU
+tʃraw	traw	'that.SG.LOC'	100.0%	DT
+limik'	limik'	'prairie falcon'	100.0%	NN
+jow	yow	'and, also, again'	100.0%	CC
+p'ohō'it'	p'oho:'itr'	'weasel'	100.0%	NN
+huwtʃruwsāhin	huwtruwus	'game name'	50.0%	NN
+'ama'	'ama'	'and'	100.0%	PN
+p'ohō'it'	p'oho:'itr'	'weasel'	100.0%	NN
+tʃran	tran	'that.SG.PRIM'	100.0%	DT
+tʃr'a'wa'āhin	tr'aw'a	'win from'	100.0%	VB
+ʃratʃran%	[unknown]	'[unknown]'	0.0%	UN
+'aʃr	'ashr	'actually, really'	100.0%	RB
+tʃr'a'wa'āhin	tr'aw'a	'win from'	100.0%	VB
+'ohom	'ohom	'NEG'	100.0%	RB
+tʃran	tran	'that.SG.PRIM'	100.0%	DT
+hawjo'uk`	hawyo'uk	'what.kind.PRIM'	100.0%	PN
+limik'	limik'	'prairie falcon'	100.0%	NN
+k`ojiwhin	goyow	'win back what one has lost'	100.0%	VB
+jētʃr'aw	ye:tr'aw	'all'	100.0%	RB
+tʃr'a'winhin	tr'aw'a	'win from'	100.0%	VB
+limik'	limik'	'prairie falcon'	100.0%	NN
+wilsin	wilshrin	'but, in spite of that'	100.0%	CC
+'amin	'amin	'3SG.GEN'	100.0%	PN
+tʃr'alap`	tr'alap	'bow'	100.0%	NN
+tʃrāni	tra:ni	'that.SG.SEC'	100.0%	DT
+'ohom	'ohom	'NEG'	100.0%	RB
+kojiwna	goyow	'win back what one has lost'	100.0%	VB
+'ohjoqo'	'ohyo:	'want, look for (YT has root ?oyoxo)'	100.0%	VB
+'amin	'amin	'3SG.GEN'	100.0%	PN
+tʃr'alap`ni	tr'alap	'bow'	100.0%	NN
+.	.	[punc]	100.0%	PU
+mets'i	me'zhi'	'because'	50.0%	CC
+tʃra	tra	'that.SG.NOM'	100.0%	DT
+'amin	'amin	'3SG.GEN'	100.0%	PN
+tap	dab	'next, on the other hand, then'	100.0%	RB
+tʃr`ip`na'	tripna'	'magic power'	100.0%	NN
+.	.	[punc]	100.0%	PU
+ja	ya'	'go'	50.0%	VB
+hijam	hiyam	'already, now'	100.0%	RB
+ma'an	ma'an	'2PL.NOM'	100.0%	PN
+jētʃr'aw	ye:tr'aw	'all'	100.0%	RB
+nim	nim	'1SG.GEN'	100.0%	PN
+hā'nuk	ha:nuk	'what.PRIM'	100.0%	PN
+tʃr'a'w&
+hin	tr'aw'a	'win from'	100.0%	VB
+wija'an	wiyi	'say, do'	100.0%	VB
+limik'	limik'	'prairie falcon'	100.0%	NN
+hijam	hiyam	'already, now'	100.0%	RB
+maj	may	'1PL.INCL.NOM'	100.0%	PN
+lo'lhin	lo:l'o:	'leave behind, let go of, quit'	100.0%	VB
+.	.	[punc]	100.0%	PU
+'ama'	'ama'	'and'	100.0%	PN
+p'ohō'it'	p'oho:'itr'	'weasel'	100.0%	NN
+ki'ij	gi'iy	'enemy'	100.0%	VB
+'amin	'amin	'3SG.GEN'	100.0%	PN
+wijā'an	wiyi	'say, do'	100.0%	VB
+tʃran	tran	'that.SG.PRIM'	100.0%	DT
+kojiwnak'	goyow	'win back what one has lost'	100.0%	VB
+min	min	'2SG.GEN'	100.0%	PN
+sasāni	sasa'	'eye'	100.0%	NN
+'ama'	'ama'	'and'	100.0%	PN
+'insis	'insis	'good'	100.0%	JJ
+wīhin	wiyi	'say, do'	100.0%	VB
+limik'	limik'	'prairie falcon'	100.0%	NN
+.	.	[punc]	100.0%	PU
+limik'	limik'	'prairie falcon'	100.0%	NN
+tʃr`ip`ni'	tripni'	'one endowed with magic powers'	100.0%	NN
+hut'ēqōhin	hudu	'recognize, know'	100.0%	VB
+'inest`an	'inestam	'well'	80.0%	RB
+hawjēnok`	hawye:no'uk	'what.kind.SEC'	100.0%	PN
+tʃr'a'wanāhin	tr'aw'a	'win from'	100.0%	VB
+.	.	[punc]	100.0%	PU
+limik'	limik'	'prairie falcon'	100.0%	NN
+tʃr'a'winhin	tr'aw'a	'win from'	100.0%	VB
+jet'	ye:t'	'one'	100.0%	JJ
+'amin	'amin	'3SG.GEN'	100.0%	PN
+sasā'in	sasa'	'eye'	100.0%	NN
+tē'jaw	de:yaw	'ahead'	100.0%	RB
+'ama'	'ama'	'and'	100.0%	PN
+jow	yow	'and, also, again'	100.0%	CC
+jet'	ye:t'	'one'	100.0%	JJ
+wats'wishin	wats'wis	'bet'	80.0%	VB
+'ama'	'ama'	'3SG.NOM'	100.0%	PN
+tʃr`an	tran	'that.SG.PRIM'	100.0%	DT
+jow	yow	'and, also, again'	100.0%	CC
+tʃr'a'winhin	tr'aw'a	'win from'	100.0%	VB
+.	.	[punc]	100.0%	PU
+"	"	[punc]	100.0%	PU
+ja	ya'	'go'	50.0%	VB
+"	"	[punc]	100.0%	PU
+,	,	[punc]	100.0%	PU
+wijā'an	wiyi	'say, do'	100.0%	VB
+,	,	[punc]	100.0%	PU
+limik'	limik'	'prairie falcon'	100.0%	NN
+'amin	'amin	'3SG.GEN'	100.0%	PN
+ki'ja	gi'iy	'enemy'	100.0%	VB
+,	,	[punc]	100.0%	PU
+hijam	hiyam	'already, now'	100.0%	RB
+ma'	ma'	'2SG.NOM'	100.0%	PN
+nan	nan	'1SG.PRIM'	100.0%	PN
+tʃr'a'whin	tr'aw'a	'win from'	100.0%	VB
+t`isālak'	tisi	'come out'	100.0%	VB
+nim	nim	'1SG.GEN'	100.0%	PN
+sasā'in	sasa'	'eye'	100.0%	NN
+!	!	[punc]	100.0%	PU
+"	"	[punc]	100.0%	PU
+'ohom	'ohom	'NEG'	100.0%	RB
+wijā'an	wiyi	'breakfast'	100.0%	VB
+p'ohō'it'	p'oho:'itr'	'weasel'	100.0%	NN
+'insēqo%	[unknown]	'[unknown]'	0.0%	UN
+'aʃr	'ashr	'actually, really'	100.0%	RB
+hawjaw	[unknown]	'[unknown]'	0.0%	UN
+tʃr`aw'aʃr	[unknown]	'[unknown]'	0.0%	UN
+hi'	hi'	'FUT'	100.0%	RB
+qajnen	xaya:	'place, put'	100.0%	VB
+min	min	'2SG.GEN'	100.0%	PN
+k'ēqa'	k'e:xa'	'money'	100.0%	NN
+'ama	'ama'	'and'	100.0%	PN
+ma%	ma'	'2SG.NOM'	80.0%	PN
+nan	nan	'1SG.PRIM'	80.0%	PN
+t`a'an	ta'an'	'too'	100.0%	RB
+hi'	hi'	'FUT'	100.0%	RB
+tʃr'a'wāla'	tr'aw'a	'win from'	100.0%	VB
+.	.	[punc]	100.0%	PU
+'ohom	'ohom	'NEG'	100.0%	RB
+wijā'an	wiyi	'say, do'	100.0%	VB
+limik'	limik'	'prairie falcon'	100.0%	NN
+,	,	[punc]	100.0%	PU
+hijam	hiyam	'already, now'	100.0%	RB
+ma'%	ma'	'2SG.NOM'	80.0%	PN
+nim	nim	'1SG.GEN'	80.0%	PN
+tʃr'a'whin	tr'aw'a	'win from'	100.0%	VB
+sasā'in	sasa'	'eye'	100.0%	NN
+'ama'	'ama'	'and'	100.0%	PN
+'insis	'insis	'good'	100.0%	JJ
+ma'	ma'	'2SG.NOM'	100.0%	PN
+tʃr`an	tran	'that.SG.PRIM'	100.0%	DT
+'aʃr	'ashr	'actually, really'	100.0%	RB
+maqen	ma:xa	'procure, get'	100.0%	VB
+.	.	[punc]	100.0%	PU
+'ohom	'ohom	'NEG'	100.0%	RB
+'ohom	'ohom	'NEG'	100.0%	RB
+wijā'an	wiyi	'say, do'	100.0%	VB
+p'ohō'it'	p'oho:'itr'	'weasel'	100.0%	NN
+t`isālak'	tisi	'come out'	100.0%	VB
+'ama'	'ama'	'and'	100.0%	PN
+ma'	ma'	'2SG.NOM'	100.0%	PN
+tʃran	tran	'that.SG.PRIM'	100.0%	DT
+maqen	ma:xa	'procure, get'	100.0%	VB
+.	.	[punc]	100.0%	PU
+p'ohō'it'	p'oho:'itr'	'weasel'	100.0%	NN
+'ohom	'ohom	'NEG'	100.0%	RB
+ts`up`on'on	co:pun	'consent'	100.0%	VB
+t`isālak'	tisi	'come out'	100.0%	VB
+nim	nim	'1SG.GEN'	100.0%	PN
+sasā'in	sasa'	'eye'	100.0%	NN
+wīt`in	widin	'roll sth'	100.0%	VB
+li'mk'in	limik'	'prairie falcon'	100.0%	NN
+.	.	[punc]	100.0%	PU
+'ama'	'ama'	'and'	100.0%	PN
+tʃraw	traw	'that.SG.LOC'	100.0%	DT
+'amak'	'amak'	'3DU.NOM'	100.0%	PN
+'aʃr	'ashr	'actually, really'	100.0%	RB
+wats'iwts'isaqōhin	wats'wis	'bet'	80.0%	VB
+;	;	[punc]	100.0%	PU
+ha'ts`aqom	ha'zhaxom	'finally, at last'	100.0%	RB
+'aʃr	'ashr	'actually, really'	100.0%	RB
+p'ohō'it'	p'oho:'itr'	'weasel'	100.0%	NN
+tsōp`unhun	co:pun	'consent'	100.0%	VB
+'ama	'ama'	'and'	100.0%	PN
+t`iselsāhin	tisi	'come out'	80.0%	VB
+li'mk'in	limik'	'prairie falcon'	100.0%	NN
+sasā'in	sasa'	'eye'	100.0%	NN
+.	.	[punc]	100.0%	PU
+'ama'	'ama'	'and'	100.0%	PN
+p'ohō'it'	p'oho:'itr'	'weasel'	100.0%	NN
+maqhin	ma:xa	'procure, get'	100.0%	VB
+ts'asp'a	c'a:sip'	'flint'	80.0%	NN
+'ama'	'ama'	'and'	100.0%	PN
+tʃrāni	tra:ni	'that.SG.SEC'	100.0%	DT
+jet'	ye:t'	'one'	100.0%	JJ
+tsishin	tsisi'	'cut out'	100.0%	VB
+'ama'	'ama'	'and'	100.0%	PN
+tʃran	tran	'that.SG.PRIM'	100.0%	DT
+t`isālāhin	tisi	'come out'	100.0%	VB
+'ama'	'ama'	'and'	100.0%	PN
+jow	yow	'and, also, again'	100.0%	CC
+jet'	ye:t'	'one'	100.0%	JJ
+tik'naw	dik'naw	'behind'	100.0%	PP
+tsishin	tsisi'	'cut out'	100.0%	VB
+'ama'	'ama'	'and'	100.0%	PN
+t`a'an	ta'an'	'too'	50.0%	RB
+tʃran	tran	'that.SG.PRIM'	100.0%	DT
+t`isālāhin	tisi	'come out'	100.0%	VB
+.	.	[punc]	100.0%	PU
+'ama'	'ama'	'and'	100.0%	PN
+hijam	hiyam	'already, now'	100.0%	RB
+'amin	'amin	'3SG.GEN'	100.0%	PN
+sasā'in	sasa'	'eye'	100.0%	NN
+t`isālahant`aw	tisi	'come out'	100.0%	VB
+limik'	limik'	'prairie falcon'	100.0%	NN
+'ilikhin	'ilik	'sing'	100.0%	VB
+'ama'	'ama'	'and'	100.0%	PN
+pilismi	bilishr	'finish'	100.0%	VB
+'amin	'amin	'3SG.GEN'	100.0%	PN
+'ilk`a	'ilik	'sing'	50.0%	VB
+wijā'an	wiyi	'say, do'	100.0%	VB
+"	"	[punc]	100.0%	PU
+hijā	[unknown]	'[unknown]'	0.0%	UN
+hã	[unknown]	'[unknown]'	0.0%	UN
+"	"	[punc]	100.0%	PU
+.	.	[punc]	100.0%	PU
+'ah'ah	[unknown]	'[unknown]'	0.0%	UN
+wijajaqōt`aw	[unknown]	'[unknown]'	0.0%	UN
+li'mk'in	limik'	'prairie falcon'	100.0%	NN
+p`ājaq	pa:yax	'blood'	100.0%	NN
+naj	nay	'nearly, more than'	100.0%	RB
+'amin	'amin	'3SG.GEN'	100.0%	PN
+t`ishin	tisi	'come out'	100.0%	VB
+tʃr`anit	tra:nit	'that.SG.ABL'	100.0%	DT
+sasā'in	sasa'	'eye'	100.0%	NN
+qo'ō'ēnit`	[unknown]	'[unknown]'	0.0%	UN
+,	,	[punc]	100.0%	PU
+wilʃrin	wilshrin	'but, in spite of that'	100.0%	CC
+'ohom	'ohom	'NEG'	100.0%	RB
+p`ājaq	pa:yax	'blood'	100.0%	NN
+,	,	[punc]	100.0%	PU
+hā'uk`	ha'uk	'what.NOM'	100.0%	PN
+'aqa'm	'axam'	'probably'	100.0%	RB
+tʃr`ānit	tra:nit	'that.SG.ABL'	100.0%	DT
+t`ishin	tisi	'come out'	100.0%	VB
+naj	nay	'nearly, more than'	100.0%	RB
+moʃrk'iwik'	modrk'iwik	'black'	25.0%	JJ
+'ilik'	'ilik'	'water'	100.0%	NN
+,	,	[punc]	100.0%	PU
+'ama'	'ama'	'and'	100.0%	PN
+loqinhin	loxo	'pour, spill'	100.0%	VB
+'amin	'amin	'3SG.GEN'	100.0%	PN
+t`oqwow	to:xiw	'cheek'	100.0%	NN
+.	.	[punc]	100.0%	PU
+tʃrāni	tra:ni	'that.SG.SEC'	100.0%	DT
+hēts`i'	he:zhi'	'today'	100.0%	RB
+hilalqo'	hilal	'be visible, appear'	100.0%	VB
+'amin	'amin	'3SG.GEN'	100.0%	PN
+weqwas	[unknown]	'[unknown]'	0.0%	UN
+tʃrā'in	tra:'in	'that.SG.GEN'	100.0%	DT
+t`aqan'ijaw	taxa:	'bring'	100.0%	VB
+manālin	manal	'tear'	100.0%	NN
+'amin	'amin	'3SG.GEN'	100.0%	PN
+.	.	[punc]	100.0%	PU
+'ama'	'ama'	'and'	100.0%	PN
+jētʃr'aw	ye:tr'aw	'all'	100.0%	RB
+jok`ots'	yokoc'	'person, people'	100.0%	NN
+tʃrānit	tra:nit	'that.SG.ABL'	100.0%	DT
+t`anhin	ta:na	'go'	100.0%	VB
+tʃraw	traw	'that.SG.LOC'	100.0%	DT
+hētam	he:dam	'nearby'	100.0%	RB
+'ip`tʃrit`	'ipitr	'throw off/out, pick off'	100.0%	VB
+limik'	limik'	'prairie falcon'	100.0%	NN
+jow	yow	'and, also, again'	100.0%	CC
+'amin	'amin	'3SG.GEN'	100.0%	PN
+nōts`i'	no:chro'	'friend'	100.0%	NN
+'alwutʃr'	'alwutr'	'crow'	100.0%	NN
+.	.	[punc]	100.0%	PU
+'alwutʃr'	'alwutr'	'crow'	100.0%	NN
+tʃran	tran	'that.SG.PRIM'	100.0%	DT
+wijā'an	wiyi	'say, do'	100.0%	VB
+'insis	'insis	'good'	100.0%	JJ
+na%	na'	'1SG.NOM'	80.0%	PN
+mam	mam	'2SG.PRIM'	80.0%	PN
+'aʃr	'ashr	'actually, really'	100.0%	RB
+t`ana'	ta:na	'go'	80.0%	VB
+min	min	'2SG.GEN'	100.0%	PN
+tʃr`ew	tri'	'house'	100.0%	NN
+.	.	[punc]	100.0%	PU
+wilʃrin	wilshrin	'but, in spite of that'	100.0%	CC
+hut'ēqōhin	hudu	'recognize, know'	100.0%	VB
+limik'	limik'	'prairie falcon'	100.0%	NN
+hawjēno'uk`	hawye:no'uk	'what.kind.SEC'	100.0%	PN
+tʃr'a'winhin	tr'aw'a	'win from'	100.0%	VB
+'ama'	'ama'	'and'	100.0%	PN
+tʃrāni	tra:ni	'that.SG.SEC'	100.0%	DT
+'ohom	'ohom	'NEG'	100.0%	RB
+t`anhat`inqōhin	ta:na	'go'	100.0%	VB
+'amin	'amin	'3SG.GEN'	100.0%	PN
+tʃr`ew	tri'	'house'	100.0%	NN
+.	.	[punc]	100.0%	PU
+'ohom	'ohom	'NEG'	100.0%	RB
+nihi'	nihi'	'1SG.NOM FUT'	100.0%	RB
+t`ahan	ta:na	'go'	100.0%	VB
+nim	nim	'1SG.GEN'	100.0%	PN
+tʃr`ew	tri'	'house'	100.0%	NN
+,	,	[punc]	100.0%	PU
+t`ank'a	ta:na	'go'	100.0%	VB
+lo'lk'o%	lo:l'o:	'leave behind, let go of, quit'	80.0%	VB
+nan	nan	'1SG.PRIM'	80.0%	PN
+!	!	[punc]	100.0%	PU
+wijā'an	wiyi	'say, do'	100.0%	VB
+'alwutʃr'	'alwutr'	'crow'	100.0%	NN
+hijewtʃr`aw%	[unknown]	'[unknown]'	0.0%	UN
+'aʃr	'ashr	'actually, really'	100.0%	RB
+ma'	ma'	'2SG.NOM'	100.0%	PN
+t`anā'an	ta:na	'go'	100.0%	VB
+tʃraw	traw	'that.SG.LOC'	100.0%	DT
+na'	na'	'1SG.NOM'	100.0%	PN
+t`a'an	ta'an'	'too'	100.0%	RB
+hi'	hi'	'FUT'	100.0%	RB
+t`ahan	ta:na	'go'	100.0%	VB
+jow	yow	'and, also, again'	100.0%	CC
+ma'	ma'	'2SG.NOM'	100.0%	PN
+hi	hi'	'FUT'	50.0%	RB
+na'aʃr	na'ashr	'dubitative'	100.0%	RB
+hijewtʃr`aw%	[unknown]	'[unknown]'	0.0%	UN
+'aʃr	'ashr	'actually, really'	100.0%	RB
+t`awtʃr`en	ta:watr	'die'	100.0%	VB
+tʃr`aw	traw	'that.SG.LOC'	100.0%	DT
+na'	na'	'1SG.NOM'	100.0%	PN
+t`a'an	ta'an'	'too'	100.0%	RB
+hi'	hi'	'FUT'	100.0%	RB
+t`awtʃr`en	ta:watr	'die'	100.0%	VB
+,	,	[punc]	100.0%	PU
+'ohom	'ohom	'NEG'	100.0%	RB
+wijā'an	wiyi	'say, do'	100.0%	VB
+limik'	limik'	'prairie falcon'	100.0%	NN
+,	,	[punc]	100.0%	PU
+hētam	he:dam	'nearby'	100.0%	RB
+k`ew	kew	'this.SG.LOC'	100.0%	DT
+qok'	xo:	'live, exist, be'	100.0%	VB
+jāsk'a	[unknown]	'[unknown]'	0.0%	UN
+nim	nim	'1SG.GEN'	100.0%	PN
+jī'ts`a	yiy'ca:/	'do sth alone'	75.0%	VB
+t`an'as	ta:na	'go'	80.0%	VB
+.	.	[punc]	100.0%	PU
+t`ahan	ta:na	'go'	100.0%	VB
+na%	na'	'1SG.NOM'	80.0%	PN
+mam	mam	'2SG.PRIM'	80.0%	PN
+hi'	hi'	'FUT'	100.0%	RB
+apij	apij	[foreign]	100.0%	PP
+wijā'an	wiyi	'say, do'	100.0%	VB
+tʃr`an	tran	'that.SG.PRIM'	100.0%	DT
+'alwutʃr'	'alwutr'	'crow'	100.0%	NN
+.	.	[punc]	100.0%	PU
+'insis	'insis	'good'	100.0%	JJ
+wijā'an	wiyi	'say, do'	100.0%	VB
+limik'	limik'	'prairie falcon'	100.0%	NN
+.	.	[punc]	100.0%	PU
+tā'āk'in	da:'ak'	'sun'	100.0%	NN
+kō'pint`aw	go:bin	'enter'	100.0%	VB
+'amak'	'amak'	'3DU.NOM'	100.0%	PN
+t`anhin	ta:na	'go'	100.0%	VB
+.	.	[punc]	100.0%	PU
+ts'owmi	c'o:mu	'destroy, devour'	100.0%	VB
+li'mk'in	limik'	'prairie falcon'	100.0%	NN
+tʃr'alap`	tr'alap	'bow'	100.0%	NN
+me'ts`i	me'zhi'	'because'	100.0%	CC
+tʃr`a	tra	'that.SG.NOM'	100.0%	DT
+'amin	'amin	'3SG.GEN'	100.0%	PN
+tap	dab	'next, on the other hand, then'	100.0%	RB
+tʃr`ip`na'	tripna'	'magic power'	100.0%	NN
+.	.	[punc]	100.0%	PU
+'ohom	'ohom	'NEG'	100.0%	RB
+'aminkin	'amingin	'3DU.GEN'	100.0%	PN
+mihnitʃr	mihnichr	'still, yet'	100.0%	RB
+t`ant`aw	ta:na	'go'	100.0%	VB
+limik'	limik'	'prairie falcon'	100.0%	NN
+'illikhin	'ilik	'sing'	100.0%	VB
+tos̄ō'on	do:so	'report, tell about'	100.0%	VB
+hijō'uk	hiyo'uk	'where.LOC'	100.0%	PN
+'amak'	'amak'	'3DU.NOM'	100.0%	PN
+t`anā'an	ta:na	'go'	100.0%	VB
+.	.	[punc]	100.0%	PU
+tʃraw	traw	'that.SG.LOC'	100.0%	DT
+t`o'jnē'in	toyon	'be night'	80.0%	VB
+p`anāhin	pana:	'arrive'	100.0%	VB
+'amak'	'amak'	'3DU.NOM'	100.0%	PN
+tēlamnew	de:lamni'	'[name]'	100.0%	NP
+.	.	[punc]	100.0%	PU
+t`o'jnē'in	toyon	'be night'	80.0%	VB
+'amak'	'amak'	'3DU.NOM'	100.0%	PN
+tʃraw	traw	'that.SG.LOC'	100.0%	DT
+p`anāhin	pana:	'arrive'	100.0%	VB
+'ohom	'ohom	'NEG'	100.0%	RB
+'amāmikwa	'ama:mikwa	'3DU.PRIM'	100.0%	PN
+watuk`	watuk	'who.NOM'	100.0%	PN
+ʃri'lhin	shril'i	'see'	100.0%	VB
+'aminkin	'amingin	'3DU.GEN'	100.0%	PN
+p`anāt`aw	pana:	'arrive'	100.0%	VB
+.	.	[punc]	100.0%	PU
+limik'	limik'	'prairie falcon'	100.0%	NN
+tap	dab	'next, on the other hand, then'	100.0%	RB
+'ohom	'ohom	'NEG'	100.0%	RB
+wō'ujhun	wo:'uy	'fall asleep, sleep'	100.0%	VB
+t`oj'now	toy'no'	'night'	100.0%	NN
+'ilikhin	'ilik	'sing'	100.0%	VB
+hija'm	hiyam'	'next morning'	100.0%	RB
+tēlamnēnit`	de:lamni'	'[name]'	100.0%	NP
+limik'	limik'	'prairie falcon'	100.0%	NN
+jow	yow	'and, also, again'	100.0%	CC
+'alwutʃr'	'alwutr'	'crow'	100.0%	NN
+t`anhin	ta:na	'go'	100.0%	VB
+.	.	[punc]	100.0%	PU
+limik'	limik'	'prairie falcon'	100.0%	NN
+'ohom	'ohom	'NEG'	100.0%	RB
+wō'j'an	wo:'uy	'fall asleep, sleep'	100.0%	VB
+jow	yow	'and, also, again'	100.0%	CC
+'ohom	'ohom	'NEG'	100.0%	RB
+qat`ā'an	xata	'eat'	100.0%	VB
+.	.	[punc]	100.0%	PU
+t`o'jnow	toy'no'	'night'	100.0%	NN
+'ilek`'an	'ilik	'sing'	100.0%	VB
+jow	yow	'and, also, again'	100.0%	CC
+qat`ā'an	xata	'eat'	100.0%	VB
+'ut̄al	'ut't'al	'solely, nothing but'	100.0%	RB
+sōk'on	so:gon	'Indian tobacco weed'	100.0%	NN
+'alwutʃr'	'alwutr'	'crow'	100.0%	NN
+'ētilhin	'e:dil	'get hungry'	100.0%	VB
+'ama'	'ama'	'and'	100.0%	PN
+limik'	limik'	'prairie falcon'	100.0%	NN
+t'ujhun	t'uyu	'shoot at, shoot'	100.0%	VB
+ʃru'nʃru'ntʃr'uw	[unknown]	'[unknown]'	0.0%	UN
+jāwliw	ya:wil	'grass'	100.0%	NN
+'ama'	'ama'	'and'	100.0%	PN
+tʃrokhin	tro:k'o	'strike, hit'	100.0%	VB
+top̄ol	dobol	'large rabbit'	100.0%	NN
+'ama'	'ama'	'and'	100.0%	PN
+tʃr`an	tran	'that.SG.PRIM'	100.0%	DT
+'amin	'amin	'3SG.GEN'	100.0%	PN
+nōtsi'	no:chro'	'friend'	100.0%	NN
+qat`hin	xat	'food'	100.0%	NN
+.	.	[punc]	100.0%	PU
+limik'	limik'	'prairie falcon'	100.0%	NN
+wak̄`i	wakkiy	'very, very much'	100.0%	RB
+tʃr`ip`ni'	tripni'	'one endowed with magic powers'	100.0%	NN
+.	.	[punc]	100.0%	PU
+tʃrok'ō'on	tro:k'o	'strike, hit'	100.0%	VB
+tʃr`ok'hot`inmi	tro:k'o	'strike, hit'	100.0%	VB
+hā'in	hi'	'FUT'	100.0%	RB
+tʃraw	traw	'that.SG.LOC'	100.0%	DT
+'aʃr	'ashr	'actually, really'	100.0%	RB
+t`awtʃr`a'	tawtra:	'kill tr'	100.0%	VB
+'ohjoqo'	'ohyo:	'want, look for (YT has root ?oyoxo)'	100.0%	VB
+,	,	[punc]	100.0%	PU
+jow	yow	'and, also, again'	100.0%	CC
+tap	dab	'next, on the other hand, then'	100.0%	RB
+'ēman	'e:man	'to no avail'	100.0%	RB
+tʃr'ā'ma'	tr'ama'	'blind'	50.0%	JJ
+.	.	[punc]	100.0%	PU
+hawjaw	[unknown]	'[unknown]'	0.0%	UN
+tʃr`aw	traw	'that.SG.LOC'	100.0%	DT
+'aʃr	'ashr	'actually, really'	100.0%	RB
+'et`len	'e:dil	'get hungry'	100.0%	VB
+'alwutʃr'	'alwutr'	'crow'	100.0%	NN
+'ama'	'ama'	'and'	100.0%	PN
+tʃran	tran	'that.SG.PRIM'	100.0%	DT
+limik'	limik'	'prairie falcon'	100.0%	NN
+tʃr`ok'siten	tro:k'o	'strike, hit'	100.0%	VB
+limik'	limik'	'prairie falcon'	100.0%	NN
+jow	yow	'and, also, again'	100.0%	CC
+'alwutʃr'	'alwutr'	'crow'	100.0%	NN
+p`anāhin	pana:	'arrive'	100.0%	VB
+jet'	ye:t'	'one'	100.0%	JJ
+kā'inha	ga:'ina	'woman'	75.0%	NN
+loko'wts'i	logow	'pound into powder, pulverize'	100.0%	VB
+,	,	[punc]	100.0%	PU
+k'aʃrijna	k'ashryin	'black seed'	100.0%	NN
+.	.	[punc]	100.0%	PU
+wijā'an	wiyi	'say, do'	100.0%	VB
+'alwutʃr'	'alwutr'	'crow'	100.0%	NN
+mi'in	mi'in	'soon'	100.0%	RB
+na'	na'	'1SG.NOM'	100.0%	PN
+tʃran	tran	'that.SG.PRIM'	100.0%	DT
+qip`len	xibil	'take away'	80.0%	VB
+kutēni	gude'	'small'	100.0%	JJ
+lok`wōni	logow	'pound into powder, pulverize'	100.0%	VB
+'ohom	'ohom	'NEG'	100.0%	RB
+wijā'an	wiyi	'say, do'	100.0%	VB
+tʃran	tran	'that.SG.PRIM'	100.0%	DT
+limik'	limik'	'prairie falcon'	100.0%	NN
+,	,	[punc]	100.0%	PU
+tʃr`ip`ni'	tripni'	'one endowed with magic powers'	100.0%	NN
+,	,	[punc]	100.0%	PU
+t`awtʃra'%	tawtra:	'kill tr'	100.0%	VB
+mam	mam	'2SG.PRIM'	100.0%	PN
+hi'	hi'	'FUT'	100.0%	RB
+t`an'aʃr	ta:na	'go'	100.0%	VB
+'alwutʃr'	'alwutr'	'crow'	100.0%	NN
+t`anhin	ta:na	'go'	100.0%	VB
+tʃr`aw	traw	'that.SG.LOC'	100.0%	DT
+lokōwts'iw	logow	'pound into powder, pulverize'	100.0%	VB
+'ama'	'ama'	'and'	100.0%	PN
+kapapwīhin	gababwiyi	'wave the hand once'	100.0%	VB
+maqēnani	ma:xa	'procure, get'	50.0%	VB
+lok`wo	logow	'pound into powder, pulverize'	100.0%	VB
+'ama'	'ama'	'and'	100.0%	PN
+ʃratʃr'wījhin	[unknown]	'[unknown]'	0.0%	UN
+tʃran	tran	'that.SG.PRIM'	100.0%	DT
+tʃra	tra	'that.SG.NOM'	100.0%	DT
+moqlo'	moxlo'	'old person'	100.0%	NN
+kā'ina	ga:'ina	'woman'	100.0%	NN
+p'unutʃr'k'aw	[unknown]	'[unknown]'	0.0%	UN
+'ama'	'ama'	'and'	100.0%	PN
+tʃran	tran	'that.SG.PRIM'	100.0%	DT
+tʃr`at`īhin	tratray	'break'	100.0%	VB
+'amin	'amin	'3SG.GEN'	100.0%	PN
+'ōkon	'o:kun	'neck'	100.0%	NN
+'ama	'ama'	'and'	100.0%	PN
+tʃran	tran	'that.SG.PRIM'	100.0%	DT
+wīmi	wiyi	'say, do'	100.0%	VB
+la'nt'ew	lan't'i'	'a side'	100.0%	NN
+k`ew	kew	'this.SG.LOC'	100.0%	DT
+k'ōhin	k'o'o	'throw at, throw'	100.0%	VB
+.	.	[punc]	100.0%	PU
+'ohom	'ohom	'NEG'	100.0%	RB
+t`ā%	tra	'that.SG.NOM'	50.0%	DT
+wilʃrhin	wilshrin	'but, in spite of that'	100.0%	CC
+wilʃrin	wilshrin	'but, in spite of that'	100.0%	CC
+limits	[unknown]	'[unknown]'	0.0%	UN
+wījhin	wiyi	'say, do'	100.0%	VB
+limik'	limik'	'prairie falcon'	100.0%	NN
+tʃr`an	tran	'that.SG.PRIM'	100.0%	DT
+maqhin	ma:xa	'procure, get'	100.0%	VB
+''ama'	'ama'	'and'	100.0%	PN
+tʃran	tran	'that.SG.PRIM'	100.0%	DT
+t`anāhin	ta:na	'go'	100.0%	VB
+wa'	wa'	'far away'	100.0%	JJ
+'ama'	'ama'	'and'	100.0%	PN
+tʃrānit	tra:nit	'that.SG.ABL'	100.0%	DT
+tʃran	tran	'that.SG.PRIM'	100.0%	DT
+ta'lēhin	da'a'le:	'bring to life'	100.0%	VB
+.	.	[punc]	100.0%	PU
+'ama'	'ama'	'and'	100.0%	PN
+tʃrānit`	tra:nit	'that.SG.ABL'	100.0%	DT
+'aʃr	'ashr	'actually, really'	100.0%	RB
+'alwutʃr'	'alwutr'	'crow'	100.0%	NN
+motʃrok'wījhin	modrok'wiyi	'be black'	100.0%	VB
+,	,	[punc]	100.0%	PU
+tē'jaw	de:yaw	'ahead'	100.0%	RB
+tap`	dab	'next, on the other hand, then'	100.0%	RB
+lak`li'	lagil	'different'	100.0%	VB
+'amin	'amin	'3SG.GEN'	100.0%	PN
+'ēman	'e:man	'to no avail'	100.0%	RB
+'otsoj	'ozhoy	'sign, color'	100.0%	NN
+.	.	[punc]	100.0%	PU
+tʃr`ānit`	tra:nit	'that.SG.ABL'	100.0%	DT
+ta'ilmi	da'al	'come to life, escape'	100.0%	VB
+'alwutʃr'	'alwutr'	'crow'	100.0%	NN
+jo'wk`i	yo'ke:	'return'	100.0%	VB
+'ohjōqo'	'ohyo:	'want, look for (YT has root ?oyoxo)'	100.0%	VB
+'ama'	'ama'	'and'	100.0%	PN
+tʃran	tran	'that.SG.PRIM'	100.0%	DT
+p`iwets'i	piwe:shr'	'pound acorns'	100.0%	VB
+t`awtʃra'	tawtra:	'kill tr'	100.0%	VB
+hijam	hiyam	'already, now'	100.0%	RB
+mak'	mak'	'1DU.INCL.NOM'	100.0%	PN
+wak̄`i	wakkiy	'very, very much'	100.0%	RB
+wa'	wa'	'far away'	100.0%	JJ
+qō'qo'	xo:	'live, exist, be'	100.0%	VB
+wijā'an	wiyi	'say, do'	100.0%	VB
+tʃran	tran	'that.SG.PRIM'	100.0%	DT
+limik	limik'	'prairie falcon'	100.0%	NN
+!	!	[punc]	100.0%	PU
+tʃra	tra	'that.SG.NOM'	100.0%	DT
+moqlȯ	moxlo'	'old person'	100.0%	NN
+p`iwēʃrits'	piwe:shr'	'pound acorns'	100.0%	VB
+t'onōtʃrim	t'on'o:trim	'transvestite'	100.0%	NN
+'ama'	'ama'	'and'	100.0%	PN
+'amin	'amin	'3SG.GEN'	100.0%	PN
+lokiwmi	logow	'pound into powder, pulverize'	100.0%	VB
+ts'ija	c'iy'	'bone'	100.0%	NN
+'ama'	'ama'	'and'	100.0%	PN
+'ilek`'an	'ilik	'sing'	100.0%	VB
+.	.	[punc]	100.0%	PU
+ha'ts`aqom	ha'zhaxom	'finally, at last'	100.0%	RB
+'aʃr	'ashr	'actually, really'	100.0%	RB
+'amak'	'amak'	'3DU.NOM'	100.0%	PN
+wa'	wa'	'far away'	100.0%	JJ
+p`anāhin	pana:	'arrive'	100.0%	VB
+li'mk'in	limik'	'prairie falcon'	100.0%	NN
+nusōsun	nusos	'paternal aunt'	100.0%	NN
+tʃr`ew	tri'	'house'	100.0%	NN
+.	.	[punc]	100.0%	PU
+mimjatʃr`	mimyatr	'thunder'	100.0%	NN
+wāqilhin	wa:xal	'weep'	100.0%	VB
+ʃri'lmi	shril'i	'see'	100.0%	VB
+li'mk'in	limik'	'prairie falcon'	100.0%	NN
+sasāin	sasa'	'eye'	100.0%	NN
+.	.	[punc]	100.0%	PU
+mimjatʃr`	mimyatr	'thunder'	100.0%	NN
+wijā'an	wiyi	'say, do'	100.0%	VB
+limk'a	limik'	'prairie falcon'	100.0%	NN
+,	,	[punc]	100.0%	PU
+'ohom	'ohom	'NEG'	100.0%	RB
+ma'	ma'	'2SG.NOM'	100.0%	PN
+hut'ēqōhin	hudu	'recognize, know'	100.0%	VB
+hā'nuk`	ha:nuk	'what.PRIM'	100.0%	PN
+,	,	[punc]	100.0%	PU
+k`a'jiw	kay'iw	'coyote'	100.0%	NN
+mam	mam	'2SG.PRIM'	100.0%	PN
+t'otʃr'ējāhin	dotr'e:ya:	'spoil, cause to become bad'	100.0%	VB
+.	.	[punc]	100.0%	PU
+mimjatʃr`	mimyatr	'thunder'	100.0%	NN
+tap`	dab	'next, on the other hand, then'	100.0%	RB
+tʃr`ip`ni'	tripni'	'one endowed with magic powers'	100.0%	NN
+,	,	[punc]	100.0%	PU
+hut'ēqōhin	hudu	'recognize, know'	100.0%	VB
+jētʃr'aw	ye:tr'aw	'all'	100.0%	RB
+.	.	[punc]	100.0%	PU
+hṹhũ'	hǫ:hǫ'	'yes'	100.0%	UH
+wijā'an	wiyi	'say, do'	100.0%	VB
+limik'	limik'	'prairie falcon'	100.0%	NN
+,	,	[punc]	100.0%	PU
+hut'ēqōhin	hudu	'recognize, know'	100.0%	VB
+na'	na'	'1SG.NOM'	100.0%	PN
+tʃran	tran	'that.SG.PRIM'	100.0%	DT
+jētʃr'aw	ye:tr'aw	'all'	100.0%	RB
+.	.	[punc]	100.0%	PU
+'ama'	'ama'	'and'	100.0%	PN
+mimjatʃr`	mimyatr	'thunder'	100.0%	NN
+ti'ʃrhin	di'ishr	'repair, make'	100.0%	VB
+li'mk'in	limik'	'prairie falcon'	100.0%	NN
+sasā'in	sasa'	'eye'	100.0%	NN
+t'ap'a	t'ap'	't'ap''	100.0%	NN
+.	.	[punc]	100.0%	PU
+tē'jaw	de:yaw	'ahead'	100.0%	RB
+mimjātʃr`in	mimyatr	'thunder'	100.0%	NN
+qajāt`aw	xaya:	'place, put'	100.0%	VB
+t'ap'a	t'ap'	't'ap''	100.0%	NN
+sasaw	sasa'	'eye'	100.0%	NN
+li'mk'in	limik'	'prairie falcon'	100.0%	NN
+wits`ip`aj	wichribhay	'children'	100.0%	NN
+'amin	'amin	'3SG.GEN'	100.0%	PN
+kom̄wīhin	gomwiyi	'make a loud noise, rumble, thunder'	100.0%	VB
+'ama'	'ama'	'and'	100.0%	PN
+tʃr`a	tra	'that.SG.NOM'	100.0%	DT
+t'ap'	t'ap'	't'ap''	100.0%	NN
+kōninhin	go:nin	'go down'	100.0%	VB
+.	.	[punc]	100.0%	PU
+'ama'	'ama'	'and'	100.0%	PN
+jow	yow	'and, also, again'	100.0%	CC
+tʃr`an	tran	'that.SG.PRIM'	100.0%	DT
+qajāhin	xaya:	'place, put'	100.0%	VB
+'ama'	'ama'	'and'	100.0%	PN
+jow	yow	'and, also, again'	100.0%	CC
+kom̄wīhin	gomwiyi	'make a loud noise, rumble, thunder'	100.0%	VB
+wilʃrin	wilshrin	'but, in spite of that'	100.0%	CC
+'ohom	'ohom	'NEG'	100.0%	RB
+jow	yow	'and, also, again'	100.0%	CC
+kōninhin	go:nin	'go down'	100.0%	VB
+.	.	[punc]	100.0%	PU
+'ama'	'ama'	'and'	100.0%	PN
+tʃrānit	tra:nit	'that.SG.ABL'	100.0%	DT
+limik'	limik'	'prairie falcon'	100.0%	NN
+jo'wk`ēhin	yo'ke:	'return'	100.0%	VB
+qāmi	xa:mi	'hither, this place'	100.0%	RB
+.	.	[punc]	100.0%	PU
+tʃr`ānit	tra:nit	'that.SG.ABL'	100.0%	DT
+jo'wk`em	yo'ke:	'return'	100.0%	VB
+wak̄`i	wakkiy	'very, very much'	100.0%	RB
+hija'wtʃr`āhin	hiy'aw'tra:/	'become belligerent'	100.0%	VB
+,	,	[punc]	100.0%	PU
+'ama'	'ama'	'and'	100.0%	PN
+tʃrāni	tra:ni	'that.SG.SEC'	100.0%	DT
+hētsi'	he:zhi'	'today'	100.0%	RB
+jētʃr'aw	ye:tr'aw	'all'	100.0%	RB
+jok`ots'	yokoc'	'person, people'	100.0%	NN
+wijā'an	wiyi	'say, do'	100.0%	VB
+hija'wtʃr`a'	hiy'aw'tra:/	'become belligerent'	100.0%	VB
+limik'	limik'	'prairie falcon'	100.0%	NN
+.	.	[punc]	100.0%	PU
+tʃrānit`	tra:nit	'that.SG.ABL'	100.0%	DT
+t`aqnēni	taxa:	'bring'	100.0%	VB
+'ohom	'ohom	'NEG'	100.0%	RB
+jow	yow	'and, also, again'	100.0%	CC
+'ilikhin	'ilik	'sing'	100.0%	VB
+limik	limik'	'prairie falcon'	100.0%	NN
+.	.	[punc]	100.0%	PU
+t`aqnēni	taxa:	'bring'	100.0%	VB
+p`anāhin	pana:	'arrive'	100.0%	VB
+limik'	limik'	'prairie falcon'	100.0%	NN
+kut̄sōnun	guchrchrun	'[name]'	100.0%	NP
+tʃr`ew	tri'	'house'	100.0%	NN
+.	.	[punc]	100.0%	PU
+kut̄ṣun	guchrchrun	'[name]'	100.0%	NP
+t`a'an	ta'an'	'too'	100.0%	RB
+jet'	ye:t'	'one'	100.0%	JJ
+jow	yow	'and, also, again'	100.0%	CC
+hija'wtʃra'	hiy'aw'tra:/	'become belligerent'	100.0%	VB
+,	,	[punc]	100.0%	PU
+wut`ūkwut`ukwi'ja'	wutru:kwiyi	'be smoky'	80.0%	VB
+wilʃrin	wilshrin	'but, in spite of that'	100.0%	CC
+wak̄`i	wakkiy	'very, very much'	100.0%	RB
+qu'la'	xul'u	'go ahead'	100.0%	VB
+.	.	[punc]	100.0%	PU
+qōnow	xo:now	'always'	100.0%	RB
+k'at`lītsaqo'	[unknown]	'[unknown]'	0.0%	UN
+,	,	[punc]	100.0%	PU
+'ama'	'ama'	'and'	100.0%	PN
+tʃr'a'wā'an	tr'aw'a	'win from'	100.0%	VB
+'amin	'amin	'3SG.GEN'	100.0%	PN
+kē'ajhi	gi'iy	'enemy'	100.0%	VB
+.	.	[punc]	100.0%	PU
+kut̄sun	guchrchrun	'[name]'	100.0%	NP
+k'at`lītsam	[unknown]	'[unknown]'	0.0%	UN
+tʃr'a'wā'an	tr'aw'a	'win from'	0.0%	VB
+'amin	'amin	'3SG.GEN'	100.0%	PN
+ke'ajhin	gi'iy	'enemy'	100.0%	VB
+k'ēqā'in	k'e:xa'	'money'	100.0%	NN
+'ama'	'ama'	'and'	100.0%	PN
+'amāminwa	'ama:minwa	'3PL.PRIM'	100.0%	PN
+wīmi	wiyi	'say, do'	100.0%	VB
+t`awtʃr`aqo'	tawtra:	'kill tr'	100.0%	VB
+t'ulā'an	t'ulu	'burn tr'	100.0%	VB
+'amāminwa	'ama:minwa	'3PL.PRIM'	100.0%	PN
+.	.	[punc]	100.0%	PU
+'ut̄al	'ut't'al	'solely, nothing but'	100.0%	RB
+tʃr`uma'jnits'a	trumoynac'	'widows'	100.0%	NN
+kā'ēni	ga'e:ni	'women'	100.0%	NN
+hēwinhin	[unknown]	'[unknown]'	0.0%	UN
+'apij	'abiy	'with.ACCOMP'	100.0%	PP
+tʃr`an	tran	'that.SG.PRIM'	100.0%	DT
+limik'	limik'	'prairie falcon'	100.0%	NN
+p`anāhɛn	pana:	'arrive'	100.0%	VB
+'ama'	'ama'	'and'	100.0%	PN
+tʃran	tran	'that.SG.PRIM'	100.0%	DT
+k`a'jiw	kay'iw	'coyote'	100.0%	NN
+wijā'an	wiyi	'say, do'	100.0%	VB
+hitsī%	hi'zhri'	'tomorrow'	100.0%	RB
+mak'	mak'	'1DU.INCL.NOM'	100.0%	PN
+quwala'	[unknown]	'[unknown]'	0.0%	UN
+.	.	[punc]	100.0%	PU
+"	"	[punc]	100.0%	PU
+'insis	'insis	'good'	100.0%	JJ
+,	,	[punc]	100.0%	PU
+"	"	[punc]	100.0%	PU
+wijhin	wiyi	'say, do'	100.0%	VB
+limik'	limik'	'prairie falcon'	100.0%	NN
+.	.	[punc]	100.0%	PU
+'alwutʃr'	'alwutr'	'crow'	100.0%	NN
+'ama'	'ama'	'and'	100.0%	PN
+hijā'mi'	hiya:m'i'	'a long time ago'	50.0%	RB
+hija'm	hiyam'	'next morning'	100.0%	RB
+'alwutʃr'	'alwutr'	'crow'	100.0%	NN
+ts`awts`awhin	cawa	'shout'	100.0%	VB
+hētsi'	he:zhi'	'today'	100.0%	RB
+k`ew	kew	'this.SG.LOC'	100.0%	DT
+ha'jāliw	hay'al	'day'	100.0%	NN
+mi'in	mi'in	'soon'	100.0%	RB
+k'at`lītsa	[unknown]	'[unknown]'	0.0%	UN
+limik'	limik'	'prairie falcon'	100.0%	NN
+jow	yow	'and, also, again'	100.0%	CC
+k`a'jiw	kay'iw	'coyote'	100.0%	NN
+.	.	[punc]	100.0%	PU
+k`a'jiw	kay'iw	'coyote'	100.0%	NN
+wanā'an	wa:na	'give'	100.0%	VB
+li'mk'a	limik'	'prairie falcon'	100.0%	NN
+'ēman	'e:man	'to no avail'	100.0%	RB
+'amin	'amin	'3SG.GEN'	100.0%	PN
+'ololni	'olol	'ball'	100.0%	NN
+,	,	[punc]	100.0%	PU
+wilʃrin	wilshrin	'but, in spite of that'	100.0%	CC
+limik'	limik'	'prairie falcon'	100.0%	NN
+'ohom	'ohom	'NEG'	100.0%	RB
+ts`owp`unhun	co:pun	'consent'	100.0%	VB
+qō'qo'	xo:	'live, exist, be'	100.0%	VB
+nim	nim	'1SG.GEN'	100.0%	PN
+'olol	'olol	'ball'	100.0%	NN
+wījhin	wiyi	'say, do'	100.0%	VB
+tʃr`an	tran	'that.SG.PRIM'	100.0%	DT
+.	.	[punc]	100.0%	PU
+limik'	limik'	'prairie falcon'	100.0%	NN
+wak̄`i	wakkiy	'very, very much'	100.0%	RB
+tʃr`ip`ni'	tripni'	'one endowed with magic powers'	100.0%	NN
+hijō'uk`	hiyo'uk	'where.LOC'	100.0%	PN
+tʃran	tran	'that.SG.PRIM'	100.0%	DT
+maqhin	ma:xa	'procure, get'	100.0%	VB
+'olol	'olol	'ball'	100.0%	NN
+jow	yow	'and, also, again'	100.0%	CC
+tap`	dab	'next, on the other hand, then'	100.0%	RB
+jetʃr'aw	ye:tr'aw	'all'	100.0%	RB
+'ēman	'e:man	'to no avail'	100.0%	RB
+tʃr'a'wanāhin	tr'aw'a	'win from'	100.0%	VB
+tʃr`an	tran	'that.SG.PRIM'	100.0%	DT
+huwtʃruwsaw	huwtruwus	'game name'	100.0%	NN
+.	.	[punc]	100.0%	PU
+"	"	[punc]	100.0%	PU
+'insis	'insis	'good'	100.0%	JJ
+"	"	[punc]	100.0%	PU
+wijā'an	wiyi	'say,  do'	100.0%	VB
+k`a'jiw	kay'iw	'coyote'	100.0%	NN
+.	.	[punc]	100.0%	PU
+jētʃr'aw	ye:tr'aw	'all'	100.0%	RB
+kā'ēni	ga'e:ni	'women'	100.0%	NN
+ʃri'lēqo'	shril'i	'see'	100.0%	VB
+.	.	[punc]	100.0%	PU
+hētsi'	he:zhi'	'today'	100.0%	RB
+tāpa'	da:ba'	'then, too(?)'	100.0%	RB
+,	,	[punc]	100.0%	PU
+sit`k'a	sidi	'get ready'	100.0%	VB
+wil	wil	'2PL.VOC.IMPER'	100.0%	PN
+tʃrimi	triymi	'right now'	100.0%	RB
+wija'an	wiyi	'say, do'	100.0%	VB
+pajāsu'	paya:su'	'clown'	50.0%	FW
+.	.	[punc]	100.0%	PU
+limik'	limik'	'prairie falcon'	100.0%	NN
+pinet`hin	bine:t	'ask'	100.0%	VB
+kut̄ṣon	guchrchrun	'[name]'	100.0%	NP
+hijō'uk`	hiyo'uk	'where.LOC'	100.0%	PN
+mak'	mak'	'1DU.INCL.NOM'	100.0%	PN
+hi'	hi'	'FUT'	100.0%	RB
+kit`wen	gidiw	'surround'	100.0%	VB
+wijā'an	wiyi	'say, do'	100.0%	VB
+tʃran	tran	'that.SG.PRIM'	100.0%	DT
+.	.	[punc]	100.0%	PU
+k`a'jiw	kay'iw	'coyote'	100.0%	NN
+.	.	[punc]	100.0%	PU
+wijā'an	wiyi	'say, do'	100.0%	VB
+wak̄`i	wakkiy	'very, very much'	100.0%	RB
+wa'	wa'	'far away'	100.0%	JJ
+,	,	[punc]	100.0%	PU
+ts'umnaw	c'umun	'end'	100.0%	NN
+p'a'nin	p'a'an	'world'	100.0%	NN
+.	.	[punc]	100.0%	PU
+t`anhin	ta:na	'go'	100.0%	VB
+'amak'	'amak'	'3DU.NOM'	100.0%	PN
+.	.	[punc]	100.0%	PU
+li'mk'in	limik'	'prairie falcon'	100.0%	NN
+'olol	'olol	'ball'	100.0%	NN
+tejhin	de:yi	'take the lead, get in front'	100.0%	VB
+'ama'	'ama'	'and'	100.0%	PN
+tʃr`ānit	tra:nit	'that.SG.ABL'	100.0%	DT
+kut̄ṣōnun	guchrchrun	'[name]'	100.0%	NP
+,	,	[punc]	100.0%	PU
+'ama'	'ama'	'and'	100.0%	PN
+jow	yow	'and, also, again'	100.0%	CC
+tejhin	de:yi	'take the lead, get in front'	100.0%	VB
+li'mk'in	limik'	'prairie falcon'	100.0%	NN
+'ama'	'ama'	'and'	100.0%	PN
+tʃrānit	tra:nit	'that.SG.ABL'	100.0%	DT
+jow	yow	'and, also, again'	100.0%	CC
+kut̄sōnun	guchrchrun	'[name]'	100.0%	NP
+.	.	[punc]	100.0%	PU
+'it'itʃr	[unknown]	'[unknown]'	0.0%	UN
+hulʃrēqōhin	hulo:shr	'sit down'	100.0%	VB
+tʃr`ip`in	tripin	'on top of'	100.0%	PP
+k'a'nliw	k'anal	'fir tree'	100.0%	NN
+tʃr`a	tra	'that.SG.NOM'	100.0%	DT
+'aminkin	'amingin	'3DU.GEN'	100.0%	PN
+kowos	[unknown]	'[unknown]'	0.0%	UN
+waqal'an	wa:xal	'weep'	100.0%	VB
+tʃrānit`	tra:nit	'that.SG.ABL'	100.0%	DT
+jow	yow	'and, also, again'	100.0%	CC
+'ilek`'an	'ilik	'sing'	100.0%	VB
+.	.	[punc]	100.0%	PU
+waqal'āhin	wa:xal	'weep'	100.0%	VB
+mets'	mec'	'surely'	100.0%	RB
+'ohom	'ohom	'NEG'	100.0%	RB
+hut'ēqo'	hudu	'recognize, know'	100.0%	VB
+hawa't`ō'uk`	hawa'to'uk	'will be/is doing what? (interrogative)'	100.0%	VB
+'amin	'amin	'3SG.GEN'	100.0%	PN
+hi'	hi'	'FUT'	100.0%	RB
+'ākas	'a:gashr	'mother's brother'	100.0%	NN
+limik'	limik'	'prairie falcon'	100.0%	NN
+.	.	[punc]	100.0%	PU
+jits'a'j	ya'	'go'	0.0%	VB
+'aminkin	'amingin	'3DU.GEN'	100.0%	PN
+kitiwt`aw	gidiw	'surround'	100.0%	VB
+h	hi'	'FUT'	0.0%	RB
+.	.	[punc]	100.0%	PU
+mit'ats`	mit'achr	'slightly, not much'	100.0%	RB
+tij'ēqōhin	de:yi	'take the lead, get in front'	100.0%	VB
+.	.	[punc]	100.0%	PU
+k`a'jiw	kay'iw	'coyote'	100.0%	NN
+lihminaj	lihim	'run'	100.0%	VB
+jik`jik`qo'	yiki	'fart'	100.0%	VB
+tʃra`	tra	'that.SG.NOM'	100.0%	DT
+'amin	'amin	'3SG.GEN'	100.0%	PN
+tʃr`ip`na'	tripna'	'magic power'	100.0%	NN
+.	.	[punc]	100.0%	PU
+jow	yow	'and, also, again'	100.0%	CC
+'aminkin	'amingin	'3DU.GEN'	100.0%	PN
+hijam	hiyam	'already, now'	100.0%	RB
+jotst`ow	[unknown]	'[unknown]'	0.0%	UN
+,	,	[punc]	100.0%	PU
+k`i`	ki	'this.SG.NOM'	100.0%	CC
+tʃr`ip`na'	tripna'	'magic power'	100.0%	NN
+kut̄sōnun	guchrchrun	'[name]'	100.0%	NP
+tʃr'ihlāhin	t'ihe'	'get lean'	100.0%	VB
+limk'a	limik'	'prairie falcon'	100.0%	NN
+,	,	[punc]	100.0%	PU
+jow	yow	'and, also, again'	100.0%	CC
+tʃr`an	tran	'that.SG.PRIM'	100.0%	DT
+tʃr`aqājēhin	tr'axya'	'dry'	50.0%	JJ
+jow	yow	'and, also, again'	100.0%	CC
+tʃran	tran	'that.SG.PRIM'	100.0%	DT
+t`iqī't`anhin	tixit	'painful, sick, ill'	50.0%	JJ
+.	.	[punc]	100.0%	PU
+'ama'	'ama'	'and'	100.0%	PN
+limik'	limik'	'prairie falcon'	100.0%	NN
+t`isālāhin	tisi	'come out'	100.0%	VB
+'amin	'amin	'3SG.GEN'	100.0%	PN
+k'aljan	[unknown]	'[unknown]'	0.0%	UN
+,	,	[punc]	100.0%	PU
+'ama'	'ama'	'and'	100.0%	PN
+tʃran	tran	'that.SG.PRIM'	100.0%	DT
+tʃr'iwhin	tr'iwi	'wet (sic)'	100.0%	VB
+'amin	'amin	'3SG.GEN'	100.0%	PN
+hēlawtʃr'ēni	[unknown]	'[unknown]'	0.0%	UN
+'ama'	'ama'	'and'	100.0%	PN
+tʃr`āni	tra:ni	'that.SG.SEC'	100.0%	DT
+qoʃrhin	xoshro	'rub'	100.0%	VB
+'amin	'amin	'3SG.GEN'	100.0%	PN
+sasā'in	sasa'	'eye'	100.0%	NN
+jow	yow	'and, also, again'	100.0%	CC
+'amin	'amin	'3SG.GEN'	100.0%	PN
+p`e'es	[unknown]	'[unknown]'	0.0%	UN
+.	.	[punc]	100.0%	PU
+'ama'	'ama'	'and'	100.0%	PN
+tʃrānit	tra:nit	'that.SG.ABL'	100.0%	DT
+jow	yow	'and, also, again'	100.0%	CC
+'inēsāhin	'ine:sa:	'be good'	100.0%	VB
+naj	nay	'nearly, more than'	100.0%	RB
+tʃra	tra	'that.SG.NOM'	100.0%	DT
+tē'jaw	de:yaw	'ahead'	100.0%	RB
+.	.	[punc]	100.0%	PU
+'ama'	'ama'	'and'	100.0%	PN
+jow	yow	'and, also, again'	100.0%	CC
+limik'	limik'	'prairie falcon'	100.0%	NN
+t`iqt`inhin	text-in/	'become ill, sore'	100.0%	VB
+,	,	[punc]	100.0%	PU
+'ama'	'ama'	'and'	100.0%	PN
+jow	yow	'and, also, again'	100.0%	CC
+t`ojqīsāhin	t'oyox	'doctor, give medicine'	100.0%	VB
+.	.	[punc]	100.0%	PU
+tʃra'aʃr	tra'ashr	'continuously'	100.0%	RB
+wijā'jeqōhin	wiyi	'say, do'	100.0%	VB
+.	.	[punc]	100.0%	PU
+ha'ts`aqom	ha'zhaxom	'finally, at last'	100.0%	RB
+'aʃr	'ashr	'actually, really'	100.0%	RB
+limik'	limik'	'prairie falcon'	100.0%	NN
+p`oʃrhun	po:su	'blow on'	100.0%	VB
+kut̄sōnun	guchrchrun	'[name]'	100.0%	NP
+'olol	'olol	'ball'	100.0%	NN
+sōk'on̄i	so:gon	'Indian tobacco weed'	100.0%	NN
+'ama'	'ama'	'and'	100.0%	PN
+qotʃr'jiw	xotr'oy	'ground, soil'	100.0%	NN
+kōninhin	go:nin	'go down'	100.0%	VB
+'ama'	'ama'	'and'	100.0%	PN
+tʃran	tran	'that.SG.PRIM'	100.0%	DT
+tʃr'aniw	tr'aniw	'badger'	100.0%	NN
+maqhin	ma:xa	'procure, get'	100.0%	VB
+.	.	[punc]	100.0%	PU
+tʃr'aniw	tr'aniw	'badger'	100.0%	NN
+li'mk'in	limik'	'prairie falcon'	100.0%	NN
+nusus	nusos	'paternal aunt'	100.0%	NN
+.	.	[punc]	100.0%	PU
+'ama'	'ama'	'and'	100.0%	PN
+limik'	limik'	'prairie falcon'	100.0%	NN
+tejhin	de:yi	'take the lead, get in front'	100.0%	VB
+jow	yow	'and, also, again'	100.0%	CC
+tap`	dab	'next, on the other hand, then'	100.0%	RB
+k`a'jiw	kay'iw	'coyote'	100.0%	NN
+hētam	he:dam	'nearby'	100.0%	RB
+tʃraw	traw	'if'	100.0%	DT
+he'wt`aqo'	hew'ta:	'walk about, roam'	100.0%	VB
+'ohjoqo'	'ohyo:	'want, look for (YT has root ?oyoxo)'	100.0%	VB
+'amin	'amin	'3SG.GEN'	100.0%	PN
+'olol	'olol	'ball'	100.0%	NN
+.	.	[punc]	100.0%	PU
+ha'ts`aqom	ha'zhaxom	'finally, at last'	100.0%	RB
+'aʃr	'ashr	'actually, really'	100.0%	RB
+la'jhin	lay'a	'kick'	100.0%	VB
+qotʃr'oj	xotr'oy	'ground, soil'	100.0%	NN
+'ama'	'ama'	'and'	100.0%	PN
+'amin	'amin	'3SG.GEN'	100.0%	PN
+p`ulwīhin	pulwiyi	'pop out'	100.0%	VB
+tʃra	tra	'that.SG.NOM'	100.0%	DT
+'olol	'olol	'ball'	100.0%	NN
+.	.	[punc]	100.0%	PU
+k`a'jiw	kay'iw	'coyote'	100.0%	NN
+ts`anum	canum	'immediately'	100.0%	RB
+jow	yo:w	'go home'	100.0%	VB
+kotʃr'hin	go:tr'o	'overtake'	100.0%	VB
+li'mk'a	limik'	'prairie falcon'	100.0%	NN
+.	.	[punc]	100.0%	PU
+tʃra'aʃr	tra'ashr	'continuously'	100.0%	RB
+'aminkin	'amingin	'3DU.GEN'	100.0%	PN
+k'ap`inmi	[unknown]	'[unknown]'	0.0%	UN
+t`aqhin	taxa:	'bring'	100.0%	VB
+k'ontsō'wi'	k'onzho:'wi'	'[name]'	100.0%	NP
+hulʃrēqōhin	hulo:shr	'sit down'	100.0%	VB
+tapa'	da:ba'	'then, too(?)'	100.0%	RB
+tʃr`ip`in	tripin	'on top of'	100.0%	PP
+sil̄iw	silel	'rock'	100.0%	NN
+'o'ts`aqo'	'o'chra:	'watch (as spectator)'	100.0%	VB
+'amāmikwa	'ama:mikwa	'3DU.PRIM'	100.0%	PN
+.	.	[punc]	100.0%	PU
+k'ontsō'wi'	k'onzho:'wi'	'[name]'	100.0%	NP
+ʃri'lā'an	shril'i	'see'	100.0%	VB
+jētʃr'aw	ye:tr'aw	'all'	100.0%	RB
+hā'nuk`	ha:nuk	'what.PRIM'	100.0%	PN
+.	.	[punc]	100.0%	PU
+jētʃr'aw	ye:tr'aw	'all'	100.0%	RB
+tʃran	tran	'that.SG.PRIM'	100.0%	DT
+jok`ots'	yokoc'	'person, people'	100.0%	NN
+pinet`'an	bine:t	'ask'	100.0%	VB
+hē'	[unknown]	'[unknown]'	0.0%	UN
+hijuk`	hiyuk	'where.NOM'	100.0%	PN
+'amak'	'amak'	'3DU.NOM'	100.0%	PN
+tij'ēqo'	de:yi	'take the lead, get in front'	100.0%	VB
+.	.	[punc]	100.0%	PU
+wijā'an	wiyi	'say, do'	100.0%	VB
+tē'jaw	de:yaw	'ahead'	100.0%	RB
+t`aqan'an	taxa:	'bring'	100.0%	VB
+limik'	limik'	'prairie falcon'	100.0%	NN
+jow	yow	'and, also, again'	100.0%	CC
+kut̄sun	guchrchrun	'[name]'	100.0%	NP
+t`a'an	ta'an'	'too'	100.0%	RB
+nahni	na'ni	'sometimes'	100.0%	RB
+tijā'an	de:yi	'take the lead, get in front'	100.0%	VB
+.	.	[punc]	100.0%	PU
+hijam	hiyam	'already, now'	100.0%	RB
+'aminkin	'amingin	'3DU.GEN'	100.0%	PN
+'amitst`aw	'amac	'approach, go near'	100.0%	VB
+,	,	[punc]	100.0%	PU
+k'ontsō'wi'	k'onzho:'wi'	'[name]'	100.0%	NP
+wijā'an	wiyi	'say, do'	100.0%	VB
+:	:	[punc]	100.0%	PU
+limik'	limik'	'prairie falcon'	100.0%	NN
+tij'ēqo'	de:yi	'take the lead, get in front'	100.0%	VB
+.	.	[punc]	100.0%	PU
+jētʃr'aw	ye:tr'aw	'all'	100.0%	RB
+tʃr`asin	trasin	'that.PL.NOM'	100.0%	DT
+kā'ēni	ga'e:ni	'women'	100.0%	NN
+hīt'iwlaqo'	hiyt'iwla:/	'be glad'	100.0%	VB
+me'tsi	me'zhi'	'because'	100.0%	CC
+k`a'jiw	kay'iw	'coyote'	100.0%	NN
+t`awtʃr`āhin	tawtra:	'kill tr'	100.0%	VB
+'aminōkun	'amino:gun	'3PL.GEN'	100.0%	PN
+p`ulomha	po:lum	'husband'	100.0%	NN
+.	.	[punc]	100.0%	PU
+jētʃr'aw	ye:tr'aw	'all'	100.0%	RB
+'aminkin	'amingin	'3DU.GEN'	100.0%	PN
+qo'qōhin	xo:	'live, exist, be'	100.0%	VB
+kut̄sōnun	guchrchrun	'[name]'	100.0%	NP
+jow	yow	'and, also, again'	100.0%	CC
+li'mk'in	limik'	'prairie falcon'	100.0%	NN
+coime	coime	[foreign]	100.0%	FW
+.	.	[punc]	100.0%	PU
+li'mk'in	limik'	'prairie falcon'	100.0%	NN
+coime	coime	[foreign]	100.0%	FW
+tap`	dab	'next, on the other hand, then'	100.0%	RB
+'alwutʃr'	'alwutr'	'crow'	100.0%	NN
+jow	yow	'and, also, again'	100.0%	CC
+kut̄sōnun	guchrchrun	'[name]'	100.0%	NP
+tāpa'	da:ba'	'then, too(?)'	100.0%	RB
+k`a'jiw	kay'iw	'coyote'	100.0%	NN
+.	.	[punc]	100.0%	PU
+jētʃr'aw	ye:tr'aw	'all'	100.0%	RB
+'amak'	'amak'	'3DU.NOM'	100.0%	PN
+wuwlēqōhin	wo:wul	'stand'	50.0%	VB
+'a'ni	'a:n'i	'NEG.IMPER'	100.0%	RB
+tʃran	tran	'that.SG.PRIM'	100.0%	DT
+k'anal	k'anal	'fir tree'	100.0%	NN
+ʃri'lēqo'hin	shril'i	'see'	100.0%	VB
+.	.	[punc]	100.0%	PU
+'amitsmi	'amac	'approach, go near'	100.0%	VB
+'amak'	'amak'	'3DU.NOM'	100.0%	PN
+,	,	[punc]	100.0%	PU
+p`oʃrhun	po:su	'blow on'	100.0%	VB
+'aminkin	'amingin	'3DU.GEN'	100.0%	PN
+'olol	'olol	'ball'	100.0%	NN
+'ama'	'ama'	'and'	100.0%	PN
+majni	mayni	'AR.EMPH'	100.0%	RB
+t`anhin	ta:na	'go'	100.0%	VB
+'aminkin	'amingin	'3DU.GEN'	100.0%	PN
+'olol	'olol	'ball'	100.0%	NN
+,	,	[punc]	100.0%	PU
+jet'	ye:t'	'one'	100.0%	JJ
+tijā'an	de:yi	'take the lead, get in front'	100.0%	VB
+'ama'	'ama'	'and'	100.0%	PN
+patʃr	batr	'as usual'	100.0%	RB
+jow	yow	'and, also, again'	100.0%	CC
+jet'	ye:t'	'one'	100.0%	JJ
+.	.	[punc]	100.0%	PU
+'ohom	'ohom	'NEG'	100.0%	RB
+'amak'	'amak'	'3DU.NOM'	100.0%	PN
+jow	yow	'and, also, again'	100.0%	CC
+tap	dab	'next, on the other hand, then'	100.0%	RB
+lihimhin	lihim	'run'	100.0%	VB
+tʃr`asik'	trasik'	'that.DU.NOM'	100.0%	DT
+k'at`litsihni'	[unknown]	'[unknown]'	0.0%	UN
+k`a'jiw	kay'iw	'coyote'	100.0%	NN
+jow	yow	'and, also, again'	100.0%	CC
+limik'	limik'	'prairie falcon'	100.0%	NN
+.	.	[punc]	100.0%	PU
+mimjatʃr	mimyatr	'thunder'	100.0%	NN
+hut'ēqōhin	hudu	'recognize, know'	100.0%	VB
+tʃran	tran	'that.SG.PRIM'	100.0%	DT
+jētʃr'aw	ye:tr'aw	'all'	100.0%	RB
+'ama'	'ama'	'and'	100.0%	PN
+majni	mayni	'AR.EMPH'	100.0%	RB
+tʃr`ējiqla-&
+qo'	[unknown]	'[unknown]'	0.0%	UN
+wijā'an	wiyi	'say, do'	100.0%	VB
+hawjēno'uk`	hawye:no'uk	'what.kind.SEC'	100.0%	PN
+ma'	ma'	'2SG.NOM'	100.0%	PN
+tʃran	tran	'that.SG.PRIM'	100.0%	DT
+k'at`litsaqo'	[unknown]	'[unknown]'	0.0%	UN
+hija'wtʃrā'in	hiy'aw'tra:/	'become belligerent'	100.0%	VB
+?	?	[punc]	100.0%	PU
+jet'	ye:t'	'one'	100.0%	JJ
+jow	yow	'and, also, again'	100.0%	CC
+k`a'jiw	kay'iw	'coyote'	100.0%	NN
+'amts`aw	'amcaw	'close to'	100.0%	PP
+qō'o'	xo:	'live, exist, be'	100.0%	VB
+wojlow	woylow	'[name]'	100.0%	NP
+li'mk'in	limik'	'prairie falcon'	100.0%	NN
+'ākas	'a:gashr	'mother's brother'	100.0%	NN
+,	,	[punc]	100.0%	PU
+t`a'an	ta'an'	'too'	100.0%	RB
+hut'ēqōhin	hudu	'recognize, know'	100.0%	VB
+k`in	kin	'this.SG.PRIM'	100.0%	DT
+k'at`līts`a	[unknown]	'[unknown]'	0.0%	UN
+.	.	[punc]	100.0%	PU
+ha'ts`aqom	ha'zhaxom	'finally, at last'	100.0%	RB
+'aʃr	'ashr	'actually, really'	100.0%	RB
+li'mk'in	limik'	'prairie falcon'	100.0%	NN
+'olol	'olol	'ball'	100.0%	NN
+tejhin	de:yi	'take the lead, get in front'	100.0%	VB
+'ama'	'ama'	'and'	100.0%	PN
+tʃr`ok'hin	tro:k'o	'strike, hit'	100.0%	VB
+tʃr`an	tran	'that.SG.PRIM'	100.0%	DT
+k'anal	k'anal	'fir tree'	100.0%	NN
+kutṣēni	guchre'	'tiny'	100.0%	JJ
+tē'jaw	de:yaw	'ahead'	100.0%	RB
+kut̄ṣōnun	guchrchrun	'[name]'	100.0%	NP
+'olol	'olol	'ball'	100.0%	NN
+.	.	[punc]	100.0%	PU
+li'mk'in	limik'	'prairie falcon'	100.0%	NN
+'olol	'olol	'ball'	100.0%	NN
+ti'	di'	'with a little doubt'	100.0%	RB
+hut`na'	hudu	'know'	100.0%	VB
+me'jtsi	me'zhi'	'because'	100.0%	CC
+mit'ats`	mit'achr	'slightly, not much'	100.0%	RB
+p'ats'ik'in	pac'ikin	'red'	100.0%	JJ
+na'	na'	'1SG.NOM'	100.0%	PN
+tʃr'a'whin	tr'aw'a	'win from'	100.0%	VB
+wijā'an	wiyi	'say, do'	100.0%	VB
+limik'	limik'	'prairie falcon'	100.0%	NN
+.	.	[punc]	100.0%	PU
+wilʃrin	wilshrin	'but, in spite of that'	100.0%	CC
+kut̄sun	guchrchrun	'[name]'	100.0%	NP
+jow	yow	'and, also, again'	100.0%	CC
+'amin	'amin	'3SG.GEN'	100.0%	PN
+kojmi'	goymi'	'gambling operator'	100.0%	FW
+wijā'an	wiyi	'say, do'	100.0%	VB
+:	:	[punc]	100.0%	PU
+k`a'jiw	kay'iw	'coyote'	100.0%	NN
+tʃr'a'whin	tr'aw'a	'win from'	100.0%	VB
+.	.	[punc]	100.0%	PU
+kut̄ṣun	guchrchrun	'[name]'	100.0%	NP
+jow	yow	'and, also, again'	100.0%	CC
+'amin	'amin	'3SG.GEN'	100.0%	PN
+kojmi'	goymi'	'gambling operator'	100.0%	FW
+wijā'an	wiyi	'say, do'	100.0%	VB
+kut̄ṣun	guchrchrun	'[name]'	100.0%	NP
+tʃr'a'whin	tr'aw'a	'win from'	100.0%	VB
+.	.	[punc]	100.0%	PU
+jētʃr'aw	ye:tr'aw	'all'	100.0%	RB
+jok`ots'	yokoc'	'person, people'	100.0%	NN
+'o'tṣ`ihni'	'o'chra:	'watch (as spectator)'	100.0%	VB
+wijā'an	wiyi	'say, do'	100.0%	VB
+'ohom	'ohom	'NEG'	100.0%	RB
+'ohom	'ohom	'NEG'	100.0%	RB
+,	,	[punc]	100.0%	PU
+limik'	limik'	'prairie falcon'	100.0%	NN
+tʃr'a'whin	tr'aw'a	'win from'	100.0%	VB
+,	,	[punc]	100.0%	PU
+'insēqo'	'ine:sa:	'be good'	50.0%	VB
+,	,	[punc]	100.0%	PU
+wijā'an	wiyi	'say, do'	100.0%	VB
+kut̄sun	guchrchrun	'[name]'	100.0%	NP
+.	.	[punc]	100.0%	PU
+man'	[unknown]	'[unknown]'	0.0%	UN
+nim	nim	'1SG.GEN'	100.0%	PN
+tʃr`e'e'wa'ji	[unknown]	'[unknown]'	0.0%	UN
+p'umnēqo'	p'umu	'fill'	100.0%	VB
+k'ēqāni	k'e:xa'	'money'	100.0%	NN
+tʃr`āni	tra:ni	'that.SG.SEC'	100.0%	DT
+nihi'	nihi'	'1SG.NOM FUT'	100.0%	RB
+tʃr'a'wāla'	tr'aw'a	'win from'	100.0%	VB
+.	.	[punc]	100.0%	PU
+wilʃrin	wilshrin	'but, in spite of that'	100.0%	CC
+jētʃr'aw	ye:tr'aw	'all'	100.0%	RB
+tʃr`asin	trasin	'that.PL.NOM'	100.0%	DT
+ka'ēni	ga'e:ni	'women'	100.0%	NN
+k`i	ki	'this.SG.NOM'	100.0%	CC
+'aminōkun	'amino:gun	'3PL.GEN'	100.0%	PN
+p`ulōma	po:lum	'husband'	100.0%	NN
+t'ulā'at`	t'ulu	'burn tr'	100.0%	VB
+wijā'an	wiyi	'say, do'	100.0%	VB
+t'ulhun	t'ulu	'burn tr'	100.0%	VB
+ma'	ma'	'2SG.NOM'	100.0%	PN
+nimōkun	nimo:gun	'1PL.EXCL.GEN'	100.0%	PN
+p`ulomha	po:lum	'husband'	100.0%	NN
+'ama'	'ama'	'and'	100.0%	PN
+hētṣi'	he:zhi'	'today'	100.0%	RB
+ma'	ma'	'2SG.NOM'	100.0%	PN
+t`a'an	ta'an'	'too'	100.0%	RB
+hi'	hi'	'FUT'	100.0%	RB
+t'ulnon	t'ulu	'burn tr'	100.0%	VB
+.	.	[punc]	100.0%	PU
+'ama'	'ama'	'and'	100.0%	PN
+'aman	'aman	'3PL.NOM'	100.0%	PN
+hot'ōnēhin	hot'o:ne:	'build a fire'	100.0%	VB
+ma'jek`	may'e:k	'big'	100.0%	JJ
+.	.	[punc]	100.0%	PU
+'ama'	'ama'	'and'	100.0%	PN
+'aman	'aman	'3PL.NOM'	100.0%	PN
+t`aqinhin	taxa:	'bring'	100.0%	VB
+maqā'its	ma:xa	'procure, get (116 has maxa)'	100.0%	VB
+kut̄son	guchrchrun	'[name]'	100.0%	NP
+'ama'	'ama'	'and'	100.0%	PN
+huloʃrhun	hulo:shr	'sit down'	100.0% [continue here]	VB
+wet̄ʃr`in	we:tr'i	'fornicate with a virgin'	62.5%	VB
+'ama'	'ama'	'and'	100.0%	PN
+'ohom	'ohom	'NEG'	100.0%	RB
+'aminōkun	'amino:gun	'3PL.GEN'	100.0%	PN
+tʃr`an	tran	'that.SG.PRIM'	100.0%	DT
+wastōhūn	wasto	'be possible'	100.0%	VB
+ʃrotʃritʃr`	shrodritr'	'drag, pull out?'	100.0%	VB
+'oʃrt`ow	'oshrit	'fire'	100.0%	NN
+.	.	[punc]	100.0%	PU
+'ama'	'ama'	'and'	100.0%	PN
+tap	dab	'next, on the other hand, then'	100.0%	RB
+limik'	limik'	'prairie falcon'	100.0%	NN
+t`aqinhin	taxa:	'bring'	100.0%	VB
+'ama'	'ama'	'and'	100.0%	PN
+tʃr'iwhin	tr'iwi	'wet (sic)'	100.0%	VB
+k'aljan	[unknown]	'[unknown]'	100.0%	UN
+'ama'	'ama'	'and'	100.0%	PN
+tʃr`āni	tra:ni	'that.SG.SEC'	100.0%	DT
+tʃr`an	tran	'that.SG.PRIM'	100.0%	DT
+qoʃ̄rin	xoshro	'rub'	100.0%	VB
+kut̄ṣōnun	guchrchrun	'[name]'	100.0%	NP
+k'owjow	k'owiy	'thigh'	100.0%	NN
+,	,	[punc]	100.0%	PU
+'ama'	'ama'	'and'	100.0%	PN
+tʃr`aw	traw	'that.SG.LOC'	100.0%	DT
+wīmi	wiyi	'say, do'	100.0%	VB
+'aman	'aman	'3PL.NOM'	100.0%	PN
+tʃr`an	tran	'that.SG.PRIM'	100.0%	DT
+ʃrotʃr`itʃrhin	shrodritr'	'drag, pull out?'	100.0%	VB
+'oʃrt`ow	'oshrit	'fire'	100.0%	NN
+'ama'	'ama'	'and'	100.0%	PN
+tʃr`aw	traw	'that.SG.LOC'	100.0%	DT
+k'o'it`	k'o'o	'throw at, throw'	100.0%	VB
+'oʃrt`ow	'oshrit	'fire'	100.0%	NN
+.	.	[punc]	100.0%	PU
+jow	yow	'and, also, again'	100.0%	CC
+'amin	'amin	'3SG.GEN'	100.0%	PN
+t`a'an	ta'an'	'too'	100.0%	RB
+kojmi'	goymi'	'gambling operator'	100.0%	FW
+t'ulut`	t'ulu	'burn tr'	100.0%	VB
+'apij	'abiy	'with.ACCOMP'	100.0%	PP
+k`ut̄son	guchrchrun	'[name]'	40.0%	NP
+.	.	[punc]	100.0%	PU
+k`i	ki	'this.SG.NOM'	100.0%	CC
+tʃr`aw	traw	'that.SG.LOC'	100.0%	DT
+hulʃrēqōhin	hulo:shr	'sit down'	100.0%	VB
+naj	nay	'nearly, more than'	100.0%	RB
+ti	di'	'with a little doubt'	75.0%	RB
+'aʃr	'ashr	'actually, really'	100.0%	RB
+tʃr'ik'ēqōhin	tr'ik'i	'tie, imprison'	100.0%	VB
+hujuk`nu	[unknown]	'[unknown]'	0.0%	UN
+.	.	[punc]	100.0%	PU
+t`awitʃrt`aw	ta:witr	'die'	100.0%	VB
+kut̄sōnun	guchrchrun	'[name]'	100.0%	NP
+limik'	limik'	'prairie falcon'	100.0%	NN
+tʃr`ānit	tra:nit	'that.SG.ABL'	100.0%	DT
+qā'menāhin	xa:mi	'hither, this place'	25.0%	RB
+,	,	[punc]	100.0%	PU
+tʃr`a	tra	'that.SG.NOM'	100.0%	DT
+'ama'	'ama'	'and'	100.0%	PN
+tʃr`ānit`	tra:nit	'that.SG.ABL'	100.0%	DT
+t`aqinhin	taxa:	'bring'	100.0%	VB
+limik'	limik'	'prairie falcon'	100.0%	NN
+jow	yow	'and, also, again'	100.0%	CC
+'amin	'amin	'3SG.GEN'	100.0%	PN
+nōts`i'	no:chro'	'friend'	100.0%	NN
+'alwutʃr'	'alwutr'	'crow'	100.0%	NN
+'ama'	'ama'	'3SG.NOM'	100.0%	PN
+'amak'	'amak'	'3DU.NOM'	100.0%	PN
+p`anāhin	pana:	'arrive'	100.0%	VB
+jēt'in	ye:t'	'one'	100.0%	JJ
+nō'nō'in	no:n'o'	'man'	100.0%	NN
+tʃr`ew	tri'	'house'	100.0%	NN
+ponoj	bonoy	'have two, make two'	100.0%	VB
+'amin	'amin	'3SG.GEN'	100.0%	PN
+wits`ip`aj	wichribhay	'children'	100.0%	NN
+ka'ēni	ga'e:ni	'women'	100.0%	NN
+.	.	[punc]	100.0%	PU
+moqlō'in	moxlo'	'old person'	100.0%	NN
+tʃr`ā'in	tra:'in	'that.SG.GEN'	100.0%	DT
+ti'	di'	'with a little doubt'	100.0%	RB
+hojōwas	hoyo:wos	'name'	100.0%	NN
+hamna'	hamna'	'[name]'	100.0%	NN
+.	.	[punc]	100.0%	PU
+hija'wtʃr`a'	hiy'aw'tra:/	'become belligerent'	100.0%	VB
+,	,	[punc]	100.0%	PU
+qat`'a'	xata	'eat'	50.0%	VB
+jok`ōts'i	yokoc'	'person, people'	100.0%	NN
+.	.	[punc]	100.0%	PU
+hamna'	hamna'	'[name]'	100.0%	NN
+ʃri'lmi	shril'i	'see'	100.0%	VB
+'aminkin	'amingin	'3DU.GEN'	100.0%	PN
+t`aqna'	taxa:	'bring'	100.0%	VB
+wijā'an	wiyi	'say, do'	100.0%	VB
+'amin	'amin	'3SG.GEN'	100.0%	PN
+wits`ip`aj	wichribhay	'children'	100.0%	NN
+.	.	[punc]	100.0%	PU
+nap`t`ima	napa:tim	'sister's husband, husband's brother, son-in-law, son-in-law's brother'	100.0%	NN
+nim	nim	'1SG.GEN'	100.0%	PN
+t`aqan'an	taxa:	'bring'	100.0% [continue here]	VB
+.	.	[punc]	100.0%	PU
+"	"	[punc]	100.0%	PU
+tʃr`ew	tri'	'house'	100.0%	NN
+'amin	'amin	'3SG.GEN'	100.0%	PN
+hamnā'in	hamna'	'[name]'	100.0%	NN
+kopin	go:bin	'inside'	100.0%	VB
+qo'qōhin	xo:	'live, exist, be'	100.0%	VB
+'amin	'amin	'3SG.GEN'	100.0%	PN
+tʃr`inij	triniy	'spread sth out'	50.0%	VB
+'ama'	'ama'	'and'	100.0%	PN
+tʃr'uliwhana'	tr'olow	'dig'	100.0%	VB
+tʃr`āni	tra:ni	'that.SG.SEC'	100.0%	DT
+tʃr`om'īqo'	tromo	'cover up (entirely)'	100.0%	VB
+'ama'	'ama'	'and'	100.0%	PN
+p`anāt`aw	pana:	'arrive'	100.0%	VB
+jok`ōts'in	yokoc'	'person, people'	100.0%	NN
+tʃraw	traw	'that.SG.LOC'	100.0%	DT
+huloʃrk'a	hulo:shr	'sit down'	100.0%	VB
+wijā'an	wiyi	'say, do'	100.0%	VB
+'ama'	'ama'	'and'	100.0%	PN
+tʃraw	traw	'that.SG.LOC'	100.0%	DT
+hulōʃrhun	hulo:shr	'sit down'	100.0%	VB
+'ama	'ama'	'and'	100.0%	PN
+patʃr'nen	batr'in	'fall down'	100.0%	VB
+tʃr`aw	traw	'that.SG.LOC'	100.0%	DT
+hamnā'in	hamna'	'[name]'	100.0%	NN
+tʃr'olwow	tr'olow	'dig'	50.0%	VB
+'ama'	'ama'	'and'	100.0%	PN
+tʃraw	traw	'that.SG.LOC'	100.0%	DT
+tʃr`an	tran	'that.SG.PRIM'	100.0%	DT
+t`awtʃr`a'	tawtra:	'kill tr'	100.0%	VB
+'ama'	'ama'	'and'	100.0%	PN
+tʃr`an	tran	'that.SG.PRIM'	100.0%	DT
+qat`en	xata	'eat'	100.0%	VB
+.	.	[punc]	100.0%	PU
+wilʃrin	wilshrin	'but, in spite of that'	100.0%	CC
+limik'	limik'	'prairie falcon'	100.0%	NN
+tap`	dab	'next, on the other hand, then'	100.0%	RB
+tʃr`ip`ni'	tripni'	'one endowed with magic powers'	100.0%	NN
+hut'ēqōhin	hudu	'recognize, know'	100.0%	VB
+hamnā'in	hamna'	'[name]'	100.0%	NN
+tʃr`an	tran	'that.SG.PRIM'	100.0%	DT
+tʃr'olwo	tr'olow	'dig'	50.0%	VB
+'ama'	'ama'	'and'	100.0%	PN
+qajāhin	xaya:	'place, put'	100.0%	VB
+'amin	'amin	'3SG.GEN'	100.0%	PN
+tʃr`aw	traw	'that.SG.LOC'	100.0%	DT
+'utʃr`ats'	'utru	'play music'	50.0%	VB
+kawawlam	giw'iw'wiyi	'turn the side parallel'	80.0%	VB
+'ama'	'ama'	'and'	100.0%	PN
+tʃraw	traw	'that.SG.LOC'	100.0%	DT
+'amak'	'amak'	'3DU.NOM'	100.0%	PN
+huloʃrhun	hulo:shr	'sit down'	100.0%	VB
+tʃr`ip`in	tripin	'on top of'	100.0%	PP
+'alwutʃr'	'alwutr'	'crow'	100.0%	NN
+jow	yow	'and, also, again'	100.0%	CC
+limik'	limik'	'prairie falcon'	100.0%	NN
+'ama'	'ama'	'and'	100.0%	PN
+'amāmikwa	'ama:mikwa	'3DU.PRIM'	100.0%	PN
+hamna'	hamna'	'[name]'	100.0%	NN
+wanhin	wa:na	'give'	100.0%	VB
+qat`āni	xata	'eat'	100.0%	VB
+jok`ots'ni	yokoc'	'person, people'	100.0%	NN
+.	.	[punc]	100.0%	PU
+me'tṣ`i'	me'zhi'	'because'	100.0%	CC
+jok`ōts'i	yokoc'	'person, people'	100.0%	NN
+qat`'a'	xata	'eat'	100.0%	VB
+.	.	[punc]	100.0%	PU
+limik'	limik'	'prairie falcon'	100.0%	NN
+tāpa'	da:ba'	'then, too(?)'	100.0%	RB
+hut'ēqōhin	hudu	'recognize, know'	100.0%	VB
+hā'no'uk`	ha:no'uk	'what.SEC'	100.0%	PN
+'amāmik`wa	'ama:mikwa	'3DU.PRIM'	100.0%	PN
+wanā'an	wiyi	'say, do'	100.0%	VB
+,	,	[punc]	100.0%	PU
+'ama'	'ama'	'and'	100.0%	PN
+tʃran	tran	'that.SG.PRIM'	100.0%	DT
+tap`	dab	'next, on the other hand, then'	100.0%	RB
+'ohom	'ohom	'NEG'	100.0%	RB
+mek'hin	me:k'i 	'swallow'	100.0%	VB
+me'itsi'	me'zhi'	'because'	100.0%	CC
+qo'qōhin	xo:	'live, exist, be'	100.0%	VB
+ti'	di'	'with a little doubt'	100.0%	RB
+'amin	'amin	'3SG.GEN'	100.0%	PN
+sāk'at'	[unknown]	'[unknown]'	0.0%	UN
+samaw	sama'	'mouth'	100.0%	NN
+'ama'	'ama'	'and'	100.0%	PN
+tʃr`aw	traw	'that.SG.LOC'	100.0%	DT
+tʃr`a	tra	'that.SG.NOM'	100.0%	DT
+k'āhin	k'a'a	'stick, adhere itr'	50.0%	VB
+'amin	'amin	'3SG.GEN'	100.0%	PN
+jētʃr'aw	ye:tr'aw	'all'	100.0%	RB
+ts'amis	c'amis	'chew'	50.0%	VB
+.	.	[punc]	100.0%	PU
+'alwutʃr'	'alwutr'	'crow'	100.0%	NN
+tāpa'	da:ba'	'then, too(?)'	100.0%	RB
+'ohom	'ohom	'NEG'	100.0%	RB
+hut'ēqōhun	hudu	'recognize, know'	100.0%	VB
+hā'no'uk`	ha:no'uk	'what.SEC'	100.0%	PN
+'amāmik`wa	'ama:mikwa	'3DU.PRIM'	100.0%	PN
+qat`laqo'	xata	'eat'	100.0%	VB
+'ama'	'ama'	'and'	100.0%	PN
+tap	dab	'next, on the other hand, then'	100.0%	RB
+tʃran	tran	'that.SG.PRIM'	100.0%	DT
+mek'hin	me:k'i 	'swallow'	100.0%	VB
+.	.	[punc]	100.0%	PU
+'ama	'ama'	'and'	100.0%	PN
+lo'lmei	lo:l'o:	'leave behind, let go of, quit'	100.0%	VB
+'amink'in	'amingin	'3DU.GEN'	100.0%	PN
+qat`a	xata	'eat'	100.0%	VB
+,	,	[punc]	100.0%	PU
+limik'	limik'	'prairie falcon'	100.0%	NN
+jow	yo:w	'go home'	100.0%	VB
+'alwutʃr'	'alwutr'	'crow'	100.0%	NN
+wō'ujhun	wo:'uy	'fall asleep, sleep'	100.0%	VB
+'apij	'abiy	'with.ACCOMP'	100.0%	PP
+hamnā'in	hamna'	'[name]'	100.0%	NN
+wits`ip`aj	wichribhay	'children'	100.0%	NN
+.	.	[punc]	100.0%	PU
+'alwutʃr'	'alwutr'	'crow'	100.0%	NN
+tap`	dab	'next, on the other hand, then'	100.0%	RB
+tsanum	canum	'immediately'	100.0%	RB
+wō'ujhun	wo:'uy	'fall asleep, sleep'	100.0%	VB
+,	,	[punc]	100.0%	PU
+wilʃrin	wilshrin	'but, in spite of that'	100.0%	CC
+limik'	limik'	'prairie falcon'	100.0%	NN
+tap`	dab	'next, on the other hand, then'	100.0%	RB
+'ohom	'ohom	'NEG'	100.0%	RB
+wō'ujhun	wo:'uy	'fall asleep, sleep'	100.0%	VB
+,	,	[punc]	100.0%	PU
+me'itsi'	me'zhi'	'because'	100.0%	CC
+hut'ēqōhin	hudu	'recognize, know'	100.0%	VB
+hamna'	hamna'	'[name]'	100.0%	NN
+'amāmik`wa	'ama:mikwa	'3DU.PRIM'	100.0%	PN
+t`awetʃr`ajqo'	tawtra:	'kill tr'	100.0%	VB
+,	,	[punc]	100.0%	PU
+'ama'	'ama'	'and'	100.0%	PN
+tʃr`ānit`	tra:nit	'that.SG.ABL'	100.0%	DT
+'aʃr	'ashr	'actually, really'	100.0%	RB
+'utʃr`ā'an	'utru	'play music'	50.0%	VB
+.	.	[punc]	100.0%	PU
+wo'oju	wo:'uy	'fall asleep, sleep'	100.0%	VB
+'ohjoqo'	'ohyo:	'want, look for (YT has root ?oyoxo)'	100.0%	VB
+'ēman	'e:man	'to no avail'	100.0%	RB
+hamnā'in	hamna'	'[name]'	100.0%	NN
+wa'aʃrt`a%	wa'ashrta'	'very'	100.0%	RB
+'aʃr	'ashr	'actually, really'	100.0%	RB
+pojō'mi	boy'o:me:	'become pretty'	50.0%	VB
+wijā'an	wiyi	'say, do'	100.0%	VB
+hamna'	hamna'	'[name]'	100.0%	NN
+wilʃrin	wilshrin	'but, in spite of that'	100.0%	CC
+'ohom	'ohom	'NEG'	100.0%	RB
+wo'oj'an	wo:'uy	'fall asleep, sleep'	0.0%	VB
+.	.	[punc]	100.0%	PU
+limk'in	limik'	'prairie falcon'	100.0%	NN
+qo'qōhin	xo:	'live, exist, be'	100.0%	VB
+ts'ow	c'owo	'grasp'	50.0%	VB
+'entʃr`am	'entram	'sleeping potion'	100.0%	NN
+'ama'	'ama'	'and'	100.0%	PN
+tʃran	tran	'that.SG.PRIM'	100.0%	DT
+k'ō'hin	k'o'o	'throw at, throw'	100.0%	VB
+'oʃrt`ow	'oshrit	'fire'	100.0%	NN
+'ama'	'ama'	'and'	100.0%	PN
+wo'jon	wo:'uy	'fall asleep, sleep'	100.0%	VB
+hamna'	hamna'	'[name]'	100.0%	NN
+.	.	[punc]	100.0%	PU
+hā'nuk`	ha:nuk	'what.PRIM'	100.0%	PN
+k'ō'hin	k'o'o	'throw at, throw'	100.0%	VB
+nim	nim	'1SG.GEN'	100.0%	PN
+nap`āt`im	napa:tim	'sister's husband, husband's brother, son-in-law, son-in-law's brother'	100.0%	NN
+,	,	[punc]	100.0%	PU
+wijā'an	wiyi	'say, do'	100.0%	VB
+hamna'	hamna'	'[name]'	100.0%	NN
+,	,	[punc]	100.0%	PU
+wilʃrin	wilshrin	'but, in spite of that'	100.0%	CC
+hijam	hiyam	'already, now'	100.0%	RB
+ne'ts`aqōhin	ne'ca:	'be sleepy'	100.0%	VB
+.	.	[punc]	100.0%	PU
+'ama'	'ama'	'and'	100.0%	PN
+jow	yow	'and, also, again'	100.0%	CC
+limik'	limik'	'prairie falcon'	100.0%	NN
+k'ō'hin	k'o'o	'throw at, throw'	100.0%	VB
+patʃr`	batr	'as usual'	100.0%	RB
+ma'jek`	may'e:k	'big'	100.0%	JJ
+mit'atṣ`	mit'achr	'slightly, not much'	100.0%	RB
+'entʃr`am	'entram	'sleeping potion'	100.0%	NN
+'oʃrt`ow	'oshrit	'fire'	100.0%	NN
+.	.	[punc]	100.0%	PU
+hā'nuk`	ha:nuk	'what.PRIM'	100.0%	PN
+k'o'k'ilqo'	k'o'o	'throw at, throw'	25.0%	VB
+nim	nim	'1SG.GEN'	100.0%	PN
+nap`āt`im	napa:tim	'sister's husband, husband's brother, son-in-law, son-in-law's brother'	100.0%	NN
+'oʃrt`ow	'oshrit	'fire'	100.0%	NN
+wijā'an	wiyi	'say, do'	100.0%	VB
+hamna'	hamna'	'[name]'	100.0%	NN
+.	.	[punc]	100.0%	PU
+ha'ts`aqom	ha'zhaxom	'finally, at last'	100.0%	RB
+'aʃr	'ashr	'actually, really'	100.0%	RB
+qōk`qōk`wīhin	xo:now	'always'	0.0%	RB
+.	.	[punc]	100.0%	PU
+hamnā'in	hamna'	'[name]'	100.0%	NN
+tʃr`i'	tri'	'house'	100.0%	NN
+jētʃr'aw	ye:tr'aw	'all'	100.0%	RB
+hits'ja'	hic'ya'	'permanent, solid'	100.0%	JJ
+tʃr'ot`nōni	tr'odin	'hide, strap'	50.0%	NN
+'ohom	'ohom	'NEG'	100.0%	RB
+hijo'uk	hiyo'uk	'where.LOC'	100.0%	PN
+wāt`inuk`	wa:tinuk	'who.GEN'	100.0%	PN
+wast`oqo'	wasto	'be possible'	100.0%	VB
+t`is	tisi	'come out'	100.0%	VB
+.	.	[punc]	100.0%	PU
+wilʃrin	wilshrin	'but, in spite of that'	100.0%	CC
+tap	dab	'next, on the other hand, then'	100.0%	RB
+limik'	limik'	'prairie falcon'	100.0%	NN
+hijam	hiyam	'already, now'	100.0%	RB
+tap`	dab	'next, on the other hand, then'	100.0%	RB
+ti'	di'	'with a little doubt'	100.0%	RB
+p`uʃra'āhin	[unknown]	'[unknown]'	0.0%	UN
+tʃr`an	tran	'that.SG.PRIM'	100.0%	DT
+ts'ulo'jwa'jhi	c'uluy	'hide, skin'	100.0%	NN
+hamna'in	hamna'	'[name]'	100.0%	NN
+tʃr`ē'in	tri'	'house'	100.0%	NN
+.	.	[punc]	100.0%	PU
+'ama'	'ama'	'and'	100.0%	PN
+jetʃr'aw	ye:tr'aw	'all'	100.0%	RB
+tʃr`a	tra	'that.SG.NOM'	100.0%	DT
+qōjin	xoy	'deer'	100.0%	NN
+ts'uljun	c'uluy	'hide, skin'	100.0%	NN
+ʃrokol	shrogol	'hole'	100.0%	VB
+t'ujohnul	t'uyu	'shoot at, shoot'	100.0%	VB
+'amin	'amin	'3SG.GEN'	100.0%	PN
+ʃrit`kīsāhin	shridig	'pile up (similar objects in a stack)'	100.0%	VB
+natatwīqashin	nadadwiyi	'become flat, become smooth'	100.0%	VB
+'ama'	'ama'	'and'	100.0%	PN
+limik'	limik'	'prairie falcon'	100.0%	NN
+tāpa'	da:ba'	'then, too(?)'	100.0%	RB
+ʃralak'ēhin	sha:lak'	'wake up (itr)'	100.0%	VB
+'aluwtʃr'a	'alwutr'	'crow'	100.0%	NN
+jah%	yah	'hey!'	50.0%	UH
+mak'	mak'	'1DU.INCL.NOM'	100.0%	PN
+wijā'an	wiyi	'say, do'	100.0%	VB
+tʃr`an	tran	'that.SG.PRIM'	100.0%	DT
+.	.	[punc]	100.0%	PU
+hawa't`amuk`	hawa'tamuk	'having done what? (interrogative)'	100.0%	VB
+mak'	mak'	'1DU.INCL.NOM'	100.0%	PN
+hi'	hi'	'FUT'	100.0%	RB
+t`isi'	tisi	'come out'	100.0%	VB
+,	,	[punc]	100.0%	PU
+wijā'an	wiyi	'say, do'	100.0%	VB
+tʃr`an	tran	'that.SG.PRIM'	100.0%	DT
+'alwutʃr'	'alwutr'	'crow'	100.0%	NN
+.	.	[punc]	100.0%	PU
+'ama'	'ama'	'and'	100.0%	PN
+limik'	limik'	'prairie falcon'	100.0%	NN
+tos̄it`hin	do:so	'report, tell about'	100.0%	VB
+tʃran	tran	'that.SG.PRIM'	100.0%	DT
+tʃrāni	tra:ni	'that.SG.SEC'	100.0%	DT
+ʃroklonōni	shroglon'o'	'hole'	80.0%	NN
+'alwutʃr'a	'alwutr'	'crow'	100.0%	NN
+'ama	'ama'	'and'	100.0%	PN
+tʃr`an	tran	'that.SG.PRIM'	100.0%	DT
+wīmi	wiyi	'say, do'	100.0%	VB
+ma'	ma'	'2SG.NOM'	100.0%	PN
+tejk'a	de:yi	'take the lead, get in front'	100.0%	VB
+t`isk'a	tisi	'come out'	100.0%	VB
+wīhin	wiyi	'say, do'	100.0%	VB
+.	.	[punc]	100.0%	PU
+'alwutʃr'	'alwutr'	'crow'	100.0%	NN
+tejhin	de:yi	'take the lead, get in front'	100.0%	VB
+'ēman	'e:man	'to no avail'	100.0%	RB
+wilʃrin	wilshrin	'but, in spite of that'	100.0%	CC
+kitsinhin	[unknown]	'[unknown]'	0.0%	UN
+tʃr`aw	traw	'that.SG.LOC'	100.0%	DT
+ʃroklonow	shroglon'o'	'hole'	100.0%	NN
+,	,	[punc]	100.0%	PU
+'ohom	'ohom	'NEG'	100.0%	RB
+'amin	'amin	'3SG.GEN'	100.0%	PN
+wast`ōhun	wasto	'be possible'	100.0%	VB
+t`is	tisi	'come out'	100.0%	VB
+.	.	[punc]	100.0%	PU
+'ama'	'ama'	'and'	100.0%	PN
+'alwutʃr'	'alwutr'	'crow'	100.0%	NN
+kōninhin	go:nin	'go down'	100.0%	VB
+'ama'	'ama'	'and'	100.0%	PN
+tap`	dab	'next, on the other hand, then'	100.0%	RB
+limik'	limik'	'prairie falcon'	100.0%	NN
+tʃr`an	tran	'that.SG.PRIM'	100.0%	DT
+t`anāhin	ta:na	'go'	100.0%	VB
+'aluwtʃr'a	'alwutr'	'crow'	100.0%	NN
+'apij	'abiy	'with.ACCOMP'	100.0%	PP
+tʃr`an	tran	'that.SG.PRIM'	100.0%	DT
+'ama'	'ama'	'and'	100.0%	PN
+tʃran	tran	'that.SG.PRIM'	100.0%	DT
+t`isālāhin	tisi	'come out'	100.0%	VB
+.	.	[punc]	100.0%	PU
+t`awinmi	tawin	'to become morning'	100.0%	VB
+hija'm	hiyam'	'next morning'	100.0%	RB
+limik'	limik'	'prairie falcon'	100.0%	NN
+jow	yow	'and, also, again'	100.0%	CC
+'alwutʃr'	'alwutr'	'crow'	100.0%	NN
+hijam	hiyam	'already, now'	100.0%	RB
+'amak'	'amak'	'3DU.NOM'	100.0%	PN
+wa'	wa'	'far away'	100.0%	JJ
+t`ana'āhin	ta:na	'go'	100.0%	VB
+'alwutʃr'	'alwutr'	'crow'	100.0%	NN
+wijā'an	wiyi	'say, do'	100.0%	VB
+hijam	hiyam	'already, now'	100.0%	RB
+'aqa'm	'axam'	'probably'	100.0%	RB
+hētṣi'	he:zhi'	'today'	100.0%	RB
+tʃr`a	tra	'that.SG.NOM'	100.0%	DT
+moqlo'	moxlo'	'old person'	100.0%	NN
+ʃrālik`hin	sha:lak'	'wake up (itr)'	100.0%	VB
+.	.	[punc]	100.0%	PU
+'ohom	'ohom	'NEG'	100.0%	RB
+,	,	[punc]	100.0%	PU
+wijā'an	wiyi	'say, do'	100.0%	VB
+limik'	limik'	'prairie falcon'	100.0%	NN
+,	,	[punc]	100.0%	PU
+mihnitṣ`	mihnichr	'still, yet'	100.0%	RB
+wō'o̯j'an	wo:'uy	'fall asleep, sleep'	100.0%	VB
+.	.	[punc]	100.0%	PU
+hawjēnō'uk`	hawye:no'uk	'what.kind.SEC'	100.0%	PN
+ma%	ma'	'2SG.NOM'	100.0%	PN
+tʃr`an	tran	'that.SG.PRIM'	100.0%	DT
+'ohom	'ohom	'NEG'	100.0%	RB
+ʃralak'eqo'	sha:lak'	'wake up (itr)'	100.0%	VB
+wijā'n	wiyi	'say, do'	100.0%	VB
+tʃran	tran	'that.SG.PRIM'	100.0%	DT
+'alwutʃr'	'alwutr'	'crow'	100.0%	NN
+.	.	[punc]	100.0%	PU
+wak̄`i	wakkiy	'very, very much'	100.0%	RB
+hija'wtʃr`a'	hiy'aw'tra:/	'become belligerent'	100.0%	VB
+wijā'an	wiyi	'say, do'	100.0%	VB
+limik'	limik'	'prairie falcon'	100.0%	NN
+,	,	[punc]	100.0%	PU
+tʃr`aw	traw	'that.SG.LOC'	100.0%	DT
+hi'	hi'	'FUT'	100.0%	RB
+ʃralken	shralk'e:	'be awake'	100.0%	VB
+,	,	[punc]	100.0%	PU
+kōtʃr'en	go:tr'o	'overtake'	100.0%	VB
+mak&
+wihi'	makwihi'	'1DU.INCL.PRIM FUT'	100.0%	RB
+'ama	'ama'	'and'	70.0%	PN
+makwa	makwa	'1DU.INCL.PRIM'	100.0%	PN
+ʃroqen	shroxo	'exterminate, massacre'	100.0%	VB
+.	.	[punc]	100.0%	PU
+'ohom	'ohom	'NEG'	100.0%	RB
+,	,	[punc]	100.0%	PU
+wijā'an	wiyi	'say, do'	100.0%	VB
+'alwutʃr'	'alwutr'	'crow'	100.0%	NN
+,	,	[punc]	100.0%	PU
+'ohom	'ohom	'NEG'	100.0%	RB
+makwa	makwa	'1DU.INCL.PRIM'	100.0%	PN
+wast`oqo'	wasto	'be possible'	100.0%	VB
+'amin	'amin	'3SG.GEN'	100.0%	PN
+hētṣi'	he:zhi'	'today'	100.0%	RB
+kotʃr'	go:tr'o	'overtake'	100.0%	VB
+.	.	[punc]	100.0%	PU
+'insis	'insis	'good'	100.0%	JJ
+ma'	ma'	'2SG.NOM'	100.0%	PN
+tʃran	tran	'that.SG.PRIM'	100.0%	DT
+'aʃr	'ashr	'actually, really'	100.0%	RB
+ʃralak'i'	sha:lak'	'wake up (itr)'	100.0%	VB
+.	.	[punc]	100.0%	PU
+'ama'	'ama'	'and'	100.0%	PN
+limik'	limik'	'prairie falcon'	100.0%	NN
+ts'at`pinhin	c'adab	'turn over, tip over, around'	100.0%	VB
+'ama'	'ama'	'and'	100.0%	PN
+poʃrhun	po:su	'blow on'	100.0%	VB
+'amin	'amin	'3SG.GEN'	100.0%	PN
+t`aqan'ijaw	ta:na	'go'	100.0%	VB
+'ama'	'ama'	'and'	100.0%	PN
+ʃrālikhin	sha:lak'	'wake up (itr)'	100.0%	VB
+wak̄`i	wakkiy	'very, very much'	100.0%	RB
+'insis	'insis	'good'	100.0%	JJ
+,	,	[punc]	100.0%	PU
+wijā'an	wiyi	'say, do'	100.0%	VB
+hamna'	hamna'	'[name]'	100.0%	NN
+,	,	[punc]	100.0%	PU
+hēts`i'	he:zhi'	'today'	100.0%	RB
+na'	na'	'1SG.NOM'	100.0%	PN
+tap	dab	'next, on the other hand, then'	100.0%	RB
+mi'in	mi'in	'soon'	100.0%	RB
+qat`en	xata	'eat'	100.0%	VB
+nim	nim	'1SG.GEN'	100.0%	PN
+nap`tema	napa:tim	'sister's husband, husband's brother, son-in-law, son-in-law's brother'	100.0%	NN
+.	.	[punc]	100.0%	PU
+'ama'	'ama'	'and'	100.0%	PN
+'amāmikwa	'ama:mikwa	'3DU.PRIM'	100.0%	PN
+k`oʃrinqashin	koshron	'be unable to find, miss'	100.0%	VB
+.	.	[punc]	100.0%	PU
+t`anhin	ta:na	'go'	100.0%	VB
+ki	gi'	'Q.FOCUS'	100.0%	RB
+'amak'	'amak'	'3DU.NOM'	100.0%	PN
+,	,	[punc]	100.0%	PU
+wijā'an	wiyi	'say, do'	100.0%	VB
+hamna'	hamna'	'[name]'	100.0%	NN
+.	.	[punc]	100.0%	PU
+wilʃrin	wilshrin	'but, in spite of that'	100.0%	CC
+'insēqo'	'insis'	'do well'	50.0%	VB
+,	,	[punc]	100.0%	PU
+wijā'an	wiyi	'say, do'	100.0%	VB
+hamna'	hamna'	'[name]'	100.0%	NN
+,	,	[punc]	100.0%	PU
+t`a'an	ta'an'	'too'	100.0%	RB
+na'	na'	'1SG.NOM'	100.0%	PN
+'amāmikwa	'ama:mikwa	'3DU.PRIM'	100.0%	PN
+'aʃr	'ashr	'actually, really'	100.0%	RB
+hi'	hi'	'FUT'	100.0%	RB
+kōtʃr'en	go:tr'o	'overtake'	100.0%	VB
+'ama	'ama'	'and'	100.0%	PN
+na%	na'	'1SG.NOM'	100.0%	PN
+māmikwa	ma:mikwa	'2DU.PRIM'	100.0%	PN
+qat`en	xata	'eat'	100.0%	VB
+.	.	[punc]	100.0%	PU
+'ama'	'ama'	'and'	100.0%	PN
+naqhin	[unknown]	'[unknown]'	0.0%	UN
+'amin	'amin	'3SG.GEN'	100.0%	PN
+wits'et`	wic'et	'stick'	100.0%	NN
+'ama'	'ama'	'and'	100.0%	PN
+tʃr`an	tran	'that.SG.PRIM'	100.0%	DT
+k'ō'hin	k'o'o	'throw at, throw'	100.0%	VB
+qosim	xosim	'north'	100.0%	NN
+,	,	[punc]	100.0%	PU
+'ama'	'ama'	'and'	100.0%	PN
+jo'wk`ēhin	yo'ke:	'return'	100.0%	VB
+.	.	[punc]	100.0%	PU
+'ama'	'ama'	'3SG.NOM'	100.0%	PN
+tʃran	tran	'that.SG.PRIM'	100.0%	DT
+jow	yow	'and, also, again'	100.0%	CC
+k'ō'hin	k'o'o	'throw at, throw'	100.0%	VB
+nōt`u	no:to'	'east'	100.0%	NN
+'ama'	'ama'	'and'	100.0%	PN
+patʃr`	batr	'as usual'	100.0%	RB
+t`a'an	ta'an'	'too'	100.0%	RB
+jo'wk`ēhin	yo'ke:	'return'	100.0%	VB
+.	.	[punc]	100.0%	PU
+'ama'	'ama'	'and'	100.0%	PN
+tʃr`an	tran	'that.SG.PRIM'	100.0%	DT
+k'ō'hin	k'o'o	'throw at, throw'	100.0%	VB
+qomōt`i	xomo:ti'	'south'	100.0%	NN
+'ama'	'ama'	'and'	100.0%	PN
+t`anqashin	ta:na	'go'	100.0%	VB
+'ama'	'ama'	'and'	100.0%	PN
+wīmi	wiyi	'say, do'	100.0%	VB
+hut`hun	hudu	'recognize, know'	80.0%	VB
+tʃraw	traw	'that.SG.LOC'	100.0%	DT
+t`anhin	ta:na	'go'	100.0%	VB
+limik'	limik'	'prairie falcon'	100.0%	NN
+jow	yow	'and, also, again'	100.0%	CC
+'alwutʃr'	'alwutr'	'crow'	100.0%	NN
+'ama'	'ama'	'and'	100.0%	PN
+kotʃr't`in	go:tr'o	'overtake'	100.0%	VB
+wits'ēt`in	wic'et	'stick'	100.0%	NN
+limik'	limik'	'prairie falcon'	100.0%	NN
+wija'an	wiyi	'say, do'	100.0%	VB
+ʃri'lk'a	shril'i	'see'	100.0%	VB
+ti'	di'	'with a little doubt'	100.0%	RB
+hijam	hiyam	'already, now'	100.0%	RB
+t`aqinhin	taxa:	'bring'	100.0%	VB
+lihmīsa%	lihim	'run'	80.0%	VB
+mak'	mak'	'1DU.INCL.NOM'	100.0%	PN
+hamna'	hamna'	'[name]'	100.0%	NN
+t`aqan'an	taxa:	'bring'	100.0%	VB
+wa'jsi	[unknown]	'[unknown]'	0.0%	UN
+wak̄`i	wakkiy	'very, very much'	100.0%	RB
+tiknaw	dik'naw	'behind'	100.0%	PP
+'amāmik`wa	'ama:mikwa	'3DU.PRIM'	100.0%	PN
+.	.	[punc]	100.0%	PU
+limik'	limik'	'prairie falcon'	100.0%	NN
+jow	yow	'and, also, again'	100.0%	CC
+'alwutʃr'	'alwutr'	'crow'	100.0%	NN
+lihmat`inhin	lihim	'run'	100.0%	VB
+'amak'	'amak'	'3DU.NOM'	100.0%	PN
+'ēman	'e:man	'to no avail'	100.0%	RB
+,	,	[punc]	100.0%	PU
+wilʃrin	wilshrin	'but, in spite of that'	100.0%	CC
+hamna'	hamna'	'[name]'	100.0%	NN
+t'úúk`wijā'an	[unknown]	'[unknown]'	0.0%	UN
+'amāmik`wa	'ama:mikwa	'3DU.PRIM'	100.0%	PN
+,	,	[punc]	100.0%	PU
+'ama'	'ama'	'and'	100.0%	PN
+'amats'an	'amac	'approach, go near'	100.0%	VB
+'aʃr	'ashr	'actually, really'	100.0%	RB
+'amak'	'amak'	'3DU.NOM'	100.0%	PN
+.	.	[punc]	100.0%	PU
+'ama'	'ama'	'and'	100.0%	PN
+hijam	hiyam	'already, now'	100.0%	RB
+'amits`mi	'amac	'approach, go near'	100.0%	VB
+hamnā'in	hamna'	'[name]'	100.0%	NN
+samā'in	sama'	'mouth'	100.0%	NN
+.	.	[punc]	100.0%	PU
+limik'	limik'	'prairie falcon'	100.0%	NN
+kiwewlāhin	giw'iw'wiyi	'turn the side parallel'	80.0%	VB
+'amin	'amin	'3SG.GEN'	100.0%	PN
+tʃr`aw	traw	'that.SG.LOC'	100.0%	DT
+'utʃr`ats'	'utru	'play music'	50.0%	VB
+'ama'	'ama'	'and'	100.0%	PN
+tʃraw	traw	'that.SG.LOC'	100.0%	DT
+'amak'	'amak'	'3DU.NOM'	100.0%	PN
+kawinhin	[unknown]	'[unknown]'	0.0%	UN
+'ama'	'ama'	'and'	100.0%	PN
+'amak'	'amak'	'3DU.NOM'	100.0%	PN
+tʃr`aw	traw	'that.SG.LOC'	100.0%	DT
+huloʃrhun	hulo:shr	'sit down'	100.0%	VB
+'ama'	'ama'	'and'	100.0%	PN
+limhin	lihim	'run'	100.0%	VB
+'ama'	'ama'	'and'	100.0%	PN
+tʃr`an	tran	'that.SG.PRIM'	100.0%	DT
+hamna'	hamna'	'[name]'	100.0%	NN
+'amin	'amin	'3SG.GEN'	100.0%	PN
+tʃr`an	tran	'that.SG.PRIM'	100.0%	DT
+moqt`aw	ma:xa	'procure, get (116 has maxa)'	25.0%	VB
+ts'ow	c'owo	'grasp'	100.0%	VB
+'amin	'amin	'3SG.GEN'	100.0%	PN
+qo'qōhin	xo:	'live, exist, be'	100.0%	VB
+hamna'in	hamna'	'[name]'	100.0%	NN
+samajwasiw	samaywas	'belt'	100.0%	NN
+'amin	'amin	'3SG.GEN'	100.0%	PN
+pā'jaw	[unknown]	'[unknown]'	0.0%	UN
+'amin	'amin	'3SG.GEN'	100.0%	PN
+.	.	[punc]	100.0%	PU
+k`a'jiw	kay'iw	'coyote'	100.0%	NN
+,	,	[punc]	100.0%	PU
+li'mk'in	limik'	'prairie falcon'	100.0%	NN
+'ākaʃr	'a:gashr	'mother's brother'	100.0%	NN
+,	,	[punc]	100.0%	PU
+qo'o'	xo:	'live, exist, be'	50.0%	VB
+wa'	wa'	'far away'	100.0%	JJ
+wojlow	woylow	'[name]'	100.0%	NP
+,	,	[punc]	100.0%	PU
+tos̄ithin	do:so	'report, tell about'	100.0%	VB
+mimjatʃr`	mimyatr	'thunder'	100.0%	NN
+,	,	[punc]	100.0%	PU
+li'mk'in	limik'	'prairie falcon'	100.0%	NN
+nusōsu	nusos	'paternal aunt'	100.0%	NN
+hajts'wīk'a	[unknown]	'[unknown]'	0.0%	UN
+,	,	[punc]	100.0%	PU
+ts'ilēpak'	zhilab	'swift'	50.0%	JJ
+,	,	[punc]	100.0%	PU
+t`awtʃr`ānitʃr`	ta:watr	'die'	50.0%	VB
+hi'	hi'	'FUT'	100.0%	RB
+mākin	ma:gin	'1DU.INCL.GEN'	100.0%	PN
+ts'ajaq	c'ayax	'man's sister's child'	100.0%	NN
+hijam	hiyam	'already, now'	100.0%	RB
+limik'	limik'	'prairie falcon'	100.0%	NN
+waqal'an	wa:xal	'weep'	100.0%	VB
+.	.	[punc]	100.0%	PU
+ha'ts`aqom	ha'zhaxom	'finally, at last'	100.0%	RB
+'aʃr	'ashr	'actually, really'	100.0%	RB
+mimjatʃr`	mimyatr	'thunder'	100.0%	NN
+p`anāhin	pana:	'arrive'	100.0%	VB
+'ama'	'ama'	'and'	100.0%	PN
+wak̄`i	wakkiy	'very, very much'	100.0%	RB
+kom̄wīhin	gomwiyi	'make a loud noise, rumble, thunder'	100.0%	VB
+,	,	[punc]	100.0%	PU
+'ama'	'ama'	'and'	100.0%	PN
+t`awtʃr`āhin	tawtra:	'kill tr'	100.0%	VB
+hamnā'in	hamna'	'[name]'	100.0%	NN
+.	.	[punc]	100.0%	PU
+'ama'	'ama'	'and'	100.0%	PN
+limik'	limik'	'prairie falcon'	100.0%	NN
+t`isālāhin	tisi	'come out'	100.0%	VB
+'aluwtʃr'a	'alwutr'	'crow'	100.0%	NN
+hamnā'in	hamna'	'[name]'	100.0%	NN
+moqt`ānit`	ma:xa	'procure, get'	50.0%	VB
+.	.	[punc]	100.0%	PU
+'ama'	'ama'	'and'	100.0%	PN
+'alwutʃr'	'alwutr'	'crow'	100.0%	NN
+ta'ilhin	da'al	'come to life, escape'	100.0%	VB
+'amin	'amin	'3SG.GEN'	100.0%	PN
+lima	[unknown]	'[unknown]'	0.0%	UN
+'ama	'ama'	'and'	100.0%	PN
+pinet`hin	bine:t	'ask'	100.0%	VB
+hi'juk`	hiyuk	'where.NOM'	100.0%	PN
+tʃr`a	tra	'that.SG.NOM'	100.0%	DT
+moqlo'	moxlo'	'old person'	100.0%	NN
+wijā'an	wiyi	'say, do'	100.0%	VB
+.	.	[punc]	100.0%	PU
+t`awtʃra	tawtra:	'kill tr'	100.0%	VB
+na%	na'	'1SG.NOM'	80.0%	PN
+tʃran	tran	'that.SG.PRIM'	80.0%	DT
+'ohjoqo'	'ohyo:	'want, look for (YT has root ?oyoxo)'	100.0%	VB
+wijā'an	wiyi	'say, do'	100.0%	VB
+'alwutʃr'	'alwutr'	'crow'	100.0%	NN
+.	.	[punc]	100.0%	PU
+tʃr`ah	traw	'that.SG.LOC'	25.0%	DT
+'ama'	'ama'	'and'	100.0%	PN
+māmaw	ma:maw	'2SG.LOC'	100.0%	PN
+pananqo'	bananwiyi	'lie down'	100.0%	VB
+wijā'an	wiyi	'say, do'	100.0%	VB
+tʃr`an	tran	'that.SG.PRIM'	100.0%	DT
+limik'	limik'	'prairie falcon'	100.0%	NN
+.	.	[punc]	100.0%	PU
+'alwutʃr'	'alwutr'	'crow'	100.0%	NN
+wak̄`i	wakkiy	'very, very much'	100.0%	RB
+hunōts'um	hunoc'mo:/	'be brave'	100.0%	VB
+me'its`i'	me'zhi'	'because'	100.0%	CC
+hijam	hiyam	'already, now'	100.0%	RB
+jētʃr'aw	ye:tr'aw	'all'	100.0%	RB
+tap`	dab	'next, on the other hand, then'	100.0%	RB
+walqoqōhin	walxo:	'pass'	100.0%	VB
+.	.	[punc]	100.0%	PU
+mimjatʃr`	mimyatr	'thunder'	100.0%	NN
+tʃr`ānit`	tra:nit	'that.SG.ABL'	100.0%	DT
+tap`	dab	'next, on the other hand, then'	100.0%	RB
+jo'wk`ēhin	yo'ke:	'return'	100.0%	VB
+'amin	'amin	'3SG.GEN'	100.0%	PN
+tʃr`ew	tri'	'house'	100.0%	NN
+jow	yow	'and, also, again'	100.0%	CC
+limik'	limik'	'prairie falcon'	100.0%	NN
+jow	yow	'and, also, again'	100.0%	CC
+'alwutʃr'	'alwutr'	'crow'	100.0%	NN
+t`ap	dab	'next, on the other hand, then'	100.0%	RB
+t`anhin	ta:na	'go'	100.0%	VB
+tāpa'	da:ba'	'then, too(?)'	100.0%	RB
+.	.	[punc]	100.0%	PU
