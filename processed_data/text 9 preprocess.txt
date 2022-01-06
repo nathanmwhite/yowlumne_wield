@@ -5,7 +5,7 @@ tr`ēn	tri'	'house'	80.0%
 qaja'n	xaya:	'put, place'	100.0%
 lakil	lagil	'scatter in different places'	100.0%
 wa'%	wa'	'far away'	100.0%
-kew	kew	'this.SG.LOC'	100.0%	
+kew	kew	'this.SG.LOC'	100.0%
 ,	,	[punc]	100.0%
 'ama'	'ama'	'3SG.NOM'	100.0%
 'aman	'aman	'3PL.NOM'	100.0%
