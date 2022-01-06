@@ -134,7 +134,7 @@ tinōki	[unknown]	[unknown]	0.0%
 Francisco	Francisco	[foreign]	100.0%
 tinōki	[unknown]	[unknown]	0.0%
 )	)	[punc]	100.0%
-kutew	gude'	'small' 100.0%
+kutew	gude'	'small'	100.0%
 jawliw	ya:wil	'grass'	100.0%
 tr`aw	traw	'that.LOC'	100.0%
 na'	na'	'1SG.NOM'	100.0%
