@@ -12,7 +12,7 @@ min	'amin	'3SG.GEN'	80.0%
 nōts`i'	no:chro'	'friend'	100.0%
 ,	,	[punc]	100.0%
 'ama'	'ama'	'and'	100.0%
-kútsun	guchrchrun	'[name]' 100.0%
+kútsun	guchrchrun	'[name]'	100.0%
 ʃoqo'ōhin	shroxo	'exterminate, massacre'	100.0%
 tap	dab	'next, on the other hand, then'	100.0%
 jokhōtsi	yokoc'	'person, people'	100.0%
@@ -186,7 +186,7 @@ thánhin	ta:na	'go'	100.0%
 ki%	ki	'this.SG.NOM'	100.0%
 tr`aw	traw	'that.SG.LOC'	100.0%
 qó'qo	xo:	'live, exist, be'	100.0%
-k`útṣun	guchrchrun	'[name]' 100.0%
+k`útṣun	guchrchrun	'[name]'	100.0%
 ,	,	[punc]	100.0%
 hijam	hiyam	'already, now'	100.0%
 tr`aw	traw	'that.SG.LOC'	100.0%
@@ -195,7 +195,7 @@ nonéjĭ'	no:n'o'	'man'	100.0%
 ,	,	[punc]	100.0%
 hijam	hiyam	'already, now'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
-kuts`un	guchrchrun	'[name]' 100.0%
+kuts`un	guchrchrun	'[name]'	100.0%
 jḗtr'aw	ye:tr'aw	'all'	100.0%
 ṣóq̄in	shroxo	'exterminate, massacre'	100.0%
 ,	,	[punc]	100.0%
@@ -228,7 +228,7 @@ wa'ă	wa'	'far'	100.0%
 jow	yow	'and, also, again'	100.0%
 tap	dab	'next, on the other hand, then'	100.0%
 phána	pana:	'arrive'	100.0%
-kúṯsun	guchrchrun	'[name]' 100.0%
+kúṯsun	guchrchrun	'[name]'	100.0%
 ,	,	[punc]	100.0%
 hits%	hi'zhri'	'tomorrow'	100.0%
 ījam%	hiyam	'already, now'	25.0%
@@ -241,7 +241,7 @@ ma%	ma'	'2SG.NOM'	100.0%
 khi	ki	'this.SG.NOM'	100.0%
 k'átlitsa	k'adlizha	'[name]'	100.0%
 wijá'n	wiyi	'say, do'	100.0%
-k`útsun	guchrchrun	'[name]' 100.0%
+k`útsun	guchrchrun	'[name]'	100.0%
 ,	,	[punc]	100.0%
 'ama'	'ama'	'and'	100.0%
 tap	dab	'next, on the other hand, then'	100.0%
@@ -292,7 +292,7 @@ t`aqinka	taxa:	'bring'	100.0%
 tr`īmi	triymi	'right now'	100.0%
 wija'n	wiyi	'say, do'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
-k`úṯsun	guchrchrun	'[name]' 100.0%
+k`úṯsun	guchrchrun	'[name]'	100.0%
 ,	,	[punc]	100.0%
 mi'n	mi'in	'soon'	100.0%
 'amak	'amak'	'3DU.NOM'	100.0%
@@ -301,7 +301,7 @@ k`i	ki	'when'	100.0%
 'olol	'olol	'ball'	100.0%
 wijá'n	wiyi	'say, do'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
-kutsun	guchrchrun	'[name]' 100.0%
+kutsun	guchrchrun	'[name]'	100.0%
 ,	,	[punc]	100.0%
 'ama'	'ama'	'and'	100.0%
 tap	dab	'next, on the other hand, then'	100.0%
@@ -351,13 +351,13 @@ lólówísqo'	lo:l'o:	'leave behind, let go of, quit'	80.0%
 tap	dab	'next, on the other hand, then'	100.0%
 khiṉip	kinip	'put on a dress'	100.0%
 tr'óṯin	tr'odin	'hide, strap'	100.0%
-kutsonun	guchrchrun	'[name]' 100.0%
+kutsonun	guchrchrun	'[name]'	100.0%
 ,	,	[punc]	100.0%
 'aʃ	'ashr	'actually, really'	100.0%
 ki	ki	'when'	100.0%
 hijam	hiyam	'already, now'	100.0%
 wīhin	wiyi	'say, do'	100.0%
-kuṯsun	guchrchrun	'[name]' 100.0%
+kuṯsun	guchrchrun	'[name]'	100.0%
 'óhom	'ohom	'NEG'	100.0%
 kitaq	gidax	'unexpectedly'	100.0%
 nī́%	nihi'	'1SG.NOM FUT'	80.0%
@@ -365,7 +365,7 @@ khin	kin	'this.SG.PRIM'	80.0%
 lolo	lo:l'o:	'leave behind, let go of, quit'	100.0%
 wijá'n	wiyi	'say, do'	100.0%
 ki	gi'	'Q.FOCUS'	50.0%
-kutsun	guchrchrun	'name'	100.0%
+kutsun	guchrchrun	'[name]'	100.0%
 ,	,	[punc]	100.0%
 'ama'	'ama'	'and'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
@@ -415,7 +415,7 @@ ka'éni	ga'e:ni	'women'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
 hijam	hiyam	'already, now'	100.0%
 lōlóhin	lo:l'o:	'leave behind, let go of, quit'	100.0%
-kutsun	guchrchrun	'[name]' 100.0%
+kutsun	guchrchrun	'[name]'	100.0%
 k`in	kin	'this.SG.PRIM'	100.0%
 límk'a	limik'	'prairie falcon'	100.0%
 ,	,	[punc]	100.0%
@@ -429,7 +429,7 @@ tr`aw	traw	'that.SG.LOC'	100.0%
 'íptr`inhin	'ipitr	'throw off/out, pick off'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
 'olol	'olol	'ball'	100.0%
-khuṯsōnun	guchrchrun	'[name]' 100.0%
+khuṯsōnun	guchrchrun	'[name]'	100.0%
 ,	,	[punc]	100.0%
 'ama'	'ama'	'and'	100.0%
 ts`anum	canum	'immediately'	100.0%
@@ -447,7 +447,7 @@ mí'n	mi'in	'soon'	100.0%
 tr`an	tran	'that.SG.PRIM'	100.0%
 'a'm%	[unknown]	'[unknown]'	0.0%
 ts`elwas	[unknown]	'[unknown]'	0.0%
-k'utsun	guchrchrun	'[name]' 100.0%
+k'utsun	guchrchrun	'[name]'	100.0%
 jékhesta'	[unknown]	'[unknown]'	0.0%
 ,	,	[punc]	100.0%
 jow	yow	'and, also, again'	100.0%
@@ -495,7 +495,7 @@ mi'n	mi'in	'soon'	100.0%
 tawisen	[unknown]	'[unknown]'	0.0%
 jow	yow	'and, also, again'	100.0%
 tap	dab	'next, on the other hand, then'	100.0%
-k`utsun	guchrchrun	'[name]' 100.0%
+k`utsun	guchrchrun	'[name]'	100.0%
 hijam	hiyam	'already, now'	100.0%
 waki	wakkiy	'very, very much'	100.0%
 pojḗtsaqo'	boy'e:tr'a:/	'become miserable'	100.0%
@@ -547,7 +547,7 @@ tap	dab	'next, on the other hand, then'	100.0%
 ʃót`ni	[unknown]	'[unknown]'	0.0%
 t`an	ta:na	'go'	75.0%
 tr`ōken	tro:k'o	'strike, hit'	100.0%
-kutsonun	guchrchrun	'[name]' 100.0%
+kutsonun	guchrchrun	'[name]'	100.0%
 'olol	'olol	'ball'	100.0%
 ,	,	[punc]	100.0%
 'ama'	'ama'	'and'	100.0%
@@ -572,7 +572,7 @@ wijá'n	wiyi	'say, do'	100.0%
 tr'awinhin	tr'aw'a	'win from'	100.0%
 ma'	ma'	'2SG.NOM'	100.0%
 wijá'tr'	wiyi	'say, do'	100.0%
-kutsun	guchrchrun	'[name]' 100.0%
+kutsun	guchrchrun	'[name]'	100.0%
 'áma'	'ama'	'and'	100.0%
 tsanum	canum	'immediately'	100.0%
 pítswit	pichriw	'catch, grasp'	100.0%
@@ -607,7 +607,7 @@ hot'onon	hot'o:ne:	'build a fire'	75.0%
 'ama	'ama'	'and'	100.0%
 tr`aw	traw	'that.SG.LOC'	100.0%
 k'ójit	k'o'o	'throw at, throw'	25.0%
-kutsun	guchrchrun	'[name]' 100.0%
+kutsun	guchrchrun	'[name]'	100.0%
 ,	,	[punc]	100.0%
 tr`aw	traw	'that.SG.LOC'	100.0%
 t`ā́witsin	ta:witr	'die'	75.0%
@@ -632,7 +632,7 @@ tr`a%	tra	'that.SG.NOM'	80.0%
 tr`an	tran	'that.SG.PRIM'	80.0%
 jetr'aw	ye:tr'aw	'all'	100.0%
 ʃóqhin	shroxo	'exterminate, massacre'	100.0%
-k`utsun	guchrchrun	'[name]' 100.0%
+k`utsun	guchrchrun	'[name]'	100.0%
 ,	,	[punc]	100.0%
 tr`a	tra	'that.SG.NOM'	100.0%
 'amin	'amin	'3SG.GEN'	100.0%
@@ -640,5 +640,5 @@ tsumun	c'umun	'end'	100.0%
 ,	,	[punc]	100.0%
 hijam	hiyam	'already, now'	100.0%
 t`ā́witr`in	ta:witr	'die'	100.0%
-k`uṯsun	guchrchrun	'[name]' 100.0%
+k`uṯsun	guchrchrun	'[name]'	100.0%
 .	.	[punc]	100.0%
