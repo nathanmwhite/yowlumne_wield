@@ -852,7 +852,7 @@ wija'n	wiyi	'say, do'	100.0%
 'ama'	'ama'	'and'	100.0%
 thanhin	ta:na	'go'	100.0%
 tr`aw	traw	'that.SG.LOC'	100.0%
-jōk`i%	yo'ke:	'return' 80.0%
+jōk`i%	yo'ke:	'return'	80.0%
 māmaw	ma:maw	'2SG.LOC'	50.0%
 soklono'	shroglon'o'	'hole'	100.0%
 ,	,	[punc]	100.0%
