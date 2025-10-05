@@ -1,5 +1,7 @@
 Location	BaseForm	OriginalLemma	OriginalLemmaMeaning	OriginalConfidence	:	BaseForm	CorrectedLemma	CorrectedLemmaMeaning	CorrectedConfidence	Morphemes	Parse	Notes
 Text 1, line 72	wáth'ak'ilits'	[unknown]	[unknown]	0.0%	:	wáth'ak'ilits'	wat'ak'il	'gather pine nuts'	100.0%	wat'ak'-il-ic'	pine.nut-MANIP-AGT	-
+Text 1, line 305	'itpintriw	[unknown]	[unknown]	0.0%	:	'itpintriw	'itpinitr	'[name]'	100.0%	'itpinitr-iw	Mexican-LOC	(exact form unknown)
+Text 1, line 307	posōlēt	[unknown]	[unknown]	0.0%	:	posōlēt	boso:le:	'make posole'	100.0%	poso:le:-it	make.posole-AOR.PASS	(See H reel 100, slide 428; H's citation form inferred to be future)
 Text 3, line 367	ʃilit	shrilit'	'jump'	100.0%	:	ʃilit	shril'i	'see'	100.0%	shril'-it	see-PAST.PASSIVE	-
 Text 3, line 366	'ama'	'ama'	'3SG.NOM'	100.0%	:	'ama'	'ama'	'and'	100.0%	-	-	-
 Text 3, line 381	t'okojun	tuk'uyun	'jackrabbit'	100.0%	:	t'okojun	[unknown]	[unknown]	0.0%	-	-	(see Text 3, Line 293)
@@ -74,6 +76,7 @@ Text 17, line 237	sijalahana'	[unknown]	'[unknown]'	0.0%	:	sīja'	si:ya'	'saddle
 Text 17, line 242	sīja'	[unknown]	'[unknown]'	0.0%	:	sīja'	si:ya'	'saddle'	100.0%	-	-	(See H reel 100, Slide 266; see gloss in per line notes, H reel 100, slide 371)
 Text 17, line 267	pajūtsē'in	[unknown]	'[unknown]'	0.0%	:	pajūtsē'in	baya:zhi'	'[name]'	100.0%	-	-	(See gloss in per line notes, H reel 100, slide 372; exact form uncertain, original transcription appears to actually contain ā)
 Text 17, line 298	tiqōnaw	[unknown]	'[unknown]'	0.0%	:	tiqōnaw	dixo:n	'[name]'	100.0%	-	-	(See gloss in per line notes, H reel 100, slide 372; exact form unknown)
+Text 17, line 319	'it`p`initʃr`	'itrpi:nitr	'[name]'	0.0%	:	'it`p`initʃr`	'itpinitr	'[name]'	100.0%	-	-	(exact form unknown)
 Text 17, line 330	sansījan	sanli:ya'	'watermelon'	100.0%	:	sanlījan	sanli:ya'	'watermelon'	100.0%	-	-	-
 Text 17, line 376	k'uṇon	[unknown]	'[unknown]'	0.0%	:	k'unon	k'unu	'strike (with the hand)'	100.0%	-	-	(Note: dictionary form needs to be fixed: Newman has k'un'u (Chaw), Clark has k'ungka)
 Text 17, line 410	tiqōnaw	[unknown]	'[unknown]'	0.0%	:	tiqōnaw	dixo:n	'[name]'	100.0%	-	-	(See gloss in per line notes, H reel 100, slide 373; exact form unknown)
