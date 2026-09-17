@@ -10,6 +10,9 @@ The repository contains four folders:
 4. website : a folder to contain the website files for WIELD
 
 ## Licensing
-Original language data is outside the scope of consideration of a license here.
 
-However, the rights to all analysis, glossing and tagging in this repository are reserved, and copyright is hereby asserted. © 2026 Nathan M. White.
+Original language data contained in this repository is outside the scope of consideration for any copyright claim made or license granted here.
+
+However, the rights to all analysis, glossing and tagging in this repository are reserved, and copyright is hereby asserted. 
+
+© 2026 Nathan M. White.
