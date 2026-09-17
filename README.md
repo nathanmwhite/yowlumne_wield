@@ -7,4 +7,9 @@ The repository contains four folders:
 1. raw_data : the raw data in text form derived from the Smithsonian Institution's John Peabody Harrington papers collection
 2. tesseract : a folder to contain the Tesseract model file and related ancillary files
 3. nlp : a folder to contain the models and ancillary files for POS and grammatical form tagging and named entity recognition
-4. website : a folder to contain the website files for WIELD 
+4. website : a folder to contain the website files for WIELD
+
+## Licensing
+Original language data is outside the scope of consideration of a license here.
+
+However, the rights to all analysis, glossing and tagging in this repository are reserved, and copyright is hereby asserted. © 2026 Nathan M. White.
